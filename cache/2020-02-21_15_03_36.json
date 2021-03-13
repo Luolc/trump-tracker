@@ -1,0 +1,406 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 21 15:03:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      },
+      {
+        "id": 16581604,
+        "id_str": "16581604",
+        "indices": [
+          17,
+          31
+        ],
+        "name": "Mike Bloomberg",
+        "screen_name": "MikeBloomberg"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          108,
+          124
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: .@MikeBloomberg is paying millions of $ for social media influencers and shitty memes while @realDonaldTrump is paying zero\u2026",
+  "geo": null,
+  "id": 1230870693971025920,
+  "id_str": "1230870693971025920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 15885,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 21 12:55:31 +0000 2020",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fATeUOc7bJ",
+          "expanded_url": "https://twitter.com/Solmemes1/status/1228782512731807744/video/1",
+          "id": 1228782350034710529,
+          "id_str": "1228782350034710529",
+          "indices": [
+            265,
+            288
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228782350034710529/pu/img/rEtLQ5IQOLi5gkzC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228782350034710529/pu/img/rEtLQ5IQOLi5gkzC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1228782512731807744,
+          "source_status_id_str": "1228782512731807744",
+          "source_user_id": 997503485707943937,
+          "source_user_id_str": "997503485707943937",
+          "type": "photo",
+          "url": "https://t.co/fATeUOc7bJ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16581604,
+          "id_str": "16581604",
+          "indices": [
+            1,
+            15
+          ],
+          "name": "Mike Bloomberg",
+          "screen_name": "MikeBloomberg"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            92,
+            108
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri May 18 15:45:38 +0000 2018",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Award Winning Master Memetician Professor of Memology at University of GFY my views are my own and not associated with real life",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "patreon.com/Solentgreenis",
+                      "expanded_url": "https://www.patreon.com/Solentgreenis",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/4F6WplyOkv"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 239741,
+              "follow_request_sent": false,
+              "followers_count": 94800,
+              "following": false,
+              "friends_count": 33526,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 997503485707943937,
+              "id_str": "997503485707943937",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 351,
+              "location": "Mirror World",
+              "name": "Sol \ud83c\udfac",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/997503485707943937/1574641732",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1227038004914642945/K5EiDFQh_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227038004914642945/K5EiDFQh_normal.jpg",
+              "profile_link_color": "19CF86",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "Solmemes1",
+              "statuses_count": 110515,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/4F6WplyOkv",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/fATeUOc7bJ",
+          "expanded_url": "https://twitter.com/Solmemes1/status/1228782512731807744/video/1",
+          "id": 1228782350034710529,
+          "id_str": "1228782350034710529",
+          "indices": [
+            265,
+            288
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1228782350034710529/pu/img/rEtLQ5IQOLi5gkzC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1228782350034710529/pu/img/rEtLQ5IQOLi5gkzC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1228782512731807744,
+          "source_status_id_str": "1228782512731807744",
+          "source_user_id": 997503485707943937,
+          "source_user_id_str": "997503485707943937",
+          "type": "video",
+          "url": "https://t.co/fATeUOc7bJ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 46360,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1228782350034710529/pu/vid/1280x720/XsOwiOgo_kwkKPzu.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1228782350034710529/pu/vid/640x360/gcerbD5wQihq7_sV.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1228782350034710529/pu/vid/480x270/ErcXe8UCiVlUxzdE.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1228782350034710529/pu/pl/_ds0xJZTekw3ct4D.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 47806,
+    "favorited": false,
+    "full_text": ".@MikeBloomberg is paying millions of $ for social media influencers and shitty memes while @realDonaldTrump is paying zero $ for EPIC memes w/an Army of American Patriots &amp; supporters/influencers who\u2764\ufe0ftheir Country &amp; POTUS so much, they don\u2019t need payoffs!https://t.co/fATeUOc7bJ",
+    "geo": null,
+    "id": 1230838461218705408,
+    "id_str": "1230838461218705408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15885,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal account. Currently serving as Assistant to the President and Director of Social Media at the White House. For official announcements, go to @Scavino45.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2877,
+      "follow_request_sent": false,
+      "followers_count": 681356,
+      "following": false,
+      "friends_count": 648,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3809,
+      "location": "",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1582358930",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10823,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72798320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114977,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49221,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

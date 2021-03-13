@@ -1,0 +1,340 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 11 15:41:14 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          19,
+          25
+        ],
+        "text": "ICYMI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1321126697538883585,
+        "id_str": "1321126697538883585",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Old War Horse",
+        "screen_name": "oldwarhorse11"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          37,
+          41
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @oldwarhorse11: #ICYMI  - Before .@CNN  became a  conspiracy theory comedy show they tried news in 2006- Smartmatic- sequoia - Dominion\u2026",
+  "geo": null,
+  "id": 1337422198433329154,
+  "id_str": "1337422198433329154",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4030,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 11 00:04:16 +0000 2020",
+    "display_text_range": [
+      0,
+      172
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "ICYMI"
+        },
+        {
+          "indices": [
+            167,
+            172
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/POFRFYgOvj",
+          "expanded_url": "https://twitter.com/oldwarhorse11/status/1337186402493210627/video/1",
+          "id": 1337185787255906304,
+          "id_str": "1337185787255906304",
+          "indices": [
+            173,
+            196
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337185787255906304/pu/img/a3y20G6A_ZbF7-5T.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337185787255906304/pu/img/a3y20G6A_ZbF7-5T.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1514
+            },
+            "medium": {
+              "h": 571,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 323,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/POFRFYgOvj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            18,
+            22
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/POFRFYgOvj",
+          "expanded_url": "https://twitter.com/oldwarhorse11/status/1337186402493210627/video/1",
+          "id": 1337185787255906304,
+          "id_str": "1337185787255906304",
+          "indices": [
+            173,
+            196
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1337185787255906304/pu/img/a3y20G6A_ZbF7-5T.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1337185787255906304/pu/img/a3y20G6A_ZbF7-5T.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1514
+            },
+            "medium": {
+              "h": 571,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 323,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/POFRFYgOvj",
+          "video_info": {
+            "aspect_ratio": [
+              757,
+              360
+            ],
+            "duration_millis": 129513,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1337185787255906304/pu/pl/1MkeRDvjj5RATsHi.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1337185787255906304/pu/vid/756x360/3W-13FvuvqQqqPJ3.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1337185787255906304/pu/vid/566x270/jGar-2Mp1KH9HJQA.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1337185787255906304/pu/vid/1514x720/b2QKiCgZUiI6cPfg.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10828,
+    "favorited": false,
+    "full_text": "#ICYMI  - Before .@CNN  became a  conspiracy theory comedy show they tried news in 2006- Smartmatic- sequoia - Dominion - Chavez - Venezuela - Harris.... Check it out #MAGA https://t.co/POFRFYgOvj",
+    "geo": null,
+    "id": 1337186402493210627,
+    "id_str": "1337186402493210627",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 4030,
+    "retweeted": false,
+    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 27 16:30:06 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 339,
+      "follow_request_sent": false,
+      "followers_count": 347,
+      "following": false,
+      "friends_count": 56,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1321126697538883585,
+      "id_str": "1321126697538883585",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": "",
+      "name": "Old War Horse",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321126697538883585/1606267103",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1330652000585994241/ZwKwCAAh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1330652000585994241/ZwKwCAAh_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "oldwarhorse11",
+      "statuses_count": 1319,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88658197,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125827,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59110,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

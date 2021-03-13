@@ -1,0 +1,454 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 28 04:25:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 338473859,
+        "id_str": "338473859",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "\u2600\ufe0fBrandon Beckham, Esq.",
+        "screen_name": "BrandonBeckham_"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          21,
+          37
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          120,
+          136
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BrandonBeckham_: @realDonaldTrump \ud83c\uddfa\ud83c\uddf8 We've seen the greatest mobilization of industry since World War II\n\nPresident @realDonaldTrump is\u2026",
+  "geo": null,
+  "id": 1243756098965946368,
+  "id_str": "1243756098965946368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3460,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 02:31:20 +0000 2020",
+    "display_text_range": [
+      17,
+      287
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            136,
+            148
+          ],
+          "text": "coronavirus"
+        },
+        {
+          "indices": [
+            221,
+            225
+          ],
+          "text": "WW2"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MkTSAQc04d",
+          "expanded_url": "https://twitter.com/RichforGA/status/1242919064382693376/video/1",
+          "id": 1242918990835564544,
+          "id_str": "1242918990835564544",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242918990835564544/pu/img/UF-uPRdD2aNBCsJS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242918990835564544/pu/img/UF-uPRdD2aNBCsJS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1242919064382693376,
+          "source_status_id_str": "1242919064382693376",
+          "source_user_id": 1136709465082945538,
+          "source_user_id_str": "1136709465082945538",
+          "type": "photo",
+          "url": "https://t.co/MkTSAQc04d"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            99,
+            115
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 1136709465082945538,
+          "id_str": "1136709465082945538",
+          "indices": [
+            169,
+            179
+          ],
+          "name": "Dr. Rich McCormick for Congress",
+          "screen_name": "RichforGA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jun 06 19:00:30 +0000 2019",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Decorated US Marine, Emergency Medicine Doctor, Conservative, GOP, Christian and ALL IN FOR #GA07 #MAGA Posts are not an endorsement of the USMC ,DoD",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "richmccormick.us",
+                      "expanded_url": "https://www.richmccormick.us",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/6zjScMQPxT"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 2040,
+              "follow_request_sent": false,
+              "followers_count": 15377,
+              "following": false,
+              "friends_count": 4781,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 1136709465082945538,
+              "id_str": "1136709465082945538",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 40,
+              "location": "Suwanee, GA",
+              "name": "Dr. Rich McCormick for Congress",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136709465082945538/1578253104",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1204137497363730434/-7FRHbSG_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204137497363730434/-7FRHbSG_normal.jpg",
+              "profile_link_color": "0E1C2C",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RichforGA",
+              "statuses_count": 490,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/6zjScMQPxT",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/MkTSAQc04d",
+          "expanded_url": "https://twitter.com/RichforGA/status/1242919064382693376/video/1",
+          "id": 1242918990835564544,
+          "id_str": "1242918990835564544",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1242918990835564544/pu/img/UF-uPRdD2aNBCsJS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1242918990835564544/pu/img/UF-uPRdD2aNBCsJS.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1242919064382693376,
+          "source_status_id_str": "1242919064382693376",
+          "source_user_id": 1136709465082945538,
+          "source_user_id_str": "1136709465082945538",
+          "type": "video",
+          "url": "https://t.co/MkTSAQc04d",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 22005,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1242918990835564544/pu/vid/720x1280/IgHdcyl7scLEdFNT.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1242918990835564544/pu/vid/320x568/ub02175GYafeacxZ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1242918990835564544/pu/pl/N8FbhrAqlYrQzdqm.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1242918990835564544/pu/vid/360x640/2TFQ_I3pmb02yGbi.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10619,
+    "favorited": false,
+    "full_text": "@realDonaldTrump \ud83c\uddfa\ud83c\uddf8 We've seen the greatest mobilization of industry since World War II\n\nPresident @realDonaldTrump is leading a war on #coronavirus\n\nDr. Rich McCormick @RichforGA says, \"We ramped-up against the enemy in #WW2, we'll win against coronavirus too!\"\u2935\ufe0fhttps://t.co/MkTSAQc04d",
+    "geo": null,
+    "id": 1243727342171635712,
+    "id_str": "1243727342171635712",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1243726993537073152,
+    "in_reply_to_status_id_str": "1243726993537073152",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3460,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 19 16:50:20 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "M.Div, Th.M, J.D., Christian Lawyer. Founder of https://t.co/jQL88uqu4p, a voice for biblical conservatism. \ud835\uddd9\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude04 for a Bold Christian Voice.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ChristianPolitics.com",
+              "expanded_url": "http://ChristianPolitics.com",
+              "indices": [
+                48,
+                71
+              ],
+              "url": "https://t.co/jQL88uqu4p"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/brandonbeckham_",
+              "expanded_url": "https://www.instagram.com/brandonbeckham_",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AWZtzVLelC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12093,
+      "follow_request_sent": false,
+      "followers_count": 39660,
+      "following": false,
+      "friends_count": 334,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 338473859,
+      "id_str": "338473859",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 397,
+      "location": "USA\ud83c\uddfa\ud83c\uddf8 Tweets=Personal Views",
+      "name": "\u2600\ufe0fBrandon Beckham, Esq.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/338473859/1580076767",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232179405180424192/G-ArNe-k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179405180424192/G-ArNe-k_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BrandonBeckham_",
+      "statuses_count": 15350,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/AWZtzVLelC",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75315937,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118022,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50237,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

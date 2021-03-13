@@ -1,0 +1,231 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 14 11:35:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 123899931,
+        "id_str": "123899931",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Ford O'Connell",
+        "screen_name": "FordOConnell"
+      },
+      {
+        "id": 22956220,
+        "id_str": "22956220",
+        "indices": [
+          26,
+          40
+        ],
+        "name": "Tammy Bruce",
+        "screen_name": "HeyTammyBruce"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FordOConnell: Spot on @HeyTammyBruce: \n\n\"Hiding Mr. Biden in a basement has been absurdly accepted by the media. Unable to toss Ms. Har\u2026",
+  "geo": null,
+  "id": 1294236288401498112,
+  "id_str": "1294236288401498112",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2196,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Aug 12 16:30:19 +0000 2020",
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "washingtontimes.com/news/2020/aug/\u2026",
+          "expanded_url": "https://www.washingtontimes.com/news/2020/aug/11/democratic-party-sets-rules-for-criticizing-bidens/",
+          "indices": [
+            210,
+            233
+          ],
+          "url": "https://t.co/PZnct9TBYp"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 22956220,
+          "id_str": "22956220",
+          "indices": [
+            8,
+            22
+          ],
+          "name": "Tammy Bruce",
+          "screen_name": "HeyTammyBruce"
+        }
+      ]
+    },
+    "favorite_count": 5348,
+    "favorited": false,
+    "full_text": "Spot on @HeyTammyBruce: \n\n\"Hiding Mr. Biden in a basement has been absurdly accepted by the media. Unable to toss Ms. Harris into a literal basement, they\u2019re now trying to construct a virtual bunker for her.\"\n\nhttps://t.co/PZnct9TBYp",
+    "geo": null,
+    "id": 1293585615573979136,
+    "id_str": "1293585615573979136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2196,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 17 15:25:57 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political operative, lawyer, conservative media advocate, author. Fmr. GOP congress candidate. Adj. Prof. @GSPMgwu. As seen on \ud83d\udcfa, heard on \ud83d\udcfb & read in \ud83d\udcf0.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fordoconnell.com",
+              "expanded_url": "http://www.fordoconnell.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fs8fNSQDPn"
+            }
+          ]
+        }
+      },
+      "favourites_count": 44566,
+      "follow_request_sent": false,
+      "followers_count": 15485,
+      "following": false,
+      "friends_count": 3196,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 123899931,
+      "id_str": "123899931",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 154,
+      "location": "SWFL/DC",
+      "name": "Ford O'Connell",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/123899931/1587407527",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1203983557015855104/-QQ5nT-S_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203983557015855104/-QQ5nT-S_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FordOConnell",
+      "statuses_count": 46717,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fs8fNSQDPn",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85146932,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118051,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54515,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

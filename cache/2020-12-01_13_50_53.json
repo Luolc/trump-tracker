@@ -1,0 +1,488 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 01 13:50:53 +0000 2020",
+  "display_text_range": [
+    0,
+    62
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/9gDdGraWAH",
+        "expanded_url": "https://twitter.com/Henryhooddavis/status/1333485898130989056/video/1",
+        "id": 1333485644027490304,
+        "id_str": "1333485644027490304",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1333485898130989056,
+        "source_status_id_str": "1333485898130989056",
+        "source_user_id": 825337281405923328,
+        "source_user_id_str": "825337281405923328",
+        "type": "photo",
+        "url": "https://t.co/9gDdGraWAH"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 825337281405923328,
+        "id_str": "825337281405923328",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Henry Davis",
+        "screen_name": "Henryhooddavis"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jan 28 13:38:36 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "PRESIDENT and Founder of the Conservative URBAN Project INC.\nSPIRITUAL WARRIOR!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "paypal.me/HDavis44",
+                    "expanded_url": "https://www.paypal.me/HDavis44",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/aEnJBw3Wz0"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 44886,
+            "follow_request_sent": false,
+            "followers_count": 79242,
+            "following": false,
+            "friends_count": 1258,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 825337281405923328,
+            "id_str": "825337281405923328",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 139,
+            "location": "Saint Louis Missouri ",
+            "name": "Henry Davis",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/825337281405923328/1602652380",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1328385985751736321/yrp_tu40_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328385985751736321/yrp_tu40_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Henryhooddavis",
+            "statuses_count": 14023,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/aEnJBw3Wz0",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/9gDdGraWAH",
+        "expanded_url": "https://twitter.com/Henryhooddavis/status/1333485898130989056/video/1",
+        "id": 1333485644027490304,
+        "id_str": "1333485644027490304",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1333485898130989056,
+        "source_status_id_str": "1333485898130989056",
+        "source_user_id": 825337281405923328,
+        "source_user_id_str": "825337281405923328",
+        "type": "video",
+        "url": "https://t.co/9gDdGraWAH",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 114161,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/pl/IzrNxHzGF5Bb0WvX.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/360x640/Y_v6W3OuUEMKrSh4.mp4?tag=10"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/320x568/8USofhy-bLyMeVqc.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/720x1280/qp92hcHNyy66tsDb.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Henryhooddavis: THE QUESTION IS??? https://t.co/9gDdGraWAH",
+  "geo": null,
+  "id": 1333770547386343433,
+  "id_str": "1333770547386343433",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8741,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 18:59:47 +0000 2020",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9gDdGraWAH",
+          "expanded_url": "https://twitter.com/Henryhooddavis/status/1333485898130989056/video/1",
+          "id": 1333485644027490304,
+          "id_str": "1333485644027490304",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/9gDdGraWAH"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/9gDdGraWAH",
+          "expanded_url": "https://twitter.com/Henryhooddavis/status/1333485898130989056/video/1",
+          "id": 1333485644027490304,
+          "id_str": "1333485644027490304",
+          "indices": [
+            19,
+            42
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333485644027490304/pu/img/5QM4iFhnaydyQSNj.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/9gDdGraWAH",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 114161,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/pl/IzrNxHzGF5Bb0WvX.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/360x640/Y_v6W3OuUEMKrSh4.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/320x568/8USofhy-bLyMeVqc.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1333485644027490304/pu/vid/720x1280/qp92hcHNyy66tsDb.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27490,
+    "favorited": false,
+    "full_text": "THE QUESTION IS??? https://t.co/9gDdGraWAH",
+    "geo": null,
+    "id": 1333485898130989056,
+    "id_str": "1333485898130989056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8741,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 28 13:38:36 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "PRESIDENT and Founder of the Conservative URBAN Project INC.\nSPIRITUAL WARRIOR!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "paypal.me/HDavis44",
+              "expanded_url": "https://www.paypal.me/HDavis44",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aEnJBw3Wz0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 44886,
+      "follow_request_sent": false,
+      "followers_count": 79242,
+      "following": false,
+      "friends_count": 1258,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 825337281405923328,
+      "id_str": "825337281405923328",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 139,
+      "location": "Saint Louis Missouri ",
+      "name": "Henry Davis",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/825337281405923328/1602652380",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1328385985751736321/yrp_tu40_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328385985751736321/yrp_tu40_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Henryhooddavis",
+      "statuses_count": 14023,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aEnJBw3Wz0",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88808878,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125510,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58824,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 28 04:47:53 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          74,
+          83
+        ],
+        "text": "CARESAct"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          33,
+          49
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Mike_Pence: Today, President @realDonaldTrump signed into the law the #CARESAct which will help small businesses stay open, help worker\u2026",
+  "geo": null,
+  "id": 1243761705303396353,
+  "id_str": "1243761705303396353",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4533,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 27 21:40:51 +0000 2020",
+    "display_text_range": [
+      0,
+      247
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            67
+          ],
+          "text": "CARESAct"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oXtg6RqS4o",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1243654240872128512/photo/1",
+          "id": 1243653769440755716,
+          "id_str": "1243653769440755716",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUJYg58XgAQQOGo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUJYg58XgAQQOGo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oXtg6RqS4o"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            17,
+            33
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oXtg6RqS4o",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1243654240872128512/photo/1",
+          "id": 1243653769440755716,
+          "id_str": "1243653769440755716",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUJYg58XgAQQOGo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUJYg58XgAQQOGo.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oXtg6RqS4o"
+        },
+        {
+          "display_url": "pic.twitter.com/oXtg6RqS4o",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1243654240872128512/photo/1",
+          "id": 1243653884054327302,
+          "id_str": "1243653884054327302",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUJYnk6X0AYfEVd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUJYnk6X0AYfEVd.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oXtg6RqS4o"
+        }
+      ]
+    },
+    "favorite_count": 19237,
+    "favorited": false,
+    "full_text": "Today, President @realDonaldTrump signed into the law the #CARESAct which will help small businesses stay open, help workers keep their jobs, and provide relief for distressed industries as our Country faces the threat of the Coronavirus together. https://t.co/oXtg6RqS4o",
+    "geo": null,
+    "id": 1243654240872128512,
+    "id_str": "1243654240872128512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4533,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 715,
+      "follow_request_sent": false,
+      "followers_count": 4468600,
+      "following": false,
+      "friends_count": 33,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9249,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1582042068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Mike_Pence",
+      "statuses_count": 8218,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75315937,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118022,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50237,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

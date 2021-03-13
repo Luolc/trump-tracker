@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 07 12:47:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 166270127,
+        "id_str": "166270127",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Tim Tebow",
+        "screen_name": "TimTebow"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TimTebow: On this World Day Against Trafficking, I\u2019m humbled to announce that we are deepening our commitment in the fight against Huma\u2026",
+  "geo": null,
+  "id": 1291717616579547136,
+  "id_str": "1291717616579547136",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 15495,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 30 12:32:37 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            258,
+            278
+          ],
+          "text": "EndHumanTrafficking"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/pgrIuBhHJM",
+          "expanded_url": "https://twitter.com/TimTebow/status/1288814755306708992/video/1",
+          "id": 1288814594765594625,
+          "id_str": "1288814594765594625",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288814594765594625/pu/img/xafn_Ye3TdZ1nmIH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288814594765594625/pu/img/xafn_Ye3TdZ1nmIH.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 864
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 864
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/pgrIuBhHJM"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "timtebowfoundation.org/anti-human-tra\u2026",
+          "expanded_url": "https://www.timtebowfoundation.org/anti-human-trafficking",
+          "indices": [
+            146,
+            169
+          ],
+          "url": "https://t.co/1Jm8QXdfoh"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 105290578,
+          "id_str": "105290578",
+          "indices": [
+            190,
+            206
+          ],
+          "name": "Tim Tebow Foundation",
+          "screen_name": "tebowfoundation"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/pgrIuBhHJM",
+          "expanded_url": "https://twitter.com/TimTebow/status/1288814755306708992/video/1",
+          "id": 1288814594765594625,
+          "id_str": "1288814594765594625",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288814594765594625/pu/img/xafn_Ye3TdZ1nmIH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288814594765594625/pu/img/xafn_Ye3TdZ1nmIH.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 864
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 864
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/pgrIuBhHJM",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              5
+            ],
+            "duration_millis": 43126,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288814594765594625/pu/vid/320x400/-LJkSxKolSwgVuki.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288814594765594625/pu/vid/720x900/mJ4iHSyF_OH39wTz.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1288814594765594625/pu/pl/g0IWcc61coF6Y45z.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288814594765594625/pu/vid/360x450/snYQXr7BTcM55Eri.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 41518,
+    "favorited": false,
+    "full_text": "On this World Day Against Trafficking, I\u2019m humbled to announce that we are deepening our commitment in the fight against Human Trafficking. Visit https://t.co/1Jm8QXdfoh for more on how the @tebowfoundation is going deeper into this fight. Will you join us? #EndHumanTrafficking https://t.co/pgrIuBhHJM",
+    "geo": null,
+    "id": 1288814755306708992,
+    "id_str": "1288814755306708992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15495,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 13 19:07:23 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Text me \u27a1\ufe0f (904) 441-5450",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "timtebowfoundation.org/anti-human-tra\u2026",
+              "expanded_url": "https://www.timtebowfoundation.org/anti-human-trafficking",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NdKvRWPJjA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 113,
+      "follow_request_sent": false,
+      "followers_count": 4705995,
+      "following": false,
+      "friends_count": 86,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 166270127,
+      "id_str": "166270127",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12192,
+      "location": "",
+      "name": "Tim Tebow",
+      "notifications": false,
+      "profile_background_color": "D7D7D7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/166270127/1522772724",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/981260110872883200/TkaEbY3A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/981260110872883200/TkaEbY3A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D7D7D7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TimTebow",
+      "statuses_count": 2362,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NdKvRWPJjA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84825100,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117727,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54353,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

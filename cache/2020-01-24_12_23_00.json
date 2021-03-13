@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 24 12:23:00 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15675138,
+        "id_str": "15675138",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "CSPAN",
+        "screen_name": "cspan"
+      },
+      {
+        "id": 225921757,
+        "id_str": "225921757",
+        "indices": [
+          12,
+          28
+        ],
+        "name": "Sen. James Lankford",
+        "screen_name": "SenatorLankford"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @cspan: .@SenatorLankford on the House Impeachment Manager's case so far: \"On Tuesday, all day, we heard the same stories, same videos.\u2026",
+  "geo": null,
+  "id": 1220683416657649664,
+  "id_str": "1220683416657649664",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4472,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 23 23:58:48 +0000 2020",
+    "display_text_range": [
+      0,
+      220
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Pcs4iPkZTX",
+          "expanded_url": "https://twitter.com/cspan/status/1220496131156774918/video/1",
+          "features": {},
+          "id": 1220495406456590336,
+          "id_str": "1220495406456590336",
+          "indices": [
+            221,
+            244
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPAScAlWsAAKoyz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPAScAlWsAAKoyz.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Pcs4iPkZTX"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "cs.pn/2tyKEeR",
+          "expanded_url": "http://cs.pn/2tyKEeR",
+          "indices": [
+            197,
+            220
+          ],
+          "url": "https://t.co/UJ3qWrevyB"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 225921757,
+          "id_str": "225921757",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Sen. James Lankford",
+          "screen_name": "SenatorLankford"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Pcs4iPkZTX",
+          "expanded_url": "https://twitter.com/cspan/status/1220496131156774918/video/1",
+          "features": {},
+          "id": 1220495406456590336,
+          "id_str": "1220495406456590336",
+          "indices": [
+            221,
+            244
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPAScAlWsAAKoyz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPAScAlWsAAKoyz.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Pcs4iPkZTX",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 44645,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1220495406456590336/pl/KC5BJ6Lc4m6JzYFA.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220495406456590336/vid/1280x720/a5xAfQCAnm4Pk8H4.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220495406456590336/vid/640x360/21sy5q8tvNRj43q5.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220495406456590336/vid/480x270/T9Y2i_xsAHz8-E80.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13354,
+    "favorited": false,
+    "full_text": ".@SenatorLankford on the House Impeachment Manager's case so far: \"On Tuesday, all day, we heard the same stories, same videos. On Wednesday, all day the same stories, same videos.\"\n\nWatch live -- https://t.co/UJ3qWrevyB https://t.co/Pcs4iPkZTX",
+    "geo": null,
+    "id": 1220496131156774918,
+    "id_str": "1220496131156774918",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4472,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Capitol Hill. The White House. National Politics.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "c-span.org",
+              "expanded_url": "http://www.c-span.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L3A4afzX6T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1550,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1997422,
+      "following": false,
+      "friends_count": 8820,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15675138,
+      "id_str": "15675138",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14032,
+      "location": "Washington, D.C.",
+      "name": "CSPAN",
+      "notifications": false,
+      "profile_background_color": "04005F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+      "profile_link_color": "04007D",
+      "profile_sidebar_border_color": "00012B",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "cspan",
+      "statuses_count": 43223,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L3A4afzX6T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

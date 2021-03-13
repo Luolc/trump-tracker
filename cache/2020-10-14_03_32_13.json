@@ -1,0 +1,393 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 14 03:32:13 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 862716927696916481,
+        "id_str": "862716927696916481",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Scotty McGuire",
+        "screen_name": "McguireScotty"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @McguireScotty: This is Lee Keltner. He is the victim of the Denver shooting. He made cowboy hats.\n\nDenver has a DemocRat mayor\n\n Pray f\u2026",
+  "geo": null,
+  "id": 1316220237642166272,
+  "id_str": "1316220237642166272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10122,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 16:49:10 +0000 2020",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ivZA5SEn1x",
+          "expanded_url": "https://twitter.com/stillgray/status/1315312307967127554/video/1",
+          "id": 1315312023681396736,
+          "id_str": "1315312023681396736",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315312023681396736/pu/img/KkO-cXPhFZ-lopIf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315312023681396736/pu/img/KkO-cXPhFZ-lopIf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1315312307967127554,
+          "source_status_id_str": "1315312307967127554",
+          "source_user_id": 16106584,
+          "source_user_id_str": "16106584",
+          "type": "photo",
+          "url": "https://t.co/ivZA5SEn1x"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Sep 03 01:44:04 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Remember David Dorn \nIG: https://t.co/0Cv3rnfUJm\nFB: https://t.co/V1GfF7j1PS\nYT: https://t.co/iin0Tb6Spj\nParler: stillgray",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/stillgray",
+                      "expanded_url": "http://instagram.com/stillgray",
+                      "indices": [
+                        25,
+                        48
+                      ],
+                      "url": "https://t.co/0Cv3rnfUJm"
+                    },
+                    {
+                      "display_url": "facebook.com/ianmilescheong",
+                      "expanded_url": "http://facebook.com/ianmilescheong",
+                      "indices": [
+                        53,
+                        76
+                      ],
+                      "url": "https://t.co/V1GfF7j1PS"
+                    },
+                    {
+                      "display_url": "youtube.com/hypebreak",
+                      "expanded_url": "http://youtube.com/hypebreak",
+                      "indices": [
+                        81,
+                        104
+                      ],
+                      "url": "https://t.co/iin0Tb6Spj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "viralstyle.com/store/stillgra\u2026",
+                      "expanded_url": "https://viralstyle.com/store/stillgray/StillGray-Merch",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mvVUrkTkJU"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 144832,
+              "follow_request_sent": false,
+              "followers_count": 277434,
+              "following": false,
+              "friends_count": 1783,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 16106584,
+              "id_str": "16106584",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2204,
+              "location": "",
+              "name": "Ian Miles Cheong",
+              "notifications": false,
+              "profile_background_color": "1B1926",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1591392104",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1310878000779411458/CMWmGkFQ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310878000779411458/CMWmGkFQ_normal.jpg",
+              "profile_link_color": "981CEB",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "E8DBC1",
+              "profile_text_color": "395E85",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "stillgray",
+              "statuses_count": 310570,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mvVUrkTkJU",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/ivZA5SEn1x",
+          "expanded_url": "https://twitter.com/stillgray/status/1315312307967127554/video/1",
+          "id": 1315312023681396736,
+          "id_str": "1315312023681396736",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315312023681396736/pu/img/KkO-cXPhFZ-lopIf.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315312023681396736/pu/img/KkO-cXPhFZ-lopIf.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1315312307967127554,
+          "source_status_id_str": "1315312307967127554",
+          "source_user_id": 16106584,
+          "source_user_id_str": "16106584",
+          "type": "video",
+          "url": "https://t.co/ivZA5SEn1x",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 124652,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315312023681396736/pu/vid/1280x720/Ad1bi2tmcNwsp6Kh.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315312023681396736/pu/vid/640x360/7OIWkp3zrge1qbW6.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1315312023681396736/pu/pl/FMTNbnh6GwByusEr.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315312023681396736/pu/vid/480x270/04rLIOHvL0QgFMbs.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25027,
+    "favorited": false,
+    "full_text": "This is Lee Keltner. He is the victim of the Denver shooting. He made cowboy hats.\n\nDenver has a DemocRat mayor\n\n Pray for Lee Keltner's family.\n https://t.co/ivZA5SEn1x",
+    "geo": null,
+    "id": 1315333634019209217,
+    "id_str": "1315333634019209217",
+    "in_reply_to_screen_name": "McguireScotty",
+    "in_reply_to_status_id": 1315328536408780802,
+    "in_reply_to_status_id_str": "1315328536408780802",
+    "in_reply_to_user_id": 862716927696916481,
+    "in_reply_to_user_id_str": "862716927696916481",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 10122,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 11 17:11:58 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "MAGA\ud83c\uddfa\ud83c\uddf8TrumpTrain \nArtist, I read the news & pass it along. History of Television Production. Student of Biblical Prophecy. Anti-Communist \ud83c\uddfa\ud83c\uddf8   Independent",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 117292,
+      "follow_request_sent": false,
+      "followers_count": 49489,
+      "following": false,
+      "friends_count": 47523,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 862716927696916481,
+      "id_str": "862716927696916481",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 58,
+      "location": "America ",
+      "name": "Scotty McGuire",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/862716927696916481/1512287229",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/937216544345608192/kIzTkHEh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/937216544345608192/kIzTkHEh_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "McguireScotty",
+      "statuses_count": 329167,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

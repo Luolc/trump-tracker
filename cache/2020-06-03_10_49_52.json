@@ -1,0 +1,481 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jun 03 10:49:52 +0000 2020",
+  "display_text_range": [
+    0,
+    129
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: Remember, if you don\u2019t social distance, you\u2019re literally killing people. That\u2019s what they told us. The \u201cexperts.\u201d",
+  "geo": null,
+  "id": 1268132790417186816,
+  "id_str": "1268132790417186816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1267857256697278465,
+  "quoted_status_id_str": "1267857256697278465",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ianbremmer/sta\u2026",
+    "expanded": "https://twitter.com/ianbremmer/status/1267857256697278465",
+    "url": "https://t.co/c0vz1KFXSj"
+  },
+  "retweet_count": 14583,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 23:56:48 +0000 2020",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ianbremmer/sta\u2026",
+          "expanded_url": "https://twitter.com/ianbremmer/status/1267857256697278465",
+          "indices": [
+            114,
+            137
+          ],
+          "url": "https://t.co/c0vz1KFXSj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 42210,
+    "favorited": false,
+    "full_text": "Remember, if you don\u2019t social distance, you\u2019re literally killing people. That\u2019s what they told us. The \u201cexperts.\u201d https://t.co/c0vz1KFXSj",
+    "geo": null,
+    "id": 1267968438082953218,
+    "id_str": "1267968438082953218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jun 02 16:35:00 +0000 2020",
+      "display_text_range": [
+        0,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VShFtzfyFE",
+            "expanded_url": "https://twitter.com/gideon_fm/status/1267489493365514242/video/1",
+            "id": 1267489443218325505,
+            "id_str": "1267489443218325505",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267489443218325505/pu/img/XRs2jxfiY4TlYBNP.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267489443218325505/pu/img/XRs2jxfiY4TlYBNP.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1267489493365514242,
+            "source_status_id_str": "1267489493365514242",
+            "source_user_id": 223686686,
+            "source_user_id_str": "223686686",
+            "type": "photo",
+            "url": "https://t.co/VShFtzfyFE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Dec 07 02:02:36 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "IG: @travelwithgideon",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 559,
+                "follow_request_sent": false,
+                "followers_count": 398,
+                "following": false,
+                "friends_count": 117,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 223686686,
+                "id_str": "223686686",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 1,
+                "location": "Amsterdam, The Netherlands",
+                "name": "Gideon",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/223686686/1451503389",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251641588310294530/JmPwNyYn_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251641588310294530/JmPwNyYn_normal.jpg",
+                "profile_link_color": "9266CC",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "gideon_fm",
+                "statuses_count": 9595,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/VShFtzfyFE",
+            "expanded_url": "https://twitter.com/gideon_fm/status/1267489493365514242/video/1",
+            "id": 1267489443218325505,
+            "id_str": "1267489443218325505",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267489443218325505/pu/img/XRs2jxfiY4TlYBNP.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267489443218325505/pu/img/XRs2jxfiY4TlYBNP.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1267489493365514242,
+            "source_status_id_str": "1267489493365514242",
+            "source_user_id": 223686686,
+            "source_user_id_str": "223686686",
+            "type": "video",
+            "url": "https://t.co/VShFtzfyFE",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 8465,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267489443218325505/pu/vid/320x568/1svaaUzyB0OZdDx4.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267489443218325505/pu/vid/720x1280/BpjQg5wgGui1bXvE.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267489443218325505/pu/vid/360x640/P31MoZAH_rpA9-EA.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1267489443218325505/pu/pl/6KZIFhMkNl9ceyu8.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 132906,
+      "favorited": false,
+      "full_text": "Turnout for George Floyd protests in Amsterdam.\nExtraordinary.\nhttps://t.co/VShFtzfyFE",
+      "geo": null,
+      "id": 1267857256697278465,
+      "id_str": "1267857256697278465",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 35340,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jul 28 02:23:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "political scientist, author, teach at columbia sipa, columnist at time, president @eurasiagroup, @gzeromedia. if you lived here, you'd be home now.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 2893,
+        "follow_request_sent": false,
+        "followers_count": 525759,
+        "following": false,
+        "friends_count": 1366,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 60783724,
+        "id_str": "60783724",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8482,
+        "location": "",
+        "name": "ian bremmer",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60783724/1580942168",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1103368575224594433/GGWqZt8Q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1103368575224594433/GGWqZt8Q_normal.jpg",
+        "profile_link_color": "3489B3",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ianbremmer",
+        "statuses_count": 48108,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267857256697278465,
+    "quoted_status_id_str": "1267857256697278465",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ianbremmer/sta\u2026",
+      "expanded": "https://twitter.com/ianbremmer/status/1267857256697278465",
+      "url": "https://t.co/c0vz1KFXSj"
+    },
+    "retweet_count": 14583,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show; Former CIA Analyst and NYPD Intel Division #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0f https://t.co/3beR3JwoYg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "https://apple.co/2lRor7y",
+              "indices": [
+                124,
+                147
+              ],
+              "url": "https://t.co/3beR3JwoYg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24917,
+      "follow_request_sent": false,
+      "followers_count": 366997,
+      "following": false,
+      "friends_count": 1524,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2405,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 1345,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81759360,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114811,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

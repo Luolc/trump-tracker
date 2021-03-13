@@ -1,0 +1,285 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 25 22:11:10 +0000 2020",
+  "display_text_range": [
+    0,
+    6
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/ronpaul/status\u2026",
+        "expanded_url": "https://twitter.com/ronpaul/status/1309567134222233601",
+        "indices": [
+          7,
+          30
+        ],
+        "url": "https://t.co/9JOr7kDDG7"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 99637,
+  "favorited": false,
+  "full_text": "Great! https://t.co/9JOr7kDDG7",
+  "geo": null,
+  "id": 1309616463125385216,
+  "id_str": "1309616463125385216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 25 18:55:10 +0000 2020",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/aALmLn8xIj",
+          "expanded_url": "https://twitter.com/RonPaul/status/1309567134222233601/photo/1",
+          "id": 1309567069894119425,
+          "id_str": "1309567069894119425",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiyET8qWkAEBKHM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiyET8qWkAEBKHM.jpg",
+          "sizes": {
+            "large": {
+              "h": 1413,
+              "resize": "fit",
+              "w": 1257
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1068
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 605
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/aALmLn8xIj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/aALmLn8xIj",
+          "expanded_url": "https://twitter.com/RonPaul/status/1309567134222233601/photo/1",
+          "id": 1309567069894119425,
+          "id_str": "1309567069894119425",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiyET8qWkAEBKHM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiyET8qWkAEBKHM.jpg",
+          "sizes": {
+            "large": {
+              "h": 1413,
+              "resize": "fit",
+              "w": 1257
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1068
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 605
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/aALmLn8xIj"
+        }
+      ]
+    },
+    "favorite_count": 185473,
+    "favorited": false,
+    "full_text": "Message from Ron Paul: \"I am doing fine. Thank you for your concern.\" https://t.co/aALmLn8xIj",
+    "geo": null,
+    "id": 1309567134222233601,
+    "id_str": "1309567134222233601",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 28858,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 24 23:20:55 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Former Congressman from Texas.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ronpaulinstitute.org",
+              "expanded_url": "http://ronpaulinstitute.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/Wx6kJJlXpy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 35,
+      "follow_request_sent": false,
+      "followers_count": 684883,
+      "following": false,
+      "friends_count": 180,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 287413569,
+      "id_str": "287413569",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6533,
+      "location": "Clute, TX",
+      "name": "Ron Paul",
+      "notifications": false,
+      "profile_background_color": "ED1D24",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/287413569/1425571042",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/573517737172934659/bB-v1E-8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/573517737172934659/bB-v1E-8_normal.jpeg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RonPaul",
+      "statuses_count": 8747,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/Wx6kJJlXpy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1309567134222233601,
+  "quoted_status_id_str": "1309567134222233601",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ronpaul/status\u2026",
+    "expanded": "https://twitter.com/ronpaul/status/1309567134222233601",
+    "url": "https://t.co/9JOr7kDDG7"
+  },
+  "retweet_count": 14302,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86284580,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119971,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

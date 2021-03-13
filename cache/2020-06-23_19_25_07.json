@@ -1,0 +1,285 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 23 19:25:07 +0000 2020",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jsegor/status/\u2026",
+        "expanded_url": "https://twitter.com/jsegor/status/1275472601834377222",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/bKFmgOLEGZ"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 73534,
+  "favorited": false,
+  "full_text": "Cases up only because of our big number testing. Mortality rate way down!!! https://t.co/bKFmgOLEGZ",
+  "geo": null,
+  "id": 1275510212384788480,
+  "id_str": "1275510212384788480",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 23 16:55:40 +0000 2020",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5lIEDqU6cQ",
+          "expanded_url": "https://twitter.com/JSegor/status/1275472601834377222/photo/1",
+          "id": 1275472550806433792,
+          "id_str": "1275472550806433792",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbNjhveUMAA49UE.png",
+          "media_url_https": "https://pbs.twimg.com/media/EbNjhveUMAA49UE.png",
+          "sizes": {
+            "large": {
+              "h": 756,
+              "resize": "fit",
+              "w": 1616
+            },
+            "medium": {
+              "h": 561,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 318,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5lIEDqU6cQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5lIEDqU6cQ",
+          "expanded_url": "https://twitter.com/JSegor/status/1275472601834377222/photo/1",
+          "id": 1275472550806433792,
+          "id_str": "1275472550806433792",
+          "indices": [
+            71,
+            94
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbNjhveUMAA49UE.png",
+          "media_url_https": "https://pbs.twimg.com/media/EbNjhveUMAA49UE.png",
+          "sizes": {
+            "large": {
+              "h": 756,
+              "resize": "fit",
+              "w": 1616
+            },
+            "medium": {
+              "h": 561,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 318,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5lIEDqU6cQ"
+        }
+      ]
+    },
+    "favorite_count": 7490,
+    "favorited": false,
+    "full_text": "6-23-20: US Covid-19 deaths still heading down despite cases going up. https://t.co/5lIEDqU6cQ",
+    "geo": null,
+    "id": 1275472601834377222,
+    "id_str": "1275472601834377222",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2582,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 24 03:38:04 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Following irony, whither it takes me... Software Developer, Piano Aficionado, Environmentalist, 3D Graphics programmer, Math, Logic, COVID-19 go away.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jeffsegor.com",
+              "expanded_url": "http://www.jeffsegor.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Eluo2NfACx"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1686,
+      "follow_request_sent": false,
+      "followers_count": 981,
+      "following": false,
+      "friends_count": 552,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 561699040,
+      "id_str": "561699040",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 18,
+      "location": "Earth",
+      "name": "Jeff Segor",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/561699040/1581477171",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269125346260996096/CflhA2nG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269125346260996096/CflhA2nG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JSegor",
+      "statuses_count": 17061,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Eluo2NfACx",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1275472601834377222,
+  "quoted_status_id_str": "1275472601834377222",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jsegor/status/\u2026",
+    "expanded": "https://twitter.com/jsegor/status/1275472601834377222",
+    "url": "https://t.co/bKFmgOLEGZ"
+  },
+  "retweet_count": 19311,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82439294,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115866,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53104,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

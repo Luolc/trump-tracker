@@ -1,0 +1,380 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 17 01:00:05 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 165039823,
+        "id_str": "165039823",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Peoples_Pundit",
+        "screen_name": "Peoples_Pundit"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Peoples_Pundit: Told you guys she was not only unpopular, but very unpopular historically.\n\nOkay. Going back to enjoying the last day I\u2026",
+  "geo": null,
+  "id": 1295163454953840640,
+  "id_str": "1295163454953840640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1294983509258506240,
+  "quoted_status_id_str": "1294983509258506240",
+  "quoted_status_permalink": {
+    "display": "twitter.com/postrategies/s\u2026",
+    "expanded": "https://twitter.com/postrategies/status/1294983509258506240",
+    "url": "https://t.co/cjHauKNoT8"
+  },
+  "retweet_count": 3429,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 16 16:21:05 +0000 2020",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/postrategies/s\u2026",
+          "expanded_url": "https://twitter.com/postrategies/status/1294983509258506240",
+          "indices": [
+            154,
+            177
+          ],
+          "url": "https://t.co/cjHauKNoT8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9534,
+    "favorited": false,
+    "full_text": "Told you guys she was not only unpopular, but very unpopular historically.\n\nOkay. Going back to enjoying the last day I have with the kids before school. https://t.co/cjHauKNoT8",
+    "geo": null,
+    "id": 1295032844822118401,
+    "id_str": "1295032844822118401",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Aug 16 13:05:02 +0000 2020",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/EV4s50B0taX",
+            "expanded_url": "http://ow.ly/EV4s50B0taX",
+            "indices": [
+              257,
+              280
+            ],
+            "url": "https://t.co/2FpAac56RS"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 14173315,
+            "id_str": "14173315",
+            "indices": [
+              14,
+              22
+            ],
+            "name": "NBC News",
+            "screen_name": "NBCNews"
+          },
+          {
+            "id": 3108351,
+            "id_str": "3108351",
+            "indices": [
+              23,
+              27
+            ],
+            "name": "The Wall Street Journal",
+            "screen_name": "WSJ"
+          },
+          {
+            "id": 30354991,
+            "id_str": "30354991",
+            "indices": [
+              34,
+              47
+            ],
+            "name": "Kamala Harris",
+            "screen_name": "KamalaHarris"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              187,
+              203
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 939091,
+            "id_str": "939091",
+            "indices": [
+              246,
+              255
+            ],
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+          }
+        ]
+      },
+      "favorite_count": 5013,
+      "favorited": false,
+      "full_text": "Just released @NBCNews @WSJ shows @KamalaHarris with lowest net positive rating of any VP candidate when first put on a Dem ticket since '92. Economy named the most important issue, with @realDonaldTrump holding a 10-point lead on the issue over @joebiden. https://t.co/2FpAac56RS",
+      "geo": null,
+      "id": 1294983509258506240,
+      "id_str": "1294983509258506240",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2422,
+      "retweeted": false,
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 04 17:17:15 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Public Opinion Strategies is a national political and public affairs research firm. Turning Questions Into Answers.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pos.org",
+                "expanded_url": "http://www.pos.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/5yabC3q5vQ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 3036,
+        "following": false,
+        "friends_count": 394,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 22801923,
+        "id_str": "22801923",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 114,
+        "location": "Alexandria, Virginia",
+        "name": "POS",
+        "notifications": false,
+        "profile_background_color": "000066",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/22801923/1583427644",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1235745921943646210/IpJc9yNV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1235745921943646210/IpJc9yNV_normal.jpg",
+        "profile_link_color": "0000CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "POStrategies",
+        "statuses_count": 1238,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/5yabC3q5vQ",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1294983509258506240,
+    "quoted_status_id_str": "1294983509258506240",
+    "quoted_status_permalink": {
+      "display": "twitter.com/postrategies/s\u2026",
+      "expanded": "https://twitter.com/postrategies/status/1294983509258506240",
+      "url": "https://t.co/cjHauKNoT8"
+    },
+    "retweet_count": 3429,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jul 10 12:26:58 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Data journalist and host of 'Inside the Numbers' @PPDNews. Director @BigDataPoll. Opinions are my own. Data don't lie. People do. Love @LauraBaris & my kids.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bigdatapoll.com",
+              "expanded_url": "https://www.bigdatapoll.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TBGQXXt0y6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16052,
+      "follow_request_sent": false,
+      "followers_count": 32862,
+      "following": false,
+      "friends_count": 5225,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 165039823,
+      "id_str": "165039823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 349,
+      "location": "Florida, USA",
+      "name": "Peoples_Pundit",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/165039823/1585838442",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245722831280836609/vu-063Uf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245722831280836609/vu-063Uf_normal.jpg",
+      "profile_link_color": "C3AB30",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D2400F",
+      "profile_text_color": "01576E",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Peoples_Pundit",
+      "statuses_count": 78634,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TBGQXXt0y6",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85276011,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118174,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54643,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

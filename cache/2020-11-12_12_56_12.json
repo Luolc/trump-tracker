@@ -1,0 +1,553 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 12 12:56:12 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1397501864,
+        "id_str": "1397501864",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "David Perdue",
+        "screen_name": "Perduesenate"
+      },
+      {
+        "id": 29495695,
+        "id_str": "29495695",
+        "indices": [
+          62,
+          72
+        ],
+        "name": "Kelly Loeffler",
+        "screen_name": "KLoeffler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Perduesenate: Not on our watch. Donate now to help me and @KLoeffler defeat Chuck Schumer. We win these two races, we save the senate.\u2026",
+  "geo": null,
+  "id": 1326871418810888192,
+  "id_str": "1326871418810888192",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1325156580053037060,
+  "quoted_status_id_str": "1325156580053037060",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ShaneGoldmache\u2026",
+    "expanded": "https://twitter.com/ShaneGoldmacher/status/1325156580053037060",
+    "url": "https://t.co/xnchcaAp0R"
+  },
+  "retweet_count": 7834,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 07 19:49:13 +0000 2020",
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            188,
+            194
+          ],
+          "text": "GAsen"
+        },
+        {
+          "indices": [
+            195,
+            201
+          ],
+          "text": "gapol"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "secure.winred.com/georgians-for-\u2026",
+          "expanded_url": "https://secure.winred.com/georgians-for-kelly/perdue-for-senate-defend-the-majority",
+          "indices": [
+            203,
+            226
+          ],
+          "url": "https://t.co/dHmdaBoWmn"
+        },
+        {
+          "display_url": "twitter.com/ShaneGoldmache\u2026",
+          "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1325156580053037060",
+          "indices": [
+            227,
+            250
+          ],
+          "url": "https://t.co/xnchcaAp0R"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 29495695,
+          "id_str": "29495695",
+          "indices": [
+            44,
+            54
+          ],
+          "name": "Kelly Loeffler",
+          "screen_name": "KLoeffler"
+        }
+      ]
+    },
+    "favorite_count": 25860,
+    "favorited": false,
+    "full_text": "Not on our watch. Donate now to help me and @KLoeffler defeat Chuck Schumer. We win these two races, we save the senate. We save the Senate, we save the country. This is what is at stake. #GAsen #gapol\n\nhttps://t.co/dHmdaBoWmn https://t.co/xnchcaAp0R",
+    "geo": null,
+    "id": 1325163415770370057,
+    "id_str": "1325163415770370057",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Nov 07 19:22:03 +0000 2020",
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JMtGPzgZUH",
+            "expanded_url": "https://twitter.com/StatusCoup/status/1325153416063152128/video/1",
+            "id": 1325153162450202633,
+            "id_str": "1325153162450202633",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+            "sizes": {
+              "large": {
+                "h": 617,
+                "resize": "fit",
+                "w": 1100
+              },
+              "medium": {
+                "h": 617,
+                "resize": "fit",
+                "w": 1100
+              },
+              "small": {
+                "h": 381,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1325153416063152128,
+            "source_status_id_str": "1325153416063152128",
+            "source_user_id": 968889962354696192,
+            "source_user_id_str": "968889962354696192",
+            "type": "photo",
+            "url": "https://t.co/JMtGPzgZUH"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 968889962354696192,
+            "id_str": "968889962354696192",
+            "indices": [
+              67,
+              78
+            ],
+            "name": "Status Coup",
+            "screen_name": "StatusCoup"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Feb 28 16:45:42 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Progressive media company. Giving the microphone back to the people. Investigative & in-field reporting, co-founded by @JordanChariton and @JennElizabethJ",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "YouTube.com/StatusCoup",
+                        "expanded_url": "http://YouTube.com/StatusCoup",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/O2Mhl7ISic"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 665,
+                "follow_request_sent": false,
+                "followers_count": 53781,
+                "following": false,
+                "friends_count": 2691,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 968889962354696192,
+                "id_str": "968889962354696192",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 232,
+                "location": "New York, USA",
+                "name": "Status Coup",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/968889962354696192/1551899729",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1025463568047718400/IAzbfhEA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025463568047718400/IAzbfhEA_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "StatusCoup",
+                "statuses_count": 5780,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/O2Mhl7ISic",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/JMtGPzgZUH",
+            "expanded_url": "https://twitter.com/StatusCoup/status/1325153416063152128/video/1",
+            "id": 1325153162450202633,
+            "id_str": "1325153162450202633",
+            "indices": [
+              79,
+              102
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+            "sizes": {
+              "large": {
+                "h": 617,
+                "resize": "fit",
+                "w": 1100
+              },
+              "medium": {
+                "h": 617,
+                "resize": "fit",
+                "w": 1100
+              },
+              "small": {
+                "h": 381,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1325153416063152128,
+            "source_status_id_str": "1325153416063152128",
+            "source_user_id": 968889962354696192,
+            "source_user_id_str": "968889962354696192",
+            "type": "video",
+            "url": "https://t.co/JMtGPzgZUH",
+            "video_info": {
+              "aspect_ratio": [
+                1100,
+                617
+              ],
+              "duration_millis": 13267,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/1098x616/uwkMdntmN8Kbucsf.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/640x360/dOi1_v5VsV0xTGvo.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/pl/vMtvt-w6bmbVmNOT.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/480x270/-AyrSCOJLPa-MMcb.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1879,
+      "favorited": false,
+      "full_text": "\u201cNow we take Georgia, then we change the world,\u201d Chuck Schumer via @StatusCoup https://t.co/JMtGPzgZUH",
+      "geo": null,
+      "id": 1325156580053037060,
+      "id_str": "1325156580053037060",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 760,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 07 20:42:24 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "New York Times national political reporter, Ex-@NYTMetro @POLITICO, @NationalJournal and @latimes. SF Giants fan. shane.goldmacher@nytimes.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nytimes.com",
+                "expanded_url": "http://www.nytimes.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/UmqCI5AhUx"
+              }
+            ]
+          }
+        },
+        "favourites_count": 422,
+        "follow_request_sent": false,
+        "followers_count": 68435,
+        "following": false,
+        "friends_count": 3184,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23232204,
+        "id_str": "23232204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2154,
+        "location": "New York, NY",
+        "name": "Shane Goldmacher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23232204/1499714939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShaneGoldmacher",
+        "statuses_count": 57786,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UmqCI5AhUx",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1325156580053037060,
+    "quoted_status_id_str": "1325156580053037060",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ShaneGoldmache\u2026",
+      "expanded": "https://twitter.com/ShaneGoldmacher/status/1325156580053037060",
+      "url": "https://t.co/xnchcaAp0R"
+    },
+    "retweet_count": 7834,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 02 15:43:16 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Conservative #outsider working to change Washington",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "perduesenate.com",
+              "expanded_url": "https://perduesenate.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/49qXwkQHqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 284,
+      "follow_request_sent": false,
+      "followers_count": 40563,
+      "following": false,
+      "friends_count": 1401,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1397501864,
+      "id_str": "1397501864",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 563,
+      "location": "Georgia, USA",
+      "name": "David Perdue",
+      "notifications": false,
+      "profile_background_color": "114768",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397501864/1412775495",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/448525540337541120/melSxHLk_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/448525540337541120/melSxHLk_normal.png",
+      "profile_link_color": "1090C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Perduesenate",
+      "statuses_count": 3818,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/49qXwkQHqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 04 10:55:51 +0000 2020",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/K0Mj1CCpzX",
+        "expanded_url": "https://twitter.com/ForAmerica/status/1268249093509386240/video/1",
+        "id": 1268248992762167296,
+        "id_str": "1268248992762167296",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1268249093509386240,
+        "source_status_id_str": "1268249093509386240",
+        "source_user_id": 190905427,
+        "source_user_id_str": "190905427",
+        "type": "photo",
+        "url": "https://t.co/K0Mj1CCpzX"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 45445747,
+        "id_str": "45445747",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Ben Ferguson",
+        "screen_name": "benfergusonshow"
+      },
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          32,
+          48
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Sep 15 03:37:38 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Making freedom go viral, one click at a time. President: @DavidBozell",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "ForAmerica.org",
+                    "expanded_url": "http://www.ForAmerica.org",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/eNqseG9D3i"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 11316,
+            "follow_request_sent": false,
+            "followers_count": 149494,
+            "following": false,
+            "friends_count": 944,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 190905427,
+            "id_str": "190905427",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1519,
+            "location": "United States",
+            "name": "ForAmerica",
+            "notifications": false,
+            "profile_background_color": "DD2E44",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/190905427/1586626005",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "ForAmerica",
+            "statuses_count": 40005,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/eNqseG9D3i",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/K0Mj1CCpzX",
+        "expanded_url": "https://twitter.com/ForAmerica/status/1268249093509386240/video/1",
+        "id": 1268248992762167296,
+        "id_str": "1268248992762167296",
+        "indices": [
+          85,
+          108
+        ],
+        "media_url": "http://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1268249093509386240,
+        "source_status_id_str": "1268249093509386240",
+        "source_user_id": 190905427,
+        "source_user_id_str": "190905427",
+        "type": "video",
+        "url": "https://t.co/K0Mj1CCpzX",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 40874,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/1280x720/qhdyoi_4_MI-nHZ2.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/640x360/gc2Yo4oqkyVgWMu5.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1268248992762167296/pl/f9Kfxk8o7sa2lqhm.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/480x270/JWa5bN4yHDqByw-A.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @benfergusonshow: Thanks you @kayleighmcenany for stating the facts on this one:  https://t.co/K0Mj1CCpzX",
+  "geo": null,
+  "id": 1268496682670489602,
+  "id_str": "1268496682670489602",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4817,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 19:47:01 +0000 2020",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/K0Mj1CCpzX",
+          "expanded_url": "https://twitter.com/ForAmerica/status/1268249093509386240/video/1",
+          "id": 1268248992762167296,
+          "id_str": "1268248992762167296",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1268249093509386240,
+          "source_status_id_str": "1268249093509386240",
+          "source_user_id": 190905427,
+          "source_user_id_str": "190905427",
+          "type": "photo",
+          "url": "https://t.co/K0Mj1CCpzX"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 259001548,
+          "id_str": "259001548",
+          "indices": [
+            11,
+            27
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "kayleighmcenany"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Sep 15 03:37:38 +0000 2010",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Making freedom go viral, one click at a time. President: @DavidBozell",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "ForAmerica.org",
+                      "expanded_url": "http://www.ForAmerica.org",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/eNqseG9D3i"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 11316,
+              "follow_request_sent": false,
+              "followers_count": 149494,
+              "following": false,
+              "friends_count": 944,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 190905427,
+              "id_str": "190905427",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1519,
+              "location": "United States",
+              "name": "ForAmerica",
+              "notifications": false,
+              "profile_background_color": "DD2E44",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/190905427/1586626005",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "ForAmerica",
+              "statuses_count": 40005,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/eNqseG9D3i",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/K0Mj1CCpzX",
+          "expanded_url": "https://twitter.com/ForAmerica/status/1268249093509386240/video/1",
+          "id": 1268248992762167296,
+          "id_str": "1268248992762167296",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZm5u_rXsAApV7W.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1268249093509386240,
+          "source_status_id_str": "1268249093509386240",
+          "source_user_id": 190905427,
+          "source_user_id_str": "190905427",
+          "type": "video",
+          "url": "https://t.co/K0Mj1CCpzX",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 40874,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/1280x720/qhdyoi_4_MI-nHZ2.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/640x360/gc2Yo4oqkyVgWMu5.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1268248992762167296/pl/f9Kfxk8o7sa2lqhm.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268248992762167296/vid/480x270/JWa5bN4yHDqByw-A.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15190,
+    "favorited": false,
+    "full_text": "Thanks you @kayleighmcenany for stating the facts on this one:  https://t.co/K0Mj1CCpzX",
+    "geo": null,
+    "id": 1268267969697677323,
+    "id_str": "1268267969697677323",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4817,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jun 07 23:05:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Syndicated Talk Radio Host/ TV Political Commentator/Author/Saved by His grace! LOVE #MERICA #TENNIS, #BBQ #GOLF #GUNS #HOCKEY & #OLEMISS",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/thebenferguson\u2026",
+              "expanded_url": "http://www.facebook.com/thebenfergusonshow",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IWbw2Vpvz5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4980,
+      "follow_request_sent": false,
+      "followers_count": 143121,
+      "following": false,
+      "friends_count": 2762,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 45445747,
+      "id_str": "45445747",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 391,
+      "location": "",
+      "name": "Ben Ferguson",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/45445747/1580862008",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/563450661736443904/Uj9zy537_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/563450661736443904/Uj9zy537_normal.jpeg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "benfergusonshow",
+      "statuses_count": 20208,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IWbw2Vpvz5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81759360,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114811,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

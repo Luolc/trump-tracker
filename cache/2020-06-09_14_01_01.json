@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 14:01:01 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 915865389418065920,
+        "id_str": "915865389418065920",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mark Higgie",
+        "screen_name": "MarkHiggie1"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MarkHiggie1: This does not inspire much confidence in those who are supposed to protect us and to prevent anarchy. https://t.co/OKucsNV\u2026",
+  "geo": null,
+  "id": 1270355222775377921,
+  "id_str": "1270355222775377921",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8635,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 08 19:50:33 +0000 2020",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OKucsNVBci",
+          "expanded_url": "https://twitter.com/mattuthompson/status/1269708110635175936/video/1",
+          "id": 1269708024773578752,
+          "id_str": "1269708024773578752",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269708024773578752/pu/img/r76Am_dvHYz7yHz8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269708024773578752/pu/img/r76Am_dvHYz7yHz8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1269708110635175936,
+          "source_status_id_str": "1269708110635175936",
+          "source_user_id": 233180256,
+          "source_user_id_str": "233180256",
+          "type": "photo",
+          "url": "https://t.co/OKucsNVBci"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sun Jan 02 14:40:10 +0000 2011",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Senior Reporter @LBC. Ex @BBCNewsnight. Norn Irish, gym rat, linguist. Nobody has ever said anything about me worth quoting. matthew.thompson@global.com/DM open",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/mattuthompson",
+                      "expanded_url": "http://www.instagram.com/mattuthompson",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/1e0MGCuRJi"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 6534,
+              "follow_request_sent": false,
+              "followers_count": 14262,
+              "following": false,
+              "friends_count": 1930,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 233180256,
+              "id_str": "233180256",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 190,
+              "location": "London, England",
+              "name": "Matthew Thompson",
+              "notifications": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/233180256/1522938521",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1045641049308303360/J56-yHU7_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1045641049308303360/J56-yHU7_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "EEEEEE",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "mattuthompson",
+              "statuses_count": 11686,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/1e0MGCuRJi",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/OKucsNVBci",
+          "expanded_url": "https://twitter.com/mattuthompson/status/1269708110635175936/video/1",
+          "id": 1269708024773578752,
+          "id_str": "1269708024773578752",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269708024773578752/pu/img/r76Am_dvHYz7yHz8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269708024773578752/pu/img/r76Am_dvHYz7yHz8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1269708110635175936,
+          "source_status_id_str": "1269708110635175936",
+          "source_user_id": 233180256,
+          "source_user_id_str": "233180256",
+          "type": "video",
+          "url": "https://t.co/OKucsNVBci",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 45002,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1269708024773578752/pu/pl/vvZ42vjahcPJ9Ib5.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1269708024773578752/pu/vid/1280x720/P9QnwrGeK5YgZl1M.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1269708024773578752/pu/vid/480x270/YmIlDXYEPiVjp5rn.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1269708024773578752/pu/vid/640x360/l7g_PbdFEAfM2Rko.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25955,
+    "favorited": false,
+    "full_text": "This does not inspire much confidence in those who are supposed to protect us and to prevent anarchy. https://t.co/OKucsNVBci",
+    "geo": null,
+    "id": 1270080794518847490,
+    "id_str": "1270080794518847490",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              18.925169,
+              47.3494477
+            ],
+            [
+              19.3344868,
+              47.3494477
+            ],
+            [
+              19.3344868,
+              47.613013
+            ],
+            [
+              18.925169,
+              47.613013
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "Magyarorsz\u00e1g",
+      "country_code": "HU",
+      "full_name": "Budapest, Magyarorsz\u00e1g",
+      "id": "e52e231315b975c1",
+      "name": "Budapest",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/e52e231315b975c1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 8635,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 05 09:04:59 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@SpectatorOz Europe Correspondent. Senior Fellow https://t.co/jRpOcc55OQ Budapest. Former \ud83c\udde6\ud83c\uddfaambassador Brussels & Budapest & PM @HonTonyAbbott advisor",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "danubeinstitute.hu",
+              "expanded_url": "http://www.danubeinstitute.hu",
+              "indices": [
+                49,
+                72
+              ],
+              "url": "https://t.co/jRpOcc55OQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12935,
+      "follow_request_sent": false,
+      "followers_count": 11727,
+      "following": false,
+      "friends_count": 9711,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 915865389418065920,
+      "id_str": "915865389418065920",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 28,
+      "location": "Budapest & Murrumbateman",
+      "name": "Mark Higgie",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/915865389418065920/1507195209",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/915869039741763584/4oWDbgx__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/915869039741763584/4oWDbgx__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MarkHiggie1",
+      "statuses_count": 7487,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

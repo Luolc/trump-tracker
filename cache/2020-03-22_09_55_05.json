@@ -1,0 +1,531 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 09:55:05 +0000 2020",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 19218053,
+        "id_str": "19218053",
+        "indices": [
+          31,
+          46
+        ],
+        "name": "Jenn Pellegrino OAN \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "JennPellegrino"
+      },
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          47,
+          52
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Thank you @JennPellegrino @OANN",
+  "geo": null,
+  "id": 1241664690935287811,
+  "id_str": "1241664690935287811",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1241437476172038145,
+  "quoted_status_id_str": "1241437476172038145",
+  "quoted_status_permalink": {
+    "display": "twitter.com/teaboots/statu\u2026",
+    "expanded": "https://twitter.com/teaboots/status/1241437476172038145",
+    "url": "https://t.co/5TLc8LpYIP"
+  },
+  "retweet_count": 7960,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 22 03:46:46 +0000 2020",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/teaboots/statu\u2026",
+          "expanded_url": "https://twitter.com/teaboots/status/1241437476172038145",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/5TLc8LpYIP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 19218053,
+          "id_str": "19218053",
+          "indices": [
+            10,
+            25
+          ],
+          "name": "Jenn Pellegrino OAN \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "JennPellegrino"
+        },
+        {
+          "id": 1209936918,
+          "id_str": "1209936918",
+          "indices": [
+            26,
+            31
+          ],
+          "name": "One America News",
+          "screen_name": "OANN"
+        }
+      ]
+    },
+    "favorite_count": 33180,
+    "favorited": false,
+    "full_text": "Thank you @JennPellegrino @OANN https://t.co/5TLc8LpYIP",
+    "geo": null,
+    "id": 1241571999270555649,
+    "id_str": "1241571999270555649",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Mar 21 18:52:13 +0000 2020",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              237,
+              249
+            ],
+            "text": "Coronavirus"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WkcnIpFWBR",
+            "expanded_url": "https://twitter.com/PolishPatriotTM/status/1241428302105116678/video/1",
+            "id": 1241426118848188418,
+            "id_str": "1241426118848188418",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241426118848188418/pu/img/rzgj8Hu4npbKOcb0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241426118848188418/pu/img/rzgj8Hu4npbKOcb0.jpg",
+            "sizes": {
+              "large": {
+                "h": 580,
+                "resize": "fit",
+                "w": 1000
+              },
+              "medium": {
+                "h": 580,
+                "resize": "fit",
+                "w": 1000
+              },
+              "small": {
+                "h": 394,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1241428302105116678,
+            "source_status_id_str": "1241428302105116678",
+            "source_user_id": 936370195068841984,
+            "source_user_id_str": "936370195068841984",
+            "type": "photo",
+            "url": "https://t.co/WkcnIpFWBR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 19218053,
+            "id_str": "19218053",
+            "indices": [
+              84,
+              99
+            ],
+            "name": "Jenn Pellegrino OAN \ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "JennPellegrino"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Nov 30 23:03:46 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Admin of @JackPosobiec's FB page \u2022 Video editor for @WarRoom2020 \u2022 Probably the biggest Trump supporter in Poland \ud83c\uddf5\ud83c\uddf1 \u2022 Real name: Wojciech Pawelczyk",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 78724,
+                "follow_request_sent": false,
+                "followers_count": 71161,
+                "following": false,
+                "friends_count": 202,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 936370195068841984,
+                "id_str": "936370195068841984",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 251,
+                "location": "Somewhere in Poland",
+                "name": "PolishPatriot\u2122\ufe0f",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/936370195068841984/1561588201",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1144008217632092160/709adNUV_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144008217632092160/709adNUV_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "PolishPatriotTM",
+                "statuses_count": 66955,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/WkcnIpFWBR",
+            "expanded_url": "https://twitter.com/PolishPatriotTM/status/1241428302105116678/video/1",
+            "id": 1241426118848188418,
+            "id_str": "1241426118848188418",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241426118848188418/pu/img/rzgj8Hu4npbKOcb0.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241426118848188418/pu/img/rzgj8Hu4npbKOcb0.jpg",
+            "sizes": {
+              "large": {
+                "h": 580,
+                "resize": "fit",
+                "w": 1000
+              },
+              "medium": {
+                "h": 580,
+                "resize": "fit",
+                "w": 1000
+              },
+              "small": {
+                "h": 394,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1241428302105116678,
+            "source_status_id_str": "1241428302105116678",
+            "source_user_id": 936370195068841984,
+            "source_user_id_str": "936370195068841984",
+            "type": "video",
+            "url": "https://t.co/WkcnIpFWBR",
+            "video_info": {
+              "aspect_ratio": [
+                50,
+                29
+              ],
+              "duration_millis": 127244,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1241426118848188418/pu/vid/1000x580/_tp36Y1i8yYcS6wd.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1241426118848188418/pu/vid/620x360/fUgn7hvTx9Gx4L5d.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1241426118848188418/pu/vid/464x270/rN9zmeHbn4xvKs4z.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1241426118848188418/pu/pl/Hb8SV4NHre7-YbJe.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 16705,
+      "favorited": false,
+      "full_text": "\u201cI love whoever you work for ..This is a very nice question\u201d \n\nOAN WH Correspondent @JennPellegrino -This Press has RESPECT \n\nPresident Trump on the Washington Post..They write inaccurately about me every single day, every single hour...#Coronavirus  \n\nhttps://t.co/WkcnIpFWBR",
+      "geo": null,
+      "id": 1241437476172038145,
+      "id_str": "1241437476172038145",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5941,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jul 23 23:06:45 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\u2764\ufe0fPresident Trump. Please no \ud83d\udeabDM\u2019S =Insta Block",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 95428,
+        "follow_request_sent": false,
+        "followers_count": 53165,
+        "following": false,
+        "friends_count": 29525,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 756988954755395584,
+        "id_str": "756988954755395584",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 15,
+        "location": "United States",
+        "name": "Ruthann",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756988954755395584/1538333922",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1210523727299039232/SCnKJoUe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1210523727299039232/SCnKJoUe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TeaBoots",
+        "statuses_count": 161152,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1241437476172038145,
+    "quoted_status_id_str": "1241437476172038145",
+    "quoted_status_permalink": {
+      "display": "twitter.com/teaboots/statu\u2026",
+      "expanded": "https://twitter.com/teaboots/status/1241437476172038145",
+      "url": "https://t.co/5TLc8LpYIP"
+    },
+    "retweet_count": 7960,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 74712348,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 117262,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 50044,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

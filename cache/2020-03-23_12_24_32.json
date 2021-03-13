@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 23 12:24:32 +0000 2020",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TomFitton: Surprise!  Destruction of the economy leads to less traffic and pollution.",
+  "geo": null,
+  "id": 1242064688067854336,
+  "id_str": "1242064688067854336",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1241956605266219008,
+  "quoted_status_id_str": "1241956605266219008",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nytimes/status\u2026",
+    "expanded": "https://twitter.com/nytimes/status/1241956605266219008",
+    "url": "https://t.co/yuggW6wMYr"
+  },
+  "retweet_count": 1417,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 23 05:45:06 +0000 2020",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nytimes/status\u2026",
+          "expanded_url": "https://twitter.com/nytimes/status/1241956605266219008",
+          "indices": [
+            75,
+            98
+          ],
+          "url": "https://t.co/yuggW6wMYr"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 4427,
+    "favorited": false,
+    "full_text": "Surprise!  Destruction of the economy leads to less traffic and pollution. https://t.co/yuggW6wMYr",
+    "geo": null,
+    "id": 1241964164324691970,
+    "id_str": "1241964164324691970",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Mar 23 05:15:03 +0000 2020",
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "nyti.ms/2J4tVnP",
+            "expanded_url": "https://nyti.ms/2J4tVnP",
+            "indices": [
+              186,
+              209
+            ],
+            "url": "https://t.co/eQ3GOxCKZO"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 923,
+      "favorited": false,
+      "full_text": "In cities across the U.S., traffic on roads and highways has fallen dramatically over the past week as the\u00a0coronavirus outbreak\u00a0forces people to stay at home. Pollution has dropped too. https://t.co/eQ3GOxCKZO",
+      "geo": null,
+      "id": 1241956605266219008,
+      "id_str": "1241956605266219008",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 277,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyti.ms/2FVHq9v",
+                "expanded_url": "http://nyti.ms/2FVHq9v",
+                "indices": [
+                  28,
+                  51
+                ],
+                "url": "https://t.co/ghL9OoYKMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nytimes.com",
+                "expanded_url": "http://www.nytimes.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/ahvuWqicF9"
+              }
+            ]
+          }
+        },
+        "favourites_count": 18438,
+        "follow_request_sent": false,
+        "followers_count": 45729952,
+        "following": false,
+        "friends_count": 899,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 807095,
+        "id_str": "807095",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 205042,
+        "location": "New York City",
+        "name": "The New York Times",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_link_color": "607696",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nytimes",
+        "statuses_count": 390194,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ahvuWqicF9",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1241956605266219008,
+    "quoted_status_id_str": "1241956605266219008",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nytimes/status\u2026",
+      "expanded": "https://twitter.com/nytimes/status/1241956605266219008",
+      "url": "https://t.co/yuggW6wMYr"
+    },
+    "retweet_count": 1417,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/tomfitton",
+              "expanded_url": "https://www.instagram.com/tomfitton",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/midr73gi0A"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JudicialWatch.org",
+              "expanded_url": "http://www.JudicialWatch.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ebnjxMYdbL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 500,
+      "follow_request_sent": false,
+      "followers_count": 846334,
+      "following": false,
+      "friends_count": 3150,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18266688,
+      "id_str": "18266688",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3096,
+      "location": "Washington, DC",
+      "name": "Tom Fitton",
+      "notifications": false,
+      "profile_background_color": "568448",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ECD295",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TomFitton",
+      "statuses_count": 34821,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/ebnjxMYdbL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74842210,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117395,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50101,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 24 00:40:30 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 406290234,
+        "id_str": "406290234",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ivan #PenceCard Raiklin",
+        "screen_name": "Raiklin"
+      },
+      {
+        "id": 818910970567344128,
+        "id_str": "818910970567344128",
+        "indices": [
+          22,
+          25
+        ],
+        "name": "Vice President Mike Pence",
+        "screen_name": "VP"
+      },
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          26,
+          37
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Raiklin: America, @VP @Mike_Pence MUST do this, tomorrow! \n\nTo defend our Constitution from our enemies:\n\nForeign: China, Russia, Iran\u2026",
+  "geo": null,
+  "id": 1341906561682309122,
+  "id_str": "1341906561682309122",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 20328,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 22 23:07:26 +0000 2020",
+    "display_text_range": [
+      0,
+      254
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GvBAlzeGFg",
+          "expanded_url": "https://twitter.com/Raiklin/status/1341520753984942081/photo/1",
+          "id": 1341520087241678855,
+          "id_str": "1341520087241678855",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep4JaWMXYAcPM4P.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep4JaWMXYAcPM4P.jpg",
+          "sizes": {
+            "large": {
+              "h": 1238,
+              "resize": "fit",
+              "w": 1038
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1006
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 570
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GvBAlzeGFg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 818910970567344128,
+          "id_str": "818910970567344128",
+          "indices": [
+            9,
+            12
+          ],
+          "name": "Vice President Mike Pence",
+          "screen_name": "VP"
+        },
+        {
+          "id": 22203756,
+          "id_str": "22203756",
+          "indices": [
+            13,
+            24
+          ],
+          "name": "Mike Pence",
+          "screen_name": "Mike_Pence"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/GvBAlzeGFg",
+          "expanded_url": "https://twitter.com/Raiklin/status/1341520753984942081/photo/1",
+          "id": 1341520087241678855,
+          "id_str": "1341520087241678855",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep4JaWMXYAcPM4P.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep4JaWMXYAcPM4P.jpg",
+          "sizes": {
+            "large": {
+              "h": 1238,
+              "resize": "fit",
+              "w": 1038
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1006
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 570
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GvBAlzeGFg"
+        },
+        {
+          "display_url": "pic.twitter.com/GvBAlzeGFg",
+          "expanded_url": "https://twitter.com/Raiklin/status/1341520753984942081/photo/1",
+          "id": 1341520087392641024,
+          "id_str": "1341520087392641024",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep4JaWwW4AA4B5r.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ep4JaWwW4AA4B5r.jpg",
+          "sizes": {
+            "large": {
+              "h": 1220,
+              "resize": "fit",
+              "w": 1020
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1003
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 569
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GvBAlzeGFg"
+        },
+        {
+          "display_url": "pic.twitter.com/GvBAlzeGFg",
+          "expanded_url": "https://twitter.com/Raiklin/status/1341520753984942081/photo/1",
+          "id": 1341520087585570816,
+          "id_str": "1341520087585570816",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ep4JaXeWwAAbDs8.png",
+          "media_url_https": "https://pbs.twimg.com/media/Ep4JaXeWwAAbDs8.png",
+          "sizes": {
+            "large": {
+              "h": 1206,
+              "resize": "fit",
+              "w": 978
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 973
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 551
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/GvBAlzeGFg"
+        }
+      ]
+    },
+    "favorite_count": 55351,
+    "favorited": false,
+    "full_text": "America, @VP @Mike_Pence MUST do this, tomorrow! \n\nTo defend our Constitution from our enemies:\n\nForeign: China, Russia, Iran\n\n&amp;\n\nDomestic:  BigTech Censorship, MSM Censorship, Corrupt Officials at the Federal, State, and Local levels!\n\nLet him know! https://t.co/GvBAlzeGFg",
+    "geo": null,
+    "id": 1341520753984942081,
+    "id_str": "1341520753984942081",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20328,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 06 14:18:45 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Constitutional Lawyer| Trump wins, worst scenario in contingent election (#12A) in Congress 26-22-2 on Jan 6 | #FightLikeAFlynn #VeteransForTrump #TeamSidney",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "paypal.me/raiklin",
+              "expanded_url": "http://paypal.me/raiklin",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xXTaz8gmfK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 31156,
+      "follow_request_sent": false,
+      "followers_count": 181641,
+      "following": false,
+      "friends_count": 130,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 406290234,
+      "id_str": "406290234",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1422,
+      "location": "United States",
+      "name": "Happy Birthday @GenFlynn !!!",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/406290234/1604523588",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1324125503633182723/o0puCjM3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324125503633182723/o0puCjM3_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Raiklin",
+      "statuses_count": 985,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xXTaz8gmfK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88598955,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 126097,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59317,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

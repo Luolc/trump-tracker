@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 17 19:33:30 +0000 2020",
+  "display_text_range": [
+    0,
+    93
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21149655,
+        "id_str": "21149655",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Arthur Schwartz",
+        "screen_name": "ArthurSchwartz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ArthurSchwartz: Joe is losing his cool. Sounds like the NY Post is right over the target.",
+  "geo": null,
+  "id": 1317549315666055168,
+  "id_str": "1317549315666055168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1317275294194085888,
+  "quoted_status_id_str": "1317275294194085888",
+  "quoted_status_permalink": {
+    "display": "twitter.com/boknowsnews/st\u2026",
+    "expanded": "https://twitter.com/boknowsnews/status/1317275294194085888",
+    "url": "https://t.co/mCo9S7nlLm"
+  },
+  "retweet_count": 11179,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 17 01:35:44 +0000 2020",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/boknowsnews/st\u2026",
+          "expanded_url": "https://twitter.com/boknowsnews/status/1317275294194085888",
+          "indices": [
+            74,
+            97
+          ],
+          "url": "https://t.co/mCo9S7nlLm"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 30759,
+    "favorited": false,
+    "full_text": "Joe is losing his cool. Sounds like the NY Post is right over the target. https://t.co/mCo9S7nlLm",
+    "geo": null,
+    "id": 1317278088334626816,
+    "id_str": "1317278088334626816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 17 01:24:38 +0000 2020",
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Eo6VD4TqxD",
+            "expanded_url": "https://twitter.com/BoKnowsNews/status/1317275294194085888/video/1",
+            "id": 1317275231782903809,
+            "id_str": "1317275231782903809",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317275231782903809/pu/img/fryXCcRUmiRff1Pv.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317275231782903809/pu/img/fryXCcRUmiRff1Pv.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Eo6VD4TqxD"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/Eo6VD4TqxD",
+            "expanded_url": "https://twitter.com/BoKnowsNews/status/1317275294194085888/video/1",
+            "id": 1317275231782903809,
+            "id_str": "1317275231782903809",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317275231782903809/pu/img/fryXCcRUmiRff1Pv.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317275231782903809/pu/img/fryXCcRUmiRff1Pv.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/Eo6VD4TqxD",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 12667,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1317275231782903809/pu/vid/1280x720/V7Eii65R397hgpzB.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1317275231782903809/pu/vid/640x360/pWQyi8WNLoiW9DR5.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1317275231782903809/pu/vid/480x270/CdamkhpSQZ6ncmYa.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1317275231782903809/pu/pl/paKlKIWlcGTELvR4.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 69893,
+      "favorited": false,
+      "full_text": "I asked Joe Biden: What is your response to the NYPost story about your son, sir?\n\nHe called it a \u201csmear campaign\u201d and then went after me. \u201cI know you\u2019d ask it. I have no response, it\u2019s another smear campaign, right up your alley, those are the questions you always ask.\u201d https://t.co/Eo6VD4TqxD",
+      "geo": null,
+      "id": 1317275294194085888,
+      "id_str": "1317275294194085888",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 32025,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 08 20:59:25 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@CBSNews 2020 campaign reporter following @JoeBiden. Has lots of questions. ericksonb@cbsnews.com \ud83d\udcde On Signal or DM.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cbsnews.com/feature/bo-eri\u2026",
+                "expanded_url": "https://www.cbsnews.com/feature/bo-erickson/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Hh67NTmYkw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1504,
+        "follow_request_sent": false,
+        "followers_count": 27948,
+        "following": false,
+        "friends_count": 807,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2717961126,
+        "id_str": "2717961126",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 470,
+        "location": "Washington DC",
+        "name": "Bo Erickson CBS",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2717961126/1557415463",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1254169073426071552/o5WMO7qc_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254169073426071552/o5WMO7qc_normal.jpg",
+        "profile_link_color": "DF0101",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "BoKnowsNews",
+        "statuses_count": 6206,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Hh67NTmYkw",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1317275294194085888,
+    "quoted_status_id_str": "1317275294194085888",
+    "quoted_status_permalink": {
+      "display": "twitter.com/boknowsnews/st\u2026",
+      "expanded": "https://twitter.com/boknowsnews/status/1317275294194085888",
+      "url": "https://t.co/mCo9S7nlLm"
+    },
+    "retweet_count": 11179,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 00:09:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 4222,
+      "follow_request_sent": false,
+      "followers_count": 109004,
+      "following": false,
+      "friends_count": 170,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21149655,
+      "id_str": "21149655",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 535,
+      "location": "Virginia",
+      "name": "Arthur Schwartz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149655/1596143662",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ArthurSchwartz",
+      "statuses_count": 5376,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87287005,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121473,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57324,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

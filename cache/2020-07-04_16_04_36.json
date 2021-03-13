@@ -1,0 +1,308 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 16:04:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          81,
+          96
+        ],
+        "text": "Happy4thofJuly"
+      },
+      {
+        "indices": [
+          97,
+          118
+        ],
+        "text": "HappyIndependenceDay"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20076659,
+        "id_str": "20076659",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "MediaResearchCenter",
+        "screen_name": "theMRC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @theMRC: Happy Independence Day, from all of us at the Media Research Center! #Happy4thofJuly #HappyIndependenceDay https://t.co/J0AMfg9\u2026",
+  "geo": null,
+  "id": 1279446018984226818,
+  "id_str": "1279446018984226818",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2834,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 13:10:00 +0000 2020",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            69,
+            84
+          ],
+          "text": "Happy4thofJuly"
+        },
+        {
+          "indices": [
+            85,
+            106
+          ],
+          "text": "HappyIndependenceDay"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/J0AMfg9Hq9",
+          "expanded_url": "https://twitter.com/theMRC/status/1279402078109003776/photo/1",
+          "id": 1279321676778541056,
+          "id_str": "1279321676778541056",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcEQSXHXkAANXag.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcEQSXHXkAANXag.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J0AMfg9Hq9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/J0AMfg9Hq9",
+          "expanded_url": "https://twitter.com/theMRC/status/1279402078109003776/photo/1",
+          "id": 1279321676778541056,
+          "id_str": "1279321676778541056",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcEQSXHXkAANXag.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcEQSXHXkAANXag.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/J0AMfg9Hq9"
+        }
+      ]
+    },
+    "favorite_count": 10812,
+    "favorited": false,
+    "full_text": "Happy Independence Day, from all of us at the Media Research Center! #Happy4thofJuly #HappyIndependenceDay https://t.co/J0AMfg9Hq9",
+    "geo": null,
+    "id": 1279402078109003776,
+    "id_str": "1279402078109003776",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2834,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 04 18:24:50 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "America's Media Watchdog. Parent company of @NewsBusters, @CNSNews, and @MRCTV.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/mediaresearchc\u2026",
+              "expanded_url": "http://facebook.com/mediaresearchcenter",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/fnhTFHRZaR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 650,
+      "follow_request_sent": false,
+      "followers_count": 174710,
+      "following": false,
+      "friends_count": 267,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20076659,
+      "id_str": "20076659",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2144,
+      "location": "DC Metro Area",
+      "name": "MediaResearchCenter",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20076659/1578929666",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1219696568640720896/QSJed5QC_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219696568640720896/QSJed5QC_normal.png",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "theMRC",
+      "statuses_count": 52829,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/fnhTFHRZaR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

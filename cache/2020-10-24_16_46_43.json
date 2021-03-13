@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 24 16:46:43 +0000 2020",
+  "display_text_range": [
+    0,
+    37
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25429371,
+        "id_str": "25429371",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Katrina Pierson",
+        "screen_name": "KatrinaPierson"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KatrinaPierson: \ud83e\udd23\ud83e\udd23\ud83e\udd23 TRUMP 2020 \ud83c\uddfa\ud83c\uddf8",
+  "geo": null,
+  "id": 1320044058035695619,
+  "id_str": "1320044058035695619",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1319467889003474944,
+  "quoted_status_id_str": "1319467889003474944",
+  "quoted_status_permalink": {
+    "display": "twitter.com/CillizzaCNN/st\u2026",
+    "expanded": "https://twitter.com/CillizzaCNN/status/1319467889003474944",
+    "url": "https://t.co/uxvT4dLunl"
+  },
+  "retweet_count": 4417,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 14:22:50 +0000 2020",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/CillizzaCNN/st\u2026",
+          "expanded_url": "https://twitter.com/CillizzaCNN/status/1319467889003474944",
+          "indices": [
+            18,
+            41
+          ],
+          "url": "https://t.co/uxvT4dLunl"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 24840,
+    "favorited": false,
+    "full_text": "\ud83e\udd23\ud83e\udd23\ud83e\udd23 TRUMP 2020 \ud83c\uddfa\ud83c\uddf8 https://t.co/uxvT4dLunl",
+    "geo": null,
+    "id": 1319645462744453121,
+    "id_str": "1319645462744453121",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Oct 23 02:37:13 +0000 2020",
+      "display_text_range": [
+        0,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 8731,
+      "favorited": false,
+      "full_text": "Who won the debate?",
+      "geo": null,
+      "id": 1319467889003474944,
+      "id_str": "1319467889003474944",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 9385,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 20:34:24 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "CNN. I have a You Tube show: https://t.co/q4KLvOl9Cf. \n\nhttps://t.co/PMtfvSzLz8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2MHizYZ",
+                "expanded_url": "http://bit.ly/2MHizYZ",
+                "indices": [
+                  29,
+                  52
+                ],
+                "url": "https://t.co/q4KLvOl9Cf"
+              },
+              {
+                "display_url": "instagram.com/CILLIZZAC/",
+                "expanded_url": "https://www.instagram.com/CILLIZZAC/",
+                "indices": [
+                  56,
+                  79
+                ],
+                "url": "https://t.co/PMtfvSzLz8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "CNN.com/ThePoint",
+                "expanded_url": "http://CNN.com/ThePoint",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/VM2JQsQH6X"
+              }
+            ]
+          }
+        },
+        "favourites_count": 227,
+        "follow_request_sent": false,
+        "followers_count": 660744,
+        "following": false,
+        "friends_count": 3738,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14412533,
+        "id_str": "14412533",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9226,
+        "location": "Washington, D.C.",
+        "name": "Chris Cillizza",
+        "notifications": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14412533/1498647512",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1175116351054200834/PRPGJx2v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1175116351054200834/PRPGJx2v_normal.jpg",
+        "profile_link_color": "A81B1B",
+        "profile_sidebar_border_color": "5E8B9C",
+        "profile_sidebar_fill_color": "8EA5BF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CillizzaCNN",
+        "statuses_count": 147170,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/VM2JQsQH6X",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1319467889003474944,
+    "quoted_status_id_str": "1319467889003474944",
+    "quoted_status_permalink": {
+      "display": "twitter.com/CillizzaCNN/st\u2026",
+      "expanded": "https://twitter.com/CillizzaCNN/status/1319467889003474944",
+      "url": "https://t.co/uxvT4dLunl"
+    },
+    "retweet_count": 4417,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 20 01:25:06 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sr. Advisor - @realdonaldtrump 2020 \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/katrinapierson/",
+              "expanded_url": "https://www.instagram.com/katrinapierson/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NVNJJyeCy9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7462,
+      "follow_request_sent": false,
+      "followers_count": 685225,
+      "following": false,
+      "friends_count": 2321,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 25429371,
+      "id_str": "25429371",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3064,
+      "location": "Washington, DC",
+      "name": "Katrina Pierson",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25429371/1598106495",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1296943735838855168/BH_kjsIw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296943735838855168/BH_kjsIw_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "191F22",
+      "profile_text_color": "4BB7DF",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KatrinaPierson",
+      "statuses_count": 55684,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NVNJJyeCy9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

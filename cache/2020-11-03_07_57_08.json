@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 03 07:57:08 +0000 2020",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/85ySh1KYkh",
+        "expanded_url": "https://twitter.com/som3thingwicked/status/1323300764853350401/video/1",
+        "id": 1323298431088107520,
+        "id_str": "1323298431088107520",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1323298431088107520/img/XSsqukn6q0bMx8Dj.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323298431088107520/img/XSsqukn6q0bMx8Dj.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1323300764853350401,
+        "source_status_id_str": "1323300764853350401",
+        "source_user_id": 41144411,
+        "source_user_id_str": "41144411",
+        "type": "photo",
+        "url": "https://t.co/85ySh1KYkh"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "Trump dancing to YMCA",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 19 16:03:13 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Digital graffiti \ud83c\udccf",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/c/SOMETHiNGWiC\u2026",
+                    "expanded_url": "https://www.youtube.com/c/SOMETHiNGWiCK%C3%8BD",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/3YXwZ2lbMu"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 34050,
+            "follow_request_sent": false,
+            "followers_count": 54689,
+            "following": false,
+            "friends_count": 97,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 41144411,
+            "id_str": "41144411",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 242,
+            "location": "Texas",
+            "name": "4 MORE YEARS - #JoinTheMovement #VoteToday",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/41144411/1604384914",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1209682805011230725/IN6dZvfH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1209682805011230725/IN6dZvfH_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "som3thingwicked",
+            "statuses_count": 14107,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/3YXwZ2lbMu",
+            "utc_offset": null,
+            "verified": false
+          },
+          "title": "POTUS knows how to close a show!"
+        },
+        "display_url": "pic.twitter.com/85ySh1KYkh",
+        "expanded_url": "https://twitter.com/som3thingwicked/status/1323300764853350401/video/1",
+        "id": 1323298431088107520,
+        "id_str": "1323298431088107520",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1323298431088107520/img/XSsqukn6q0bMx8Dj.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323298431088107520/img/XSsqukn6q0bMx8Dj.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1323300764853350401,
+        "source_status_id_str": "1323300764853350401",
+        "source_user_id": 41144411,
+        "source_user_id_str": "41144411",
+        "type": "video",
+        "url": "https://t.co/85ySh1KYkh",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 132366,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1323298431088107520/vid/640x360/-xn4g30YvnwdA9IC.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1323298431088107520/vid/480x270/Fbn1Q_eTWKPMvrIw.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1323298431088107520/vid/1280x720/ko9kWFOoAhotnGb5.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1323298431088107520/pl/rc4vG5ucYS8s05M9.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 861875,
+  "favorited": false,
+  "full_text": "VOTE! VOTE! VOTE!\nhttps://t.co/85ySh1KYkh",
+  "geo": null,
+  "id": 1323534663453913093,
+  "id_str": "1323534663453913093",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "fr",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 165447,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87803909,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 123179,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58120,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

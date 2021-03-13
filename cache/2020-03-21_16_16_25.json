@@ -1,0 +1,531 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 21 16:16:25 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 264501955,
+        "id_str": "264501955",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Michael Coudrey",
+        "screen_name": "MichaelCoudrey"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MichaelCoudrey: NEW DATA: A French study has demonstrated evidence that the combination of Hydroxychloroquine &amp; Azithromycin are highly\u2026",
+  "geo": null,
+  "id": 1241398266941657093,
+  "id_str": "1241398266941657093",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1240143162510893058,
+  "quoted_status_id_str": "1240143162510893058",
+  "quoted_status_permalink": {
+    "display": "twitter.com/michaelcoudrey\u2026",
+    "expanded": "https://twitter.com/michaelcoudrey/status/1240143162510893058",
+    "url": "https://t.co/WnGs5PKOpn"
+  },
+  "retweet_count": 25931,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 21 13:23:04 +0000 2020",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JZzZ66w4rL",
+          "expanded_url": "https://twitter.com/MichaelCoudrey/status/1241354642417577986/photo/1",
+          "id": 1241354629230628865,
+          "id_str": "1241354629230628865",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETotdVOUEAEENUC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETotdVOUEAEENUC.jpg",
+          "sizes": {
+            "large": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "medium": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "small": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JZzZ66w4rL"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/michaelcoudrey\u2026",
+          "expanded_url": "https://twitter.com/michaelcoudrey/status/1240143162510893058",
+          "indices": [
+            259,
+            282
+          ],
+          "url": "https://t.co/WnGs5PKOpn"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JZzZ66w4rL",
+          "expanded_url": "https://twitter.com/MichaelCoudrey/status/1241354642417577986/photo/1",
+          "id": 1241354629230628865,
+          "id_str": "1241354629230628865",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETotdVOUEAEENUC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETotdVOUEAEENUC.jpg",
+          "sizes": {
+            "large": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "medium": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "small": {
+              "h": 407,
+              "resize": "fit",
+              "w": 639
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JZzZ66w4rL"
+        }
+      ]
+    },
+    "favorite_count": 50762,
+    "favorited": false,
+    "full_text": "NEW DATA: A French study has demonstrated evidence that the combination of Hydroxychloroquine &amp; Azithromycin are highly effective in treating Covid-19.\n\nThe patients enrolled in the study showed complete viral eradication around the 5th day of treatment. https://t.co/WnGs5PKOpn https://t.co/JZzZ66w4rL",
+    "geo": null,
+    "id": 1241354642417577986,
+    "id_str": "1241354642417577986",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Mar 18 05:09:05 +0000 2020",
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XXDamhYmvn",
+            "expanded_url": "https://twitter.com/MichaelCoudrey/status/1240143162510893058/photo/1",
+            "id": 1240143157930713094,
+            "id_str": "1240143157930713094",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETXfoa8XYAYOudH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETXfoa8XYAYOudH.jpg",
+            "sizes": {
+              "large": {
+                "h": 471,
+                "resize": "fit",
+                "w": 824
+              },
+              "medium": {
+                "h": 471,
+                "resize": "fit",
+                "w": 824
+              },
+              "small": {
+                "h": 389,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XXDamhYmvn"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XXDamhYmvn",
+            "expanded_url": "https://twitter.com/MichaelCoudrey/status/1240143162510893058/photo/1",
+            "id": 1240143157930713094,
+            "id_str": "1240143157930713094",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETXfoa8XYAYOudH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETXfoa8XYAYOudH.jpg",
+            "sizes": {
+              "large": {
+                "h": 471,
+                "resize": "fit",
+                "w": 824
+              },
+              "medium": {
+                "h": 471,
+                "resize": "fit",
+                "w": 824
+              },
+              "small": {
+                "h": 389,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XXDamhYmvn"
+          },
+          {
+            "display_url": "pic.twitter.com/XXDamhYmvn",
+            "expanded_url": "https://twitter.com/MichaelCoudrey/status/1240143162510893058/photo/1",
+            "id": 1240143157997776897,
+            "id_str": "1240143157997776897",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETXfobMWsAE2St0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETXfobMWsAE2St0.jpg",
+            "sizes": {
+              "large": {
+                "h": 977,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 944,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 535,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XXDamhYmvn"
+          }
+        ]
+      },
+      "favorite_count": 7703,
+      "favorited": false,
+      "full_text": "BREAKING: There is an anti-malaria drug called Hydroxychloroquine that looks to be highly effective at treating Coronavirus. \n\nInitial tests show that on a dose of 600mg, 90% of infected COVID-19 patients tested negative in just 6 days. https://t.co/XXDamhYmvn",
+      "geo": null,
+      "id": 1240143162510893058,
+      "id_str": "1240143162510893058",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4982,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 12 00:56:35 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Entrepreneur. Activist. Investor. CEO: https://t.co/OCCa0bUzj8 - Social Media For Politicians & Organizations. \nMedia Requests: Michael@PharosInvestmentGroup.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "YukoSocial.com",
+                "expanded_url": "http://YukoSocial.com",
+                "indices": [
+                  39,
+                  62
+                ],
+                "url": "https://t.co/OCCa0bUzj8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "michaelcoudrey.com",
+                "expanded_url": "http://michaelcoudrey.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/C5bUW9CqVW"
+              }
+            ]
+          }
+        },
+        "favourites_count": 93916,
+        "follow_request_sent": false,
+        "followers_count": 221548,
+        "following": false,
+        "friends_count": 98,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 264501955,
+        "id_str": "264501955",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1606,
+        "location": "",
+        "name": "Michael Coudrey",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/264501955/1579416056",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MichaelCoudrey",
+        "statuses_count": 8953,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/C5bUW9CqVW",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1240143162510893058,
+    "quoted_status_id_str": "1240143162510893058",
+    "quoted_status_permalink": {
+      "display": "twitter.com/michaelcoudrey\u2026",
+      "expanded": "https://twitter.com/michaelcoudrey/status/1240143162510893058",
+      "url": "https://t.co/WnGs5PKOpn"
+    },
+    "retweet_count": 25931,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 12 00:56:35 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Entrepreneur. Activist. Investor. CEO: https://t.co/OCCa0bUzj8 - Social Media For Politicians & Organizations. \nMedia Requests: Michael@PharosInvestmentGroup.com",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "YukoSocial.com",
+              "expanded_url": "http://YukoSocial.com",
+              "indices": [
+                39,
+                62
+              ],
+              "url": "https://t.co/OCCa0bUzj8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "michaelcoudrey.com",
+              "expanded_url": "http://michaelcoudrey.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/C5bUW9CqVW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 93916,
+      "follow_request_sent": false,
+      "followers_count": 221548,
+      "following": false,
+      "friends_count": 98,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 264501955,
+      "id_str": "264501955",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1606,
+      "location": "",
+      "name": "Michael Coudrey",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264501955/1579416056",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241630257481826307/dYPhsQYa_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MichaelCoudrey",
+      "statuses_count": 8953,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/C5bUW9CqVW",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

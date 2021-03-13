@@ -1,0 +1,495 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 11:32:19 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          109,
+          123
+        ],
+        "text": "CapeCanaveral"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 229966028,
+        "id_str": "229966028",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Senator Rubio Press",
+        "screen_name": "SenRubioPress"
+      },
+      {
+        "id": 34743251,
+        "id_str": "34743251",
+        "indices": [
+          32,
+          39
+        ],
+        "name": "SpaceX",
+        "screen_name": "SpaceX"
+      },
+      {
+        "id": 16580226,
+        "id_str": "16580226",
+        "indices": [
+          80,
+          92
+        ],
+        "name": "NASA's Kennedy Space Center",
+        "screen_name": "NASAKennedy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenRubioPress: Great to see @SpaceX complete another successful launch from @NASAKennedy Space Center in #CapeCanaveral tonight. Sen Ru\u2026",
+  "geo": null,
+  "id": 1268868247450984451,
+  "id_str": "1268868247450984451",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1268353394810339328,
+  "quoted_status_id_str": "1268353394810339328",
+  "quoted_status_permalink": {
+    "display": "twitter.com/spacex/status/\u2026",
+    "expanded": "https://twitter.com/spacex/status/1268353394810339328",
+    "url": "https://t.co/lTbJ5M7SWB"
+  },
+  "retweet_count": 1664,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 04 01:29:10 +0000 2020",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            90,
+            104
+          ],
+          "text": "CapeCanaveral"
+        },
+        {
+          "indices": [
+            188,
+            202
+          ],
+          "text": "spaceindustry"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/spacex/status/\u2026",
+          "expanded_url": "https://twitter.com/spacex/status/1268353394810339328",
+          "indices": [
+            285,
+            308
+          ],
+          "url": "https://t.co/lTbJ5M7SWB"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 34743251,
+          "id_str": "34743251",
+          "indices": [
+            13,
+            20
+          ],
+          "name": "SpaceX",
+          "screen_name": "SpaceX"
+        },
+        {
+          "id": 16580226,
+          "id_str": "16580226",
+          "indices": [
+            61,
+            73
+          ],
+          "name": "NASA's Kennedy Space Center",
+          "screen_name": "NASAKennedy"
+        }
+      ]
+    },
+    "favorite_count": 7233,
+    "favorited": false,
+    "full_text": "Great to see @SpaceX complete another successful launch from @NASAKennedy Space Center in #CapeCanaveral tonight. Sen Rubio recognizes the importance of public-private partnerships in the #spaceindustry &amp; is committed to strengthening them through his American Space Commerce Act. https://t.co/lTbJ5M7SWB",
+    "geo": null,
+    "id": 1268354070827487232,
+    "id_str": "1268354070827487232",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jun 04 01:26:28 +0000 2020",
+      "display_text_range": [
+        0,
+        8
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/N0INm0pPAb",
+            "expanded_url": "https://twitter.com/SpaceX/status/1268353394810339328/video/1",
+            "id": 1268353323981107201,
+            "id_str": "1268353323981107201",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1268353323981107201/img/Eddh5Vizmb_zkjWs.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268353323981107201/img/Eddh5Vizmb_zkjWs.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/N0INm0pPAb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/N0INm0pPAb",
+            "expanded_url": "https://twitter.com/SpaceX/status/1268353394810339328/video/1",
+            "id": 1268353323981107201,
+            "id_str": "1268353323981107201",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1268353323981107201/img/Eddh5Vizmb_zkjWs.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1268353323981107201/img/Eddh5Vizmb_zkjWs.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/N0INm0pPAb",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 28426,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268353323981107201/vid/480x270/9ProNcLHX1Ec8HnU.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1268353323981107201/pl/Kt5jMmcvvB6VozJw.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268353323981107201/vid/640x360/AfhUBqE-bJ6mkQCf.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268353323981107201/vid/1280x720/_UmRld2t0_QVwvKZ.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 76151,
+      "favorited": false,
+      "full_text": "Liftoff! https://t.co/N0INm0pPAb",
+      "geo": null,
+      "id": 1268353394810339328,
+      "id_str": "1268353394810339328",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 10136,
+      "retweeted": false,
+      "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Apr 23 21:53:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "SpaceX designs, manufactures and launches the world\u2019s most advanced rockets and spacecraft",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com",
+                "expanded_url": "http://www.spacex.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/SDnmlLwwoK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 149,
+        "follow_request_sent": false,
+        "followers_count": 11628799,
+        "following": false,
+        "friends_count": 90,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 34743251,
+        "id_str": "34743251",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25957,
+        "location": "Hawthorne, CA",
+        "name": "SpaceX",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/34743251/1591316434",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082744382585856001/rH_k3PtQ_normal.jpg",
+        "profile_link_color": "62616B",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SpaceX",
+        "statuses_count": 4778,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/SDnmlLwwoK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1268353394810339328,
+    "quoted_status_id_str": "1268353394810339328",
+    "quoted_status_permalink": {
+      "display": "twitter.com/spacex/status/\u2026",
+      "expanded": "https://twitter.com/spacex/status/1268353394810339328",
+      "url": "https://t.co/lTbJ5M7SWB"
+    },
+    "retweet_count": 1664,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 23 21:22:47 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator Marco Rubio\u2019s press shop. For more information please visit his website",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rubio.senate.gov",
+              "expanded_url": "http://rubio.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TiIO1bPBQw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 75,
+      "follow_request_sent": false,
+      "followers_count": 131918,
+      "following": false,
+      "friends_count": 582,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 229966028,
+      "id_str": "229966028",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1599,
+      "location": "Florida, USA",
+      "name": "Senator Rubio Press",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/229966028/1486679186",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951541361483894784/ZWLWOoil_normal.jpg",
+      "profile_link_color": "962121",
+      "profile_sidebar_border_color": "DBDBDB",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "777777",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenRubioPress",
+      "statuses_count": 10682,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TiIO1bPBQw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

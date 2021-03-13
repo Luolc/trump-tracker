@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 13 11:49:16 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18029328,
+        "id_str": "18029328",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Paul Bedard",
+        "screen_name": "SecretsBedard"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          34,
+          50
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 817110760518254598,
+        "id_str": "817110760518254598",
+        "indices": [
+          77,
+          90
+        ],
+        "name": "The Zogby Poll",
+        "screen_name": "TheZogbyPoll"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecretsBedard: Majority agree @realDonaldTrump will beat Biden, 51%-43%, @TheZogbyPoll \nTrump base strong, owns union workers, and also\u2026",
+  "geo": null,
+  "id": 1271771616448520192,
+  "id_str": "1271771616448520192",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2558,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 12 12:38:14 +0000 2020",
+    "display_text_range": [
+      0,
+      188
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nzdZJNHtI9",
+          "expanded_url": "https://twitter.com/SecretsBedard/status/1271421553511665664/photo/1",
+          "id": 1271421507114336257,
+          "id_str": "1271421507114336257",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaT_H9tXgAEKoN2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaT_H9tXgAEKoN2.jpg",
+          "sizes": {
+            "large": {
+              "h": 1092,
+              "resize": "fit",
+              "w": 1254
+            },
+            "medium": {
+              "h": 1045,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 592,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/nzdZJNHtI9"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "washex.am/2XSnUTc",
+          "expanded_url": "https://washex.am/2XSnUTc",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/3PllggwrQc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 817110760518254598,
+          "id_str": "817110760518254598",
+          "indices": [
+            58,
+            71
+          ],
+          "name": "The Zogby Poll",
+          "screen_name": "TheZogbyPoll"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nzdZJNHtI9",
+          "expanded_url": "https://twitter.com/SecretsBedard/status/1271421553511665664/photo/1",
+          "id": 1271421507114336257,
+          "id_str": "1271421507114336257",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaT_H9tXgAEKoN2.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaT_H9tXgAEKoN2.jpg",
+          "sizes": {
+            "large": {
+              "h": 1092,
+              "resize": "fit",
+              "w": 1254
+            },
+            "medium": {
+              "h": 1045,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 592,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/nzdZJNHtI9"
+        }
+      ]
+    },
+    "favorite_count": 8317,
+    "favorited": false,
+    "full_text": "Majority agree @realDonaldTrump will beat Biden, 51%-43%, @TheZogbyPoll \nTrump base strong, owns union workers, and also even with women, Hispanic, suburban voters.\nhttps://t.co/3PllggwrQc https://t.co/nzdZJNHtI9",
+    "geo": null,
+    "id": 1271421553511665664,
+    "id_str": "1271421553511665664",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2558,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 10 20:24:36 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Washington Secrets. Prior: USNews Washington Whispers, Washington Times White House correspondent -- Bush 41 and Bubba. pbedard@washingtonexaminer.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washingtonexaminer.com/politics/washi\u2026",
+              "expanded_url": "http://washingtonexaminer.com/politics/washington-secrets",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/a35mC8SDei"
+            }
+          ]
+        }
+      },
+      "favourites_count": 873,
+      "follow_request_sent": false,
+      "followers_count": 29014,
+      "following": false,
+      "friends_count": 5174,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18029328,
+      "id_str": "18029328",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 604,
+      "location": "Washington, DC",
+      "name": "Paul Bedard",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecretsBedard",
+      "statuses_count": 31994,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/a35mC8SDei",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

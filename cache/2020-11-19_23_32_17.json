@@ -1,0 +1,498 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 19 23:32:17 +0000 2020",
+  "display_text_range": [
+    0,
+    136
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 826065164504006657,
+        "id_str": "826065164504006657",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Marjorie Taylor Greene \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "mtgreenee"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mtgreenee: House Republicans will STOP the fraud and abuse in American elections.\n\nThe integrity of our elections must be protected!",
+  "geo": null,
+  "id": 1329568208928591873,
+  "id_str": "1329568208928591873",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1329249071996039173,
+  "quoted_status_id_str": "1329249071996039173",
+  "quoted_status_permalink": {
+    "display": "twitter.com/JudiciaryGOP/s\u2026",
+    "expanded": "https://twitter.com/JudiciaryGOP/status/1329249071996039173",
+    "url": "https://t.co/jkQBsxzhMx"
+  },
+  "retweet_count": 17608,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Nov 19 03:15:11 +0000 2020",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/JudiciaryGOP/s\u2026",
+          "expanded_url": "https://twitter.com/JudiciaryGOP/status/1329249071996039173",
+          "indices": [
+            122,
+            145
+          ],
+          "url": "https://t.co/jkQBsxzhMx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 62766,
+    "favorited": false,
+    "full_text": "House Republicans will STOP the fraud and abuse in American elections.\n\nThe integrity of our elections must be protected! https://t.co/jkQBsxzhMx",
+    "geo": null,
+    "id": 1329261913834991616,
+    "id_str": "1329261913834991616",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Nov 19 02:24:09 +0000 2020",
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              1,
+              10
+            ],
+            "text": "BREAKING"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QsSUQvhRsv",
+            "expanded_url": "https://twitter.com/JudiciaryGOP/status/1329249071996039173/photo/1",
+            "id": 1329249067734618115,
+            "id_str": "1329249067734618115",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnJw_ARXUAMiSO9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnJw_ARXUAMiSO9.jpg",
+            "sizes": {
+              "large": {
+                "h": 1319,
+                "resize": "fit",
+                "w": 963
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 876
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 496
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QsSUQvhRsv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 18166778,
+            "id_str": "18166778",
+            "indices": [
+              12,
+              23
+            ],
+            "name": "Rep. Jim Jordan",
+            "screen_name": "Jim_Jordan"
+          },
+          {
+            "id": 1274852794206388225,
+            "id_str": "1274852794206388225",
+            "indices": [
+              30,
+              44
+            ],
+            "name": "Rep. James Comer",
+            "screen_name": "RepJamesComer"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QsSUQvhRsv",
+            "expanded_url": "https://twitter.com/JudiciaryGOP/status/1329249071996039173/photo/1",
+            "id": 1329249067734618115,
+            "id_str": "1329249067734618115",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnJw_ARXUAMiSO9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnJw_ARXUAMiSO9.jpg",
+            "sizes": {
+              "large": {
+                "h": 1319,
+                "resize": "fit",
+                "w": 963
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 876
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 496
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QsSUQvhRsv"
+          },
+          {
+            "display_url": "pic.twitter.com/QsSUQvhRsv",
+            "expanded_url": "https://twitter.com/JudiciaryGOP/status/1329249071996039173/photo/1",
+            "id": 1329249067738730497,
+            "id_str": "1329249067738730497",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnJw_ASWEAEzH0n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnJw_ASWEAEzH0n.jpg",
+            "sizes": {
+              "large": {
+                "h": 1322,
+                "resize": "fit",
+                "w": 962
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 873
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 495
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QsSUQvhRsv"
+          },
+          {
+            "display_url": "pic.twitter.com/QsSUQvhRsv",
+            "expanded_url": "https://twitter.com/JudiciaryGOP/status/1329249071996039173/photo/1",
+            "id": 1329249067742932992,
+            "id_str": "1329249067742932992",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnJw_ATWMAALFn_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnJw_ATWMAALFn_.jpg",
+            "sizes": {
+              "large": {
+                "h": 1164,
+                "resize": "fit",
+                "w": 968
+              },
+              "medium": {
+                "h": 1164,
+                "resize": "fit",
+                "w": 968
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 565
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QsSUQvhRsv"
+          }
+        ]
+      },
+      "favorite_count": 27532,
+      "favorited": false,
+      "full_text": "\ud83d\udea8#BREAKING: @Jim_Jordan &amp; @RepJamesComer call for immediate Congressional investigation into 2020 election. https://t.co/QsSUQvhRsv",
+      "geo": null,
+      "id": 1329249071996039173,
+      "id_str": "1329249071996039173",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12306,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 29 19:25:24 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter for the House Committee on the Judiciary, Republicans | Est. 1813 | Ranking Member, @Jim_Jordan",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicans-judiciary.house.gov",
+                "expanded_url": "https://republicans-judiciary.house.gov/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/2V5sZv1et1"
+              }
+            ]
+          }
+        },
+        "favourites_count": 834,
+        "follow_request_sent": false,
+        "followers_count": 140381,
+        "following": false,
+        "friends_count": 719,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1131917492,
+        "id_str": "1131917492",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1089,
+        "location": "Washington, D.C.",
+        "name": "House Judiciary GOP",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1131917492/1584112768",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/661538870945849344/p55K_tUH_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/661538870945849344/p55K_tUH_normal.png",
+        "profile_link_color": "0D324C",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JudiciaryGOP",
+        "statuses_count": 14270,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/2V5sZv1et1",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1329249071996039173,
+    "quoted_status_id_str": "1329249071996039173",
+    "quoted_status_permalink": {
+      "display": "twitter.com/JudiciaryGOP/s\u2026",
+      "expanded": "https://twitter.com/JudiciaryGOP/status/1329249071996039173",
+      "url": "https://t.co/jkQBsxzhMx"
+    },
+    "retweet_count": 17608,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 30 13:50:57 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Congresswoman-Elect for Georgia's 14th CD, Christian, Wife, Mom, Small Business Owner, Proud American, 100% Pro-Life, Pro-Gun, Pro-Trump, #MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "secure.winred.com/marjorie-green\u2026",
+              "expanded_url": "https://secure.winred.com/marjorie-greene-for-congress/donate?sc=winred-directory",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OaJoyp7xzS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20713,
+      "follow_request_sent": false,
+      "followers_count": 184661,
+      "following": false,
+      "friends_count": 1910,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 826065164504006657,
+      "id_str": "826065164504006657",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 850,
+      "location": "Georgia, USA",
+      "name": "Marjorie Taylor Greene \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/826065164504006657/1604799161",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1308870088276180992/UUHZ5m5R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308870088276180992/UUHZ5m5R_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "mtgreenee",
+      "statuses_count": 9718,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OaJoyp7xzS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88934753,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125210,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58583,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

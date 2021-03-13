@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 03:31:08 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 455306401,
+        "id_str": "455306401",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "RNC Latinos",
+        "screen_name": "RNCLatinos"
+      },
+      {
+        "id": 42670638,
+        "id_str": "42670638",
+        "indices": [
+          17,
+          33
+        ],
+        "name": "Mercedes Schlapp",
+        "screen_name": "mercedesschlapp"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          87,
+          103
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RNCLatinos: .@mercedesschlapp:\n\n\"Democrats have a socialist agenda while President @realDonaldTrump is focused on results.\"\n\nMercedes S\u2026",
+  "geo": null,
+  "id": 1224535833237172225,
+  "id_str": "1224535833237172225",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "es",
+  "place": null,
+  "retweet_count": 4303,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 03 17:00:59 +0000 2020",
+    "display_text_range": [
+      0,
+      263
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/z5BXAncGIp",
+          "expanded_url": "https://twitter.com/RNCLatinos/status/1224377252877668352/video/1",
+          "id": 1224374730322587648,
+          "id_str": "1224374730322587648",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224374730322587648/pu/img/kxhIatG3yFjZUuq8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224374730322587648/pu/img/kxhIatG3yFjZUuq8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/z5BXAncGIp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 42670638,
+          "id_str": "42670638",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Mercedes Schlapp",
+          "screen_name": "mercedesschlapp"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            71,
+            87
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/z5BXAncGIp",
+          "expanded_url": "https://twitter.com/RNCLatinos/status/1224377252877668352/video/1",
+          "id": 1224374730322587648,
+          "id_str": "1224374730322587648",
+          "indices": [
+            264,
+            287
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224374730322587648/pu/img/kxhIatG3yFjZUuq8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224374730322587648/pu/img/kxhIatG3yFjZUuq8.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/z5BXAncGIp",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 27601,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224374730322587648/pu/vid/1280x720/MdCaFRqi62d04doU.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224374730322587648/pu/vid/640x360/kercDSSIeuqi6UTk.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224374730322587648/pu/vid/480x270/Qyfc_1PB62YGXHR6.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1224374730322587648/pu/pl/JFZaGTH63_upS4DF.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14892,
+    "favorited": false,
+    "full_text": ".@mercedesschlapp:\n\n\"Democrats have a socialist agenda while President @realDonaldTrump is focused on results.\"\n\nMercedes Schlapp de la Campa\u00f1a Trump-Pence 2020:\n\n\"Los dem\u00f3cratas tienen una agenda socialista y el presidente Trump est\u00e1 enfocado en los resultados\". https://t.co/z5BXAncGIp",
+    "geo": null,
+    "id": 1224377252877668352,
+    "id_str": "1224377252877668352",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4303,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 04 23:48:13 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "La Voz Biling\u00fce del @GOP",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 569,
+      "follow_request_sent": false,
+      "followers_count": 14396,
+      "following": false,
+      "friends_count": 1809,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 455306401,
+      "id_str": "455306401",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 238,
+      "location": "United States of America",
+      "name": "RNC Latinos",
+      "notifications": false,
+      "profile_background_color": "F00928",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/455306401/1542225124",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/706913955076251648/XObvuAlV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/706913955076251648/XObvuAlV_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RNCLatinos",
+      "statuses_count": 5962,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

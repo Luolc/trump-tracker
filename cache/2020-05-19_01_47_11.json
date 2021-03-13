@@ -1,0 +1,497 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue May 19 01:47:11 +0000 2020",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16163639,
+        "id_str": "16163639",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "The Curve Is Bent. Time to Free Us!",
+        "screen_name": "NolteNC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NolteNC: Cavuto\u2019s losing to CNN. Can\u2019t imagine why. What an asshole.",
+  "geo": null,
+  "id": 1262560399997784070,
+  "id_str": "1262560399997784070",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1262495322288254976,
+  "quoted_status_id_str": "1262495322288254976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/alexsalvinews/\u2026",
+    "expanded": "https://twitter.com/alexsalvinews/status/1262495322288254976",
+    "url": "https://t.co/v3A0x7dUKN"
+  },
+  "retweet_count": 6555,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 18 22:16:12 +0000 2020",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/alexsalvinews/\u2026",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1262495322288254976",
+          "indices": [
+            60,
+            83
+          ],
+          "url": "https://t.co/v3A0x7dUKN"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20372,
+    "favorited": false,
+    "full_text": "Cavuto\u2019s losing to CNN. Can\u2019t imagine why. What an asshole. https://t.co/v3A0x7dUKN",
+    "geo": null,
+    "id": 1262507303858769921,
+    "id_str": "1262507303858769921",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon May 18 21:28:35 +0000 2020",
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/kjV27hjO2a",
+            "expanded_url": "https://twitter.com/atrupar/status/1262484050964631557/video/1",
+            "id": 1262483849721925632,
+            "id_str": "1262483849721925632",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262483849721925632/pu/img/zAzbsVZy70ifr8fY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262483849721925632/pu/img/zAzbsVZy70ifr8fY.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1262484050964631557,
+            "source_status_id_str": "1262484050964631557",
+            "source_user_id": 288277167,
+            "source_user_id_str": "288277167",
+            "type": "photo",
+            "url": "https://t.co/kjV27hjO2a"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Apr 26 15:22:47 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "journalist @voxdotcom",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "vox.com",
+                        "expanded_url": "http://vox.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/RnqX4a5AQt"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 105012,
+                "follow_request_sent": false,
+                "followers_count": 374441,
+                "following": false,
+                "friends_count": 999,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 288277167,
+                "id_str": "288277167",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 3338,
+                "location": "",
+                "name": "Aaron Rupar",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/816281781011959808/aGIAz8Qe_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "atrupar",
+                "statuses_count": 74483,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/RnqX4a5AQt",
+                "utc_offset": null,
+                "verified": true
+              }
+            },
+            "display_url": "pic.twitter.com/kjV27hjO2a",
+            "expanded_url": "https://twitter.com/atrupar/status/1262484050964631557/video/1",
+            "id": 1262483849721925632,
+            "id_str": "1262483849721925632",
+            "indices": [
+              237,
+              260
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1262483849721925632/pu/img/zAzbsVZy70ifr8fY.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1262483849721925632/pu/img/zAzbsVZy70ifr8fY.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1262484050964631557,
+            "source_status_id_str": "1262484050964631557",
+            "source_user_id": 288277167,
+            "source_user_id_str": "288277167",
+            "type": "video",
+            "url": "https://t.co/kjV27hjO2a",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 134864,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1262483849721925632/pu/vid/480x270/yOer8EQK3E7Rv6jJ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1262483849721925632/pu/vid/1280x720/hbMie9B0FC1nijzZ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1262483849721925632/pu/vid/640x360/mnElcbVPlntcZ2eb.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1262483849721925632/pu/pl/QzTcoEWUZlTtX2dx.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 643,
+      "favorited": false,
+      "full_text": "Fox News' Neil Cavuto on Pres. Trump saying he's taking hydroxychloroquine: \n\n\"If you are in a risky population here, and you are taking this as a preventative treatment ... it will kill you. I cannot stress enough. This will kill you.\" https://t.co/kjV27hjO2a",
+      "geo": null,
+      "id": 1262495322288254976,
+      "id_str": "1262495322288254976",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 268,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 18 22:25:06 +0000 2017",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Anchor of After Hours on @OANN M-F 10pm ET | Covering the convergence of media and politics | alexsalvinews@protonmail.com | IG: alexsalvinews",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oann.com/afterhours/",
+                "expanded_url": "https://www.oann.com/afterhours/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/fuc2Rlo3Lg"
+              }
+            ]
+          }
+        },
+        "favourites_count": 43528,
+        "follow_request_sent": false,
+        "followers_count": 50913,
+        "following": false,
+        "friends_count": 2481,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 932011810235891712,
+        "id_str": "932011810235891712",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 248,
+        "location": "United States",
+        "name": "Alex Salvi",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/932011810235891712/1587628155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245949640060497920/kzexpq4f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245949640060497920/kzexpq4f_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "alexsalvinews",
+        "statuses_count": 9488,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fuc2Rlo3Lg",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1262495322288254976,
+    "quoted_status_id_str": "1262495322288254976",
+    "quoted_status_permalink": {
+      "display": "twitter.com/alexsalvinews/\u2026",
+      "expanded": "https://twitter.com/alexsalvinews/status/1262495322288254976",
+      "url": "https://t.co/v3A0x7dUKN"
+    },
+    "retweet_count": 6555,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Sep 07 02:05:30 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Opinions are mine and my stash of lesbian porn proves I'm not homophobic....\n\nMy preferred pronouns are \"Fuck\" and 'You.\"",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com",
+              "expanded_url": "http://www.breitbart.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qKEfDQ3dTo"
+            }
+          ]
+        }
+      },
+      "favourites_count": 181,
+      "follow_request_sent": false,
+      "followers_count": 188692,
+      "following": false,
+      "friends_count": 485,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16163639,
+      "id_str": "16163639",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2442,
+      "location": "Home is where my wife is.",
+      "name": "The Curve Is Bent. Time to Free Us!",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16163639/1586361384",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1214161207894011904/3DTPTM0S_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214161207894011904/3DTPTM0S_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NolteNC",
+      "statuses_count": 93226,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qKEfDQ3dTo",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80029957,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113827,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

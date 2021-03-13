@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 19 18:12:40 +0000 2020",
+  "display_text_range": [
+    0,
+    74
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 503400523,
+        "id_str": "503400523",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Carl Higbie",
+        "screen_name": "CarlHigbie"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          21,
+          37
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CarlHigbie: Love @realDonaldTrump, keep up the fight for America \ud83c\uddfa\ud83c\uddf8!!!",
+  "geo": null,
+  "id": 1251936769068670977,
+  "id_str": "1251936769068670977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 661173906758352900,
+  "quoted_status_id_str": "661173906758352900",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/661173906758352900",
+    "url": "https://t.co/W86o2IrZ0K"
+  },
+  "retweet_count": 6214,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 30 14:11:42 +0000 2018",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/661173906758352900",
+          "indices": [
+            59,
+            82
+          ],
+          "url": "https://t.co/W86o2IrZ0K"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            5,
+            21
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 20291,
+    "favorited": false,
+    "full_text": "Love @realDonaldTrump, keep up the fight for America \ud83c\uddfa\ud83c\uddf8!!! https://t.co/W86o2IrZ0K",
+    "geo": null,
+    "id": 1035168186877046785,
+    "id_str": "1035168186877046785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Nov 02 13:31:58 +0000 2015",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 43919633,
+            "id_str": "43919633",
+            "indices": [
+              131,
+              140
+            ],
+            "name": "Brian Kilmeade",
+            "screen_name": "kilmeade"
+          }
+        ]
+      },
+      "favorite_count": 4123,
+      "favorited": false,
+      "full_text": "Thank you Carl Higbie (former Navy Seal) for you support of my plan to straighten out the Veterans Administration-a mess!Great job @kilmeade",
+      "geo": null,
+      "id": 661173906758352900,
+      "id_str": "661173906758352900",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 1845,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 77929316,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 119880,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 50841,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 661173906758352900,
+    "quoted_status_id_str": "661173906758352900",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/661173906758352900",
+      "url": "https://t.co/W86o2IrZ0K"
+    },
+    "retweet_count": 6214,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Feb 25 18:54:20 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Flag waving, meat eating, gun toting, #NavySEAL, #Author, #MAGA. HOST: \u201cSaturday Report\u201d on @Newsmax, Elected: Greenwich RTM D8, Owner: @RightWinginc1",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "CarlHigbie.com",
+              "expanded_url": "http://www.CarlHigbie.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aE6D1BU4LY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13370,
+      "follow_request_sent": false,
+      "followers_count": 71037,
+      "following": false,
+      "friends_count": 339,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 503400523,
+      "id_str": "503400523",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 410,
+      "location": "Connecticut, USA",
+      "name": "Carl Higbie",
+      "notifications": false,
+      "profile_background_color": "063952",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/503400523/1585267803",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106249178655662081/7ZBLdSex_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106249178655662081/7ZBLdSex_normal.png",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CarlHigbie",
+      "statuses_count": 13265,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aE6D1BU4LY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77929316,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50841,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

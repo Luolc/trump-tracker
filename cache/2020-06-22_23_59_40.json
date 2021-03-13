@@ -1,0 +1,295 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 22 23:59:40 +0000 2020",
+  "display_text_range": [
+    0,
+    42
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nickadamsinusa\u2026",
+        "expanded_url": "https://twitter.com/nickadamsinusa/status/1274703830589083649",
+        "indices": [
+          43,
+          66
+        ],
+        "url": "https://t.co/GZgicj3o3G"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 28050,
+  "favorited": false,
+  "full_text": "A really wonderful book. Buy it and enjoy! https://t.co/GZgicj3o3G",
+  "geo": null,
+  "id": 1275216918652338177,
+  "id_str": "1275216918652338177",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 21 14:00:50 +0000 2020",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mT4aVbVduf",
+          "expanded_url": "https://twitter.com/NickAdamsinUSA/status/1274703830589083649/photo/1",
+          "id": 1274703824083652613,
+          "id_str": "1274703824083652613",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbCoX9RWkAUYeae.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbCoX9RWkAUYeae.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mT4aVbVduf"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "NickAdamsUsa.com",
+          "expanded_url": "http://www.NickAdamsUsa.com",
+          "indices": [
+            30,
+            53
+          ],
+          "url": "https://t.co/7VwP01g3HY"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mT4aVbVduf",
+          "expanded_url": "https://twitter.com/NickAdamsinUSA/status/1274703830589083649/photo/1",
+          "id": 1274703824083652613,
+          "id_str": "1274703824083652613",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbCoX9RWkAUYeae.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbCoX9RWkAUYeae.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mT4aVbVduf"
+        }
+      ]
+    },
+    "favorite_count": 1349,
+    "favorited": false,
+    "full_text": "Order your signed copy today!\nhttps://t.co/7VwP01g3HY https://t.co/mT4aVbVduf",
+    "geo": null,
+    "id": 1274703830589083649,
+    "id_str": "1274703830589083649",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 452,
+    "retweeted": false,
+    "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Nov 21 14:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Best selling author endorsed by @POTUS. Founder & President of @1FLAGUSA. Australian by birth; American by choice.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nickadamsusa.com",
+              "expanded_url": "https://www.nickadamsusa.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L9PKRrc7Xp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2417,
+      "follow_request_sent": false,
+      "followers_count": 111383,
+      "following": false,
+      "friends_count": 104680,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 91583544,
+      "id_str": "91583544",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 387,
+      "location": "Dallas, TX",
+      "name": "Nick Adams",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91583544/1591900473",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1270107259230707717/__afoYsM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270107259230707717/__afoYsM_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NickAdamsinUSA",
+      "statuses_count": 3495,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L9PKRrc7Xp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1274703830589083649,
+  "quoted_status_id_str": "1274703830589083649",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nickadamsinusa\u2026",
+    "expanded": "https://twitter.com/nickadamsinusa/status/1274703830589083649",
+    "url": "https://t.co/GZgicj3o3G"
+  },
+  "retweet_count": 6686,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82402028,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115818,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53087,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

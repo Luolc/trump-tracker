@@ -1,0 +1,545 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:40:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          104
+        ],
+        "text": "ALSen"
+      },
+      {
+        "indices": [
+          105,
+          116
+        ],
+        "text": "alpolitics"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ORxC0xIhs4",
+        "expanded_url": "https://twitter.com/NRSC/status/1283401067330506753/video/1",
+        "id": 1283137243708895235,
+        "id_str": "1283137243708895235",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1283401067330506753,
+        "source_status_id_str": "1283401067330506753",
+        "source_user_id": 5693842,
+        "source_user_id_str": "5693842",
+        "type": "photo",
+        "url": "https://t.co/ORxC0xIhs4"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 5693842,
+        "id_str": "5693842",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "The Senate Majority",
+        "screen_name": "NRSC"
+      },
+      {
+        "id": 239548513,
+        "id_str": "239548513",
+        "indices": [
+          70,
+          80
+        ],
+        "name": "Doug Jones",
+        "screen_name": "DougJones"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue May 01 20:26:36 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "NRSC.org",
+                    "expanded_url": "http://www.NRSC.org",
+                    "indices": [
+                      0,
+                      22
+                    ],
+                    "url": "http://t.co/mpfapNoOKr"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 56,
+            "follow_request_sent": false,
+            "followers_count": 108572,
+            "following": false,
+            "friends_count": 2996,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 5693842,
+            "id_str": "5693842",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 2011,
+            "location": "Washington, D.C.",
+            "name": "The Senate Majority",
+            "notifications": false,
+            "profile_background_color": "544F4F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1579793300",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+            "profile_link_color": "D40404",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DBDAC7",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "NRSC",
+            "statuses_count": 30513,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "http://t.co/mpfapNoOKr",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/ORxC0xIhs4",
+        "expanded_url": "https://twitter.com/NRSC/status/1283401067330506753/video/1",
+        "id": 1283137243708895235,
+        "id_str": "1283137243708895235",
+        "indices": [
+          117,
+          140
+        ],
+        "media_url": "http://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1283401067330506753,
+        "source_status_id_str": "1283401067330506753",
+        "source_user_id": 5693842,
+        "source_user_id_str": "5693842",
+        "type": "video",
+        "url": "https://t.co/ORxC0xIhs4",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 23732,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/1280x720/WXH2zEOXVhY-M80z.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/640x360/ZMxCTqDQG611hjJu.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1283137243708895235/pl/VAtVy4l8gbsLs_Ck.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/480x270/QpcT5Jh-migAciRg.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NRSC: \ud83d\udea8 New Bombshell Video reveals the one thing that could ruin @DougJones\u2019s Senate career\u2026 #ALSen #alpolitics https://t.co/ORxC0xIhs4",
+  "geo": null,
+  "id": 1284347358491353093,
+  "id_str": "1284347358491353093",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1943,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 15 14:00:33 +0000 2020",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            88,
+            94
+          ],
+          "text": "ALSen"
+        },
+        {
+          "indices": [
+            95,
+            106
+          ],
+          "text": "alpolitics"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ORxC0xIhs4",
+          "expanded_url": "https://twitter.com/NRSC/status/1283401067330506753/video/1",
+          "id": 1283137243708895235,
+          "id_str": "1283137243708895235",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ORxC0xIhs4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 239548513,
+          "id_str": "239548513",
+          "indices": [
+            60,
+            70
+          ],
+          "name": "Doug Jones",
+          "screen_name": "DougJones"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/ORxC0xIhs4",
+          "expanded_url": "https://twitter.com/NRSC/status/1283401067330506753/video/1",
+          "id": 1283137243708895235,
+          "id_str": "1283137243708895235",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ec-EDxwWAAAoqpB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ORxC0xIhs4",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 23732,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/1280x720/WXH2zEOXVhY-M80z.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/640x360/ZMxCTqDQG611hjJu.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1283137243708895235/pl/VAtVy4l8gbsLs_Ck.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283137243708895235/vid/480x270/QpcT5Jh-migAciRg.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5373,
+    "favorited": false,
+    "full_text": "\ud83d\udea8 New Bombshell Video reveals the one thing that could ruin @DougJones\u2019s Senate career\u2026 #ALSen #alpolitics https://t.co/ORxC0xIhs4",
+    "geo": null,
+    "id": 1283401067330506753,
+    "id_str": "1283401067330506753",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1943,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 01 20:26:36 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NRSC.org",
+              "expanded_url": "http://www.NRSC.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mpfapNoOKr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 56,
+      "follow_request_sent": false,
+      "followers_count": 108572,
+      "following": false,
+      "friends_count": 2996,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 5693842,
+      "id_str": "5693842",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2011,
+      "location": "Washington, D.C.",
+      "name": "The Senate Majority",
+      "notifications": false,
+      "profile_background_color": "544F4F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1579793300",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_link_color": "D40404",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DBDAC7",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NRSC",
+      "statuses_count": 30513,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mpfapNoOKr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 10:38:12 +0000 2020",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          32
+        ],
+        "text": "KillerCuomo"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78523300,
+        "id_str": "78523300",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "James Woods",
+        "screen_name": "RealJamesWoods"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealJamesWoods: #KillerCuomo should be in jail.",
+  "geo": null,
+  "id": 1300019987336368128,
+  "id_str": "1300019987336368128",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1299731483230384130,
+  "quoted_status_id_str": "1299731483230384130",
+  "quoted_status_permalink": {
+    "display": "twitter.com/calebjhull/sta\u2026",
+    "expanded": "https://twitter.com/calebjhull/status/1299731483230384130",
+    "url": "https://t.co/72cNU1VzXJ"
+  },
+  "retweet_count": 14312,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 30 02:21:24 +0000 2020",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "text": "KillerCuomo"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/calebjhull/sta\u2026",
+          "expanded_url": "https://twitter.com/calebjhull/status/1299731483230384130",
+          "indices": [
+            32,
+            55
+          ],
+          "url": "https://t.co/72cNU1VzXJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 39147,
+    "favorited": false,
+    "full_text": "#KillerCuomo should be in jail. https://t.co/72cNU1VzXJ",
+    "geo": null,
+    "id": 1299894963098984448,
+    "id_str": "1299894963098984448",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 29 15:31:48 +0000 2020",
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XoeoUhrWKV",
+            "expanded_url": "https://twitter.com/RickRL__/status/1299496474707922945/video/1",
+            "id": 1299496439157084160,
+            "id_str": "1299496439157084160",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299496439157084160/pu/img/HJ2XK-Z-EPKAgVJk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299496439157084160/pu/img/HJ2XK-Z-EPKAgVJk.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1299496474707922945,
+            "source_status_id_str": "1299496474707922945",
+            "source_user_id": 174508067,
+            "source_user_id_str": "174508067",
+            "type": "photo",
+            "url": "https://t.co/XoeoUhrWKV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Aug 04 02:52:06 +0000 2010",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Documenting 2020 \ud83d\udcf8",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "RickRL.com/spankchain",
+                        "expanded_url": "http://RickRL.com/spankchain",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/VyDCpbefrG"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 4712,
+                "follow_request_sent": false,
+                "followers_count": 126,
+                "following": false,
+                "friends_count": 64,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 174508067,
+                "id_str": "174508067",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 0,
+                "location": "Las Vegas, NV",
+                "name": "Rick R.L.",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/174508067/1588849829",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1299843040794746881/CnGWzUkS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299843040794746881/CnGWzUkS_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "RickRL__",
+                "statuses_count": 494,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/VyDCpbefrG",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/XoeoUhrWKV",
+            "expanded_url": "https://twitter.com/RickRL__/status/1299496474707922945/video/1",
+            "id": 1299496439157084160,
+            "id_str": "1299496439157084160",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299496439157084160/pu/img/HJ2XK-Z-EPKAgVJk.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299496439157084160/pu/img/HJ2XK-Z-EPKAgVJk.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1299496474707922945,
+            "source_status_id_str": "1299496474707922945",
+            "source_user_id": 174508067,
+            "source_user_id_str": "174508067",
+            "type": "video",
+            "url": "https://t.co/XoeoUhrWKV",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 21028,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1299496439157084160/pu/vid/320x568/EBwGZKC3wwRV9W5x.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1299496439157084160/pu/vid/360x640/wPXOZfulhgRU6_v4.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1299496439157084160/pu/pl/dVGcaM0x66m0Dxh6.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1299496439157084160/pu/vid/720x1280/gOxGBM54OdcJg7zL.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 54175,
+      "favorited": false,
+      "full_text": "My mentor and father figure died alone in a hospital room on July 28 and saw no visitors for the last 2 weeks of his life, but throwing a block party is perfectly fine. I\u2019m so sick of all of this. https://t.co/XoeoUhrWKV",
+      "geo": null,
+      "id": 1299731483230384130,
+      "id_str": "1299731483230384130",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 18883,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 16 15:36:05 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Living life to the fullest \u2708\ufe0f\u26f0\ufe0f\ud83c\udfd6\ufe0f Filmmaker & Content Creator // Prev. Director of Content @TargetedVictory, Senior Editor @theIJR",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 17257,
+        "follow_request_sent": false,
+        "followers_count": 137262,
+        "following": false,
+        "friends_count": 965,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 239005322,
+        "id_str": "239005322",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 776,
+        "location": "Having fun somewhere",
+        "name": "Kelb Hull",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/239005322/1597687250",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287890410304569345/hrwhiloA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287890410304569345/hrwhiloA_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CalebJHull",
+        "statuses_count": 33653,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1299731483230384130,
+    "quoted_status_id_str": "1299731483230384130",
+    "quoted_status_permalink": {
+      "display": "twitter.com/calebjhull/sta\u2026",
+      "expanded": "https://twitter.com/calebjhull/status/1299731483230384130",
+      "url": "https://t.co/72cNU1VzXJ"
+    },
+    "retweet_count": 14312,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 30 05:31:28 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This is the ONLY verified Twitter account for James Woods. ALL others are fake. I am on NO other social media (except a private Instagram). They\u2019re ALL fake.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 11741,
+      "follow_request_sent": false,
+      "followers_count": 2562708,
+      "following": false,
+      "friends_count": 5174,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 78523300,
+      "id_str": "78523300",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8951,
+      "location": "",
+      "name": "James Woods",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78523300/1598379850",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealJamesWoods",
+      "statuses_count": 33054,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

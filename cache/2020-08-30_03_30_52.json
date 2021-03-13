@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 03:30:52 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18903194,
+        "id_str": "18903194",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Matt Mowers",
+        "screen_name": "mowers"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          33,
+          49
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mowers: Thank you, President @realDonaldTrump! \ud83c\uddfa\ud83c\uddf8 \n\nI\u2019m proud to have served in President Trump\u2019s administration and to have his endors\u2026",
+  "geo": null,
+  "id": 1299912445499183105,
+  "id_str": "1299912445499183105",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3361,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 29 11:55:44 +0000 2020",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            268,
+            279
+          ],
+          "text": "nhpolitics"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/N00oP3bmJM",
+          "expanded_url": "https://twitter.com/mowers/status/1299677109347119104/video/1",
+          "id": 1299677088346234887,
+          "id_str": "1299677088346234887",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299677088346234887/pu/img/nl9NQAJooPhOtJBV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299677088346234887/pu/img/nl9NQAJooPhOtJBV.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/N00oP3bmJM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/N00oP3bmJM",
+          "expanded_url": "https://twitter.com/mowers/status/1299677109347119104/video/1",
+          "id": 1299677088346234887,
+          "id_str": "1299677088346234887",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299677088346234887/pu/img/nl9NQAJooPhOtJBV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299677088346234887/pu/img/nl9NQAJooPhOtJBV.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/N00oP3bmJM",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12800,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1299677088346234887/pu/vid/480x270/sy2II46kVhJVsT5O.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1299677088346234887/pu/pl/ttKP817SDPhvQbcI.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1299677088346234887/pu/vid/640x360/XLpuhzCNYDqNUW2j.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14039,
+    "favorited": false,
+    "full_text": "Thank you, President @realDonaldTrump! \ud83c\uddfa\ud83c\uddf8 \n\nI\u2019m proud to have served in President Trump\u2019s administration and to have his endorsement to beat Chris Pappas! \n\nWhat a great night in Londonderry. Awesome to see so much support from across New Hampshire for the President! #nhpolitics https://t.co/N00oP3bmJM",
+    "geo": null,
+    "id": 1299677109347119104,
+    "id_str": "1299677109347119104",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3361,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 12 15:21:52 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "GOP Candidate for Congress, NH-1. Former Diplomat & Senior Advisor in President Trump\u2019s @StateDept. #LFOD",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "MattMowers.com",
+              "expanded_url": "http://www.MattMowers.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xQ0vnGzXg9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4219,
+      "follow_request_sent": false,
+      "followers_count": 8351,
+      "following": false,
+      "friends_count": 3194,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18903194,
+      "id_str": "18903194",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 99,
+      "location": "New Hampshire, USA",
+      "name": "Matt Mowers",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18903194/1597152022",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1278421006605049856/iMxmoU_V_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278421006605049856/iMxmoU_V_normal.jpg",
+      "profile_link_color": "13701E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "mowers",
+      "statuses_count": 3505,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xQ0vnGzXg9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

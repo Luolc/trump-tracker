@@ -1,0 +1,357 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 02 21:42:01 +0000 2020",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18266688,
+        "id_str": "18266688",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Tom Fitton",
+        "screen_name": "TomFitton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TomFitton: Mueller did it.",
+  "geo": null,
+  "id": 1256700496762548236,
+  "id_str": "1256700496762548236",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1256044466219048960,
+  "quoted_status_id_str": "1256044466219048960",
+  "quoted_status_permalink": {
+    "display": "twitter.com/KimStrassel/st\u2026",
+    "expanded": "https://twitter.com/KimStrassel/status/1256044466219048960",
+    "url": "https://t.co/frp37FN6Qn"
+  },
+  "retweet_count": 10608,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 02 18:04:33 +0000 2020",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/KimStrassel/st\u2026",
+          "expanded_url": "https://twitter.com/KimStrassel/status/1256044466219048960",
+          "indices": [
+            16,
+            39
+          ],
+          "url": "https://t.co/frp37FN6Qn"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 30136,
+    "favorited": false,
+    "full_text": "Mueller did it. https://t.co/frp37FN6Qn",
+    "geo": null,
+    "id": 1256645770125750275,
+    "id_str": "1256645770125750275",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 01 02:15:11 +0000 2020",
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wsj.com/articles/the-f\u2026",
+            "expanded_url": "https://www.wsj.com/articles/the-fbis-flynn-outrage-11588288438",
+            "indices": [
+              183,
+              206
+            ],
+            "url": "https://t.co/ww9oAYBnAV"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 384910109,
+            "id_str": "384910109",
+            "indices": [
+              170,
+              182
+            ],
+            "name": "Kimberley Strassel",
+            "screen_name": "KimStrassel"
+          },
+          {
+            "id": 3108351,
+            "id_str": "3108351",
+            "indices": [
+              211,
+              215
+            ],
+            "name": "The Wall Street Journal",
+            "screen_name": "WSJ"
+          }
+        ]
+      },
+      "favorite_count": 48171,
+      "favorited": false,
+      "full_text": "The FBI knew Michael Flynn wasn\u2019t colluding with Russia, so it plotted to \u2018get him to lie.\u2019 New documents reveal that, by the end, the Bureau just wanted a scalp, writes @KimStrassel https://t.co/ww9oAYBnAV via @WSJ",
+      "geo": null,
+      "id": 1256044466219048960,
+      "id_str": "1256044466219048960",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 18684,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 04 15:00:44 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Potomac Watch columnist for Wall Street Journal edit page. Please order my new book! Resistance (At All Costs). https://t.co/g6cVbmus81",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/y23r5k6q",
+                "expanded_url": "http://tinyurl.com/y23r5k6q",
+                "indices": [
+                  112,
+                  135
+                ],
+                "url": "https://t.co/g6cVbmus81"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5041,
+        "follow_request_sent": false,
+        "followers_count": 394185,
+        "following": false,
+        "friends_count": 476,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 384910109,
+        "id_str": "384910109",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2647,
+        "location": "",
+        "name": "Kimberley Strassel",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/384910109/1571165408",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KimStrassel",
+        "statuses_count": 6637,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1256044466219048960,
+    "quoted_status_id_str": "1256044466219048960",
+    "quoted_status_permalink": {
+      "display": "twitter.com/KimStrassel/st\u2026",
+      "expanded": "https://twitter.com/KimStrassel/status/1256044466219048960",
+      "url": "https://t.co/frp37FN6Qn"
+    },
+    "retweet_count": 10608,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 20 14:32:44 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Judicial Watch. (These are my personal views only!)  Author, New York Times best seller Clean House. \nhttps://t.co/midr73gi0A",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/tomfitton",
+              "expanded_url": "https://www.instagram.com/tomfitton",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/midr73gi0A"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JudicialWatch.org",
+              "expanded_url": "http://www.JudicialWatch.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ebnjxMYdbL"
+            }
+          ]
+        }
+      },
+      "favourites_count": 538,
+      "follow_request_sent": false,
+      "followers_count": 942264,
+      "following": false,
+      "friends_count": 3173,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18266688,
+      "id_str": "18266688",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3299,
+      "location": "Washington, DC",
+      "name": "Tom Fitton",
+      "notifications": false,
+      "profile_background_color": "568448",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18266688/1527968436",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/964235516794171392/ktAX5u2i_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "ECD295",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TomFitton",
+      "statuses_count": 36927,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/ebnjxMYdbL",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79287230,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

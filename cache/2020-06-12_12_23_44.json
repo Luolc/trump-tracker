@@ -1,0 +1,329 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 12 12:23:44 +0000 2020",
+  "display_text_range": [
+    0,
+    66
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 47739450,
+        "id_str": "47739450",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Byron York",
+        "screen_name": "ByronYork"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ByronYork: It happened 'following a peaceful demonstration...'",
+  "geo": null,
+  "id": 1271417901661249536,
+  "id_str": "1271417901661249536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1270526768378712066,
+  "quoted_status_id_str": "1270526768378712066",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NBC12/status/1\u2026",
+    "expanded": "https://twitter.com/NBC12/status/1270526768378712066",
+    "url": "https://t.co/QTtIkXOu81"
+  },
+  "retweet_count": 6357,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 10 11:01:20 +0000 2020",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NBC12/status/1\u2026",
+          "expanded_url": "https://twitter.com/NBC12/status/1270526768378712066",
+          "indices": [
+            52,
+            75
+          ],
+          "url": "https://t.co/QTtIkXOu81"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18289,
+    "favorited": false,
+    "full_text": "It happened 'following a peaceful demonstration...' https://t.co/QTtIkXOu81",
+    "geo": null,
+    "id": 1270672390222209024,
+    "id_str": "1270672390222209024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jun 10 01:22:41 +0000 2020",
+      "display_text_range": [
+        0,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "nbc12.com/2020/06/09/chr\u2026",
+            "expanded_url": "https://www.nbc12.com/2020/06/09/christopher-columbus-statue-torn-down-thrown-lake-by-protesters/",
+            "indices": [
+              125,
+              148
+            ],
+            "url": "https://t.co/QrPl53pgF6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 3752,
+      "favorited": false,
+      "full_text": "BREAKING NEWS: The Christopher Columbus statue has been torn down and thrown in the lake by protesters in downtown Richmond. https://t.co/QrPl53pgF6",
+      "geo": null,
+      "id": 1270526768378712066,
+      "id_str": "1270526768378712066",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1431,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 18 17:36:57 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Central Virginia's No. 1 News TV Station serving #RVA and beyond! Account run by humans - not robots.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nbc12.com",
+                "expanded_url": "http://www.nbc12.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wxnTroYKGP"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3290,
+        "follow_request_sent": false,
+        "followers_count": 145704,
+        "following": false,
+        "friends_count": 974,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19151000,
+        "id_str": "19151000",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1351,
+        "location": "Richmond, VA",
+        "name": "NBC12 WWBT Richmond",
+        "notifications": false,
+        "profile_background_color": "333399",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19151000/1578322677",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1191296518202052611/a1TPaOr9_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191296518202052611/a1TPaOr9_normal.png",
+        "profile_link_color": "3941C6",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E03500",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NBC12",
+        "statuses_count": 156755,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wxnTroYKGP",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1270526768378712066,
+    "quoted_status_id_str": "1270526768378712066",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NBC12/status/1\u2026",
+      "expanded": "https://twitter.com/NBC12/status/1270526768378712066",
+      "url": "https://t.co/QTtIkXOu81"
+    },
+    "retweet_count": 6357,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 16 20:38:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chief political correspondent, Washington Examiner, Fox News contributor, author of The Vast Left Wing Conspiracy",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washex.am/1pU9zQ5",
+              "expanded_url": "http://washex.am/1pU9zQ5",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/tAAyTAVFIb"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20,
+      "follow_request_sent": false,
+      "followers_count": 425135,
+      "following": false,
+      "friends_count": 1357,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 47739450,
+      "id_str": "47739450",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5015,
+      "location": "Washington, D.C.",
+      "name": "Byron York",
+      "notifications": false,
+      "profile_background_color": "020405",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47739450/1407595550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ByronYork",
+      "statuses_count": 46217,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/tAAyTAVFIb",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

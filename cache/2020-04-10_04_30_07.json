@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 10 04:30:07 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16798448,
+        "id_str": "16798448",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "UPS News",
+        "screen_name": "UPS_News"
+      },
+      {
+        "id": 158129535,
+        "id_str": "158129535",
+        "indices": [
+          62,
+          66
+        ],
+        "name": "UPS",
+        "screen_name": "UPS"
+      },
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          94,
+          99
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @UPS_News: FEMA\u2019S \u2018Project Airbridge\u2019 Takes Flight With 25 @UPS Charter Flights, Dedicated @FEMA Distribution Center  - https://t.co/Tmi\u2026",
+  "geo": null,
+  "id": 1248468279615557633,
+  "id_str": "1248468279615557633",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1414,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 07 13:11:02 +0000 2020",
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            142
+          ],
+          "text": "upsnews"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IpsAApoz8U",
+          "expanded_url": "https://twitter.com/UPS_News/status/1247512208088547335/photo/1",
+          "id": 1247512203323826177,
+          "id_str": "1247512203323826177",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVANvUQU4AElOvI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVANvUQU4AElOvI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1075,
+              "resize": "fit",
+              "w": 1613
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IpsAApoz8U"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2UNBndE",
+          "expanded_url": "https://bit.ly/2UNBndE",
+          "indices": [
+            109,
+            132
+          ],
+          "url": "https://t.co/TmiQYw9hEY"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 158129535,
+          "id_str": "158129535",
+          "indices": [
+            48,
+            52
+          ],
+          "name": "UPS",
+          "screen_name": "UPS"
+        },
+        {
+          "id": 16669075,
+          "id_str": "16669075",
+          "indices": [
+            80,
+            85
+          ],
+          "name": "FEMA",
+          "screen_name": "fema"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IpsAApoz8U",
+          "expanded_url": "https://twitter.com/UPS_News/status/1247512208088547335/photo/1",
+          "id": 1247512203323826177,
+          "id_str": "1247512203323826177",
+          "indices": [
+            143,
+            166
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVANvUQU4AElOvI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVANvUQU4AElOvI.jpg",
+          "sizes": {
+            "large": {
+              "h": 1075,
+              "resize": "fit",
+              "w": 1613
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IpsAApoz8U"
+        }
+      ]
+    },
+    "favorite_count": 5108,
+    "favorited": false,
+    "full_text": "FEMA\u2019S \u2018Project Airbridge\u2019 Takes Flight With 25 @UPS Charter Flights, Dedicated @FEMA Distribution Center  - https://t.co/TmiQYw9hEY  #upsnews https://t.co/IpsAApoz8U",
+    "geo": null,
+    "id": 1247512208088547335,
+    "id_str": "1247512208088547335",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1414,
+    "retweeted": false,
+    "source": "<a href=\"https://www.percolate.com\" rel=\"nofollow\">Percolate</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 16 01:01:29 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Follow for the latest UPS press releases and news stories.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pressroom.ups.com",
+              "expanded_url": "http://pressroom.ups.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/OzXvsdBfoA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 769,
+      "follow_request_sent": false,
+      "followers_count": 61947,
+      "following": false,
+      "friends_count": 9507,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16798448,
+      "id_str": "16798448",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 828,
+      "location": "Atlanta, GA",
+      "name": "UPS News",
+      "notifications": false,
+      "profile_background_color": "110000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16798448/1398866596",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/461506022079619074/LIYgMlfg_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/461506022079619074/LIYgMlfg_normal.png",
+      "profile_link_color": "825200",
+      "profile_sidebar_border_color": "DFB52C",
+      "profile_sidebar_fill_color": "FFF3AC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "UPS_News",
+      "statuses_count": 18519,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/OzXvsdBfoA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76533287,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118980,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50571,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

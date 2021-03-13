@@ -1,0 +1,340 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 30 23:39:19 +0000 2020",
+  "display_text_range": [
+    0,
+    235
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/therecount/sta\u2026",
+        "expanded_url": "https://twitter.com/therecount/status/1333480213255229442",
+        "indices": [
+          236,
+          259
+        ],
+        "url": "https://t.co/XILGaHcyw7"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          164,
+          169
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      },
+      {
+        "id": 20217019,
+        "id_str": "20217019",
+        "indices": [
+          192,
+          202
+        ],
+        "name": "Doug Ducey",
+        "screen_name": "dougducey"
+      }
+    ]
+  },
+  "favorite_count": 89690,
+  "favorited": false,
+  "full_text": "Why is he rushing to put a Democrat in office, especially when so many horrible things concerning voter fraud are being revealed at the hearing going on right now. @OANN What is going on with @dougducey? Republicans will long remember! https://t.co/XILGaHcyw7",
+  "geo": null,
+  "id": 1333556242984431616,
+  "id_str": "1333556242984431616",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 30 18:37:12 +0000 2020",
+    "display_text_range": [
+      0,
+      259
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/UKwpws2wP3",
+          "expanded_url": "https://twitter.com/therecount/status/1333480213255229442/video/1",
+          "id": 1333479947684470784,
+          "id_str": "1333479947684470784",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1333479947684470784/img/qsl4jiWwSDcTKO7Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1333479947684470784/img/qsl4jiWwSDcTKO7Q.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/UKwpws2wP3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Gov. Ducey Certifies AZ Election"
+          },
+          "display_url": "pic.twitter.com/UKwpws2wP3",
+          "expanded_url": "https://twitter.com/therecount/status/1333480213255229442/video/1",
+          "id": 1333479947684470784,
+          "id_str": "1333479947684470784",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1333479947684470784/img/qsl4jiWwSDcTKO7Q.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1333479947684470784/img/qsl4jiWwSDcTKO7Q.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/UKwpws2wP3",
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              5
+            ],
+            "duration_millis": 29534,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1333479947684470784/vid/576x360/65lzSOZBlBok4Mg2.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1333479947684470784/pl/9xZCNqo52h5ChDVv.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1333479947684470784/vid/432x270/mpOLeWrwJ7nWPH9K.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1333479947684470784/vid/1152x720/cZAzutSF5vhHR9mS.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10297,
+    "favorited": false,
+    "full_text": "Gov. Ducey (R-AZ) certifies Biden\u2019s win in Arizona, and announces he will sign documents today so that Senator-elect Mark Kelly (D) can be sworn in \u201cas swiftly as possible.\u201d\n\n(Kelly will be sworn in on Wednesday, per reports. The Senate will then be 52R-48D.) https://t.co/UKwpws2wP3",
+    "geo": null,
+    "id": 1333480213255229442,
+    "id_str": "1333480213255229442",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1968,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 21 16:04:27 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "We watch the news all day so you don\u2019t have to. Download our app & subscribe to our newsletter. \ud83d\udce9 info@therecount.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "recount.co/comehang",
+              "expanded_url": "http://recount.co/comehang",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mEW3MXQvXE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10296,
+      "follow_request_sent": false,
+      "followers_count": 292690,
+      "following": false,
+      "friends_count": 753,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1087380412089987077,
+      "id_str": "1087380412089987077",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1549,
+      "location": "New York, NY",
+      "name": "The Recount",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087380412089987077/1601941383",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "therecount",
+      "statuses_count": 12598,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mEW3MXQvXE",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1333480213255229442,
+  "quoted_status_id_str": "1333480213255229442",
+  "quoted_status_permalink": {
+    "display": "twitter.com/therecount/sta\u2026",
+    "expanded": "https://twitter.com/therecount/status/1333480213255229442",
+    "url": "https://t.co/XILGaHcyw7"
+  },
+  "retweet_count": 24878,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88808878,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125510,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58824,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

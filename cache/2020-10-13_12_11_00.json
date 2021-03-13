@@ -1,0 +1,247 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 13 12:11:00 +0000 2020",
+  "display_text_range": [
+    0,
+    205
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/patstclaire/st\u2026",
+        "expanded_url": "https://twitter.com/patstclaire/status/1315363262398111744",
+        "indices": [
+          206,
+          229
+        ],
+        "url": "https://t.co/YyLyCsbZ7a"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 33433,
+  "favorited": false,
+  "full_text": "Actually, Tony\u2019s pitching arm is far more accurate than his prognostications. \u201cNo problem, no masks\u201d. WHO no longer likes Lockdowns - just came out against. Trump was right. We saved 2,000,000 USA lives!!! https://t.co/YyLyCsbZ7a",
+  "geo": null,
+  "id": 1315988404694396929,
+  "id_str": "1315988404694396929",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 11 18:46:54 +0000 2020",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "cnn.com/2020/10/11/pol\u2026",
+          "expanded_url": "https://www.cnn.com/2020/10/11/politics/fauci-trump-campaign-ad-out-of-context/index.html",
+          "indices": [
+            253,
+            276
+          ],
+          "url": "https://t.co/TCaDp9B2jX"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 1209,
+    "favorited": false,
+    "full_text": "\"Fauci's quote is from an interview with Fox News in March. ... Fauci praised the White House coronavirus task force's round-the-clock effort to respond to the pandemic, which he says included numerous White House meetings and late-night phone calls.\"\n\nhttps://t.co/TCaDp9B2jX",
+    "geo": null,
+    "id": 1315363262398111744,
+    "id_str": "1315363262398111744",
+    "in_reply_to_screen_name": "PatStClaire",
+    "in_reply_to_status_id": 1315362628944965634,
+    "in_reply_to_status_id_str": "1315362628944965634",
+    "in_reply_to_user_id": 2976858754,
+    "in_reply_to_user_id_str": "2976858754",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -84.4344251,
+              33.520395
+            ],
+            [
+              -84.385157,
+              33.520395
+            ],
+            [
+              -84.385157,
+              33.589854
+            ],
+            [
+              -84.4344251,
+              33.589854
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Riverdale, GA",
+      "id": "6443187b9b4b748b",
+      "name": "Riverdale",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/6443187b9b4b748b.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 582,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 13 17:54:01 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Veteran broadcast journalist at https://t.co/8PkFm7aWv0. Love Atlanta & the beach. Wish the two could meet! I strive 2B balanced & fair.  Retweets are not endorsements.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wabe.org",
+              "expanded_url": "http://wabe.org",
+              "indices": [
+                32,
+                55
+              ],
+              "url": "https://t.co/8PkFm7aWv0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9464,
+      "follow_request_sent": false,
+      "followers_count": 1794,
+      "following": false,
+      "friends_count": 3152,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2976858754,
+      "id_str": "2976858754",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 22,
+      "location": "Atlanta",
+      "name": "Pat St. Claire",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2976858754/1421783026",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1129060255105736706/XsEaV4LJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1129060255105736706/XsEaV4LJ_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "PatStClaire",
+      "statuses_count": 11399,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1315363262398111744,
+  "quoted_status_id_str": "1315363262398111744",
+  "quoted_status_permalink": {
+    "display": "twitter.com/patstclaire/st\u2026",
+    "expanded": "https://twitter.com/patstclaire/status/1315363262398111744",
+    "url": "https://t.co/YyLyCsbZ7a"
+  },
+  "retweet_count": 10170,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

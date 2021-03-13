@@ -1,0 +1,312 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 01 11:26:21 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14344823,
+        "id_str": "14344823",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senate Republicans",
+        "screen_name": "SenateGOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenateGOP: Since Democrats won\u2019t speak out against the destruction happening in liberal cities across America\u2026\n \nWe will. https://t.co/\u2026",
+  "geo": null,
+  "id": 1278288831096250368,
+  "id_str": "1278288831096250368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6499,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 17:58:05 +0000 2020",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/femOwAe0Qm",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1278025024599920641/video/1",
+          "id": 1278024491017306112,
+          "id_str": "1278024491017306112",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebx0r7HWAAAyB6y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebx0r7HWAAAyB6y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/femOwAe0Qm"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "This isn\u2019t just about statues in liberal cities. It\u2019s the beginning of what Democrats would allow to happen in every community across America.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "It's never the mobs or bullies that we honor."
+          },
+          "display_url": "pic.twitter.com/femOwAe0Qm",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1278025024599920641/video/1",
+          "id": 1278024491017306112,
+          "id_str": "1278024491017306112",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ebx0r7HWAAAyB6y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ebx0r7HWAAAyB6y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/femOwAe0Qm",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 102333,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1278024491017306112/vid/320x320/e4NPgIN69JG3wWj9.mp4?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1278024491017306112/vid/720x720/eX4QOIAbfYt5ulLx.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1278024491017306112/vid/480x480/dOUqYmYXJSuTd6pg.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1278024491017306112/pl/_3vwLvkfjBQTgmZc.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15297,
+    "favorited": false,
+    "full_text": "Since Democrats won\u2019t speak out against the destruction happening in liberal cities across America\u2026\n \nWe will. https://t.co/femOwAe0Qm",
+    "geo": null,
+    "id": 1278025024599920641,
+    "id_str": "1278025024599920641",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6499,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/senategop",
+              "expanded_url": "http://www.facebook.com/senategop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LRez78SkoK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3150,
+      "follow_request_sent": false,
+      "followers_count": 1099932,
+      "following": false,
+      "friends_count": 25808,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14344823,
+      "id_str": "14344823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7793,
+      "location": "Washington, D.C.",
+      "name": "Senate Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenateGOP",
+      "statuses_count": 27878,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LRez78SkoK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82651278,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116125,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53331,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

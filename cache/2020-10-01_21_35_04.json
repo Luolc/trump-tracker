@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 01 21:35:04 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3530404094,
+        "id_str": "3530404094",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "David J Harris Jr",
+        "screen_name": "DavidJHarrisJr"
+      },
+      {
+        "id": 18805644,
+        "id_str": "18805644",
+        "indices": [
+          70,
+          84
+        ],
+        "name": "FoxNewsSunday",
+        "screen_name": "FoxNewsSunday"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DavidJHarrisJr: Anyone else tired of the lies? \n\nChris Wallace of @foxnewssunday should be ashamed of himself! \n\nRT so America knows th\u2026",
+  "geo": null,
+  "id": 1311781705397592064,
+  "id_str": "1311781705397592064",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13050,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 23:20:31 +0000 2020",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            129,
+            144
+          ],
+          "text": "TrumpIsARacist"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4qwuDG3y5W",
+          "expanded_url": "https://twitter.com/DavidJHarrisJr/status/1311445853740163072/video/1",
+          "id": 1311444693545254917,
+          "id_str": "1311444693545254917",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1311444693545254917/img/y4RcngOER_wjuFe6.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1311444693545254917/img/y4RcngOER_wjuFe6.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4qwuDG3y5W"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18805644,
+          "id_str": "18805644",
+          "indices": [
+            50,
+            64
+          ],
+          "name": "FoxNewsSunday",
+          "screen_name": "FoxNewsSunday"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/4qwuDG3y5W",
+          "expanded_url": "https://twitter.com/DavidJHarrisJr/status/1311445853740163072/video/1",
+          "id": 1311444693545254917,
+          "id_str": "1311444693545254917",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1311444693545254917/img/y4RcngOER_wjuFe6.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1311444693545254917/img/y4RcngOER_wjuFe6.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4qwuDG3y5W",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 226713,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1311444693545254917/vid/1280x720/sHIFQo4ceafsHJyH.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1311444693545254917/vid/640x360/Z2eR7Y-hur2Ycokd.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1311444693545254917/pl/afsNCn1iXXT4tOOq.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1311444693545254917/vid/480x270/mkCXVUcelKeWc9Lu.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25289,
+    "favorited": false,
+    "full_text": "Anyone else tired of the lies? \n\nChris Wallace of @foxnewssunday should be ashamed of himself! \n\nRT so America knows the truth! \n#TrumpIsARacist my ass! https://t.co/4qwuDG3y5W",
+    "geo": null,
+    "id": 1311445853740163072,
+    "id_str": "1311445853740163072",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13050,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 11 20:34:46 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Husband. Father. Lover of God & Country. Speaker. Best Selling Author of - Why I Couldn\u2019t Stay Silent - Get it signed from my store! Fellow at @Falkirk_Center",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "davidharrisjr.store",
+              "expanded_url": "https://davidharrisjr.store",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VS2JS8vbO7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14333,
+      "follow_request_sent": false,
+      "followers_count": 608742,
+      "following": false,
+      "friends_count": 2225,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3530404094,
+      "id_str": "3530404094",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1094,
+      "location": "Texas, USA",
+      "name": "David J Harris Jr",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3530404094/1538623799",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047949800463720448/D_WBZBlr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047949800463720448/D_WBZBlr_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DavidJHarrisJr",
+      "statuses_count": 21553,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VS2JS8vbO7",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86782351,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120488,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56616,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

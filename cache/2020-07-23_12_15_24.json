@@ -1,0 +1,438 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:15:24 +0000 2020",
+  "display_text_range": [
+    0,
+    115
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: A reminder that those who pander and bow to the mob will still be threatened and humiliated by it\u2b07\ufe0f",
+  "geo": null,
+  "id": 1286273707485405188,
+  "id_str": "1286273707485405188",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1286152301619503104,
+  "quoted_status_id_str": "1286152301619503104",
+  "quoted_status_permalink": {
+    "display": "twitter.com/bymikebaker/st\u2026",
+    "expanded": "https://twitter.com/bymikebaker/status/1286152301619503104",
+    "url": "https://t.co/5Mm58pI8VW"
+  },
+  "retweet_count": 7710,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 05:11:39 +0000 2020",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/bymikebaker/st\u2026",
+          "expanded_url": "https://twitter.com/bymikebaker/status/1286152301619503104",
+          "indices": [
+            100,
+            123
+          ],
+          "url": "https://t.co/5Mm58pI8VW"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 21490,
+    "favorited": false,
+    "full_text": "A reminder that those who pander and bow to the mob will still be threatened and humiliated by it\u2b07\ufe0f https://t.co/5Mm58pI8VW",
+    "geo": null,
+    "id": 1286167069944360960,
+    "id_str": "1286167069944360960",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jul 23 04:12:58 +0000 2020",
+      "display_text_range": [
+        0,
+        74
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/o0s1azbi2R",
+            "expanded_url": "https://twitter.com/ByMikeBaker/status/1286152301619503104/video/1",
+            "id": 1286152106139725824,
+            "id_str": "1286152106139725824",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286152106139725824/pu/img/lYcAuZfHZwDiZ1mQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286152106139725824/pu/img/lYcAuZfHZwDiZ1mQ.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/o0s1azbi2R"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/o0s1azbi2R",
+            "expanded_url": "https://twitter.com/ByMikeBaker/status/1286152301619503104/video/1",
+            "id": 1286152106139725824,
+            "id_str": "1286152106139725824",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286152106139725824/pu/img/lYcAuZfHZwDiZ1mQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286152106139725824/pu/img/lYcAuZfHZwDiZ1mQ.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/o0s1azbi2R",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 39316,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286152106139725824/pu/vid/1280x720/P_ujlnTwJUD7ZOJ6.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286152106139725824/pu/vid/480x270/ndZKWWlqfKdjwx6u.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286152106139725824/pu/vid/640x360/Oow8ToW91_UQcepA.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1286152106139725824/pu/pl/_d7MsXT-hcmpA90n.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5554,
+      "favorited": false,
+      "full_text": "People have surrounded the mayor, cursing him and calling for resignation. https://t.co/o0s1azbi2R",
+      "geo": null,
+      "id": 1286152301619503104,
+      "id_str": "1286152301619503104",
+      "in_reply_to_screen_name": "ByMikeBaker",
+      "in_reply_to_status_id": 1286151667780476930,
+      "in_reply_to_status_id_str": "1286151667780476930",
+      "in_reply_to_user_id": 178065733,
+      "in_reply_to_user_id_str": "178065733",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2269,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Aug 13 19:47:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Correspondent for @nytimes, based in the Northwest. Tips welcome via DM or Signal: 646-394-3002",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nytimes.com/by/mike-baker",
+                "expanded_url": "https://www.nytimes.com/by/mike-baker",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zySc5eZcsk"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3528,
+        "follow_request_sent": false,
+        "followers_count": 45909,
+        "following": false,
+        "friends_count": 1451,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 178065733,
+        "id_str": "178065733",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1239,
+        "location": "Washington/Oregon/Idaho/Alaska",
+        "name": "Mike Baker",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/178065733/1417448065",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/890984076424826880/3jgdPGGn_normal.jpg",
+        "profile_link_color": "1F98C7",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ByMikeBaker",
+        "statuses_count": 9761,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zySc5eZcsk",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1286152301619503104,
+    "quoted_status_id_str": "1286152301619503104",
+    "quoted_status_permalink": {
+      "display": "twitter.com/bymikebaker/st\u2026",
+      "expanded": "https://twitter.com/bymikebaker/status/1286152301619503104",
+      "url": "https://t.co/5Mm58pI8VW"
+    },
+    "retweet_count": 7710,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show; Former CIA Analyst and NYPD Intel Division #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0fhttps://t.co/3beR3JwoYg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "https://apple.co/2lRor7y",
+              "indices": [
+                123,
+                146
+              ],
+              "url": "https://t.co/3beR3JwoYg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24868,
+      "follow_request_sent": false,
+      "followers_count": 426711,
+      "following": false,
+      "friends_count": 1528,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2537,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 2046,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 10:01:15 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1082416697380913152,
+        "id_str": "1082416697380913152",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Rep. Michael Waltz",
+        "screen_name": "RepMichaelWaltz"
+      },
+      {
+        "id": 1080504024695222273,
+        "id_str": "1080504024695222273",
+        "indices": [
+          31,
+          44
+        ],
+        "name": "Congressman Denver Riggleman",
+        "screen_name": "RepRiggleman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepMichaelWaltz: My friend @RepRiggleman just converted his family distillery into a hand sanitizer manufacturing facility. \n\nAnother g\u2026",
+  "geo": null,
+  "id": 1241666241988878341,
+  "id_str": "1241666241988878341",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1241417727753048064,
+  "quoted_status_id_str": "1241417727753048064",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stevescalise/s\u2026",
+    "expanded": "https://twitter.com/stevescalise/status/1241417727753048064",
+    "url": "https://t.co/l97lyeYErK"
+  },
+  "retweet_count": 1435,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 22 00:32:31 +0000 2020",
+    "display_text_range": [
+      0,
+      201
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            188,
+            201
+          ],
+          "text": "InItTogether"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/stevescalise/s\u2026",
+          "expanded_url": "https://twitter.com/stevescalise/status/1241417727753048064",
+          "indices": [
+            202,
+            225
+          ],
+          "url": "https://t.co/l97lyeYErK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1080504024695222273,
+          "id_str": "1080504024695222273",
+          "indices": [
+            10,
+            23
+          ],
+          "name": "Congressman Denver Riggleman",
+          "screen_name": "RepRiggleman"
+        }
+      ]
+    },
+    "favorite_count": 4940,
+    "favorited": false,
+    "full_text": "My friend @RepRiggleman just converted his family distillery into a hand sanitizer manufacturing facility. \n\nAnother great example of service to those in need right now. Thank you Denver! #InItTogether https://t.co/l97lyeYErK",
+    "geo": null,
+    "id": 1241523113382346752,
+    "id_str": "1241523113382346752",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Mar 21 17:33:45 +0000 2020",
+      "display_text_range": [
+        0,
+        242
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              202,
+              215
+            ],
+            "text": "InItTogether"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "rollcall.com/2020/03/19/thi\u2026",
+            "expanded_url": "https://www.rollcall.com/2020/03/19/this-congressmans-family-runs-a-distillery-theyre-shifting-to-hand-sanitizer/",
+            "indices": [
+              219,
+              242
+            ],
+            "url": "https://t.co/k4VCYbZY4X"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1080504024695222273,
+            "id_str": "1080504024695222273",
+            "indices": [
+              13,
+              26
+            ],
+            "name": "Congressman Denver Riggleman",
+            "screen_name": "RepRiggleman"
+          }
+        ]
+      },
+      "favorite_count": 4010,
+      "favorited": false,
+      "full_text": "So awesome!! @RepRiggleman stepped up to the plate in a big way by converting his family distillery into a hand sanitizer manufacturing facility. Thank you, Denver! THIS is the American spirit at work. #InItTogether \ud83c\uddfa\ud83c\uddf8 https://t.co/k4VCYbZY4X",
+      "geo": null,
+      "id": 1241417727753048064,
+      "id_str": "1241417727753048064",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1355,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 22 18:10:47 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "House Republican Whip. Dad. LSU & Saints fan. Proudly representing Louisiana\u2019s First District.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1971,
+        "follow_request_sent": false,
+        "followers_count": 408940,
+        "following": false,
+        "friends_count": 1303,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1209417007,
+        "id_str": "1209417007",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2429,
+        "location": "Jefferson, LA",
+        "name": "Steve Scalise",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1209417007/1439224958",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744267613841260544/GdM7XCZM_normal.jpg",
+        "profile_link_color": "021F59",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SteveScalise",
+        "statuses_count": 10901,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1241417727753048064,
+    "quoted_status_id_str": "1241417727753048064",
+    "quoted_status_permalink": {
+      "display": "twitter.com/stevescalise/s\u2026",
+      "expanded": "https://twitter.com/stevescalise/status/1241417727753048064",
+      "url": "https://t.co/l97lyeYErK"
+    },
+    "retweet_count": 1435,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 07 23:20:25 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Congressman for #FL6 (Volusia, Flagler, Lake, St Johns Counties), Green Beret, National Guard Lt. Col., former CEO, Author of \"Warrior Diplomat,\" Father.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "waltz.house.gov",
+              "expanded_url": "http://waltz.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QOB7UQmYz2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 888,
+      "follow_request_sent": false,
+      "followers_count": 18438,
+      "following": false,
+      "friends_count": 516,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1082416697380913152,
+      "id_str": "1082416697380913152",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 229,
+      "location": "",
+      "name": "Rep. Michael Waltz",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1082416697380913152/1560377890",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1215019343739838464/ZGNl7bHe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215019343739838464/ZGNl7bHe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepMichaelWaltz",
+      "statuses_count": 2113,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QOB7UQmYz2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

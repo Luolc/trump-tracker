@@ -1,0 +1,521 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 04:19:40 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15976697,
+        "id_str": "15976697",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Michelle Malkin",
+        "screen_name": "michellemalkin"
+      },
+      {
+        "id": 43479137,
+        "id_str": "43479137",
+        "indices": [
+          28,
+          38
+        ],
+        "name": "Steve Drazkowski",
+        "screen_name": "SteveDraz"
+      },
+      {
+        "id": 1082334352711790593,
+        "id_str": "1082334352711790593",
+        "indices": [
+          92,
+          98
+        ],
+        "name": "Rep. Ilhan Omar",
+        "screen_name": "Ilhan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @michellemalkin: ICYMI - @stevedraz, the driving force in Minnesota state legislature on @ilhan-related investigations of campaign finan\u2026",
+  "geo": null,
+  "id": 1310796362804592640,
+  "id_str": "1310796362804592640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1310677722796945408,
+  "quoted_status_id_str": "1310677722796945408",
+  "quoted_status_permalink": {
+    "display": "twitter.com/michellemalkin\u2026",
+    "expanded": "https://twitter.com/michellemalkin/status/1310677722796945408",
+    "url": "https://t.co/yLuYBPjWZg"
+  },
+  "retweet_count": 8898,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 01:49:08 +0000 2020",
+    "display_text_range": [
+      0,
+      268
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            185,
+            202
+          ],
+          "text": "ballotharvesting"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/michellemalkin\u2026",
+          "expanded_url": "https://twitter.com/michellemalkin/status/1310677722796945408",
+          "indices": [
+            269,
+            292
+          ],
+          "url": "https://t.co/yLuYBPjWZg"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 43479137,
+          "id_str": "43479137",
+          "indices": [
+            8,
+            18
+          ],
+          "name": "Steve Drazkowski",
+          "screen_name": "SteveDraz"
+        },
+        {
+          "id": 1082334352711790593,
+          "id_str": "1082334352711790593",
+          "indices": [
+            72,
+            78
+          ],
+          "name": "Rep. Ilhan Omar",
+          "screen_name": "Ilhan"
+        },
+        {
+          "id": 850036892,
+          "id_str": "850036892",
+          "indices": [
+            239,
+            255
+          ],
+          "name": "Project Veritas",
+          "screen_name": "Project_Veritas"
+        }
+      ]
+    },
+    "favorite_count": 19360,
+    "favorited": false,
+    "full_text": "ICYMI - @stevedraz, the driving force in Minnesota state legislature on @ilhan-related investigations of campaign finance, immigration, tax &amp; election fraud, tells me how he shared #ballotharvesting info w/languid FBI before enlisting @project_veritas to ACT==&gt; https://t.co/yLuYBPjWZg",
+    "geo": null,
+    "id": 1310758479104077825,
+    "id_str": "1310758479104077825",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Sep 28 20:28:14 +0000 2020",
+      "display_text_range": [
+        0,
+        281
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/JilGKQcIby",
+            "expanded_url": "https://twitter.com/michellemalkin/status/1310677722796945408/video/1",
+            "id": 1310675937864740864,
+            "id_str": "1310675937864740864",
+            "indices": [
+              282,
+              305
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1310675937864740864/img/ZYlTSvIXR4RJ1yzD.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1310675937864740864/img/ZYlTSvIXR4RJ1yzD.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/JilGKQcIby"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 43479137,
+            "id_str": "43479137",
+            "indices": [
+              12,
+              22
+            ],
+            "name": "Steve Drazkowski",
+            "screen_name": "SteveDraz"
+          },
+          {
+            "id": 16989178,
+            "id_str": "16989178",
+            "indices": [
+              47,
+              62
+            ],
+            "name": "James O'Keefe",
+            "screen_name": "JamesOKeefeIII"
+          },
+          {
+            "id": 850036892,
+            "id_str": "850036892",
+            "indices": [
+              263,
+              279
+            ],
+            "name": "Project Veritas",
+            "screen_name": "Project_Veritas"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/JilGKQcIby",
+            "expanded_url": "https://twitter.com/michellemalkin/status/1310677722796945408/video/1",
+            "id": 1310675937864740864,
+            "id_str": "1310675937864740864",
+            "indices": [
+              282,
+              305
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1310675937864740864/img/ZYlTSvIXR4RJ1yzD.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1310675937864740864/img/ZYlTSvIXR4RJ1yzD.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/JilGKQcIby",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 140000,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1310675937864740864/pl/1NWf_WwHqpJS8Pz0.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1310675937864740864/vid/480x270/bDPIqYLx7iSPHJSg.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1310675937864740864/vid/640x360/2peteecLjKBN9FjT.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1310675937864740864/vid/1280x720/5gso8vyCyqjkcuVc.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 7572,
+      "favorited": false,
+      "full_text": "MN GOP Rep. @stevedraz recounts why he went to @jamesokeefeiii w/Ilhan-tied election fraud after reporting to FBI: \"I was not convinced that they were going to do an investigation...the only other organization that would do this &amp; bring it to the surface was @project_veritas.\" https://t.co/JilGKQcIby",
+      "geo": null,
+      "id": 1310677722796945408,
+      "id_str": "1310677722796945408",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4467,
+      "retweeted": false,
+      "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 25 02:52:07 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Little brown woman. Big mouth. Wife. Mom. Entrepreneur. Geek. #WhoIsNext #StillAThing #ManitouIncline #freedanielholtzclaw #EffSharia #FightTheCensors",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Open-Borders-I\u2026",
+                "expanded_url": "https://www.amazon.com/Open-Borders-Inc-Funding-America/dp/1621579719/ref=sr_1_1?keywords=open+borde",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/HH5HynIZTI"
+              }
+            ]
+          }
+        },
+        "favourites_count": 41726,
+        "follow_request_sent": false,
+        "followers_count": 2212428,
+        "following": false,
+        "friends_count": 18040,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15976697,
+        "id_str": "15976697",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14636,
+        "location": "USA",
+        "name": "Michelle Malkin",
+        "notifications": false,
+        "profile_background_color": "DD2E44",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15976697/1577858480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1212251237913022464/dWo7RZX6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212251237913022464/dWo7RZX6_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "michellemalkin",
+        "statuses_count": 76502,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/HH5HynIZTI",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1310677722796945408,
+    "quoted_status_id_str": "1310677722796945408",
+    "quoted_status_permalink": {
+      "display": "twitter.com/michellemalkin\u2026",
+      "expanded": "https://twitter.com/michellemalkin/status/1310677722796945408",
+      "url": "https://t.co/yLuYBPjWZg"
+    },
+    "retweet_count": 8898,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 25 02:52:07 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Little brown woman. Big mouth. Wife. Mom. Entrepreneur. Geek. #WhoIsNext #StillAThing #ManitouIncline #freedanielholtzclaw #EffSharia #FightTheCensors",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/Open-Borders-I\u2026",
+              "expanded_url": "https://www.amazon.com/Open-Borders-Inc-Funding-America/dp/1621579719/ref=sr_1_1?keywords=open+borde",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HH5HynIZTI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 41726,
+      "follow_request_sent": false,
+      "followers_count": 2212428,
+      "following": false,
+      "friends_count": 18040,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15976697,
+      "id_str": "15976697",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14636,
+      "location": "USA",
+      "name": "Michelle Malkin",
+      "notifications": false,
+      "profile_background_color": "DD2E44",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15976697/1577858480",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1212251237913022464/dWo7RZX6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212251237913022464/dWo7RZX6_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "michellemalkin",
+      "statuses_count": 76502,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/HH5HynIZTI",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

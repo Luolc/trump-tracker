@@ -1,0 +1,326 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jun 14 14:22:17 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 8775672,
+        "id_str": "8775672",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "U.S. Army",
+        "screen_name": "USArmy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USArmy: Today, we recognize 245 years of bravery, commitment, skill and answering the call to serve. \n\nWe are America's Army.\n\n#ArmyBda\u2026",
+  "geo": null,
+  "id": 1272172511560634368,
+  "id_str": "1272172511560634368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 16319,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jun 14 13:00:49 +0000 2020",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            119,
+            128
+          ],
+          "text": "ArmyBday"
+        },
+        {
+          "indices": [
+            129,
+            144
+          ],
+          "text": "ServeWithHonor"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/skfWN16XpP",
+          "expanded_url": "https://twitter.com/USArmy/status/1272152011006455808/video/1",
+          "id": 1272151958351208448,
+          "id_str": "1272151958351208448",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaeXgkVXgAYmTxh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaeXgkVXgAYmTxh.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/skfWN16XpP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "monetizable": false,
+            "title": "Army Birthday"
+          },
+          "display_url": "pic.twitter.com/skfWN16XpP",
+          "expanded_url": "https://twitter.com/USArmy/status/1272152011006455808/video/1",
+          "id": 1272151958351208448,
+          "id_str": "1272151958351208448",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/media/EaeXgkVXgAYmTxh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EaeXgkVXgAYmTxh.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/skfWN16XpP",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 58493,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1272151958351208448/vid/320x320/zlup06wTw03sy11X.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1272151958351208448/vid/480x480/9Hu0GNTk4-bPLLJl.mp4?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1272151958351208448/vid/720x720/KpXWW40FbxPWiFww.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1272151958351208448/pl/EEtdQCM3JV1REvOX.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 58657,
+    "favorited": false,
+    "full_text": "Today, we recognize 245 years of bravery, commitment, skill and answering the call to serve. \n\nWe are America's Army.\n\n#ArmyBday #ServeWithHonor https://t.co/skfWN16XpP",
+    "geo": null,
+    "id": 1272152011006455808,
+    "id_str": "1272152011006455808",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 16319,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 10 01:04:15 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter page of the United States Army.  (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "go.usa.gov/xnETa",
+              "expanded_url": "https://go.usa.gov/xnETa",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sS6XQW0unu"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11036,
+      "follow_request_sent": false,
+      "followers_count": 1617955,
+      "following": false,
+      "friends_count": 915,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 8775672,
+      "id_str": "8775672",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8965,
+      "location": "Washington, D.C.",
+      "name": "U.S. Army",
+      "notifications": false,
+      "profile_background_color": "4E4E4E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/8775672/1591714713",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/684036669515759616/BF3rskvn_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/684036669515759616/BF3rskvn_normal.png",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USArmy",
+      "statuses_count": 36793,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sS6XQW0unu",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82151466,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115331,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52902,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

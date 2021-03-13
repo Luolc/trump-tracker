@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 16 04:36:04 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 627643516,
+        "id_str": "627643516",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Marianna Sotomayor",
+        "screen_name": "MariannaNBCNews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MariannaNBCNews: Dozens of Trump supporters were loudly chanting a mix of \u201cFour more years,\u201d \u201cTrump\u201d and \u201cUSA\u201d throughout the event, gr\u2026",
+  "geo": null,
+  "id": 1316961083790417920,
+  "id_str": "1316961083790417920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 19762,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 18:12:15 +0000 2020",
+    "display_text_range": [
+      0,
+      173
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7M0iZWdmRf",
+          "expanded_url": "https://twitter.com/MariannaNBCNews/status/1315716928128913411/video/1",
+          "id": 1315716847631831042,
+          "id_str": "1315716847631831042",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315716847631831042/pu/img/Q7eC-_Bnm42XD9uV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315716847631831042/pu/img/Q7eC-_Bnm42XD9uV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7M0iZWdmRf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 939091,
+          "id_str": "939091",
+          "indices": [
+            139,
+            148
+          ],
+          "name": "Joe Biden",
+          "screen_name": "JoeBiden"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/7M0iZWdmRf",
+          "expanded_url": "https://twitter.com/MariannaNBCNews/status/1315716928128913411/video/1",
+          "id": 1315716847631831042,
+          "id_str": "1315716847631831042",
+          "indices": [
+            174,
+            197
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315716847631831042/pu/img/Q7eC-_Bnm42XD9uV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315716847631831042/pu/img/Q7eC-_Bnm42XD9uV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7M0iZWdmRf",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12143,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315716847631831042/pu/vid/640x360/lbJb8Oy0IgsKfZam.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315716847631831042/pu/vid/480x270/I6MCL0TWsiFk5Bf8.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1315716847631831042/pu/vid/1280x720/LW7BFW03z9authHJ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1315716847631831042/pu/pl/g5BLNbsN7-sBIdLQ.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 54755,
+    "favorited": false,
+    "full_text": "Dozens of Trump supporters were loudly chanting a mix of \u201cFour more years,\u201d \u201cTrump\u201d and \u201cUSA\u201d throughout the event, growing louder anytime @JoeBiden mentioned the president. https://t.co/7M0iZWdmRf",
+    "geo": null,
+    "id": 1315716928128913411,
+    "id_str": "1315716928128913411",
+    "in_reply_to_screen_name": "MariannaNBCNews",
+    "in_reply_to_status_id": 1315716828476452865,
+    "in_reply_to_status_id_str": "1315716828476452865",
+    "in_reply_to_user_id": 627643516,
+    "in_reply_to_user_id_str": "627643516",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -83.694776,
+              41.580375
+            ],
+            [
+              -83.454566,
+              41.580375
+            ],
+            [
+              -83.454566,
+              41.732806
+            ],
+            [
+              -83.694776,
+              41.732806
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Toledo, OH",
+      "id": "7068dd9474ab6973",
+      "name": "Toledo",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/7068dd9474ab6973.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 19762,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 05 19:01:06 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "2020 campaign embed @NBCNews covering Joe Biden \u2022 Formerly reporting from Capitol Hill \u2022 Florida bred & Peruvian food fed \u2022 Insta \ud83d\udcf8: mariannasotomayor",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nbcnews.com/politics/2020-\u2026",
+              "expanded_url": "https://www.nbcnews.com/politics/2020-election/biden-forced-find-new-ways-connect-one-year-campaign-n1192176",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/So0RZYIFfm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4962,
+      "follow_request_sent": false,
+      "followers_count": 26135,
+      "following": false,
+      "friends_count": 1317,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 627643516,
+      "id_str": "627643516",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 599,
+      "location": "Washington, DC",
+      "name": "Marianna Sotomayor",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/627643516/1602365851",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1302723135100407810/Vwbt_fER_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1302723135100407810/Vwbt_fER_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MariannaNBCNews",
+      "statuses_count": 13875,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/So0RZYIFfm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87275415,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57238,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

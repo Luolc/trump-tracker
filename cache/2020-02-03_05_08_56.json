@@ -1,0 +1,508 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Feb 03 05:08:56 +0000 2020",
+  "display_text_range": [
+    0,
+    14
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/diamondandsilk\u2026",
+        "expanded_url": "https://twitter.com/diamondandsilk/status/1224115838304890883",
+        "indices": [
+          15,
+          38
+        ],
+        "url": "https://t.co/Q1NFAHrC3p"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 34657,
+  "favorited": false,
+  "full_text": "Great company! https://t.co/Q1NFAHrC3p",
+  "geo": null,
+  "id": 1224198059611115521,
+  "id_str": "1224198059611115521",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 02 23:42:13 +0000 2020",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            111
+          ],
+          "text": "SuperBowl2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/duri8sfb9C",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1224115838304890883/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 128,
+                  "y": 802
+                },
+                {
+                  "h": 223,
+                  "w": 223,
+                  "x": 515,
+                  "y": 250
+                },
+                {
+                  "h": 276,
+                  "w": 276,
+                  "x": 195,
+                  "y": 321
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 120,
+                  "y": 751
+                },
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 482,
+                  "y": 234
+                },
+                {
+                  "h": 258,
+                  "w": 258,
+                  "x": 182,
+                  "y": 300
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 128,
+                  "y": 802
+                },
+                {
+                  "h": 223,
+                  "w": 223,
+                  "x": 515,
+                  "y": 250
+                },
+                {
+                  "h": 276,
+                  "w": 276,
+                  "x": 195,
+                  "y": 321
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 68,
+                  "y": 426
+                },
+                {
+                  "h": 118,
+                  "w": 118,
+                  "x": 273,
+                  "y": 132
+                },
+                {
+                  "h": 146,
+                  "w": 146,
+                  "x": 103,
+                  "y": 170
+                }
+              ]
+            }
+          },
+          "id": 1224115832122376192,
+          "id_str": "1224115832122376192",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPzu3RmWAAAKMGk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPzu3RmWAAAKMGk.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/duri8sfb9C"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2908170952,
+          "id_str": "2908170952",
+          "indices": [
+            1,
+            16
+          ],
+          "name": "Diamond and Silk\u00ae",
+          "screen_name": "DiamondandSilk"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            79,
+            95
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/duri8sfb9C",
+          "expanded_url": "https://twitter.com/DiamondandSilk/status/1224115838304890883/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 128,
+                  "y": 802
+                },
+                {
+                  "h": 223,
+                  "w": 223,
+                  "x": 515,
+                  "y": 250
+                },
+                {
+                  "h": 276,
+                  "w": 276,
+                  "x": 195,
+                  "y": 321
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 66,
+                  "w": 66,
+                  "x": 120,
+                  "y": 751
+                },
+                {
+                  "h": 209,
+                  "w": 209,
+                  "x": 482,
+                  "y": 234
+                },
+                {
+                  "h": 258,
+                  "w": 258,
+                  "x": 182,
+                  "y": 300
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 71,
+                  "w": 71,
+                  "x": 128,
+                  "y": 802
+                },
+                {
+                  "h": 223,
+                  "w": 223,
+                  "x": 515,
+                  "y": 250
+                },
+                {
+                  "h": 276,
+                  "w": 276,
+                  "x": 195,
+                  "y": 321
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 68,
+                  "y": 426
+                },
+                {
+                  "h": 118,
+                  "w": 118,
+                  "x": 273,
+                  "y": 132
+                },
+                {
+                  "h": 146,
+                  "w": 146,
+                  "x": 103,
+                  "y": 170
+                }
+              ]
+            }
+          },
+          "id": 1224115832122376192,
+          "id_str": "1224115832122376192",
+          "indices": [
+            112,
+            135
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPzu3RmWAAAKMGk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPzu3RmWAAAKMGk.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/duri8sfb9C"
+        }
+      ]
+    },
+    "favorite_count": 25065,
+    "favorited": false,
+    "full_text": ".@DiamondandSilk at Trump International golf club watching SuperBowl LIV  with @realDonaldTrump.\n#SuperBowl2020 https://t.co/duri8sfb9C",
+    "geo": null,
+    "id": 1224115838304890883,
+    "id_str": "1224115838304890883",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5018,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 06 18:49:06 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President Donald J Trump's Most Loyal Supporters. Host of D&S Chit Chat Live. Vloggers, Fox Nation Host, Public Figures & Speakers. \nhttps://t.co/17S7rQtlYU",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "AboutDiamondandSilk.com",
+              "expanded_url": "http://AboutDiamondandSilk.com",
+              "indices": [
+                133,
+                156
+              ],
+              "url": "https://t.co/17S7rQtlYU"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DiamondandSilk.com",
+              "expanded_url": "http://www.DiamondandSilk.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/xdbTGlyGDv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3666,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1352377,
+      "following": false,
+      "friends_count": 48,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2908170952,
+      "id_str": "2908170952",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3363,
+      "location": "United States",
+      "name": "Diamond and Silk\u00ae",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2908170952/1580667852",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1222222704595607558/MTKf9Bqg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222222704595607558/MTKf9Bqg_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DiamondandSilk",
+      "statuses_count": 13213,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/xdbTGlyGDv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1224115838304890883,
+  "quoted_status_id_str": "1224115838304890883",
+  "quoted_status_permalink": {
+    "display": "twitter.com/diamondandsilk\u2026",
+    "expanded": "https://twitter.com/diamondandsilk/status/1224115838304890883",
+    "url": "https://t.co/Q1NFAHrC3p"
+  },
+  "retweet_count": 6539,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 72030360,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114064,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48603,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

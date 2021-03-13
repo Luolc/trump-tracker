@@ -1,0 +1,377 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 19:52:59 +0000 2020",
+  "display_text_range": [
+    0,
+    107
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          90,
+          106
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Mike_Pence: America\u2019s farmers, ranchers and manufacturers are WINNING under President @realDonaldTrump!",
+  "geo": null,
+  "id": 1220071885142032385,
+  "id_str": "1220071885142032385",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1220040841122795521,
+  "quoted_status_id_str": "1220040841122795521",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1220040841122795521",
+    "url": "https://t.co/LkRaDvnhb3"
+  },
+  "retweet_count": 6464,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 22 18:09:58 +0000 2020",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1220040841122795521",
+          "indices": [
+            92,
+            115
+          ],
+          "url": "https://t.co/LkRaDvnhb3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 24995,
+    "favorited": false,
+    "full_text": "America\u2019s farmers, ranchers and manufacturers are WINNING under President @realDonaldTrump! https://t.co/LkRaDvnhb3",
+    "geo": null,
+    "id": 1220045959599742983,
+    "id_str": "1220045959599742983",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jan 22 17:49:38 +0000 2020",
+      "display_text_range": [
+        0,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "thehill.com/policy/finance\u2026",
+            "expanded_url": "https://thehill.com/policy/finance/479369-grassley-signs-usmca-sending-it-to-trumps-desk",
+            "indices": [
+              65,
+              88
+            ],
+            "url": "https://t.co/kALpNIPyUv"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              43,
+              59
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 23031,
+      "favorited": false,
+      "full_text": "Next stop for USMCA: the desk of President @realDonaldTrump! \u270d\ufe0f  https://t.co/kALpNIPyUv",
+      "geo": null,
+      "id": 1220040841122795521,
+      "id_str": "1220040841122795521",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 6854,
+      "retweeted": false,
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 19970820,
+        "following": false,
+        "friends_count": 12,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12479,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1553098760",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 15106,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1220040841122795521,
+    "quoted_status_id_str": "1220040841122795521",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1220040841122795521",
+      "url": "https://t.co/LkRaDvnhb3"
+    },
+    "retweet_count": 6464,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hy4Wdz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 715,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4146670,
+      "following": false,
+      "friends_count": 30,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8721,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1576029048",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Mike_Pence",
+      "statuses_count": 7204,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hy4Wdz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

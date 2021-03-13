@@ -1,0 +1,440 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 15 02:18:27 +0000 2020",
+  "display_text_range": [
+    0,
+    70
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          65,
+          70
+        ],
+        "text": "ca25"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1308317708,
+        "id_str": "1308317708",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Graham Ledger",
+        "screen_name": "GrahamLedger"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GrahamLedger: This is a ray of sunshine on a cloudy year.... #ca25",
+  "geo": null,
+  "id": 1261118718630912002,
+  "id_str": "1261118718630912002",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1260409143493525508,
+  "quoted_status_id_str": "1260409143493525508",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ryangirdusky/s\u2026",
+    "expanded": "https://twitter.com/ryangirdusky/status/1260409143493525508",
+    "url": "https://t.co/kLlJV6RU1x"
+  },
+  "retweet_count": 8055,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 13 03:27:13 +0000 2020",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            47,
+            52
+          ],
+          "text": "ca25"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ryangirdusky/s\u2026",
+          "expanded_url": "https://twitter.com/ryangirdusky/status/1260409143493525508",
+          "indices": [
+            53,
+            76
+          ],
+          "url": "https://t.co/kLlJV6RU1x"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 30359,
+    "favorited": false,
+    "full_text": "This is a ray of sunshine on a cloudy year.... #ca25 https://t.co/kLlJV6RU1x",
+    "geo": null,
+    "id": 1260411249222774784,
+    "id_str": "1260411249222774784",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 13 03:18:51 +0000 2020",
+      "display_text_range": [
+        0,
+        40
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              7,
+              12
+            ],
+            "text": "CA25"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YPUXYH1T5v",
+            "expanded_url": "https://twitter.com/RyanGirdusky/status/1260409143493525508/photo/1",
+            "id": 1260409123008581632,
+            "id_str": "1260409123008581632",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/EX3fa2CWkAAZ8UU.png",
+            "media_url_https": "https://pbs.twimg.com/media/EX3fa2CWkAAZ8UU.png",
+            "sizes": {
+              "large": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "medium": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "small": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YPUXYH1T5v"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YPUXYH1T5v",
+            "expanded_url": "https://twitter.com/RyanGirdusky/status/1260409143493525508/photo/1",
+            "id": 1260409123008581632,
+            "id_str": "1260409123008581632",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/EX3fa2CWkAAZ8UU.png",
+            "media_url_https": "https://pbs.twimg.com/media/EX3fa2CWkAAZ8UU.png",
+            "sizes": {
+              "large": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "medium": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "small": {
+                "h": 307,
+                "resize": "fit",
+                "w": 599
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YPUXYH1T5v"
+          }
+        ]
+      },
+      "favorite_count": 23308,
+      "favorited": false,
+      "full_text": "wow... #CA25 is a disaster for Democrats https://t.co/YPUXYH1T5v",
+      "geo": null,
+      "id": 1260409143493525508,
+      "id_str": "1260409143493525508",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 6559,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 30 20:35:09 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Native New Yorker. Roman Catholic\n\nMy forthcoming book on National Populism: https://t.co/knCCFZo8mc\n\nSign up for my weekly newsletter: https://t.co/3qFWVWiHHw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/stvnaky",
+                "expanded_url": "http://tinyurl.com/stvnaky",
+                "indices": [
+                  77,
+                  100
+                ],
+                "url": "https://t.co/knCCFZo8mc"
+              },
+              {
+                "display_url": "ryangirdusky.com/newsletter/",
+                "expanded_url": "http://ryangirdusky.com/newsletter/",
+                "indices": [
+                  136,
+                  159
+                ],
+                "url": "https://t.co/3qFWVWiHHw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryangirdusky.com",
+                "expanded_url": "https://ryangirdusky.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/cudNINZ5TQ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 38628,
+        "follow_request_sent": false,
+        "followers_count": 30696,
+        "following": false,
+        "friends_count": 911,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 855318254,
+        "id_str": "855318254",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 273,
+        "location": "New York City",
+        "name": "Ryan James Girdusky",
+        "notifications": false,
+        "profile_background_color": "C6E2EE",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/855318254/1579136352",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/934301019961303042/AzDwSO4n_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/934301019961303042/AzDwSO4n_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DAECF4",
+        "profile_text_color": "663B12",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RyanGirdusky",
+        "statuses_count": 66612,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/cudNINZ5TQ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1260409143493525508,
+    "quoted_status_id_str": "1260409143493525508",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ryangirdusky/s\u2026",
+      "expanded": "https://twitter.com/ryangirdusky/status/1260409143493525508",
+      "url": "https://t.co/kLlJV6RU1x"
+    },
+    "retweet_count": 8055,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 27 18:58:12 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "EMMY winner Graham Ledger hosts The Daily Ledger - the only daily, national, Constitutionally conservative cable TV show that analyzes political news of the day",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "GrahamLedger.com",
+              "expanded_url": "http://www.GrahamLedger.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GTgAXFRx5y"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1360,
+      "follow_request_sent": false,
+      "followers_count": 86452,
+      "following": false,
+      "friends_count": 355,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1308317708,
+      "id_str": "1308317708",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 352,
+      "location": "",
+      "name": "Graham Ledger",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308317708/1536941290",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1123363340175044608/LeHnWOFf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123363340175044608/LeHnWOFf_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GrahamLedger",
+      "statuses_count": 8650,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GTgAXFRx5y",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

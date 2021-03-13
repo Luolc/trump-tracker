@@ -1,0 +1,394 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 18:19:44 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 135970150,
+        "id_str": "135970150",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jim",
+        "screen_name": "scienceinvestme"
+      },
+      {
+        "id": 939091,
+        "id_str": "939091",
+        "indices": [
+          21,
+          30
+        ],
+        "name": "Joe Biden",
+        "screen_name": "JoeBiden"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @scienceinvestme: @JoeBiden Seen enough of slo Joe\u2019s past videos/statements,determined his schtick!\nHe elevates his voice,looks U in the\u2026",
+  "geo": null,
+  "id": 1279480027827056640,
+  "id_str": "1279480027827056640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4887,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 03 19:15:39 +0000 2020",
+    "display_text_range": [
+      10,
+      286
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XnYbwJKIa5",
+          "expanded_url": "https://twitter.com/shaunking/status/1222579400664850432/video/1",
+          "id": 1222540279783350272,
+          "id_str": "1222540279783350272",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1222540279783350272/img/KUXsvDeeWOL1KiNJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1222540279783350272/img/KUXsvDeeWOL1KiNJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1222579400664850432,
+          "source_status_id_str": "1222579400664850432",
+          "source_user_id": 755113,
+          "source_user_id_str": "755113",
+          "type": "photo",
+          "url": "https://t.co/XnYbwJKIa5"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 939091,
+          "id_str": "939091",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Joe Biden",
+          "screen_name": "JoeBiden"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://shaunking.substack.com/p/2-truths-and-31-lies-joe-biden-has"
+              }
+            },
+            "description": "In 1987, when Joe Biden was running for President, he did not get caught in a lie - he got caught in at least 9 lies. \n\nThey engulfed his entire campaign and almost derailed his political career. ",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue Feb 06 05:17:19 +0000 2007",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Founder @TheNorthStar & @RealJusticePAC & @FlipTheSenate & @TheActionPAC Host of @TheBreakdown Podcast. Husband. Father of 5. Leader @grassroots_law",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "podcasts.apple.com/us/podcast/the\u2026",
+                      "expanded_url": "https://podcasts.apple.com/us/podcast/the-breakdown-with-shaun-king/id1457725100",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/VPTgznd21o"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 167875,
+              "follow_request_sent": false,
+              "followers_count": 1197756,
+              "following": false,
+              "friends_count": 13181,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 755113,
+              "id_str": "755113",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 8688,
+              "location": "Brooklyn, NY",
+              "name": "Shaun King",
+              "notifications": false,
+              "profile_background_color": "131516",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/755113/1571787479",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1238108108519587840/Hzs9NxBZ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1238108108519587840/Hzs9NxBZ_normal.jpg",
+              "profile_link_color": "000000",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "EFEFEF",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "shaunking",
+              "statuses_count": 118221,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "https://t.co/VPTgznd21o",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "In 1987 Joe Biden was proven to be a pathological liar"
+          },
+          "display_url": "pic.twitter.com/XnYbwJKIa5",
+          "expanded_url": "https://twitter.com/shaunking/status/1222579400664850432/video/1",
+          "id": 1222540279783350272,
+          "id_str": "1222540279783350272",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1222540279783350272/img/KUXsvDeeWOL1KiNJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1222540279783350272/img/KUXsvDeeWOL1KiNJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1222579400664850432,
+          "source_status_id_str": "1222579400664850432",
+          "source_user_id": 755113,
+          "source_user_id_str": "755113",
+          "type": "video",
+          "url": "https://t.co/XnYbwJKIa5",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 292170,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1222540279783350272/pl/fPm1I0SUQBOfvI5y.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1222540279783350272/vid/640x360/Ns6o9zq6vQ6ufTdr.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1222540279783350272/vid/1280x720/KGEa9Obmvm5DEmH-.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1222540279783350272/vid/480x270/DJkZD6E-4aDOsJ4f.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12062,
+    "favorited": false,
+    "full_text": "@JoeBiden Seen enough of slo Joe\u2019s past videos/statements,determined his schtick!\nHe elevates his voice,looks U in the eye,gets in yr face, try\u2019s 2 come across confident! \ud83e\udd25\n\nEducation,plagiarism, lying dog faced pony soldier, want to do push-ups ect.. opinion  \n\nhttps://t.co/XnYbwJKIa5",
+    "geo": null,
+    "id": 1279131711994048513,
+    "id_str": "1279131711994048513",
+    "in_reply_to_screen_name": "JoeBiden",
+    "in_reply_to_status_id": 1279131545521885184,
+    "in_reply_to_status_id_str": "1279131545521885184",
+    "in_reply_to_user_id": 939091,
+    "in_reply_to_user_id_str": "939091",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 4887,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Apr 22 17:42:01 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Pres.AAN.#properties,17yr former #builder,previous family 22 store #clothingchain\ud83d\udc54 #chess\u265f#koi #fish\ud83d\udc20#LasVegas #Raiders\ud83c\udfc8 #Reaganite 2A\ud83c\uddfa\ud83c\uddf8 #MAGA\ud83c\uddfa\ud83c\uddf8 #Parler",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 11154,
+      "follow_request_sent": false,
+      "followers_count": 1244,
+      "following": false,
+      "friends_count": 764,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 135970150,
+      "id_str": "135970150",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 23,
+      "location": "#PlanetEarth\ud83e\ude90",
+      "name": "Jim",
+      "notifications": false,
+      "profile_background_color": "B80000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/135970150/1592801830",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/914460951608463361/mLdJ-hxh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/914460951608463361/mLdJ-hxh_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "scienceinvestme",
+      "statuses_count": 7076,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

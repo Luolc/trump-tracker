@@ -1,0 +1,391 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 04 11:18:41 +0000 2020",
+  "display_text_range": [
+    0,
+    18
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/danscavino/sta\u2026",
+        "expanded_url": "https://twitter.com/danscavino/status/1312603370239283200",
+        "indices": [
+          19,
+          42
+        ],
+        "url": "https://t.co/UL6P5lRjZI"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 203144,
+  "favorited": false,
+  "full_text": "Thank you so much! https://t.co/UL6P5lRjZI",
+  "geo": null,
+  "id": 1312713748398866432,
+  "id_str": "1312713748398866432",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 04 04:00:05 +0000 2020",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            176,
+            181
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MkM1XWSpdQ",
+          "expanded_url": "https://twitter.com/David_Bossie/status/1312549476230483973/video/1",
+          "id": 1312549354499121152,
+          "id_str": "1312549354499121152",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312549354499121152/pu/img/EeLUBZn5osA75nI4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312549354499121152/pu/img/EeLUBZn5osA75nI4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1312549476230483973,
+          "source_status_id_str": "1312549476230483973",
+          "source_user_id": 333663029,
+          "source_user_id_str": "333663029",
+          "type": "photo",
+          "url": "https://t.co/MkM1XWSpdQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            90,
+            106
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jul 11 21:56:45 +0000 2011",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Proud Dad and husband, President @Citizens_United, 2016 Dep. Campaign Manager @realDonaldTrump, 2 time NY Times Best-Selling Author, @GOP Committeeman for MD",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "citizensunited.org/about-david-bo\u2026",
+                      "expanded_url": "http://www.citizensunited.org/about-david-bossie.aspx",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/w6cF6LHIQq"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 726,
+              "follow_request_sent": false,
+              "followers_count": 33938,
+              "following": false,
+              "friends_count": 2240,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 333663029,
+              "id_str": "333663029",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 351,
+              "location": "Washington, DC",
+              "name": "David Bossie",
+              "notifications": false,
+              "profile_background_color": "022330",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/333663029/1383948667",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/933354453624901632/KvqOjzeM_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/933354453624901632/KvqOjzeM_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "A8C7F7",
+              "profile_sidebar_fill_color": "C0DFEC",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "David_Bossie",
+              "statuses_count": 10656,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/w6cF6LHIQq",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/MkM1XWSpdQ",
+          "expanded_url": "https://twitter.com/David_Bossie/status/1312549476230483973/video/1",
+          "id": 1312549354499121152,
+          "id_str": "1312549354499121152",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1312549354499121152/pu/img/EeLUBZn5osA75nI4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1312549354499121152/pu/img/EeLUBZn5osA75nI4.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1312549476230483973,
+          "source_status_id_str": "1312549476230483973",
+          "source_user_id": 333663029,
+          "source_user_id_str": "333663029",
+          "type": "video",
+          "url": "https://t.co/MkM1XWSpdQ",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 24618,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1312549354499121152/pu/vid/320x568/GJ4_6lr3dLBKYmgr.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1312549354499121152/pu/vid/360x640/X2-8bB995yuVXPu4.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1312549354499121152/pu/vid/720x1280/5lrgz9o-_OaUx28b.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1312549354499121152/pu/pl/nGLbLvKpRBxgsmzq.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 44073,
+    "favorited": false,
+    "full_text": "\ud835\ude4f\ud835\ude43\ud835\ude3c\ud835\ude49\ud835\ude46 \ud835\ude54\ud835\ude4a\ud835\ude50  to all of the Great American Patriots who have come out tonight, in support of @realDonaldTrump at Walter Reed Medical Center. We\u2019ll all get through this, TOGETHER! #MAGA\ud83c\uddfa\ud83c\uddf8\ud83e\udd85 \nhttps://t.co/MkM1XWSpdQ",
+    "geo": null,
+    "id": 1312603370239283200,
+    "id_str": "1312603370239283200",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12622,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2888,
+      "follow_request_sent": false,
+      "followers_count": 985802,
+      "following": false,
+      "friends_count": 715,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4094,
+      "location": "",
+      "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1596333141",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 11416,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1312603370239283200,
+  "quoted_status_id_str": "1312603370239283200",
+  "quoted_status_permalink": {
+    "display": "twitter.com/danscavino/sta\u2026",
+    "expanded": "https://twitter.com/danscavino/status/1312603370239283200",
+    "url": "https://t.co/UL6P5lRjZI"
+  },
+  "retweet_count": 37534,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86900970,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120662,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56624,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

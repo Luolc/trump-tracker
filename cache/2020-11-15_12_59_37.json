@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 15 12:59:37 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 819334191624101888,
+        "id_str": "819334191624101888",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Watters' World",
+        "screen_name": "WattersWorld"
+      },
+      {
+        "id": 20713061,
+        "id_str": "20713061",
+        "indices": [
+          87,
+          100
+        ],
+        "name": "Newt Gingrich",
+        "screen_name": "newtgingrich"
+      },
+      {
+        "id": 408504119,
+        "id_str": "408504119",
+        "indices": [
+          105,
+          118
+        ],
+        "name": "JESSE WATTERS",
+        "screen_name": "JESSEWATTERS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WattersWorld: What is the future for mail-in ballots?  Former Speaker of The House @newtgingrich and @jessewatters discuss, tonight. #F\u2026",
+  "geo": null,
+  "id": 1327959438137888768,
+  "id_str": "1327959438137888768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3906,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 14 18:00:01 +0000 2020",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            119,
+            127
+          ],
+          "text": "FoxNews"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gTKLKqqgqb",
+          "expanded_url": "https://twitter.com/WattersWorld/status/1327672648940195847/photo/1",
+          "id": 1327339600768065536,
+          "id_str": "1327339600768065536",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmuoVZgW4AASrO3.png",
+          "media_url_https": "https://pbs.twimg.com/media/EmuoVZgW4AASrO3.png",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gTKLKqqgqb"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 20713061,
+          "id_str": "20713061",
+          "indices": [
+            69,
+            82
+          ],
+          "name": "Newt Gingrich",
+          "screen_name": "newtgingrich"
+        },
+        {
+          "id": 408504119,
+          "id_str": "408504119",
+          "indices": [
+            87,
+            100
+          ],
+          "name": "JESSE WATTERS",
+          "screen_name": "JESSEWATTERS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gTKLKqqgqb",
+          "expanded_url": "https://twitter.com/WattersWorld/status/1327672648940195847/photo/1",
+          "id": 1327339600768065536,
+          "id_str": "1327339600768065536",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/media/EmuoVZgW4AASrO3.png",
+          "media_url_https": "https://pbs.twimg.com/media/EmuoVZgW4AASrO3.png",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gTKLKqqgqb"
+        }
+      ]
+    },
+    "favorite_count": 17345,
+    "favorited": false,
+    "full_text": "What is the future for mail-in ballots?  Former Speaker of The House @newtgingrich and @jessewatters discuss, tonight. #FoxNews 8PM ET https://t.co/gTKLKqqgqb",
+    "geo": null,
+    "id": 1327672648940195847,
+    "id_str": "1327672648940195847",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3906,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 12 00:04:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Watch Saturdays at 8p ET on @FoxNews with host @jessebwatters",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fxn.ws/2it87pa",
+              "expanded_url": "http://fxn.ws/2it87pa",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Zjs4bvrtLS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6417,
+      "follow_request_sent": false,
+      "followers_count": 188852,
+      "following": false,
+      "friends_count": 173,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 819334191624101888,
+      "id_str": "819334191624101888",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 593,
+      "location": "",
+      "name": "Watters' World",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/819334191624101888/1484335847",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/819989731282800640/un-19jXS_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WattersWorld",
+      "statuses_count": 3405,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Zjs4bvrtLS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

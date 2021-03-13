@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 22 02:20:04 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CNN: First lady Melania Trump thanked students for helping to keep the country safe and acknowledged recent changes they\u2019ve had to make\u2026",
+  "geo": null,
+  "id": 1263655838369136642,
+  "id_str": "1263655838369136642",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4739,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 22 02:09:16 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            265,
+            277
+          ],
+          "text": "CNNTownHall"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XnkIqInEMw",
+          "expanded_url": "https://twitter.com/CNN/status/1263653122057986049/video/1",
+          "id": 1263651237704069120,
+          "id_str": "1263651237704069120",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1263651237704069120/img/T2jBDIenbOezVWj7.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1263651237704069120/img/T2jBDIenbOezVWj7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XnkIqInEMw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": true,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/XnkIqInEMw",
+          "expanded_url": "https://twitter.com/CNN/status/1263653122057986049/video/1",
+          "id": 1263651237704069120,
+          "id_str": "1263651237704069120",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1263651237704069120/img/T2jBDIenbOezVWj7.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1263651237704069120/img/T2jBDIenbOezVWj7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/XnkIqInEMw",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 113780,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1263651237704069120/vid/480x270/T51MfhVOK2z2urbl.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1263651237704069120/vid/1280x720/KrfU_Ns_HKYqmDYL.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1263651237704069120/vid/640x360/v-Z-X5BoojRuLj93.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1263651237704069120/pl/7HRfLMbgaVSi9mw0.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20657,
+    "favorited": false,
+    "full_text": "First lady Melania Trump thanked students for helping to keep the country safe and acknowledged recent changes they\u2019ve had to make.\n\n\u201cPlease know that the President and I are with you during these challenging times and will do everything we can do to support you.\" #CNNTownHall https://t.co/XnkIqInEMw",
+    "geo": null,
+    "id": 1263653122057986049,
+    "id_str": "1263653122057986049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4739,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK  & Download our app https://t.co/UCHG9M367J",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "cnn.com/apps",
+              "expanded_url": "http://cnn.com/apps",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/UCHG9M367J"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cnn.com",
+              "expanded_url": "http://www.cnn.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/IaghNW8Xm2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1430,
+      "follow_request_sent": false,
+      "followers_count": 48127934,
+      "following": false,
+      "friends_count": 1107,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 759251,
+      "id_str": "759251",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 138476,
+      "location": "",
+      "name": "CNN",
+      "notifications": false,
+      "profile_background_color": "323232",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED_normal.png",
+      "profile_link_color": "004287",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "CNN",
+      "statuses_count": 301487,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "http://t.co/IaghNW8Xm2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80132231,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113499,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51869,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

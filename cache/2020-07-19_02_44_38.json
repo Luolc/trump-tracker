@@ -1,0 +1,438 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jul 19 02:44:38 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          29,
+          45
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: President @realDonaldTrump is spot on.\n \n\u201c[Democrats] want to bury our economy under suffocating, relentless landslides\u2026",
+  "geo": null,
+  "id": 1284680519263948800,
+  "id_str": "1284680519263948800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1284101568615395331,
+  "quoted_status_id_str": "1284101568615395331",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SecretsBedard/\u2026",
+    "expanded": "https://twitter.com/SecretsBedard/status/1284101568615395331",
+    "url": "https://t.co/N6o6E7uH8a"
+  },
+  "retweet_count": 5494,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 18 19:00:31 +0000 2020",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SecretsBedard/\u2026",
+          "expanded_url": "https://twitter.com/SecretsBedard/status/1284101568615395331",
+          "indices": [
+            175,
+            198
+          ],
+          "url": "https://t.co/N6o6E7uH8a"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 17267,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump is spot on.\n \n\u201c[Democrats] want to bury our economy under suffocating, relentless landslides of Washington red tape like we had before I got here.\u201d\nhttps://t.co/N6o6E7uH8a",
+    "geo": null,
+    "id": 1284563719503085568,
+    "id_str": "1284563719503085568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 17 12:24:06 +0000 2020",
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0ghhyFmGJJ",
+            "expanded_url": "https://twitter.com/SecretsBedard/status/1284101568615395331/photo/1",
+            "id": 1284101538915524609,
+            "id_str": "1284101538915524609",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EdILi9KXoAE-CoW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EdILi9KXoAE-CoW.jpg",
+            "sizes": {
+              "large": {
+                "h": 1366,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0ghhyFmGJJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "washex.am/2ZDU1Xy",
+            "expanded_url": "https://washex.am/2ZDU1Xy",
+            "indices": [
+              104,
+              127
+            ],
+            "url": "https://t.co/EkiZy98cf9"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              21,
+              37
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/0ghhyFmGJJ",
+            "expanded_url": "https://twitter.com/SecretsBedard/status/1284101568615395331/photo/1",
+            "id": 1284101538915524609,
+            "id_str": "1284101538915524609",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EdILi9KXoAE-CoW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EdILi9KXoAE-CoW.jpg",
+            "sizes": {
+              "large": {
+                "h": 1366,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0ghhyFmGJJ"
+          }
+        ]
+      },
+      "favorite_count": 502,
+      "favorited": false,
+      "full_text": "Deregulator-in-Chief @realDonaldTrump: 6 ways Biden threatens \u2018entire economy and our very way of life\u2019 https://t.co/EkiZy98cf9 https://t.co/0ghhyFmGJJ",
+      "geo": null,
+      "id": 1284101568615395331,
+      "id_str": "1284101568615395331",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 297,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 10 20:24:36 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Washington Secrets. Prior: USNews Washington Whispers, Washington Times White House correspondent -- Bush 41 and Bubba. pbedard@washingtonexaminer.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "washingtonexaminer.com/politics/washi\u2026",
+                "expanded_url": "http://washingtonexaminer.com/politics/washington-secrets",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/a35mC8SDei"
+              }
+            ]
+          }
+        },
+        "favourites_count": 939,
+        "follow_request_sent": false,
+        "followers_count": 30236,
+        "following": false,
+        "friends_count": 5182,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 18029328,
+        "id_str": "18029328",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 613,
+        "location": "Washington, DC",
+        "name": "Paul Bedard",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2962541964/6ecbb0e45c431b387758bdf4cbe5a3fe_normal.jpeg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SecretsBedard",
+        "statuses_count": 32330,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/a35mC8SDei",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1284101568615395331,
+    "quoted_status_id_str": "1284101568615395331",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SecretsBedard/\u2026",
+      "expanded": "https://twitter.com/SecretsBedard/status/1284101568615395331",
+      "url": "https://t.co/N6o6E7uH8a"
+    },
+    "retweet_count": 5494,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7545,
+      "follow_request_sent": false,
+      "followers_count": 724025,
+      "following": false,
+      "friends_count": 2599,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2554,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 15018,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83765506,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116796,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53781,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

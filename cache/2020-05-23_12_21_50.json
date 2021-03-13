@@ -1,0 +1,426 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 23 12:21:50 +0000 2020",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          22,
+          30
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: .@FoxNews should fire their Fake Pollster. Never had a good Fox Poll!",
+  "geo": null,
+  "id": 1264169665359642626,
+  "id_str": "1264169665359642626",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1263702765768974337,
+  "quoted_status_id_str": "1263702765768974337",
+  "quoted_status_permalink": {
+    "display": "twitter.com/danscavino/sta\u2026",
+    "expanded": "https://twitter.com/danscavino/status/1263702765768974337",
+    "url": "https://t.co/joHfkQwd9L"
+  },
+  "retweet_count": 13874,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 22 14:39:10 +0000 2020",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/danscavino/sta\u2026",
+          "expanded_url": "https://twitter.com/danscavino/status/1263702765768974337",
+          "indices": [
+            70,
+            93
+          ],
+          "url": "https://t.co/joHfkQwd9L"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            1,
+            9
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "favorite_count": 53236,
+    "favorited": false,
+    "full_text": ".@FoxNews should fire their Fake Pollster. Never had a good Fox Poll! https://t.co/joHfkQwd9L",
+    "geo": null,
+    "id": 1263841841654444049,
+    "id_str": "1263841841654444049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 22 05:26:32 +0000 2020",
+      "display_text_range": [
+        0,
+        30
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              14,
+              30
+            ],
+            "text": "FlashbackFriday"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hxJdbsJNxb",
+            "expanded_url": "https://twitter.com/DanScavino/status/1263702765768974337/photo/1",
+            "id": 1263702761700548610,
+            "id_str": "1263702761700548610",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYmS92TXYAIysqL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYmS92TXYAIysqL.jpg",
+            "sizes": {
+              "large": {
+                "h": 664,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 642,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 364,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hxJdbsJNxb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hxJdbsJNxb",
+            "expanded_url": "https://twitter.com/DanScavino/status/1263702765768974337/photo/1",
+            "id": 1263702761700548610,
+            "id_str": "1263702761700548610",
+            "indices": [
+              31,
+              54
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYmS92TXYAIysqL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYmS92TXYAIysqL.jpg",
+            "sizes": {
+              "large": {
+                "h": 664,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 642,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 364,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/hxJdbsJNxb"
+          }
+        ]
+      },
+      "favorite_count": 10052,
+      "favorited": false,
+      "full_text": "Fox News Poll #FlashbackFriday https://t.co/hxJdbsJNxb",
+      "geo": null,
+      "id": 1263702765768974337,
+      "id_str": "1263702765768974337",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3001,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Worked on a campaign that was given no chance to win, while being spied on by a previous admin who weaponized their federal govt, to take us down. WE WON.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/DanScavino",
+                "expanded_url": "https://www.Instagram.com/DanScavino",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/d4FhxaX9ii"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2878,
+        "follow_request_sent": false,
+        "followers_count": 816228,
+        "following": false,
+        "friends_count": 661,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 620571475,
+        "id_str": "620571475",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3624,
+        "location": "",
+        "name": "Dan Scavino",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1589479658",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DanScavino",
+        "statuses_count": 10951,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/d4FhxaX9ii",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1263702765768974337,
+    "quoted_status_id_str": "1263702765768974337",
+    "quoted_status_permalink": {
+      "display": "twitter.com/danscavino/sta\u2026",
+      "expanded": "https://twitter.com/danscavino/status/1263702765768974337",
+      "url": "https://t.co/joHfkQwd9L"
+    },
+    "retweet_count": 13874,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 80172282,
+      "following": true,
+      "friends_count": 46,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 113448,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 51915,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80172282,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113448,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51915,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

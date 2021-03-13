@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 23 12:10:42 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: \u201cWe are determined to protect our African American, Hispanic American, and minority workers who have been hit so hard by\u2026",
+  "geo": null,
+  "id": 1253295227886014464,
+  "id_str": "1253295227886014464",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2731,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 22 23:46:03 +0000 2020",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/e452eaIvSs",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1253096946132271105/video/1",
+          "id": 1253096783544270855,
+          "id_str": "1253096783544270855",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253096783544270855/pu/img/RJid7xMiA4UPJ55X.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253096783544270855/pu/img/RJid7xMiA4UPJ55X.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1253096946132271105,
+          "source_status_id_str": "1253096946132271105",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "photo",
+          "url": "https://t.co/e452eaIvSs"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            143,
+            159
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "goo.gl/oryp5i",
+                      "expanded_url": "https://goo.gl/oryp5i",
+                      "indices": [
+                        134,
+                        157
+                      ],
+                      "url": "https://t.co/OLjaWvAwOj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "gop.com/research/",
+                      "expanded_url": "https://gop.com/research/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oeE4SVAXcg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followers_count": 80546,
+              "following": false,
+              "friends_count": 3412,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 55329156,
+              "id_str": "55329156",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1272,
+              "location": "Washington, DC",
+              "name": "RNC Research",
+              "notifications": false,
+              "profile_background_color": "CC0A0A",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_link_color": "F50808",
+              "profile_sidebar_border_color": "030303",
+              "profile_sidebar_fill_color": "8A8585",
+              "profile_text_color": "050505",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RNCResearch",
+              "statuses_count": 19053,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/oeE4SVAXcg",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/e452eaIvSs",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1253096946132271105/video/1",
+          "id": 1253096783544270855,
+          "id_str": "1253096783544270855",
+          "indices": [
+            160,
+            183
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253096783544270855/pu/img/RJid7xMiA4UPJ55X.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253096783544270855/pu/img/RJid7xMiA4UPJ55X.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1253096946132271105,
+          "source_status_id_str": "1253096946132271105",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "video",
+          "url": "https://t.co/e452eaIvSs",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 70968,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1253096783544270855/pu/pl/FWAxeH6Kbvsj5l8R.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1253096783544270855/pu/vid/640x360/OHwNC05WimgDPM8_.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1253096783544270855/pu/vid/480x270/nP9HIqaEn7bBZG_W.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1253096783544270855/pu/vid/1280x720/ciKC56DcdNdw2kmU.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10347,
+    "favorited": false,
+    "full_text": "\u201cWe are determined to protect our African American, Hispanic American, and minority workers who have been hit so hard by this hidden enemy.\u201d \u2013 @realDonaldTrump\nhttps://t.co/e452eaIvSs",
+    "geo": null,
+    "id": 1253107830560886785,
+    "id_str": "1253107830560886785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2731,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7095,
+      "follow_request_sent": false,
+      "followers_count": 598934,
+      "following": false,
+      "friends_count": 2593,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2546,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 14134,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 78200617,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120042,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50881,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

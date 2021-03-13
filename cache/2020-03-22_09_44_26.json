@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 09:44:26 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18915145,
+        "id_str": "18915145",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Rob Portman",
+        "screen_name": "senrobportman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @senrobportman: I hope you\u2019ll  join me in thanking the folks working around the clock to keep the food supply chain moving and the shelv\u2026",
+  "geo": null,
+  "id": 1241662009818656770,
+  "id_str": "1241662009818656770",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1240998245578481665,
+  "quoted_status_id_str": "1240998245578481665",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SecretarySonny\u2026",
+    "expanded": "https://twitter.com/SecretarySonny/status/1240998245578481665",
+    "url": "https://t.co/H2jm6D2Lf5"
+  },
+  "retweet_count": 874,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 16:29:21 +0000 2020",
+    "display_text_range": [
+      0,
+      159
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SecretarySonny\u2026",
+          "expanded_url": "https://twitter.com/SecretarySonny/status/1240998245578481665",
+          "indices": [
+            160,
+            183
+          ],
+          "url": "https://t.co/H2jm6D2Lf5"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 3353,
+    "favorited": false,
+    "full_text": "I hope you\u2019ll  join me in thanking the folks working around the clock to keep the food supply chain moving and the shelves stocked during this national crisis. https://t.co/H2jm6D2Lf5",
+    "geo": null,
+    "id": 1241039134006927360,
+    "id_str": "1241039134006927360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Mar 20 13:46:53 +0000 2020",
+      "display_text_range": [
+        0,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3wIUuNtUpb",
+            "expanded_url": "https://twitter.com/SecretarySonny/status/1240998245578481665/video/1",
+            "id": 1240997654085144576,
+            "id_str": "1240997654085144576",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240997654085144576/pu/img/ywtgQSFvvIibaqIi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240997654085144576/pu/img/ywtgQSFvvIibaqIi.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3wIUuNtUpb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/3wIUuNtUpb",
+            "expanded_url": "https://twitter.com/SecretarySonny/status/1240998245578481665/video/1",
+            "id": 1240997654085144576,
+            "id_str": "1240997654085144576",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240997654085144576/pu/img/ywtgQSFvvIibaqIi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240997654085144576/pu/img/ywtgQSFvvIibaqIi.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/3wIUuNtUpb",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 137137,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1240997654085144576/pu/vid/640x360/NFLnDC52ueUcCD1J.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1240997654085144576/pu/vid/1280x720/TFDBFFYKWwymdpLB.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1240997654085144576/pu/pl/zbBlLhqWhFP6a75q.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1240997654085144576/pu/vid/480x270/tfmgODRfLxXS5v06.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 57452,
+      "favorited": false,
+      "full_text": "To the heroes in the U.S. food supply chain, we salute you. https://t.co/3wIUuNtUpb",
+      "geo": null,
+      "id": 1240998245578481665,
+      "id_str": "1240998245578481665",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 15343,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 15 17:58:18 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "31st Secretary @USDA. Husband, Father of 4, Big Buddy to 14 grandchildren. #Farmer, #Veteran, #Veterinarian, former two-term Gov. of GA.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "usda.gov",
+                "expanded_url": "https://www.usda.gov/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/JAsBIE5HWA"
+              }
+            ]
+          }
+        },
+        "favourites_count": 46,
+        "follow_request_sent": false,
+        "followers_count": 70454,
+        "following": false,
+        "friends_count": 526,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 842072478834909184,
+        "id_str": "842072478834909184",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 665,
+        "location": "",
+        "name": "Sec. Sonny Perdue",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/842072478834909184/1584711798",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1218256697749274624/McLV7Wqe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218256697749274624/McLV7Wqe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SecretarySonny",
+        "statuses_count": 3324,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JAsBIE5HWA",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1240998245578481665,
+    "quoted_status_id_str": "1240998245578481665",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SecretarySonny\u2026",
+      "expanded": "https://twitter.com/SecretarySonny/status/1240998245578481665",
+      "url": "https://t.co/H2jm6D2Lf5"
+    },
+    "retweet_count": 874,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the Buckeye State.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "portman.senate.gov",
+              "expanded_url": "http://portman.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IR7Ky4qOaO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 423,
+      "follow_request_sent": false,
+      "followers_count": 149674,
+      "following": false,
+      "friends_count": 5080,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18915145,
+      "id_str": "18915145",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3183,
+      "location": "Ohio",
+      "name": "Rob Portman",
+      "notifications": false,
+      "profile_background_color": "0074DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_link_color": "106CB7",
+      "profile_sidebar_border_color": "26C905",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "senrobportman",
+      "statuses_count": 17621,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IR7Ky4qOaO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

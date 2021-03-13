@@ -1,0 +1,431 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 12 12:29:03 +0000 2020",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17685258,
+        "id_str": "17685258",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brad Parscale",
+        "screen_name": "parscale"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @parscale: CLUELESS. 100% out of touch with reality.",
+  "geo": null,
+  "id": 1271419238935334912,
+  "id_str": "1271419238935334912",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1271143208282701825,
+  "quoted_status_id_str": "1271143208282701825",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TrumpWarRoom/s\u2026",
+    "expanded": "https://twitter.com/TrumpWarRoom/status/1271143208282701825",
+    "url": "https://t.co/T2jOrFdk5h"
+  },
+  "retweet_count": 14640,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 11 19:10:14 +0000 2020",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TrumpWarRoom/s\u2026",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1271143208282701825",
+          "indices": [
+            42,
+            65
+          ],
+          "url": "https://t.co/T2jOrFdk5h"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 40530,
+    "favorited": false,
+    "full_text": "CLUELESS. 100% out of touch with reality. https://t.co/T2jOrFdk5h",
+    "geo": null,
+    "id": 1271157812966690816,
+    "id_str": "1271157812966690816",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jun 11 18:12:12 +0000 2020",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vpNDQLwqBj",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1271143208282701825/video/1",
+            "id": 1271140212765347847,
+            "id_str": "1271140212765347847",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP_iPGXkAMK2Rp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaP_iPGXkAMK2Rp.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vpNDQLwqBj"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "Joe Biden was clearly instructed by staff to politically weaponize Juneteenth, but doesn't know what it is and couldn't remember his lines.",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Joe Biden doesn't know what Juneteenth is"
+            },
+            "display_url": "pic.twitter.com/vpNDQLwqBj",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1271143208282701825/video/1",
+            "id": 1271140212765347847,
+            "id_str": "1271140212765347847",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP_iPGXkAMK2Rp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaP_iPGXkAMK2Rp.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/vpNDQLwqBj",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 11067,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1271140212765347847/pl/oGhdbk2CURu7qm4I.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1271140212765347847/vid/480x270/gOHDeBMHHQVIV_hE.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1271140212765347847/vid/640x360/JcHcyjUbXHQpHp7B.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 15515,
+      "favorited": false,
+      "full_text": "Joe Biden doesn't know what Juneteenth is:\n\n\"He\u2019s going down to Texas on Juneteenth, right? The first major massacre ... of the Black Wall Street, right?\"\n\n1. President Trump is going to Texas today, not June 19\n2. Juneteenth is about emancipation\n3. The massacre was in Oklahoma https://t.co/vpNDQLwqBj",
+      "geo": null,
+      "id": 1271143208282701825,
+      "id_str": "1271143208282701825",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8244,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 672655,
+        "following": false,
+        "friends_count": 229,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1926,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text TRUMP to 88022 & get the APP",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 13253,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1271143208282701825,
+    "quoted_status_id_str": "1271143208282701825",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TrumpWarRoom/s\u2026",
+      "expanded": "https://twitter.com/TrumpWarRoom/status/1271143208282701825",
+      "url": "https://t.co/T2jOrFdk5h"
+    },
+    "retweet_count": 14640,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 27 18:47:32 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Campaign Manager for @realdonaldtrump 2020 Presidential Campaign. #MAGA #KAG #Trump2020",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com/get-involved/",
+              "expanded_url": "http://www.donaldjtrump.com/get-involved/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tCuRLgA6VU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 937,
+      "follow_request_sent": false,
+      "followers_count": 645205,
+      "following": false,
+      "friends_count": 475,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17685258,
+      "id_str": "17685258",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2875,
+      "location": "Washington, DC",
+      "name": "Brad Parscale",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1582219751",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_link_color": "AB2316",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "parscale",
+      "statuses_count": 5260,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tCuRLgA6VU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 16 10:41:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 634311232,
+        "id_str": "634311232",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Teety",
+        "screen_name": "teety1970"
+      },
+      {
+        "id": 112047805,
+        "id_str": "112047805",
+        "indices": [
+          15,
+          24
+        ],
+        "name": "Brit Hume",
+        "screen_name": "brithume"
+      },
+      {
+        "id": 54412900,
+        "id_str": "54412900",
+        "indices": [
+          43,
+          54
+        ],
+        "name": "Devin Nunes",
+        "screen_name": "DevinNunes"
+      },
+      {
+        "id": 29501253,
+        "id_str": "29501253",
+        "indices": [
+          80,
+          94
+        ],
+        "name": "Adam Schiff",
+        "screen_name": "RepAdamSchiff"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          117,
+          121
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 13850422,
+        "id_str": "13850422",
+        "indices": [
+          122,
+          134
+        ],
+        "name": "CNN Politics",
+        "screen_name": "CNNPolitics"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @teety1970: @brithume I always believed @DevinNunes...then along comes lying @RepAdamSchiff who lied to Congress, @cnn @CNNPolitics @MSN\u2026",
+  "geo": null,
+  "id": 1261607790365290496,
+  "id_str": "1261607790365290496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2568,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 12:54:28 +0000 2020",
+    "display_text_range": [
+      10,
+      298
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WgxN4fws2v",
+          "expanded_url": "https://twitter.com/teety1970/status/1260916389327626242/photo/1",
+          "id": 1260916385909280769,
+          "id_str": "1260916385909280769",
+          "indices": [
+            299,
+            322
+          ],
+          "media_url": "http://pbs.twimg.com/media/EX-sxbmXkAERaH_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EX-sxbmXkAERaH_.jpg",
+          "sizes": {
+            "large": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "medium": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "small": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WgxN4fws2v"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 112047805,
+          "id_str": "112047805",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Brit Hume",
+          "screen_name": "brithume"
+        },
+        {
+          "id": 54412900,
+          "id_str": "54412900",
+          "indices": [
+            28,
+            39
+          ],
+          "name": "Devin Nunes",
+          "screen_name": "DevinNunes"
+        },
+        {
+          "id": 29501253,
+          "id_str": "29501253",
+          "indices": [
+            65,
+            79
+          ],
+          "name": "Adam Schiff",
+          "screen_name": "RepAdamSchiff"
+        },
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            102,
+            106
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 13850422,
+          "id_str": "13850422",
+          "indices": [
+            107,
+            119
+          ],
+          "name": "CNN Politics",
+          "screen_name": "CNNPolitics"
+        },
+        {
+          "id": 2836421,
+          "id_str": "2836421",
+          "indices": [
+            120,
+            126
+          ],
+          "name": "MSNBC",
+          "screen_name": "MSNBC"
+        },
+        {
+          "id": 16129920,
+          "id_str": "16129920",
+          "indices": [
+            127,
+            134
+          ],
+          "name": "Rachel Maddow MSNBC",
+          "screen_name": "maddow"
+        },
+        {
+          "id": 28785486,
+          "id_str": "28785486",
+          "indices": [
+            135,
+            139
+          ],
+          "name": "ABC News",
+          "screen_name": "ABC"
+        },
+        {
+          "id": 15012486,
+          "id_str": "15012486",
+          "indices": [
+            140,
+            148
+          ],
+          "name": "CBS News",
+          "screen_name": "CBSNews"
+        },
+        {
+          "id": 807095,
+          "id_str": "807095",
+          "indices": [
+            149,
+            157
+          ],
+          "name": "The New York Times",
+          "screen_name": "nytimes"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            200,
+            216
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 41634520,
+          "id_str": "41634520",
+          "indices": [
+            256,
+            268
+          ],
+          "name": "Sean Hannity",
+          "screen_name": "seanhannity"
+        },
+        {
+          "id": 22703645,
+          "id_str": "22703645",
+          "indices": [
+            269,
+            283
+          ],
+          "name": "Tucker Carlson",
+          "screen_name": "TuckerCarlson"
+        },
+        {
+          "id": 50769180,
+          "id_str": "50769180",
+          "indices": [
+            284,
+            298
+          ],
+          "name": "Laura Ingraham",
+          "screen_name": "IngrahamAngle"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WgxN4fws2v",
+          "expanded_url": "https://twitter.com/teety1970/status/1260916389327626242/photo/1",
+          "id": 1260916385909280769,
+          "id_str": "1260916385909280769",
+          "indices": [
+            299,
+            322
+          ],
+          "media_url": "http://pbs.twimg.com/media/EX-sxbmXkAERaH_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EX-sxbmXkAERaH_.jpg",
+          "sizes": {
+            "large": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "medium": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "small": {
+              "h": 437,
+              "resize": "fit",
+              "w": 631
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WgxN4fws2v"
+        }
+      ]
+    },
+    "favorite_count": 6989,
+    "favorited": false,
+    "full_text": "@brithume I always believed @DevinNunes...then along comes lying @RepAdamSchiff who lied to Congress, @cnn @CNNPolitics @MSNBC @maddow @ABC @CBSNews @nytimes &amp; others. Because of their hatred for @realDonaldTrump &amp; his family they believed a liar. @seanhannity @TuckerCarlson @IngrahamAngle https://t.co/WgxN4fws2v",
+    "geo": null,
+    "id": 1260916389327626242,
+    "id_str": "1260916389327626242",
+    "in_reply_to_screen_name": "brithume",
+    "in_reply_to_status_id": 1260911648719724546,
+    "in_reply_to_status_id_str": "1260911648719724546",
+    "in_reply_to_user_id": 112047805,
+    "in_reply_to_user_id_str": "112047805",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2568,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 13 05:05:52 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Born again believer of Jesus Christ as the Son Of God and my Lord and Savior. Blessed with 3 children, 9 grands, 4 great grands. Vietnam-era Navy Vet",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 547,
+      "follow_request_sent": false,
+      "followers_count": 523,
+      "following": false,
+      "friends_count": 470,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 634311232,
+      "id_str": "634311232",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11,
+      "location": "Florida, USA",
+      "name": "Teety",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2727943642/c645c75654ba5def58a42839b65628b1_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2727943642/c645c75654ba5def58a42839b65628b1_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "teety1970",
+      "statuses_count": 70551,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

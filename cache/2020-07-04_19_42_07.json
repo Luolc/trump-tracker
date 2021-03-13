@@ -1,0 +1,370 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 19:42:07 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16076032,
+        "id_str": "16076032",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Glenn Greenwald",
+        "screen_name": "ggreenwald"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ggreenwald: Pursuant to the new moral stricture promulgated this week by the NYT &amp; CNN -- that Mount Rushmore is a shameful monument to\u2026",
+  "geo": null,
+  "id": 1279500758212280321,
+  "id_str": "1279500758212280321",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10194,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 00:32:11 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0MRNO2PJ2j",
+          "expanded_url": "https://twitter.com/AZachParkinson/status/1279186495736332290/video/1",
+          "id": 1279186153564930048,
+          "id_str": "1279186153564930048",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279186153564930048/pu/img/2Yj1tCIVO8Opxjxq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279186153564930048/pu/img/2Yj1tCIVO8Opxjxq.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1279186495736332290,
+          "source_status_id_str": "1279186495736332290",
+          "source_user_id": 1006482620,
+          "source_user_id_str": "1006482620",
+          "type": "photo",
+          "url": "https://t.co/0MRNO2PJ2j"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Dec 12 14:30:01 +0000 2012",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Deputy Director of Communications - Research for @realDonaldTrump 2020. Former @WhiteHouse & @RNCResearch Alum. Proud Marylander.",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 351,
+              "follow_request_sent": false,
+              "followers_count": 29810,
+              "following": false,
+              "friends_count": 1142,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 1006482620,
+              "id_str": "1006482620",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 153,
+              "location": "Washington, D.C.",
+              "name": "Zach Parkinson",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006482620/1457060749",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/2966023737/1a7c765292b282580b69715ef2650ae6_normal.jpeg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/2966023737/1a7c765292b282580b69715ef2650ae6_normal.jpeg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "AZachParkinson",
+              "statuses_count": 3413,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/0MRNO2PJ2j",
+          "expanded_url": "https://twitter.com/AZachParkinson/status/1279186495736332290/video/1",
+          "id": 1279186153564930048,
+          "id_str": "1279186153564930048",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279186153564930048/pu/img/2Yj1tCIVO8Opxjxq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279186153564930048/pu/img/2Yj1tCIVO8Opxjxq.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1279186495736332290,
+          "source_status_id_str": "1279186495736332290",
+          "source_user_id": 1006482620,
+          "source_user_id_str": "1006482620",
+          "type": "video",
+          "url": "https://t.co/0MRNO2PJ2j",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 22623,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279186153564930048/pu/vid/480x270/viIjDB0FTO4P30G6.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279186153564930048/pu/vid/640x360/9aOof2CSeBQNQ8Uy.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1279186153564930048/pu/pl/8fCqVc7eQ8jyEIH-.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27269,
+    "favorited": false,
+    "full_text": "Pursuant to the new moral stricture promulgated this week by the NYT &amp; CNN -- that Mount Rushmore is a shameful monument to racism and white supremacy -- both CNN and Bernie Sanders ought to repent for this praise they jointly heaped on it in 2016:\n\nhttps://t.co/0MRNO2PJ2j",
+    "geo": null,
+    "id": 1279211368525320194,
+    "id_str": "1279211368525320194",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10194,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 01 03:13:32 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Journalist @TheIntercept; author, No Place to Hide; animal fanatic; HOPE (https://t.co/RTpovVrBZ0); vegan; IG: Glenn.11.Greenwald",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "gofundme.com/f/homeless-peo\u2026",
+              "expanded_url": "http://gofundme.com/f/homeless-people-animals-together",
+              "indices": [
+                74,
+                97
+              ],
+              "url": "https://t.co/RTpovVrBZ0"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theintercept.com/staff/glenn-gr\u2026",
+              "expanded_url": "https://theintercept.com/staff/glenn-greenwald/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uIEpel7tjt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6786,
+      "follow_request_sent": false,
+      "followers_count": 1519904,
+      "following": false,
+      "friends_count": 993,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 16076032,
+      "id_str": "16076032",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 19801,
+      "location": "",
+      "name": "Glenn Greenwald",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16076032/1552437882",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092582027994509312/cpYWuYI9_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ggreenwald",
+      "statuses_count": 73873,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uIEpel7tjt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

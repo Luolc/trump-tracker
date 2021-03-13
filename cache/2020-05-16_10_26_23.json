@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 16 10:26:23 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 120295432,
+        "id_str": "120295432",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "CPAC 2020 (Text CPAC to 56479)",
+        "screen_name": "CPAC"
+      },
+      {
+        "id": 25202268,
+        "id_str": "25202268",
+        "indices": [
+          11,
+          24
+        ],
+        "name": "Sara A. Carter",
+        "screen_name": "SaraCarterDC"
+      },
+      {
+        "id": 138809881,
+        "id_str": "138809881",
+        "indices": [
+          31,
+          40
+        ],
+        "name": "Matt Schlapp",
+        "screen_name": "mschlapp"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CPAC: .@SaraCarterDC tells @mschlapp: \"The Obama administration weaponized our intelligence institutions against an American citizen...\u2026",
+  "geo": null,
+  "id": 1261603897417793538,
+  "id_str": "1261603897417793538",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1261380908860375041,
+  "quoted_status_id_str": "1261380908860375041",
+  "quoted_status_permalink": {
+    "display": "twitter.com/CPAC/status/12\u2026",
+    "expanded": "https://twitter.com/CPAC/status/1261380908860375041",
+    "url": "https://t.co/ehPnNRopsK"
+  },
+  "retweet_count": 2261,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 15 19:53:27 +0000 2020",
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            224,
+            233
+          ],
+          "text": "CPAClive"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/CPAC/status/12\u2026",
+          "expanded_url": "https://twitter.com/CPAC/status/1261380908860375041",
+          "indices": [
+            234,
+            257
+          ],
+          "url": "https://t.co/ehPnNRopsK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25202268,
+          "id_str": "25202268",
+          "indices": [
+            1,
+            14
+          ],
+          "name": "Sara A. Carter",
+          "screen_name": "SaraCarterDC"
+        },
+        {
+          "id": 138809881,
+          "id_str": "138809881",
+          "indices": [
+            21,
+            30
+          ],
+          "name": "Matt Schlapp",
+          "screen_name": "mschlapp"
+        }
+      ]
+    },
+    "favorite_count": 6967,
+    "favorited": false,
+    "full_text": ".@SaraCarterDC tells @mschlapp: \"The Obama administration weaponized our intelligence institutions against an American citizen... Obama fired Flynn from DIA because he disagreed with the narrative that ISIS was on the run.\" #CPAClive https://t.co/ehPnNRopsK",
+    "geo": null,
+    "id": 1261384219567112192,
+    "id_str": "1261384219567112192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 15 19:40:18 +0000 2020",
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "pscp.tv/w/cY2WIjU0MTMz\u2026",
+            "expanded_url": "https://www.pscp.tv/w/cY2WIjU0MTMzMjJ8MU1ueG5Ra01vZHdKTy0UpEJ29OemSnS_6XqaTYmpvg2wLur6X1H6CUO7BP7S",
+            "indices": [
+              94,
+              117
+            ],
+            "url": "https://t.co/wJIzV0I0Fy"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 5000,
+      "favorited": false,
+      "full_text": "CPAC Live: A Conversation with Matt Schlapp and special guests Sara Carter and Shelley Luther https://t.co/wJIzV0I0Fy",
+      "geo": null,
+      "id": 1261380908860375041,
+      "id_str": "1261380908860375041",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1556,
+      "retweeted": false,
+      "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 06 01:28:33 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter account of the Conservative Political Action Conference! Join us February 26 - 29, 2020 for #CPAC2020.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpac.org",
+                "expanded_url": "http://cpac.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3muVhhuWP8"
+              }
+            ]
+          }
+        },
+        "favourites_count": 9737,
+        "follow_request_sent": false,
+        "followers_count": 99686,
+        "following": false,
+        "friends_count": 5312,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 120295432,
+        "id_str": "120295432",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 914,
+        "location": "Alexandria, VA",
+        "name": "CPAC 2020 (Text CPAC to 56479)",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/120295432/1583116682",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1214299888080629762/1gL1zIbD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214299888080629762/1gL1zIbD_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CPAC",
+        "statuses_count": 23730,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3muVhhuWP8",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1261380908860375041,
+    "quoted_status_id_str": "1261380908860375041",
+    "quoted_status_permalink": {
+      "display": "twitter.com/CPAC/status/12\u2026",
+      "expanded": "https://twitter.com/CPAC/status/1261380908860375041",
+      "url": "https://t.co/ehPnNRopsK"
+    },
+    "retweet_count": 2261,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 06 01:28:33 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account of the Conservative Political Action Conference! Join us February 26 - 29, 2020 for #CPAC2020.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cpac.org",
+              "expanded_url": "http://cpac.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3muVhhuWP8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9737,
+      "follow_request_sent": false,
+      "followers_count": 99686,
+      "following": false,
+      "friends_count": 5312,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 120295432,
+      "id_str": "120295432",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 914,
+      "location": "Alexandria, VA",
+      "name": "CPAC 2020 (Text CPAC to 56479)",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/120295432/1583116682",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1214299888080629762/1gL1zIbD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214299888080629762/1gL1zIbD_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "CPAC",
+      "statuses_count": 23730,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3muVhhuWP8",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

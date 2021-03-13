@@ -1,0 +1,343 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 02 21:59:59 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15937190,
+        "id_str": "15937190",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "Arizona Republican Party",
+        "screen_name": "AZGOP"
+      },
+      {
+        "id": 359403242,
+        "id_str": "359403242",
+        "indices": [
+          41,
+          53
+        ],
+        "name": "Dr. Kelli Ward \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "kelliwardaz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AZGOP: In today's update, Chairwoman @kelliwardaz announces the findings from our investigation of 100 duplicate ballots, in which TWO\u2026",
+  "geo": null,
+  "id": 1334256021020217346,
+  "id_str": "1334256021020217346",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 18482,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 02 16:00:01 +0000 2020",
+    "display_text_range": [
+      0,
+      223
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6Dg9zd2XGd",
+          "expanded_url": "https://twitter.com/AZGOP/status/1334165432161374209/video/1",
+          "id": 1334160913662787585,
+          "id_str": "1334160913662787585",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1334160913662787585/img/QK77bya8YJK0zAqt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1334160913662787585/img/QK77bya8YJK0zAqt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6Dg9zd2XGd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 359403242,
+          "id_str": "359403242",
+          "indices": [
+            30,
+            42
+          ],
+          "name": "Dr. Kelli Ward \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "kelliwardaz"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            198,
+            214
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/6Dg9zd2XGd",
+          "expanded_url": "https://twitter.com/AZGOP/status/1334165432161374209/video/1",
+          "id": 1334160913662787585,
+          "id_str": "1334160913662787585",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1334160913662787585/img/QK77bya8YJK0zAqt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1334160913662787585/img/QK77bya8YJK0zAqt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/6Dg9zd2XGd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 139560,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1334160913662787585/vid/480x270/g084SaYYT9XxJ36y.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1334160913662787585/vid/1280x720/OWdLzCjVlOrJqfyD.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1334160913662787585/vid/640x360/ToynnkEXetKJ9-wn.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1334160913662787585/pl/kkYT5fDv9_N2zK_D.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 66922,
+    "favorited": false,
+    "full_text": "In today's update, Chairwoman @kelliwardaz announces the findings from our investigation of 100 duplicate ballots, in which TWO votes were discovered to have been altered and removed from President @realDonaldTrump's total. https://t.co/6Dg9zd2XGd",
+    "geo": null,
+    "id": 1334165432161374209,
+    "id_str": "1334165432161374209",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18482,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 21 21:30:45 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account of the Republican Party of Arizona.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "azgop.com",
+              "expanded_url": "http://www.azgop.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vXkfQGBzGC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16651,
+      "follow_request_sent": false,
+      "followers_count": 59424,
+      "following": false,
+      "friends_count": 2302,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15937190,
+      "id_str": "15937190",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 502,
+      "location": "Phoenix, AZ",
+      "name": "Arizona Republican Party",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15937190/1550012514",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1215061301468135424/24fi8iw3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215061301468135424/24fi8iw3_normal.jpg",
+      "profile_link_color": "B50B0B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DECECE",
+      "profile_text_color": "080E75",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AZGOP",
+      "statuses_count": 20427,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vXkfQGBzGC",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88745088,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125656,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58930,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

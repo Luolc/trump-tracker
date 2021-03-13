@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 11 23:51:58 +0000 2020",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/JudgeJeanine/s\u2026",
+        "expanded_url": "https://twitter.com/JudgeJeanine/status/1248789702007836672",
+        "indices": [
+          79,
+          102
+        ],
+        "url": "https://t.co/F83yVaxXab"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 29458079,
+        "id_str": "29458079",
+        "indices": [
+          23,
+          36
+        ],
+        "name": "Jeanine Pirro",
+        "screen_name": "JudgeJeanine"
+      },
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          69,
+          77
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      }
+    ]
+  },
+  "favorite_count": 30719,
+  "favorited": false,
+  "full_text": "Will be interviewed by @JudgeJeanine tonight at 9:00 P.M. Eastern on @FoxNews! https://t.co/F83yVaxXab",
+  "geo": null,
+  "id": 1249123053180723200,
+  "id_str": "1249123053180723200",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 11 01:47:21 +0000 2020",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zezLaST7UQ",
+          "expanded_url": "https://twitter.com/JudgeJeanine/status/1248789702007836672/photo/1",
+          "id": 1248789697415000065,
+          "id_str": "1248789697415000065",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVSXnQmWsAEAHUz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVSXnQmWsAEAHUz.jpg",
+          "sizes": {
+            "large": {
+              "h": 684,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 661,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 374,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zezLaST7UQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            52,
+            60
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/zezLaST7UQ",
+          "expanded_url": "https://twitter.com/JudgeJeanine/status/1248789702007836672/photo/1",
+          "id": 1248789697415000065,
+          "id_str": "1248789697415000065",
+          "indices": [
+            61,
+            84
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVSXnQmWsAEAHUz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVSXnQmWsAEAHUz.jpg",
+          "sizes": {
+            "large": {
+              "h": 684,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 661,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 374,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/zezLaST7UQ"
+        }
+      ]
+    },
+    "favorite_count": 5444,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump joins me tomorrow night 9pm ET on @FoxNews https://t.co/zezLaST7UQ",
+    "geo": null,
+    "id": 1248789702007836672,
+    "id_str": "1248789702007836672",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1132,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 07 14:27:06 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Judge Pirro is a highly respected District Attorney, Judge, author & renowned champion of the underdog. She hosts the Fox News show, Justice with Judge Jeanine.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bit.ly/radicalsresist\u2026",
+              "expanded_url": "http://bit.ly/radicalsresistance",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tpWA70DIe0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 270,
+      "follow_request_sent": false,
+      "followers_count": 1972988,
+      "following": false,
+      "friends_count": 462,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 29458079,
+      "id_str": "29458079",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5306,
+      "location": "New York, NY",
+      "name": "Jeanine Pirro",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29458079/1579535022",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "187CAB",
+      "profile_sidebar_fill_color": "92CEE0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudgeJeanine",
+      "statuses_count": 17286,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tpWA70DIe0",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1248789702007836672,
+  "quoted_status_id_str": "1248789702007836672",
+  "quoted_status_permalink": {
+    "display": "twitter.com/JudgeJeanine/s\u2026",
+    "expanded": "https://twitter.com/JudgeJeanine/status/1248789702007836672",
+    "url": "https://t.co/F83yVaxXab"
+  },
+  "retweet_count": 7693,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76761506,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119109,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50614,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

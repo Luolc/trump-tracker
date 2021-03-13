@@ -1,0 +1,343 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 15 15:39:58 +0000 2020",
+  "display_text_range": [
+    0,
+    26
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          20
+        ],
+        "text": "ThanksForDelivering"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/ups/status/125\u2026",
+        "expanded_url": "https://twitter.com/ups/status/1250219565356912641",
+        "indices": [
+          27,
+          50
+        ],
+        "url": "https://t.co/4Sis7Tme17"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 158129535,
+        "id_str": "158129535",
+        "indices": [
+          21,
+          25
+        ],
+        "name": "UPS",
+        "screen_name": "UPS"
+      }
+    ]
+  },
+  "favorite_count": 80341,
+  "favorited": false,
+  "full_text": "#ThanksForDelivering @UPS! https://t.co/4Sis7Tme17",
+  "geo": null,
+  "id": 1250448788386439168,
+  "id_str": "1250448788386439168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 15 00:29:06 +0000 2020",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            115,
+            135
+          ],
+          "text": "ThanksForDelivering"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RtiRiWWydp",
+          "expanded_url": "https://twitter.com/UPS/status/1250219565356912641/video/1",
+          "id": 1250219511317495810,
+          "id_str": "1250219511317495810",
+          "indices": [
+            136,
+            159
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1250219511317495810/img/H94gRBLOG0BRTPco.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1250219511317495810/img/H94gRBLOG0BRTPco.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/RtiRiWWydp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/RtiRiWWydp",
+          "expanded_url": "https://twitter.com/UPS/status/1250219565356912641/video/1",
+          "id": 1250219511317495810,
+          "id_str": "1250219511317495810",
+          "indices": [
+            136,
+            159
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1250219511317495810/img/H94gRBLOG0BRTPco.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1250219511317495810/img/H94gRBLOG0BRTPco.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/RtiRiWWydp",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 62250,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250219511317495810/vid/480x480/RzU_-fhCZNhhjQ1j.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1250219511317495810/pl/YFt2Jg4ZdcvTcr6b.m3u8?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250219511317495810/vid/720x720/beIRc2UltQOnC3oG.mp4?tag=13"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250219511317495810/vid/320x320/XWY61IwSxDMaluY8.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3008,
+    "favorited": false,
+    "full_text": "Want to send your thanks to every UPS employee out there keeping the world going? They would love it. Post it with #ThanksForDelivering https://t.co/RtiRiWWydp",
+    "geo": null,
+    "id": 1250219565356912641,
+    "id_str": "1250219565356912641",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 832,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 21 21:34:59 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Stay connected to global trade & logistics. Tweets by the UPS Social Team. Question about a package? Ask @UPSHelp. See link in bio for our coronavirus response.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2vFWOnd",
+              "expanded_url": "https://bit.ly/2vFWOnd",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sT3K0EajCm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 36078,
+      "follow_request_sent": false,
+      "followers_count": 229905,
+      "following": false,
+      "friends_count": 12686,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 158129535,
+      "id_str": "158129535",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1768,
+      "location": "Atlanta, GA",
+      "name": "UPS",
+      "notifications": false,
+      "profile_background_color": "351D14",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/158129535/1584646927",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1197625230249861137/EyjVn8X1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197625230249861137/EyjVn8X1_normal.jpg",
+      "profile_link_color": "825200",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFF3AC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "UPS",
+      "statuses_count": 41728,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sT3K0EajCm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1250219565356912641,
+  "quoted_status_id_str": "1250219565356912641",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ups/status/125\u2026",
+    "expanded": "https://twitter.com/ups/status/1250219565356912641",
+    "url": "https://t.co/4Sis7Tme17"
+  },
+  "retweet_count": 16679,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77237846,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119500,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50678,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

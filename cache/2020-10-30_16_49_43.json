@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 30 16:49:43 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3687690435,
+        "id_str": "3687690435",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Chris Carr",
+        "screen_name": "CCarrGOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CCarrGOP: Nothing Lil about the biggest grassroots operation in presidential history! Twenty Mille voter contacts the final five days!\u2026",
+  "geo": null,
+  "id": 1322219140078186497,
+  "id_str": "1322219140078186497",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1321941986174226432,
+  "quoted_status_id_str": "1321941986174226432",
+  "quoted_status_permalink": {
+    "display": "twitter.com/liltunechi/sta\u2026",
+    "expanded": "https://twitter.com/liltunechi/status/1321941986174226432",
+    "url": "https://t.co/ocgXoER2Dg"
+  },
+  "retweet_count": 5166,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 29 23:04:02 +0000 2020",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/liltunechi/sta\u2026",
+          "expanded_url": "https://twitter.com/liltunechi/status/1321941986174226432",
+          "indices": [
+            157,
+            180
+          ],
+          "url": "https://t.co/ocgXoER2Dg"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 26750,
+    "favorited": false,
+    "full_text": "Nothing Lil about the biggest grassroots operation in presidential history! Twenty Mille voter contacts the final five days! \n\nWelcome to Team Trump, Weezy! https://t.co/ocgXoER2Dg",
+    "geo": null,
+    "id": 1321950952509874178,
+    "id_str": "1321950952509874178",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 29 22:28:24 +0000 2020",
+      "display_text_range": [
+        0,
+        254
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Q9c5k1yMWf",
+            "expanded_url": "https://twitter.com/LilTunechi/status/1321941986174226432/photo/1",
+            "id": 1321941982831386624,
+            "id_str": "1321941982831386624",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/media/Elh7OrxXIAAD30N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Elh7OrxXIAAD30N.jpg",
+            "sizes": {
+              "large": {
+                "h": 1366,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 454,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Q9c5k1yMWf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              30,
+              46
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 822215679726100480,
+            "id_str": "822215679726100480",
+            "indices": [
+              47,
+              53
+            ],
+            "name": "President Trump",
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Q9c5k1yMWf",
+            "expanded_url": "https://twitter.com/LilTunechi/status/1321941986174226432/photo/1",
+            "id": 1321941982831386624,
+            "id_str": "1321941982831386624",
+            "indices": [
+              255,
+              278
+            ],
+            "media_url": "http://pbs.twimg.com/media/Elh7OrxXIAAD30N.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Elh7OrxXIAAD30N.jpg",
+            "sizes": {
+              "large": {
+                "h": 1366,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 454,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Q9c5k1yMWf"
+          }
+        ]
+      },
+      "favorite_count": 481352,
+      "favorited": false,
+      "full_text": "Just had a great meeting with @realdonaldtrump @potus besides what he\u2019s done so far with criminal reform, the platinum plan is going to give the community real ownership. He listened to what we had to say today and assured he will and can get it done. \ud83e\udd19\ud83c\udffe https://t.co/Q9c5k1yMWf",
+      "geo": null,
+      "id": 1321941986174226432,
+      "id_str": "1321941986174226432",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 126524,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 22 05:29:44 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/ah8QDnrr11",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shop.lilwaynefuneral.com",
+                "expanded_url": "https://shop.lilwaynefuneral.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/ah8QDnrr11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youngmoney.com",
+                "expanded_url": "http://www.youngmoney.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jnqRJOBEmV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 24,
+        "follow_request_sent": false,
+        "followers_count": 34858943,
+        "following": false,
+        "friends_count": 56,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 116362700,
+        "id_str": "116362700",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 34368,
+        "location": "",
+        "name": "Lil Wayne WEEZY F",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/116362700/1579988024",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1044693697533804546/Z2MiD-wP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044693697533804546/Z2MiD-wP_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LilTunechi",
+        "statuses_count": 2297,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jnqRJOBEmV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1321941986174226432,
+    "quoted_status_id_str": "1321941986174226432",
+    "quoted_status_permalink": {
+      "display": "twitter.com/liltunechi/sta\u2026",
+      "expanded": "https://twitter.com/liltunechi/status/1321941986174226432",
+      "url": "https://t.co/ocgXoER2Dg"
+    },
+    "retweet_count": 5166,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 17 17:10:55 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@GOP @realDonaldTrump Political Director #MAGA #LeadRight",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "volunteers.trumpvictory.gop",
+              "expanded_url": "https://volunteers.trumpvictory.gop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JRNnmzHb17"
+            }
+          ]
+        }
+      },
+      "favourites_count": 446,
+      "follow_request_sent": false,
+      "followers_count": 11144,
+      "following": false,
+      "friends_count": 167,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 3687690435,
+      "id_str": "3687690435",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 73,
+      "location": "DC",
+      "name": "Chris Carr",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3687690435/1566920364",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141808800695029760/O0NV84oT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141808800695029760/O0NV84oT_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CCarrGOP",
+      "statuses_count": 491,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JRNnmzHb17",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87371116,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121847,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57907,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

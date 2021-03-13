@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 13 10:22:27 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1212806053907185664,
+        "id_str": "1212806053907185664",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "TheLeoTerrell",
+        "screen_name": "TheLeoTerrell"
+      },
+      {
+        "id": 803694179079458816,
+        "id_str": "803694179079458816",
+        "indices": [
+          34,
+          50
+        ],
+        "name": "Kamala Harris",
+        "screen_name": "SenKamalaHarris"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TheLeoTerrell: Another lie by @SenKamalaHarris .  Thank God, I am a lawyer.  Constitution allows the nomination and approval of #AmyCom\u2026",
+  "geo": null,
+  "id": 1315961090304626690,
+  "id_str": "1315961090304626690",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1315728972907450370,
+  "quoted_status_id_str": "1315728972907450370",
+  "quoted_status_permalink": {
+    "display": "twitter.com/DailyCaller/st\u2026",
+    "expanded": "https://twitter.com/DailyCaller/status/1315728972907450370",
+    "url": "https://t.co/ia5Vnd2aFO"
+  },
+  "retweet_count": 3052,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 20:07:11 +0000 2020",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            113,
+            129
+          ],
+          "text": "AmyComeyBarrett"
+        },
+        {
+          "indices": [
+            138,
+            164
+          ],
+          "text": "Trump2020LandslideVictory"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/DailyCaller/st\u2026",
+          "expanded_url": "https://twitter.com/DailyCaller/status/1315728972907450370",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/ia5Vnd2aFO"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 803694179079458816,
+          "id_str": "803694179079458816",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Kamala Harris",
+          "screen_name": "SenKamalaHarris"
+        }
+      ]
+    },
+    "favorite_count": 9063,
+    "favorited": false,
+    "full_text": "Another lie by @SenKamalaHarris .  Thank God, I am a lawyer.  Constitution allows the nomination and approval of #AmyComeyBarrett .  Vote #Trump2020LandslideVictory https://t.co/ia5Vnd2aFO",
+    "geo": null,
+    "id": 1315745854825787392,
+    "id_str": "1315745854825787392",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 12 19:00:06 +0000 2020",
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "dailycaller.com/2020/10/12/kam\u2026",
+            "expanded_url": "https://dailycaller.com/2020/10/12/kamala-harris-amy-coney-barrett-threatens-right-vote/",
+            "indices": [
+              72,
+              95
+            ],
+            "url": "https://t.co/PHcWJoxRPw"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 238,
+      "favorited": false,
+      "full_text": "Kamala Harris Says Amy Coney Barrett Nomination Threatens Right To Vote https://t.co/PHcWJoxRPw",
+      "geo": null,
+      "id": 1315728972907450370,
+      "id_str": "1315728972907450370",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 125,
+      "retweeted": false,
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 18:31:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The journalists who love America.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailycaller.com",
+                "expanded_url": "http://www.dailycaller.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3mWCnk49Lp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3591,
+        "follow_request_sent": false,
+        "followers_count": 764699,
+        "following": false,
+        "friends_count": 7750,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39308549,
+        "id_str": "39308549",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7320,
+        "location": "Washington, DC",
+        "name": "Daily Caller",
+        "notifications": false,
+        "profile_background_color": "D2D2D2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39308549/1563469601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141459766637662209/FOCXtzk4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141459766637662209/FOCXtzk4_normal.jpg",
+        "profile_link_color": "274479",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DailyCaller",
+        "statuses_count": 314047,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3mWCnk49Lp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1315728972907450370,
+    "quoted_status_id_str": "1315728972907450370",
+    "quoted_status_permalink": {
+      "display": "twitter.com/DailyCaller/st\u2026",
+      "expanded": "https://twitter.com/DailyCaller/status/1315728972907450370",
+      "url": "https://t.co/ia5Vnd2aFO"
+    },
+    "retweet_count": 3052,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 02 18:41:53 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Leo 2.0? Same Fair Minded, Civil Rights Attorney, Author \"Your Rights at the Work Place,\u201d Fmr Public School Teacher I\u2019ve always been! On @KABCRadio @FoxNews",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theleoterrell.com",
+              "expanded_url": "http://theleoterrell.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BKWzS0kd69"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4549,
+      "follow_request_sent": false,
+      "followers_count": 296500,
+      "following": false,
+      "friends_count": 449,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1212806053907185664,
+      "id_str": "1212806053907185664",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 398,
+      "location": "Los Angeles",
+      "name": "TheLeoTerrell",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212806053907185664/1601044840",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TheLeoTerrell",
+      "statuses_count": 2723,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BKWzS0kd69",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 13:55:34 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17995040,
+        "id_str": "17995040",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Ben Shapiro",
+        "screen_name": "benshapiro"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @benshapiro: \"911.\"\n\"Yes, someone is robbing my house.\"\n\"The police no longer exist.\"\n\"But someone is robbing my house!\"\n\"Check your pri\u2026",
+  "geo": null,
+  "id": 1270353848956264450,
+  "id_str": "1270353848956264450",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1269951088964370432,
+  "quoted_status_id_str": "1269951088964370432",
+  "quoted_status_permalink": {
+    "display": "twitter.com/EddieZipperer/\u2026",
+    "expanded": "https://twitter.com/EddieZipperer/status/1269951088964370432",
+    "url": "https://t.co/P8Cl9kUlCj"
+  },
+  "retweet_count": 19837,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 08 13:17:36 +0000 2020",
+    "display_text_range": [
+      0,
+      155
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/EddieZipperer/\u2026",
+          "expanded_url": "https://twitter.com/EddieZipperer/status/1269951088964370432",
+          "indices": [
+            132,
+            155
+          ],
+          "url": "https://t.co/P8Cl9kUlCj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 70887,
+    "favorited": false,
+    "full_text": "\"911.\"\n\"Yes, someone is robbing my house.\"\n\"The police no longer exist.\"\n\"But someone is robbing my house!\"\n\"Check your privilege.\"\nhttps://t.co/P8Cl9kUlCj",
+    "geo": null,
+    "id": 1269981909150339073,
+    "id_str": "1269981909150339073",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jun 08 11:15:08 +0000 2020",
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WhubQ9yJIf",
+            "expanded_url": "https://twitter.com/EddieZipperer/status/1269951088964370432/video/1",
+            "id": 1269950974673727489,
+            "id_str": "1269950974673727489",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269950974673727489/pu/img/X28mQH2-irH8huAM.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269950974673727489/pu/img/X28mQH2-irH8huAM.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WhubQ9yJIf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/WhubQ9yJIf",
+            "expanded_url": "https://twitter.com/EddieZipperer/status/1269951088964370432/video/1",
+            "id": 1269950974673727489,
+            "id_str": "1269950974673727489",
+            "indices": [
+              241,
+              264
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1269950974673727489/pu/img/X28mQH2-irH8huAM.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1269950974673727489/pu/img/X28mQH2-irH8huAM.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/WhubQ9yJIf",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                5
+              ],
+              "duration_millis": 53921,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1269950974673727489/pu/pl/3rivh3ZVfe6qhB2s.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1269950974673727489/pu/vid/486x270/nN7RIbwoed85fcgi.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1269950974673727489/pu/vid/720x400/Gew31irNubIOGaVy.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 24794,
+      "favorited": false,
+      "full_text": "CAMEROTA: \"What if in the middle of the night my home is broken into. Who do I call?\"\n\nBENDER: \"Yes, I hear that loud and clear from a lot of my neighbors. And I know \u2014 and myself, too, and I know that that comes from a place of privilege.\" https://t.co/WhubQ9yJIf",
+      "geo": null,
+      "id": 1269951088964370432,
+      "id_str": "1269951088964370432",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 11696,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 03 15:33:40 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Opinion contributor @dailycaller. Host of the Politics for Patriots podcast. Co-host of @electionandbeer. Poli Sci Professor.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eddiezipperer.com",
+                "expanded_url": "http://eddiezipperer.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/zmDxMsTTZe"
+              }
+            ]
+          }
+        },
+        "favourites_count": 54455,
+        "follow_request_sent": false,
+        "followers_count": 28198,
+        "following": false,
+        "friends_count": 1488,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 292388879,
+        "id_str": "292388879",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 168,
+        "location": "Milledgeville, GA",
+        "name": "Eddie Zipperer",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/292388879/1549550383",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1075772115385704452/G4_VLsZV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1075772115385704452/G4_VLsZV_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EddieZipperer",
+        "statuses_count": 50442,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/zmDxMsTTZe",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1269951088964370432,
+    "quoted_status_id_str": "1269951088964370432",
+    "quoted_status_permalink": {
+      "display": "twitter.com/EddieZipperer/\u2026",
+      "expanded": "https://twitter.com/EddieZipperer/status/1269951088964370432",
+      "url": "https://t.co/P8Cl9kUlCj"
+    },
+    "retweet_count": 19837,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 09 16:40:22 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EIC https://t.co/Jd8PhAEM3i, host of \"The Ben Shapiro Show\u201d podcast and syndicated radio, author of #1 NYT bestseller \"The Right Side of History,\" NRO",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "DailyWire.com",
+              "expanded_url": "http://DailyWire.com",
+              "indices": [
+                4,
+                27
+              ],
+              "url": "https://t.co/Jd8PhAEM3i"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dailywire.com",
+              "expanded_url": "http://dailywire.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hiB96sgNMH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1,
+      "follow_request_sent": false,
+      "followers_count": 2771482,
+      "following": false,
+      "friends_count": 243,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 17995040,
+      "id_str": "17995040",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10215,
+      "location": "California",
+      "name": "Ben Shapiro",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17995040/1588478011",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1084873514291585024/7eWpkx-c_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1084873514291585024/7eWpkx-c_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "benshapiro",
+      "statuses_count": 154524,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/hiB96sgNMH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

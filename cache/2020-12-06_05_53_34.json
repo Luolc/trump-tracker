@@ -1,0 +1,505 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 06 05:53:34 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2388042907,
+        "id_str": "2388042907",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Christina Bobb",
+        "screen_name": "christina_bobb"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          109,
+          125
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @christina_bobb: Rusty Bowers is intentionally misleading the people of Arizona to avoid the inevitable.  @realDonaldTrump won his state\u2026",
+  "geo": null,
+  "id": 1335462365370994689,
+  "id_str": "1335462365370994689",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1334985122668490755,
+  "quoted_status_id_str": "1334985122668490755",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ali/status/133\u2026",
+    "expanded": "https://twitter.com/ali/status/1334985122668490755",
+    "url": "https://t.co/hT5hr6rP8m"
+  },
+  "retweet_count": 4706,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 23:02:19 +0000 2020",
+    "display_text_range": [
+      0,
+      170
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ali/status/133\u2026",
+          "expanded_url": "https://twitter.com/ali/status/1334985122668490755",
+          "indices": [
+            171,
+            194
+          ],
+          "url": "https://t.co/hT5hr6rP8m"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            89,
+            105
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 14417,
+    "favorited": false,
+    "full_text": "Rusty Bowers is intentionally misleading the people of Arizona to avoid the inevitable.  @realDonaldTrump won his state and he\u2019s trying to avoid declaring him the winner. https://t.co/hT5hr6rP8m",
+    "geo": null,
+    "id": 1334996485075836936,
+    "id_str": "1334996485075836936",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Dec 04 22:17:10 +0000 2020",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              264,
+              277
+            ],
+            "text": "StopTheSteaI"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/G17eWwwdfn",
+            "expanded_url": "https://twitter.com/ali/status/1334985122668490755/photo/1",
+            "id": 1334985117455020032,
+            "id_str": "1334985117455020032",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EobR5CpW8AA_4Nj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EobR5CpW8AA_4Nj.jpg",
+            "sizes": {
+              "large": {
+                "h": 1531,
+                "resize": "fit",
+                "w": 1185
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 929
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 526
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/G17eWwwdfn"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "stopthesteal.us/az",
+            "expanded_url": "http://stopthesteal.us/az",
+            "indices": [
+              175,
+              198
+            ],
+            "url": "https://t.co/WobRtsep3p"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/G17eWwwdfn",
+            "expanded_url": "https://twitter.com/ali/status/1334985122668490755/photo/1",
+            "id": 1334985117455020032,
+            "id_str": "1334985117455020032",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EobR5CpW8AA_4Nj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EobR5CpW8AA_4Nj.jpg",
+            "sizes": {
+              "large": {
+                "h": 1531,
+                "resize": "fit",
+                "w": 1185
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 929
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 526
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/G17eWwwdfn"
+          },
+          {
+            "display_url": "pic.twitter.com/G17eWwwdfn",
+            "expanded_url": "https://twitter.com/ali/status/1334985122668490755/photo/1",
+            "id": 1334985117434077189,
+            "id_str": "1334985117434077189",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EobR5CkXYAUI6Cz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EobR5CkXYAUI6Cz.jpg",
+            "sizes": {
+              "large": {
+                "h": 1516,
+                "resize": "fit",
+                "w": 1179
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 933
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 529
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/G17eWwwdfn"
+          },
+          {
+            "display_url": "pic.twitter.com/G17eWwwdfn",
+            "expanded_url": "https://twitter.com/ali/status/1334985122668490755/photo/1",
+            "id": 1334985117442465792,
+            "id_str": "1334985117442465792",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EobR5CmXYAAChVB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EobR5CmXYAAChVB.jpg",
+            "sizes": {
+              "large": {
+                "h": 1525,
+                "resize": "fit",
+                "w": 1163
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 915
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 519
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/G17eWwwdfn"
+          }
+        ]
+      },
+      "favorite_count": 5870,
+      "favorited": false,
+      "full_text": "I need 50,000 calls into Arizona right now. Right the heck now. \n\nArizona Speaker Rusty Bowers starts backtracking already. Bastard! His Comms Dir is former Flake staffer.\n\n\ud83d\udcde https://t.co/WobRtsep3p \n\nTell him you\u2019ll support his PRIMARY opponent if he betrays us! #StopTheSteaI https://t.co/G17eWwwdfn",
+      "geo": null,
+      "id": 1334985122668490755,
+      "id_str": "1334985122668490755",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3572,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 13 04:57:34 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "National Organizer for Stop the Steal, the peaceful protests you see around the nation. Don't have time for media, DMs, or calls. https://t.co/b3Vl0QtICA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "founders.alialexander.org/join",
+                "expanded_url": "http://founders.alialexander.org/join",
+                "indices": [
+                  130,
+                  153
+                ],
+                "url": "https://t.co/b3Vl0QtICA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "StopTheSteal.us",
+                "expanded_url": "http://StopTheSteal.us",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/INRP6ySq31"
+              }
+            ]
+          }
+        },
+        "favourites_count": 19910,
+        "follow_request_sent": false,
+        "followers_count": 190491,
+        "following": false,
+        "friends_count": 1874,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 6782762,
+        "id_str": "6782762",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1705,
+        "location": "United States",
+        "name": "Ali \ud83d\udfe7 #StopTheSteal",
+        "notifications": false,
+        "profile_background_color": "3B3A38",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/6782762/1593726260",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305817044240261121/xWwXL2P3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305817044240261121/xWwXL2P3_normal.jpg",
+        "profile_link_color": "BD5A5A",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D3D4BA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ali",
+        "statuses_count": 28119,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/INRP6ySq31",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1334985122668490755,
+    "quoted_status_id_str": "1334985122668490755",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ali/status/133\u2026",
+      "expanded": "https://twitter.com/ali/status/1334985122668490755",
+      "url": "https://t.co/hT5hr6rP8m"
+    },
+    "retweet_count": 4706,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 13 23:04:09 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Host of Weekly Briefing on OAN.  US Marine. Lawyer. Author. Sister. Daughter. Dog Mom.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 8595,
+      "follow_request_sent": false,
+      "followers_count": 77411,
+      "following": false,
+      "friends_count": 8710,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2388042907,
+      "id_str": "2388042907",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 184,
+      "location": "Washington, DC",
+      "name": "Christina Bobb",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2388042907/1598656180",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277933623140851713/qrkpbnL5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277933623140851713/qrkpbnL5_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "christina_bobb",
+      "statuses_count": 1812,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88721399,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125681,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58985,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

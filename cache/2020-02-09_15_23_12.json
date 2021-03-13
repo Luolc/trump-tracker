@@ -1,0 +1,445 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 09 15:23:12 +0000 2020",
+  "display_text_range": [
+    0,
+    41
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21784951,
+        "id_str": "21784951",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Andrew Surabian",
+        "screen_name": "Surabees"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Surabees: Fact Check: Zero Pinocchios",
+  "geo": null,
+  "id": 1226526973020770304,
+  "id_str": "1226526973020770304",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "it",
+  "place": null,
+  "quoted_status_id": 1226176231734988801,
+  "quoted_status_id_str": "1226176231734988801",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tomselliott/st\u2026",
+    "expanded": "https://twitter.com/tomselliott/status/1226176231734988801",
+    "url": "https://t.co/OGfhXUMQXN"
+  },
+  "retweet_count": 4000,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 08 17:23:46 +0000 2020",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/tomselliott/st\u2026",
+          "expanded_url": "https://twitter.com/tomselliott/status/1226176231734988801",
+          "indices": [
+            28,
+            51
+          ],
+          "url": "https://t.co/OGfhXUMQXN"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 15269,
+    "favorited": false,
+    "full_text": "Fact Check: Zero Pinocchios https://t.co/OGfhXUMQXN",
+    "geo": null,
+    "id": 1226194927215837184,
+    "id_str": "1226194927215837184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "it",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Feb 08 16:09:29 +0000 2020",
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/SKXBVGNBM5",
+            "expanded_url": "https://twitter.com/tomselliott/status/1226176231734988801/video/1",
+            "id": 1226176209207353344,
+            "id_str": "1226176209207353344",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226176209207353344/pu/img/OKraWwyKma4qEyl4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226176209207353344/pu/img/OKraWwyKma4qEyl4.jpg",
+            "sizes": {
+              "large": {
+                "h": 512,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 512,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 363,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/SKXBVGNBM5"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 15931637,
+            "id_str": "15931637",
+            "indices": [
+              6,
+              14
+            ],
+            "name": "Jonathan Karl",
+            "screen_name": "jonkarl"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/SKXBVGNBM5",
+            "expanded_url": "https://twitter.com/tomselliott/status/1226176231734988801/video/1",
+            "id": 1226176209207353344,
+            "id_str": "1226176209207353344",
+            "indices": [
+              135,
+              158
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226176209207353344/pu/img/OKraWwyKma4qEyl4.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226176209207353344/pu/img/OKraWwyKma4qEyl4.jpg",
+            "sizes": {
+              "large": {
+                "h": 512,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 512,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 363,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/SKXBVGNBM5",
+            "video_info": {
+              "aspect_ratio": [
+                15,
+                8
+              ],
+              "duration_millis": 18686,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1226176209207353344/pu/vid/960x512/BB7wE14r9mKmGbig.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1226176209207353344/pu/vid/674x360/teTSUE_5ywVCGNLd.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1226176209207353344/pu/pl/_CIALkjg8-xQWv0g.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1226176209207353344/pu/vid/506x270/yxf2HEEnjo7U7lrM.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1272,
+      "favorited": false,
+      "full_text": "ABC\u2019s @jonkarl: \u201cI don\u2019t think there was anybody, based on tonight\u2019s performance, that has the Trump campaign quaking in their boots.\u201d https://t.co/SKXBVGNBM5",
+      "geo": null,
+      "id": 1226176231734988801,
+      "id_str": "1226176231734988801",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 434,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 17:30:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biased. Founder, editor @GrabienMedia & https://t.co/lbLNiEKKpn Some of my fave funk: https://t.co/dLaMZ25oZz tom@grabien.com See it here first.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NewsLists.co",
+                "expanded_url": "http://NewsLists.co",
+                "indices": [
+                  40,
+                  63
+                ],
+                "url": "https://t.co/lbLNiEKKpn"
+              },
+              {
+                "display_url": "contemporaneousbeats.tumblr.com",
+                "expanded_url": "http://contemporaneousbeats.tumblr.com/",
+                "indices": [
+                  86,
+                  109
+                ],
+                "url": "https://t.co/dLaMZ25oZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grabien.com",
+                "expanded_url": "http://grabien.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mrXnsPXrKk"
+              }
+            ]
+          }
+        },
+        "favourites_count": 11321,
+        "follow_request_sent": false,
+        "followers_count": 26874,
+        "following": false,
+        "friends_count": 567,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49698174,
+        "id_str": "49698174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 231,
+        "location": "Madrid, Spain",
+        "name": "Tom Elliott",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49698174/1479775446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tomselliott",
+        "statuses_count": 31795,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mrXnsPXrKk",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1226176231734988801,
+    "quoted_status_id_str": "1226176231734988801",
+    "quoted_status_permalink": {
+      "display": "twitter.com/tomselliott/st\u2026",
+      "expanded": "https://twitter.com/tomselliott/status/1226176231734988801",
+      "url": "https://t.co/OGfhXUMQXN"
+    },
+    "retweet_count": 4000,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 24 19:18:55 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Strategist. \"He\u2019s basically a no-holds barred street fighter who is just totally mauling whoever the opposition is\"",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6828,
+      "follow_request_sent": false,
+      "followers_count": 60010,
+      "following": false,
+      "friends_count": 2803,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 21784951,
+      "id_str": "21784951",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 392,
+      "location": "",
+      "name": "Andrew Surabian",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21784951/1528805457",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_link_color": "2FBFEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Surabees",
+      "statuses_count": 6621,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72368568,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114441,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

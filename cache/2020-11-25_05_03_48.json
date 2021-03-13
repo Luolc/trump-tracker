@@ -1,0 +1,465 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 25 05:03:48 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 187680645,
+        "id_str": "187680645",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lin Wood",
+        "screen_name": "LLinWood"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LLinWood: Make requests for the video footage, Georgia Patriots. Overwhelm them so that they CANNOT destroy the evidence.\n\nFollow the C\u2026",
+  "geo": null,
+  "id": 1331463574573748226,
+  "id_str": "1331463574573748226",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1331312555516719105,
+  "quoted_status_id_str": "1331312555516719105",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TalkMullins/st\u2026",
+    "expanded": "https://twitter.com/TalkMullins/status/1331312555516719105",
+    "url": "https://t.co/NCQcxE5wvt"
+  },
+  "retweet_count": 20749,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 24 19:16:07 +0000 2020",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            252,
+            262
+          ],
+          "text": "FightBack"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TalkMullins/st\u2026",
+          "expanded_url": "https://twitter.com/TalkMullins/status/1331312555516719105",
+          "indices": [
+            263,
+            286
+          ],
+          "url": "https://t.co/NCQcxE5wvt"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 47437206,
+          "id_str": "47437206",
+          "indices": [
+            186,
+            198
+          ],
+          "name": "Brian Kemp",
+          "screen_name": "BrianKempGA"
+        },
+        {
+          "id": 79205875,
+          "id_str": "79205875",
+          "indices": [
+            205,
+            218
+          ],
+          "name": "GA Secretary of State Brad Raffensperger",
+          "screen_name": "GaSecofState"
+        }
+      ]
+    },
+    "favorite_count": 47833,
+    "favorited": false,
+    "full_text": "Make requests for the video footage, Georgia Patriots. Overwhelm them so that they CANNOT destroy the evidence.\n\nFollow the Chinese money. Follow the Dominion money. DEMAND answers from @BrianKempGA &amp; @GaSecofState.\n\nThey work for We The People. \n\n#FightBack https://t.co/NCQcxE5wvt",
+    "geo": null,
+    "id": 1331315679321092097,
+    "id_str": "1331315679321092097",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Nov 24 19:03:42 +0000 2020",
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7MNlVXuUVU",
+            "expanded_url": "https://twitter.com/TalkMullins/status/1331312555516719105/video/1",
+            "id": 1331312531063902208,
+            "id_str": "1331312531063902208",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331312531063902208/pu/img/b8Bu4Hus4LuvquaV.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331312531063902208/pu/img/b8Bu4Hus4LuvquaV.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7MNlVXuUVU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 79205875,
+            "id_str": "79205875",
+            "indices": [
+              26,
+              39
+            ],
+            "name": "GA Secretary of State Brad Raffensperger",
+            "screen_name": "GaSecofState"
+          },
+          {
+            "id": 935942321756966912,
+            "id_str": "935942321756966912",
+            "indices": [
+              204,
+              216
+            ],
+            "name": "Real America's Voice",
+            "screen_name": "RealAmVoice"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/7MNlVXuUVU",
+            "expanded_url": "https://twitter.com/TalkMullins/status/1331312555516719105/video/1",
+            "id": 1331312531063902208,
+            "id_str": "1331312531063902208",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1331312531063902208/pu/img/b8Bu4Hus4LuvquaV.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1331312531063902208/pu/img/b8Bu4Hus4LuvquaV.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/7MNlVXuUVU",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 6372,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1331312531063902208/pu/vid/640x360/n5ZrapIYSxK1UEF7.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1331312531063902208/pu/vid/1280x720/kIPMBtM_aDD4jw7i.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1331312531063902208/pu/vid/480x270/T0kvJV3CMzr3gMHO.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1331312531063902208/pu/pl/jl5D6Yg8StjOefsF.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 8337,
+      "favorited": false,
+      "full_text": "Georgia: I learned on the @GaSecofState zoom call yesterday that all the ballot drop boxes are monitored by video cameras. The footage is stored for 30 days &amp; is available to the public upon request. @RealAmVoice https://t.co/7MNlVXuUVU",
+      "geo": null,
+      "id": 1331312555516719105,
+      "id_str": "1331312555516719105",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4857,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 06 10:58:15 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Reporter for Real America\u2019s Voice News! Blessed Mom! Lover of Christ! \u2764\ufe0f\ud83d\ude4f\ud83c\udffb\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1077,
+        "follow_request_sent": false,
+        "followers_count": 12993,
+        "following": false,
+        "friends_count": 474,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 882916598515998723,
+        "id_str": "882916598515998723",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 53,
+        "location": "",
+        "name": "Heather Mullins - Real America\u2019s Voice (RAV-TV)",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/882916598515998723/1582944674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1328328879891763200/CndawwLL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1328328879891763200/CndawwLL_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TalkMullins",
+        "statuses_count": 584,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1331312555516719105,
+    "quoted_status_id_str": "1331312555516719105",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TalkMullins/st\u2026",
+      "expanded": "https://twitter.com/TalkMullins/status/1331312555516719105",
+      "url": "https://t.co/NCQcxE5wvt"
+    },
+    "retweet_count": 20749,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 06 21:56:23 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Attorney at L. Lin Wood, P.C. Speak Truth. BE FEARLESS. #FightBack for Freedom @FightBackLaw #WorldOfTheBlocked. #WWG1WGA. PARLER handle: linwood \ud83d\ude4f\u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linwoodlaw.com",
+              "expanded_url": "http://www.linwoodlaw.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/b0f3vqdzwf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3699,
+      "follow_request_sent": false,
+      "followers_count": 613602,
+      "following": false,
+      "friends_count": 8169,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 187680645,
+      "id_str": "187680645",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1939,
+      "location": "Atlanta, GA",
+      "name": "Lin Wood",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/187680645/1600582472",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1310458735265865731/chKpVWxV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310458735265865731/chKpVWxV_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LLinWood",
+      "statuses_count": 12044,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/b0f3vqdzwf",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88885433,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125316,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58672,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

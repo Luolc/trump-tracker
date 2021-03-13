@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 08 18:37:29 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 205392468,
+        "id_str": "205392468",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Face The Nation",
+        "screen_name": "FaceTheNation"
+      },
+      {
+        "id": 208120290,
+        "id_str": "208120290",
+        "indices": [
+          26,
+          33
+        ],
+        "name": "U.S. FDA",
+        "screen_name": "US_FDA"
+      },
+      {
+        "id": 40156330,
+        "id_str": "40156330",
+        "indices": [
+          40,
+          56
+        ],
+        "name": "Scott Gottlieb, MD",
+        "screen_name": "ScottGottliebMD"
+      },
+      {
+        "id": 4119741,
+        "id_str": "4119741",
+        "indices": [
+          63,
+          74
+        ],
+        "name": "John Dickerson",
+        "screen_name": "jdickerson"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FaceTheNation: Former @US_FDA chief @ScottGottliebMD tells @jdickerson he has \u201cabsolute confidence\u201d in the organization he once led, an\u2026",
+  "geo": null,
+  "id": 1303402090509864960,
+  "id_str": "1303402090509864960",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2966,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 06 14:54:49 +0000 2020",
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            166,
+            174
+          ],
+          "text": "covid19"
+        },
+        {
+          "indices": [
+            175,
+            183
+          ],
+          "text": "vaccine"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/BV8qsue9TT",
+          "expanded_url": "https://twitter.com/FaceTheNation/status/1302621281066651652/video/1",
+          "id": 1302620948252819459,
+          "id_str": "1302620948252819459",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302620948252819459/pu/img/SwdTAabQ2umuKkPt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302620948252819459/pu/img/SwdTAabQ2umuKkPt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/BV8qsue9TT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 208120290,
+          "id_str": "208120290",
+          "indices": [
+            7,
+            14
+          ],
+          "name": "U.S. FDA",
+          "screen_name": "US_FDA"
+        },
+        {
+          "id": 40156330,
+          "id_str": "40156330",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "Scott Gottlieb, MD",
+          "screen_name": "ScottGottliebMD"
+        },
+        {
+          "id": 4119741,
+          "id_str": "4119741",
+          "indices": [
+            44,
+            55
+          ],
+          "name": "John Dickerson",
+          "screen_name": "jdickerson"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/BV8qsue9TT",
+          "expanded_url": "https://twitter.com/FaceTheNation/status/1302621281066651652/video/1",
+          "id": 1302620948252819459,
+          "id_str": "1302620948252819459",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302620948252819459/pu/img/SwdTAabQ2umuKkPt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302620948252819459/pu/img/SwdTAabQ2umuKkPt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/BV8qsue9TT",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 110244,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302620948252819459/pu/vid/640x360/xs6lfLh6f7ykmA2Y.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302620948252819459/pu/vid/1280x720/UA6gv_sc8EaJeZPJ.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302620948252819459/pu/vid/480x270/odUoa0wAhOyanGPg.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1302620948252819459/pu/pl/QU5TCtpzLxfsi9uE.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9695,
+    "favorited": false,
+    "full_text": "Former @US_FDA chief @ScottGottliebMD tells @jdickerson he has \u201cabsolute confidence\u201d in the organization he once led, and thinks the approval process for an eventual #covid19 #vaccine is \"rigorous\" https://t.co/BV8qsue9TT",
+    "geo": null,
+    "id": 1302621281066651652,
+    "id_str": "1302621281066651652",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2966,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 20 19:37:47 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Moderated by @margbrennan of @CBSNews, we are America's premier public affairs program |  \ud83d\udcf8 IG: @facethenation",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facethenation.com",
+              "expanded_url": "http://facethenation.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mEuxzh5BbK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 421,
+      "follow_request_sent": false,
+      "followers_count": 496367,
+      "following": false,
+      "friends_count": 1400,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 205392468,
+      "id_str": "205392468",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2441,
+      "location": "Washington, DC",
+      "name": "Face The Nation",
+      "notifications": false,
+      "profile_background_color": "810A06",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/205392468/1581696091",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968177306287013889/Mwzr4glJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968177306287013889/Mwzr4glJ_normal.jpg",
+      "profile_link_color": "B12124",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FaceTheNation",
+      "statuses_count": 34129,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mEuxzh5BbK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

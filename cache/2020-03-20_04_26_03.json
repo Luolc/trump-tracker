@@ -1,0 +1,291 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 20 04:26:03 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 382791093,
+        "id_str": "382791093",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Senator John Hoeven",
+        "screen_name": "SenJohnHoeven"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenJohnHoeven: We look forward to this bill being signed into law, &amp; we will continue working on the future phases of our nation\u2019s resp\u2026",
+  "geo": null,
+  "id": 1240857107592855553,
+  "id_str": "1240857107592855553",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 843,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 21:20:15 +0000 2020",
+    "display_text_range": [
+      0,
+      213
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PvOHv7CCZQ",
+          "expanded_url": "https://twitter.com/SenJohnHoeven/status/1240387566244900868/photo/1",
+          "id": 1240387372388421632,
+          "id_str": "1240387372388421632",
+          "indices": [
+            214,
+            237
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ETa9vksXkAAXFn0.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETa9vksXkAAXFn0.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PvOHv7CCZQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PvOHv7CCZQ",
+          "expanded_url": "https://twitter.com/SenJohnHoeven/status/1240387566244900868/photo/1",
+          "id": 1240387372388421632,
+          "id_str": "1240387372388421632",
+          "indices": [
+            214,
+            237
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ETa9vksXkAAXFn0.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ETa9vksXkAAXFn0.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 800
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/PvOHv7CCZQ",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/ETa9vksXkAAXFn0.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2990,
+    "favorited": false,
+    "full_text": "We look forward to this bill being signed into law, &amp; we will continue working on the future phases of our nation\u2019s response to help stimulate the economy + ensure critical industries weather these challenges. https://t.co/PvOHv7CCZQ",
+    "geo": null,
+    "id": 1240387566244900868,
+    "id_str": "1240387566244900868",
+    "in_reply_to_screen_name": "SenJohnHoeven",
+    "in_reply_to_status_id": 1240387564944732161,
+    "in_reply_to_status_id_str": "1240387564944732161",
+    "in_reply_to_user_id": 382791093,
+    "in_reply_to_user_id_str": "382791093",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 843,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 30 17:55:30 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator John Hoeven of North Dakota. Chairman of #Agriculture Appropriations & @IndianCommittee.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hoeven.senate.gov",
+              "expanded_url": "http://hoeven.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/S1wB3GGEfX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 737,
+      "follow_request_sent": false,
+      "followers_count": 102370,
+      "following": false,
+      "friends_count": 719,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 382791093,
+      "id_str": "382791093",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1655,
+      "location": "North Dakota",
+      "name": "Senator John Hoeven",
+      "notifications": false,
+      "profile_background_color": "9E976D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/382791093/1553287177",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171093029287014400/8NY2GOYy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171093029287014400/8NY2GOYy_normal.jpg",
+      "profile_link_color": "A1392B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnHoeven",
+      "statuses_count": 3869,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/S1wB3GGEfX",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74480233,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117011,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49969,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

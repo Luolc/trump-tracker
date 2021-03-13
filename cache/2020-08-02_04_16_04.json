@@ -1,0 +1,473 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 04:16:04 +0000 2020",
+  "display_text_range": [
+    0,
+    99
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/lTghrnsDEq",
+        "expanded_url": "https://twitter.com/TVNewsHQ/status/1289716575163957251/video/1",
+        "id": 1289716488346247168,
+        "id_str": "1289716488346247168",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+        "sizes": {
+          "large": {
+            "h": 396,
+            "resize": "fit",
+            "w": 858
+          },
+          "medium": {
+            "h": 396,
+            "resize": "fit",
+            "w": 858
+          },
+          "small": {
+            "h": 314,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1289716575163957251,
+        "source_status_id_str": "1289716575163957251",
+        "source_user_id": 711356961107918849,
+        "source_user_id_str": "711356961107918849",
+        "type": "photo",
+        "url": "https://t.co/lTghrnsDEq"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 711356961107918849,
+        "id_str": "711356961107918849",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "TV News HQ",
+        "screen_name": "TVNewsHQ"
+      },
+      {
+        "id": 232901331,
+        "id_str": "232901331",
+        "indices": [
+          31,
+          40
+        ],
+        "name": "Dan Bongino",
+        "screen_name": "dbongino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 20 01:01:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "TV news, Cable news ratings and sharp opinion covering Fox News, MSNBC, CNN, Fox Business and CNBC. Retweeted by President Trump.",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 6987,
+            "follow_request_sent": false,
+            "followers_count": 24411,
+            "following": false,
+            "friends_count": 5692,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 711356961107918849,
+            "id_str": "711356961107918849",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 258,
+            "location": "New York, NY",
+            "name": "TV News HQ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/711356961107918849/1512168004",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TVNewsHQ",
+            "statuses_count": 14498,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/lTghrnsDEq",
+        "expanded_url": "https://twitter.com/TVNewsHQ/status/1289716575163957251/video/1",
+        "id": 1289716488346247168,
+        "id_str": "1289716488346247168",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+        "sizes": {
+          "large": {
+            "h": 396,
+            "resize": "fit",
+            "w": 858
+          },
+          "medium": {
+            "h": 396,
+            "resize": "fit",
+            "w": 858
+          },
+          "small": {
+            "h": 314,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1289716575163957251,
+        "source_status_id_str": "1289716575163957251",
+        "source_user_id": 711356961107918849,
+        "source_user_id_str": "711356961107918849",
+        "type": "video",
+        "url": "https://t.co/lTghrnsDEq",
+        "video_info": {
+          "aspect_ratio": [
+            13,
+            6
+          ],
+          "duration_millis": 56708,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/vid/584x270/mm0Pcl4FDnlIq79F.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/pl/efzjcyF2dbhKM4Bj.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/vid/858x396/8w_CDDR9at8JKDc7.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TVNewsHQ: Watch: Fox News\u2019 @dbongino on the \u201cchaos candidate\u201d Joe Biden https://t.co/lTghrnsDEq",
+  "geo": null,
+  "id": 1289776958512005120,
+  "id_str": "1289776958512005120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3616,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 02 00:16:07 +0000 2020",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/lTghrnsDEq",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1289716575163957251/video/1",
+          "id": 1289716488346247168,
+          "id_str": "1289716488346247168",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+          "sizes": {
+            "large": {
+              "h": 396,
+              "resize": "fit",
+              "w": 858
+            },
+            "medium": {
+              "h": 396,
+              "resize": "fit",
+              "w": 858
+            },
+            "small": {
+              "h": 314,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/lTghrnsDEq"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 232901331,
+          "id_str": "232901331",
+          "indices": [
+            17,
+            26
+          ],
+          "name": "Dan Bongino",
+          "screen_name": "dbongino"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/lTghrnsDEq",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1289716575163957251/video/1",
+          "id": 1289716488346247168,
+          "id_str": "1289716488346247168",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289716488346247168/pu/img/HOyfllWw0poVgV9_.jpg",
+          "sizes": {
+            "large": {
+              "h": 396,
+              "resize": "fit",
+              "w": 858
+            },
+            "medium": {
+              "h": 396,
+              "resize": "fit",
+              "w": 858
+            },
+            "small": {
+              "h": 314,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/lTghrnsDEq",
+          "video_info": {
+            "aspect_ratio": [
+              13,
+              6
+            ],
+            "duration_millis": 56708,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/vid/584x270/mm0Pcl4FDnlIq79F.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/pl/efzjcyF2dbhKM4Bj.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1289716488346247168/pu/vid/858x396/8w_CDDR9at8JKDc7.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11111,
+    "favorited": false,
+    "full_text": "Watch: Fox News\u2019 @dbongino on the \u201cchaos candidate\u201d Joe Biden https://t.co/lTghrnsDEq",
+    "geo": null,
+    "id": 1289716575163957251,
+    "id_str": "1289716575163957251",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3616,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 20 01:01:30 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TV news, Cable news ratings and sharp opinion covering Fox News, MSNBC, CNN, Fox Business and CNBC. Retweeted by President Trump.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6987,
+      "follow_request_sent": false,
+      "followers_count": 24411,
+      "following": false,
+      "friends_count": 5692,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 711356961107918849,
+      "id_str": "711356961107918849",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 258,
+      "location": "New York, NY",
+      "name": "TV News HQ",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/711356961107918849/1512168004",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TVNewsHQ",
+      "statuses_count": 14498,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

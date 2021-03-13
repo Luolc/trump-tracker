@@ -1,0 +1,393 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 25 04:44:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3310061541,
+        "id_str": "3310061541",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "JT Lewis",
+        "screen_name": "thejtlewis"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @thejtlewis: Joe Biden is campaigning with a conspiracy theorist who questioned the legitimacy of the Sandy Hook shooting - the shooting\u2026",
+  "geo": null,
+  "id": 1320224763491602433,
+  "id_str": "1320224763491602433",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1319799621900783622,
+  "quoted_status_id_str": "1319799621900783622",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ArthurSchwartz\u2026",
+    "expanded": "https://twitter.com/ArthurSchwartz/status/1319799621900783622",
+    "url": "https://t.co/4zPUewTF8G"
+  },
+  "retweet_count": 4518,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 00:38:24 +0000 2020",
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ArthurSchwartz\u2026",
+          "expanded_url": "https://twitter.com/ArthurSchwartz/status/1319799621900783622",
+          "indices": [
+            270,
+            293
+          ],
+          "url": "https://t.co/4zPUewTF8G"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 323417384,
+          "id_str": "323417384",
+          "indices": [
+            240,
+            246
+          ],
+          "name": "Feelin Good As Hell",
+          "screen_name": "lizzo"
+        }
+      ]
+    },
+    "favorite_count": 14698,
+    "favorited": false,
+    "full_text": "Joe Biden is campaigning with a conspiracy theorist who questioned the legitimacy of the Sandy Hook shooting - the shooting that took the life of my brother.\n\nI\u2019m respectfully asking the Biden campaign, and Joe Biden personally, to disavow @lizzo\u2019s disgusting comments. https://t.co/4zPUewTF8G",
+    "geo": null,
+    "id": 1320162760504840193,
+    "id_str": "1320162760504840193",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 24 00:35:25 +0000 2020",
+      "display_text_range": [
+        0,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WehOs5ys0l",
+            "expanded_url": "https://twitter.com/ArthurSchwartz/status/1319799621900783622/photo/1",
+            "id": 1319799619803664386,
+            "id_str": "1319799619803664386",
+            "indices": [
+              167,
+              190
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElDewvkX0AIABkH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElDewvkX0AIABkH.jpg",
+            "sizes": {
+              "large": {
+                "h": 828,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WehOs5ys0l"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 734768872625188864,
+            "id_str": "734768872625188864",
+            "indices": [
+              4,
+              18
+            ],
+            "name": "Andrew Bates",
+            "screen_name": "AndrewBatesNC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WehOs5ys0l",
+            "expanded_url": "https://twitter.com/ArthurSchwartz/status/1319799621900783622/photo/1",
+            "id": 1319799619803664386,
+            "id_str": "1319799619803664386",
+            "indices": [
+              167,
+              190
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElDewvkX0AIABkH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElDewvkX0AIABkH.jpg",
+            "sizes": {
+              "large": {
+                "h": 828,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 800,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WehOs5ys0l"
+          }
+        ]
+      },
+      "favorite_count": 624,
+      "favorited": false,
+      "full_text": "Hey @AndrewBatesNC. Wasn\u2019t this woman campaigning for you all today?\n\nThis was the day after Sandy Hook. Any other whackjob conspiracy theorists helping you guys out? https://t.co/WehOs5ys0l",
+      "geo": null,
+      "id": 1319799621900783622,
+      "id_str": "1319799621900783622",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 246,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 18 00:09:13 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 4200,
+        "follow_request_sent": false,
+        "followers_count": 110597,
+        "following": false,
+        "friends_count": 170,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 21149655,
+        "id_str": "21149655",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 555,
+        "location": "Virginia",
+        "name": "Arthur Schwartz",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149655/1596143662",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "ArthurSchwartz",
+        "statuses_count": 5547,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1319799621900783622,
+    "quoted_status_id_str": "1319799621900783622",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ArthurSchwartz\u2026",
+      "expanded": "https://twitter.com/ArthurSchwartz/status/1319799621900783622",
+      "url": "https://t.co/4zPUewTF8G"
+    },
+    "retweet_count": 4518,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jun 06 02:49:49 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "School Safety Advocate | Founder, \u201cNewtown Helps Rwanda\u201d | NOW: @teamtrump",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 40,
+      "follow_request_sent": false,
+      "followers_count": 156440,
+      "following": false,
+      "friends_count": 708,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 3310061541,
+      "id_str": "3310061541",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 592,
+      "location": "Sandy Hook, CT",
+      "name": "JT Lewis",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3310061541/1601402110",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1320176950783205376/-_hiwkVU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1320176950783205376/-_hiwkVU_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "thejtlewis",
+      "statuses_count": 1726,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

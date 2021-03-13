@@ -1,0 +1,423 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 08 01:59:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4787411118,
+        "id_str": "4787411118",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "BDW",
+        "screen_name": "BryanDeanWright"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BryanDeanWright: President Eisenhower said much the same back in 1961, warning the nation about the Military Industrial Complex.\n\nTrump\u2026",
+  "geo": null,
+  "id": 1303151007032135680,
+  "id_str": "1303151007032135680",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1303034314997858308,
+  "quoted_status_id_str": "1303034314997858308",
+  "quoted_status_permalink": {
+    "display": "twitter.com/DailyCaller/st\u2026",
+    "expanded": "https://twitter.com/DailyCaller/status/1303034314997858308",
+    "url": "https://t.co/8prF9CzRiX"
+  },
+  "retweet_count": 9718,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 07 19:02:18 +0000 2020",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/DailyCaller/st\u2026",
+          "expanded_url": "https://twitter.com/DailyCaller/status/1303034314997858308",
+          "indices": [
+            145,
+            168
+          ],
+          "url": "https://t.co/8prF9CzRiX"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 27634,
+    "favorited": false,
+    "full_text": "President Eisenhower said much the same back in 1961, warning the nation about the Military Industrial Complex.\n\nTrump is absolutely right here. https://t.co/8prF9CzRiX",
+    "geo": null,
+    "id": 1303045948692525056,
+    "id_str": "1303045948692525056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Sep 07 18:16:04 +0000 2020",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YYEbjRuZyb",
+            "expanded_url": "https://twitter.com/DailyCaller/status/1303034314997858308/video/1",
+            "id": 1303034240590897152,
+            "id_str": "1303034240590897152",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303034240590897152/pu/img/Vg6izgtzujPnNf53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303034240590897152/pu/img/Vg6izgtzujPnNf53.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YYEbjRuZyb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/YYEbjRuZyb",
+            "expanded_url": "https://twitter.com/DailyCaller/status/1303034314997858308/video/1",
+            "id": 1303034240590897152,
+            "id_str": "1303034240590897152",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1303034240590897152/pu/img/Vg6izgtzujPnNf53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1303034240590897152/pu/img/Vg6izgtzujPnNf53.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/YYEbjRuZyb",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                5
+              ],
+              "duration_millis": 58926,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1303034240590897152/pu/vid/720x400/aBnMNjjMi23fWBnn.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1303034240590897152/pu/pl/CIeeEouYxhTKfbEA.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1303034240590897152/pu/vid/486x270/PMTOyi-S8VDOXeGZ.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 32376,
+      "favorited": false,
+      "full_text": "TRUMP: \"I'm not saying the military's in love with me. The soldiers are. The top people in the Pentagon probably aren't because they want to do nothing but fight wars so all of those wonderful companies that make the bombs and make the planes and make everything else stay happy\" https://t.co/YYEbjRuZyb",
+      "geo": null,
+      "id": 1303034314997858308,
+      "id_str": "1303034314997858308",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 11412,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 18:31:37 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The journalists who love America.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dailycaller.com",
+                "expanded_url": "http://www.dailycaller.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3mWCnk49Lp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3577,
+        "follow_request_sent": false,
+        "followers_count": 741253,
+        "following": false,
+        "friends_count": 7678,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 39308549,
+        "id_str": "39308549",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7208,
+        "location": "Washington, DC",
+        "name": "Daily Caller",
+        "notifications": false,
+        "profile_background_color": "D2D2D2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39308549/1563469601",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1141459766637662209/FOCXtzk4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141459766637662209/FOCXtzk4_normal.jpg",
+        "profile_link_color": "274479",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DailyCaller",
+        "statuses_count": 311396,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3mWCnk49Lp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1303034314997858308,
+    "quoted_status_id_str": "1303034314997858308",
+    "quoted_status_permalink": {
+      "display": "twitter.com/DailyCaller/st\u2026",
+      "expanded": "https://twitter.com/DailyCaller/status/1303034314997858308",
+      "url": "https://t.co/8prF9CzRiX"
+    },
+    "retweet_count": 9718,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 20 06:52:09 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Former CIA Ops Officer. Conservative Democrat. Pragmatic thinker. Allergic to DC egos. Farming & ranching in my blood. Love Arizona, miss Oregon.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BryanDeanWright.com",
+              "expanded_url": "http://BryanDeanWright.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KljmxTQHrM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15892,
+      "follow_request_sent": false,
+      "followers_count": 79331,
+      "following": false,
+      "friends_count": 999,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 4787411118,
+      "id_str": "4787411118",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 359,
+      "location": "Arizona, USA",
+      "name": "BDW",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4787411118/1453691632",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/691456737166041088/r1c59Mlg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/691456737166041088/r1c59Mlg_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BryanDeanWright",
+      "statuses_count": 3823,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KljmxTQHrM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

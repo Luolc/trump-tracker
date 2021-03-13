@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 15 02:12:19 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          37,
+          50
+        ],
+        "text": "AMERICAFirst"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2417586104,
+        "id_str": "2417586104",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Sebastian Gorka DrG",
+        "screen_name": "SebGorka"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          66,
+          82
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SebGorka: The news was broken on #AMERICAFirst... \n\nPresident @realDonaldTrump has selected me to be a member on the National Security\u2026",
+  "geo": null,
+  "id": 1283222832512675840,
+  "id_str": "1283222832512675840",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5632,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 15 00:10:19 +0000 2020",
+    "display_text_range": [
+      0,
+      259
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            36
+          ],
+          "text": "AMERICAFirst"
+        },
+        {
+          "indices": [
+            238,
+            259
+          ],
+          "text": "KeepAmericaGreat2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/XF00AsIqnu",
+          "expanded_url": "https://twitter.com/SebGorka/status/1283192130010324995/video/1",
+          "id": 1283189994807529474,
+          "id_str": "1283189994807529474",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1283189994807529474/img/_-xqEptR22L1f3xr.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1283189994807529474/img/_-xqEptR22L1f3xr.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/XF00AsIqnu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            52,
+            68
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 778763106289758208,
+          "id_str": "778763106289758208",
+          "indices": [
+            185,
+            199
+          ],
+          "name": "Jenna Ellis",
+          "screen_name": "JennaEllisEsq"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/XF00AsIqnu",
+          "expanded_url": "https://twitter.com/SebGorka/status/1283192130010324995/video/1",
+          "id": 1283189994807529474,
+          "id_str": "1283189994807529474",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1283189994807529474/img/_-xqEptR22L1f3xr.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1283189994807529474/img/_-xqEptR22L1f3xr.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/XF00AsIqnu",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 141008,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283189994807529474/vid/480x270/lK0N5y1y34qxvBSx.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1283189994807529474/pl/O58xLhSHbtYz6gjv.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283189994807529474/vid/960x540/bfeIWj3Px9sXNQmk.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1283189994807529474/vid/640x360/JMpoq3e1xdyFUPpm.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19422,
+    "favorited": false,
+    "full_text": "The news was broken on #AMERICAFirst... \n\nPresident @realDonaldTrump has selected me to be a member on the National Security Education Board. \n\nThank you, Mr. President &amp; thank you @JennaEllisEsq for announcing the news on the show.\n\n#KeepAmericaGreat2020 https://t.co/XF00AsIqnu",
+    "geo": null,
+    "id": 1283192130010324995,
+    "id_str": "1283192130010324995",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5632,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 29 15:31:11 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of #AMERICAFIRST \ud83d\udd34 https://t.co/xI0olCIGDf \ud83d\udd34 Contributor for Sinclair TV & @theAmGreatness \ud83d\udd34 My latest book: THE WAR FOR AMERICA\u2019S SOUL https://t.co/drGdOqNbnG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "SebGorka.com",
+              "expanded_url": "http://www.SebGorka.com",
+              "indices": [
+                24,
+                47
+              ],
+              "url": "https://t.co/xI0olCIGDf"
+            },
+            {
+              "display_url": "amzn.to/2kWwuQ7",
+              "expanded_url": "https://amzn.to/2kWwuQ7",
+              "indices": [
+                141,
+                164
+              ],
+              "url": "https://t.co/drGdOqNbnG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "SebGorka.com",
+              "expanded_url": "http://SebGorka.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mD9zIsNIcp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 69497,
+      "follow_request_sent": false,
+      "followers_count": 903433,
+      "following": false,
+      "friends_count": 4493,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2417586104,
+      "id_str": "2417586104",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3450,
+      "location": "Washington, DC",
+      "name": "Sebastian Gorka DrG",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2417586104/1555562371",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171596431997755392/FgT6kdne_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SebGorka",
+      "statuses_count": 77524,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mD9zIsNIcp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83503949,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116637,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53678,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

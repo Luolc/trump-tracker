@@ -1,0 +1,781 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 24 15:42:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "trib.al/MNC3mn4",
+        "expanded_url": "https://trib.al/MNC3mn4",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/Ufg4nncRL6"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 21536398,
+        "id_str": "21536398",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Gregg Jarrett",
+        "screen_name": "GreggJarrett"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GreggJarrett: Under Dems\u2019 Trump impeachment justification, Lincoln would\u2019ve been impeached https://t.co/Ufg4nncRL6 https://t.co/5RgmtaU\u2026",
+  "geo": null,
+  "id": 1220733736037298179,
+  "id_str": "1220733736037298179",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5736,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 15:04:56 +0000 2020",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5RgmtaUpTA",
+          "expanded_url": "https://twitter.com/GreggJarrett/status/1220724168498479105/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 100,
+                  "y": 31
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 300,
+                  "y": 104
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 460,
+                  "y": 105
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 536,
+                  "y": 66
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 227,
+                  "y": 74
+                },
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 401,
+                  "y": 106
+                },
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 144,
+                  "y": 118
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 496,
+                  "y": 132
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 320,
+                  "y": 27
+                }
+              ]
+            }
+          },
+          "id": 1220724166585921536,
+          "id_str": "1220724166585921536",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPDiKW4WsAA3_am.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPDiKW4WsAA3_am.jpg",
+          "sizes": {
+            "large": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 369,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5RgmtaUpTA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "trib.al/MNC3mn4",
+          "expanded_url": "https://trib.al/MNC3mn4",
+          "indices": [
+            77,
+            100
+          ],
+          "url": "https://t.co/Ufg4nncRL6"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5RgmtaUpTA",
+          "expanded_url": "https://twitter.com/GreggJarrett/status/1220724168498479105/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 152,
+                  "y": 47
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 452,
+                  "y": 158
+                },
+                {
+                  "h": 70,
+                  "w": 70,
+                  "x": 694,
+                  "y": 159
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 808,
+                  "y": 100
+                },
+                {
+                  "h": 94,
+                  "w": 94,
+                  "x": 342,
+                  "y": 112
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 605,
+                  "y": 161
+                },
+                {
+                  "h": 80,
+                  "w": 80,
+                  "x": 217,
+                  "y": 178
+                },
+                {
+                  "h": 103,
+                  "w": 103,
+                  "x": 747,
+                  "y": 200
+                },
+                {
+                  "h": 132,
+                  "w": 132,
+                  "x": 482,
+                  "y": 42
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 28,
+                  "w": 28,
+                  "x": 100,
+                  "y": 31
+                },
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 300,
+                  "y": 104
+                },
+                {
+                  "h": 46,
+                  "w": 46,
+                  "x": 460,
+                  "y": 105
+                },
+                {
+                  "h": 57,
+                  "w": 57,
+                  "x": 536,
+                  "y": 66
+                },
+                {
+                  "h": 62,
+                  "w": 62,
+                  "x": 227,
+                  "y": 74
+                },
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 401,
+                  "y": 106
+                },
+                {
+                  "h": 53,
+                  "w": 53,
+                  "x": 144,
+                  "y": 118
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 496,
+                  "y": 132
+                },
+                {
+                  "h": 87,
+                  "w": 87,
+                  "x": 320,
+                  "y": 27
+                }
+              ]
+            }
+          },
+          "id": 1220724166585921536,
+          "id_str": "1220724166585921536",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPDiKW4WsAA3_am.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPDiKW4WsAA3_am.jpg",
+          "sizes": {
+            "large": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 369,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5RgmtaUpTA"
+        }
+      ]
+    },
+    "favorite_count": 18226,
+    "favorited": false,
+    "full_text": "Under Dems\u2019 Trump impeachment justification, Lincoln would\u2019ve been impeached https://t.co/Ufg4nncRL6 https://t.co/5RgmtaUpTA",
+    "geo": null,
+    "id": 1220724168498479105,
+    "id_str": "1220724168498479105",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5736,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 22 01:59:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Legal and political analyst for Fox News Channel. Author of THE RUSSIA HOAX and WITCH HUNT, available now: https://t.co/ubSNZAlnqV.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/WitchHuntbook",
+              "expanded_url": "http://bit.ly/WitchHuntbook",
+              "indices": [
+                107,
+                130
+              ],
+              "url": "https://t.co/ubSNZAlnqV"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thegreggjarrett.com",
+              "expanded_url": "https://thegreggjarrett.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bCa80T64zi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 523091,
+      "following": false,
+      "friends_count": 111,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21536398,
+      "id_str": "21536398",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1747,
+      "location": "New York",
+      "name": "Gregg Jarrett",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21536398/1571412209",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1024332491967160321/AZAsCMuO_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "ED322C",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GreggJarrett",
+      "statuses_count": 1096,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bCa80T64zi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Aug 20 11:54:41 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 27768163,
+        "id_str": "27768163",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Nick Trainer",
+        "screen_name": "NicholasTrainer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NicholasTrainer: President Obama is making it a habit of campaigning in Philly for losing Presidential candidates. https://t.co/fZJfEhx\u2026",
+  "geo": null,
+  "id": 1296415353338241024,
+  "id_str": "1296415353338241024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4364,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 20 02:33:29 +0000 2020",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fZJfEhx2MB",
+          "expanded_url": "https://twitter.com/NicholasTrainer/status/1296274124474585088/photo/1",
+          "id": 1296274071815159815,
+          "id_str": "1296274071815159815",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ef1KZn4XgAcQBAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ef1KZn4XgAcQBAU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 788
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 788
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 523
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fZJfEhx2MB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fZJfEhx2MB",
+          "expanded_url": "https://twitter.com/NicholasTrainer/status/1296274124474585088/photo/1",
+          "id": 1296274071815159815,
+          "id_str": "1296274071815159815",
+          "indices": [
+            98,
+            121
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ef1KZn4XgAcQBAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ef1KZn4XgAcQBAU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 788
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 788
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 523
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fZJfEhx2MB"
+        }
+      ]
+    },
+    "favorite_count": 16895,
+    "favorited": false,
+    "full_text": "President Obama is making it a habit of campaigning in Philly for losing Presidential candidates. https://t.co/fZJfEhx2MB",
+    "geo": null,
+    "id": 1296274124474585088,
+    "id_str": "1296274124474585088",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4364,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 31 00:16:46 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Director of Battleground Strategy @RealDonaldTrump | Formerly - @WhiteHouse @GOP @GovernorPerry @TimPawlenty @SenToomey | PA, yinz/youse guys. Always PA.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "https://www.donaldjtrump.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mVHOxzYUNT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6583,
+      "follow_request_sent": false,
+      "followers_count": 7310,
+      "following": false,
+      "friends_count": 500,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 27768163,
+      "id_str": "27768163",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 60,
+      "location": "Another day in paradise, okay?",
+      "name": "Nick Trainer",
+      "notifications": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27768163/1469854440",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/797326994988011520/cNNCleCb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/797326994988011520/cNNCleCb_normal.jpg",
+      "profile_link_color": "112255",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NicholasTrainer",
+      "statuses_count": 11138,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mVHOxzYUNT",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85439348,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118456,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54801,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

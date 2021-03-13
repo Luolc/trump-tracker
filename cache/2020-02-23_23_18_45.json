@@ -1,0 +1,475 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 23 23:18:45 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18839785,
+        "id_str": "18839785",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Narendra Modi",
+        "screen_name": "narendramodi"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          51,
+          57
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          58,
+          74
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @narendramodi: India looks forward to welcoming @POTUS @realDonaldTrump. \n\nIt is an honour that he will be with us tomorrow, starting wi\u2026",
+  "geo": null,
+  "id": 1231720076820135938,
+  "id_str": "1231720076820135938",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1231456099649368066,
+  "quoted_status_id_str": "1231456099649368066",
+  "quoted_status_permalink": {
+    "display": "twitter.com/vijayrupanibjp\u2026",
+    "expanded": "https://twitter.com/vijayrupanibjp/status/1231456099649368066",
+    "url": "https://t.co/fAVx9OUu1j"
+  },
+  "retweet_count": 19420,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 23 07:22:37 +0000 2020",
+    "display_text_range": [
+      0,
+      160
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/vijayrupanibjp\u2026",
+          "expanded_url": "https://twitter.com/vijayrupanibjp/status/1231456099649368066",
+          "indices": [
+            161,
+            184
+          ],
+          "url": "https://t.co/fAVx9OUu1j"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            33,
+            39
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 85095,
+    "favorited": false,
+    "full_text": "India looks forward to welcoming @POTUS @realDonaldTrump. \n\nIt is an honour that he will be with us tomorrow, starting with the historic programme in Ahmedabad! https://t.co/fAVx9OUu1j",
+    "geo": null,
+    "id": 1231479457661116416,
+    "id_str": "1231479457661116416",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Feb 23 05:49:48 +0000 2020",
+      "display_text_range": [
+        0,
+        50
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              36,
+              49
+            ],
+            "text": "NamasteTrump"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/AkXl9Zsvqi",
+            "expanded_url": "https://twitter.com/vijayrupanibjp/status/1231456099649368066/video/1",
+            "id": 1231455882396995585,
+            "id_str": "1231455882396995585",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1231455882396995585/img/Wa7kHuCMOx2pXrfz.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1231455882396995585/img/Wa7kHuCMOx2pXrfz.jpg",
+            "sizes": {
+              "large": {
+                "h": 404,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 404,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 382,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AkXl9Zsvqi"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/AkXl9Zsvqi",
+            "expanded_url": "https://twitter.com/vijayrupanibjp/status/1231456099649368066/video/1",
+            "id": 1231455882396995585,
+            "id_str": "1231455882396995585",
+            "indices": [
+              51,
+              74
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1231455882396995585/img/Wa7kHuCMOx2pXrfz.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1231455882396995585/img/Wa7kHuCMOx2pXrfz.jpg",
+            "sizes": {
+              "large": {
+                "h": 404,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 404,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 382,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/AkXl9Zsvqi",
+            "video_info": {
+              "aspect_ratio": [
+                180,
+                101
+              ],
+              "duration_millis": 146800,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1231455882396995585/vid/480x270/qqosOecAOD3VTKUn.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1231455882396995585/vid/720x404/duf_NY7Q2JBTbSBu.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1231455882396995585/pl/8YOoe8eRSSo0KrhO.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 20959,
+      "favorited": false,
+      "full_text": "Entire Gujarat speaks in one voice- #NamasteTrump! https://t.co/AkXl9Zsvqi",
+      "geo": null,
+      "id": 1231456099649368066,
+      "id_str": "1231456099649368066",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4990,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 05 12:45:23 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Chief Minister of Gujarat, India",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vijayrupani.in",
+                "expanded_url": "http://www.vijayrupani.in",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/gRmp642t6Z"
+              }
+            ]
+          }
+        },
+        "favourites_count": 396,
+        "follow_request_sent": false,
+        "followers_count": 2517704,
+        "following": false,
+        "friends_count": 213,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 627355202,
+        "id_str": "627355202",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 456,
+        "location": "Gandhinagar ",
+        "name": "Vijay Rupani",
+        "notifications": false,
+        "profile_background_color": "89C9FA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/627355202/1580917906",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/772059317897834496/EzZ8Uq4f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/772059317897834496/EzZ8Uq4f_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "vijayrupanibjp",
+        "statuses_count": 7732,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/gRmp642t6Z",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1231456099649368066,
+    "quoted_status_id_str": "1231456099649368066",
+    "quoted_status_permalink": {
+      "display": "twitter.com/vijayrupanibjp\u2026",
+      "expanded": "https://twitter.com/vijayrupanibjp/status/1231456099649368066",
+      "url": "https://t.co/fAVx9OUu1j"
+    },
+    "retweet_count": 19420,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Prime Minister of India",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "narendramodi.in",
+              "expanded_url": "http://www.narendramodi.in",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zzYhUUfq6i"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 53203758,
+      "following": false,
+      "friends_count": 2377,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18839785,
+      "id_str": "18839785",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 25111,
+      "location": "India",
+      "name": "Narendra Modi",
+      "notifications": false,
+      "profile_background_color": "F4EDD4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1559221352",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_link_color": "4E7096",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D5DFED",
+      "profile_text_color": "233863",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "narendramodi",
+      "statuses_count": 25952,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/zzYhUUfq6i",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72921567,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115060,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49246,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 20 18:00:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 457984599,
+        "id_str": "457984599",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Breitbart News",
+        "screen_name": "BreitbartNews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BreitbartNews: \"They are like that one girlfriend you had that's just an idiot that believes every lie some guy tells her at a bar.\" ht\u2026",
+  "geo": null,
+  "id": 1274401782857437187,
+  "id_str": "1274401782857437187",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9640,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 20 14:07:38 +0000 2020",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Yimr8YD1ck",
+          "expanded_url": "https://twitter.com/BreitbartNews/status/1274343153194106880/video/1",
+          "id": 1274343015939784709,
+          "id_str": "1274343015939784709",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274343015939784709/pu/img/gAKpvMWtUzPzD4jD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274343015939784709/pu/img/gAKpvMWtUzPzD4jD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Yimr8YD1ck"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Yimr8YD1ck",
+          "expanded_url": "https://twitter.com/BreitbartNews/status/1274343153194106880/video/1",
+          "id": 1274343015939784709,
+          "id_str": "1274343015939784709",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1274343015939784709/pu/img/gAKpvMWtUzPzD4jD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1274343015939784709/pu/img/gAKpvMWtUzPzD4jD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Yimr8YD1ck",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 50517,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1274343015939784709/pu/vid/320x320/hLliy8pw-xaGgsoz.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1274343015939784709/pu/vid/720x720/8HNwrVIsZrzkpypX.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1274343015939784709/pu/pl/3zLo0nA-DnMn6-MP.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1274343015939784709/pu/vid/480x480/p0ESDGLO34quLqFu.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25362,
+    "favorited": false,
+    "full_text": "\"They are like that one girlfriend you had that's just an idiot that believes every lie some guy tells her at a bar.\" https://t.co/Yimr8YD1ck",
+    "geo": null,
+    "id": 1274343153194106880,
+    "id_str": "1274343153194106880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9640,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 08 01:50:52 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News, commentary, and destruction of the political/media establishment.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com",
+              "expanded_url": "http://breitbart.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/2sVbt3n6lO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 966,
+      "follow_request_sent": false,
+      "followers_count": 1385174,
+      "following": false,
+      "friends_count": 115,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 457984599,
+      "id_str": "457984599",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8957,
+      "location": "",
+      "name": "Breitbart News",
+      "notifications": false,
+      "profile_background_color": "0C0D0D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/457984599/1359997459",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/949270171755077632/dw3M-58z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/949270171755077632/dw3M-58z_normal.jpg",
+      "profile_link_color": "FF5402",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BreitbartNews",
+      "statuses_count": 129407,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/2sVbt3n6lO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82338982,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115645,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53043,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

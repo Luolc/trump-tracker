@@ -1,0 +1,407 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 25 14:03:32 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18839785,
+        "id_str": "18839785",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Narendra Modi",
+        "screen_name": "narendramodi"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          73,
+          89
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @narendramodi: Yet another excellent meeting and talks with my friend @realDonaldTrump.\n\nRelations between India and USA are not merely\u2026",
+  "geo": null,
+  "id": 1232305127568089089,
+  "id_str": "1232305127568089089",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 17202,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 25 10:39:40 +0000 2020",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VPA8jdhAtI",
+          "expanded_url": "https://twitter.com/narendramodi/status/1232253824238141443/photo/1",
+          "id": 1232252092728823808,
+          "id_str": "1232252092728823808",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERnWv-TVUAAGhD8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERnWv-TVUAAGhD8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1677,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 983,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 557,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VPA8jdhAtI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            55,
+            71
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VPA8jdhAtI",
+          "expanded_url": "https://twitter.com/narendramodi/status/1232253824238141443/photo/1",
+          "id": 1232252092728823808,
+          "id_str": "1232252092728823808",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERnWv-TVUAAGhD8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERnWv-TVUAAGhD8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1677,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 983,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 557,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VPA8jdhAtI"
+        },
+        {
+          "display_url": "pic.twitter.com/VPA8jdhAtI",
+          "expanded_url": "https://twitter.com/narendramodi/status/1232253824238141443/photo/1",
+          "id": 1232252133065424896,
+          "id_str": "1232252133065424896",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERnWyUkVAAAvhtf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERnWyUkVAAAvhtf.jpg",
+          "sizes": {
+            "large": {
+              "h": 1208,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 708,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 401,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VPA8jdhAtI"
+        },
+        {
+          "display_url": "pic.twitter.com/VPA8jdhAtI",
+          "expanded_url": "https://twitter.com/narendramodi/status/1232253824238141443/photo/1",
+          "id": 1232253531807080448,
+          "id_str": "1232253531807080448",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERnYDvSU4AAyNYH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERnYDvSU4AAyNYH.jpg",
+          "sizes": {
+            "large": {
+              "h": 1514,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 887,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 503,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VPA8jdhAtI"
+        },
+        {
+          "display_url": "pic.twitter.com/VPA8jdhAtI",
+          "expanded_url": "https://twitter.com/narendramodi/status/1232253824238141443/photo/1",
+          "id": 1232253669233455104,
+          "id_str": "1232253669233455104",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERnYLvPU8AAjI7s.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERnYLvPU8AAjI7s.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1300
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 761
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 431
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VPA8jdhAtI"
+        }
+      ]
+    },
+    "favorite_count": 80393,
+    "favorited": false,
+    "full_text": "Yet another excellent meeting and talks with my friend @realDonaldTrump.\n\nRelations between India and USA are not merely ties between two governments. Ours is a friendship that is people-driven and people centric.\u00a0\n\nOur nations are cooperating extensively, which is a great sign. https://t.co/VPA8jdhAtI",
+    "geo": null,
+    "id": 1232253824238141443,
+    "id_str": "1232253824238141443",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 17202,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Prime Minister of India",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "narendramodi.in",
+              "expanded_url": "http://www.narendramodi.in",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zzYhUUfq6i"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 53265988,
+      "following": false,
+      "friends_count": 2375,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18839785,
+      "id_str": "18839785",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 25154,
+      "location": "India",
+      "name": "Narendra Modi",
+      "notifications": false,
+      "profile_background_color": "F4EDD4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1559221352",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_link_color": "4E7096",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D5DFED",
+      "profile_text_color": "233863",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "narendramodi",
+      "statuses_count": 25967,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/zzYhUUfq6i",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73053330,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115139,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49327,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 16:13:03 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 90480218,
+        "id_str": "90480218",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Richard Grenell",
+        "screen_name": "RichardGrenell"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          68,
+          84
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichardGrenell: So fewer people died because they took the drug @realDonaldTrump suggested....\n\nThank you, POTUS for doing the right th\u2026",
+  "geo": null,
+  "id": 1279448145819295747,
+  "id_str": "1279448145819295747",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1278964201789194240,
+  "quoted_status_id_str": "1278964201789194240",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cnn/status/127\u2026",
+    "expanded": "https://twitter.com/cnn/status/1278964201789194240",
+    "url": "https://t.co/AKh7siYqNb"
+  },
+  "retweet_count": 24541,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 03 14:06:47 +0000 2020",
+    "display_text_range": [
+      0,
+      192
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cnn/status/127\u2026",
+          "expanded_url": "https://twitter.com/cnn/status/1278964201789194240",
+          "indices": [
+            193,
+            216
+          ],
+          "url": "https://t.co/AKh7siYqNb"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            48,
+            64
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 68179,
+    "favorited": false,
+    "full_text": "So fewer people died because they took the drug @realDonaldTrump suggested....\n\nThank you, POTUS for doing the right thing even in the face of a DC culture attacking you no matter what you do. https://t.co/AKh7siYqNb",
+    "geo": null,
+    "id": 1279053982975971329,
+    "id_str": "1279053982975971329",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 03 08:10:02 +0000 2020",
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cnn.it/3ik1CSy",
+            "expanded_url": "https://cnn.it/3ik1CSy",
+            "indices": [
+              146,
+              169
+            ],
+            "url": "https://t.co/j6zs4SI2Su"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 33424,
+      "favorited": false,
+      "full_text": "A surprising new study found that the controversial antimalarial drug hydroxychloroquine helped Covid-19 patients better survive in the hospital.\nhttps://t.co/j6zs4SI2Su",
+      "geo": null,
+      "id": 1278964201789194240,
+      "id_str": "1278964201789194240",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 19110,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cnn.com/apps",
+                "expanded_url": "http://cnn.com/apps",
+                "indices": [
+                  134,
+                  157
+                ],
+                "url": "https://t.co/UCHG9M367J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "expanded_url": "http://www.cnn.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/IaghNW8Xm2"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1427,
+        "follow_request_sent": false,
+        "followers_count": 48889147,
+        "following": false,
+        "friends_count": 1109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 759251,
+        "id_str": "759251",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 139692,
+        "location": "",
+        "name": "CNN",
+        "notifications": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CNN",
+        "statuses_count": 307624,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/IaghNW8Xm2",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1278964201789194240,
+    "quoted_status_id_str": "1278964201789194240",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cnn/status/127\u2026",
+      "expanded": "https://twitter.com/cnn/status/1278964201789194240",
+      "url": "https://t.co/AKh7siYqNb"
+    },
+    "retweet_count": 24541,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSml3j",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/richardgrenell",
+              "expanded_url": "https://www.instagram.com/richardgrenell",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/danITSml3j"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23862,
+      "follow_request_sent": false,
+      "followers_count": 439435,
+      "following": false,
+      "friends_count": 2622,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 90480218,
+      "id_str": "90480218",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2153,
+      "location": "LA, Palm Springs (and Berlin)",
+      "name": "Richard Grenell",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichardGrenell",
+      "statuses_count": 6241,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

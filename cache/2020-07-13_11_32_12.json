@@ -1,0 +1,556 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 13 11:32:12 +0000 2020",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          59,
+          64
+        ],
+        "text": "MAGA"
+      },
+      {
+        "indices": [
+          65,
+          78
+        ],
+        "text": "AmericaFirst"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouDobbs: Incredible What Biden Has Gotten Away With!  #MAGA #AmericaFirst",
+  "geo": null,
+  "id": 1282638959131189248,
+  "id_str": "1282638959131189248",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1281939661758312449,
+  "quoted_status_id_str": "1281939661758312449",
+  "quoted_status_permalink": {
+    "display": "twitter.com/donaldjtrumpjr\u2026",
+    "expanded": "https://twitter.com/donaldjtrumpjr/status/1281939661758312449",
+    "url": "https://t.co/Y6imcWc0QM"
+  },
+  "retweet_count": 11966,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 12 16:49:29 +0000 2020",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            50
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            51,
+            64
+          ],
+          "text": "AmericaFirst"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/donaldjtrumpjr\u2026",
+          "expanded_url": "https://twitter.com/donaldjtrumpjr/status/1281939661758312449",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/Y6imcWc0QM"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 28145,
+    "favorited": false,
+    "full_text": "Incredible What Biden Has Gotten Away With!  #MAGA #AmericaFirst https://t.co/Y6imcWc0QM",
+    "geo": null,
+    "id": 1282356418100830209,
+    "id_str": "1282356418100830209",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jul 11 13:13:27 +0000 2020",
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UqLIwSeyIE",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1258083065575899137/video/1",
+            "id": 1258078226393575425,
+            "id_str": "1258078226393575425",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/EXWZiw-X0AYmrc3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EXWZiw-X0AYmrc3.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1258083065575899137,
+            "source_status_id_str": "1258083065575899137",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "photo",
+            "url": "https://t.co/UqLIwSeyIE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1108472017144201216,
+            "id_str": "1108472017144201216",
+            "indices": [
+              119,
+              132
+            ],
+            "name": "Trump War Room - Text TRUMP to 88022",
+            "screen_name": "TrumpWarRoom"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "In 1987, Joe Biden was exposed as a plagiarist who also lied about his education and credentials. In archival footage collected by the Media Research Center, journalists savaged Biden's dishonesty.",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "donaldjtrump.com",
+                        "expanded_url": "https://www.donaldjtrump.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/mVHOxzYUNT"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 18,
+                "follow_request_sent": false,
+                "followers_count": 703760,
+                "following": false,
+                "friends_count": 259,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1108472017144201216,
+                "id_str": "1108472017144201216",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 2068,
+                "location": "MAGA Country",
+                "name": "Trump War Room - Text TRUMP to 88022",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TrumpWarRoom",
+                "statuses_count": 15242,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/mVHOxzYUNT",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": "Joe Biden's decades-long record of dishonesty"
+            },
+            "display_url": "pic.twitter.com/UqLIwSeyIE",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1258083065575899137/video/1",
+            "id": 1258078226393575425,
+            "id_str": "1258078226393575425",
+            "indices": [
+              134,
+              157
+            ],
+            "media_url": "http://pbs.twimg.com/media/EXWZiw-X0AYmrc3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EXWZiw-X0AYmrc3.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1258083065575899137,
+            "source_status_id_str": "1258083065575899137",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "video",
+            "url": "https://t.co/UqLIwSeyIE",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 299700,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1258078226393575425/vid/640x360/EZg7UkoG9WsKUQyZ.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1258078226393575425/vid/1280x720/jsd0fsyKxDH0JT81.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1258078226393575425/pl/HTDssz7PeFpk3nK9.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1258078226393575425/vid/480x270/Q6ai0Nz0pAzedRm0.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 19700,
+      "favorited": false,
+      "full_text": "Joe Biden\u2019s record of plagiarism goes back decades.\n \nToday, he\u2019s the same dishonest, plagiarist he was 33 years ago - @TrumpWarRoom \nhttps://t.co/UqLIwSeyIE",
+      "geo": null,
+      "id": 1281939661758312449,
+      "id_str": "1281939661758312449",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9739,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 21:18:33 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonJr.com",
+                "expanded_url": "http://DonJr.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mqxNHnqCbK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 16877,
+        "follow_request_sent": false,
+        "followers_count": 5289538,
+        "following": false,
+        "friends_count": 1464,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 39344374,
+        "id_str": "39344374",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 12513,
+        "location": "",
+        "name": "Donald Trump Jr.",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1589577103",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+        "profile_link_color": "15317E",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DonaldJTrumpJr",
+        "statuses_count": 35926,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mqxNHnqCbK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1281939661758312449,
+    "quoted_status_id_str": "1281939661758312449",
+    "quoted_status_permalink": {
+      "display": "twitter.com/donaldjtrumpjr\u2026",
+      "expanded": "https://twitter.com/donaldjtrumpjr/status/1281939661758312449",
+      "url": "https://t.co/Y6imcWc0QM"
+    },
+    "retweet_count": 11966,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 5, 7 & 10 pm Eastern https://t.co/Mqnxd3lgtA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/loudobbstonigh\u2026",
+              "expanded_url": "http://Instagram.com/loudobbstonight/",
+              "indices": [
+                62,
+                85
+              ],
+              "url": "https://t.co/Mqnxd3lgtA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thetrumpcentury.com",
+              "expanded_url": "http://thetrumpcentury.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jphChsfK3r"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16593,
+      "follow_request_sent": false,
+      "followers_count": 2186760,
+      "following": false,
+      "friends_count": 2081,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5327,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1594070844",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 34918,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/jphChsfK3r",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83368697,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116585,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53632,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

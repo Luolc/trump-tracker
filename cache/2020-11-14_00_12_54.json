@@ -1,0 +1,260 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 14 00:12:54 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/m2yw7gTU5q",
+        "expanded_url": "https://twitter.com/TVNewsHQ/status/1327399568984731648/video/1",
+        "id": 1327399533039521793,
+        "id_str": "1327399533039521793",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327399533039521793/pu/img/vSZ8hroYi_fVQp-F.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327399533039521793/pu/img/vSZ8hroYi_fVQp-F.jpg",
+        "sizes": {
+          "large": {
+            "h": 666,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 624,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 354,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327399568984731648,
+        "source_status_id_str": "1327399568984731648",
+        "source_user_id": 711356961107918849,
+        "source_user_id_str": "711356961107918849",
+        "type": "photo",
+        "url": "https://t.co/m2yw7gTU5q"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 20 01:01:30 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "TV news, Cable news ratings and sharp opinion covering Fox News, MSNBC, CNN, Fox Business and CNBC. Retweeted by President Trump.",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 7502,
+            "follow_request_sent": false,
+            "followers_count": 40921,
+            "following": false,
+            "friends_count": 5620,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 711356961107918849,
+            "id_str": "711356961107918849",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 339,
+            "location": "New York, NY",
+            "name": "TV News HQ",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/711356961107918849/1512168004",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TVNewsHQ",
+            "statuses_count": 15854,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/m2yw7gTU5q",
+        "expanded_url": "https://twitter.com/TVNewsHQ/status/1327399568984731648/video/1",
+        "id": 1327399533039521793,
+        "id_str": "1327399533039521793",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327399533039521793/pu/img/vSZ8hroYi_fVQp-F.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327399533039521793/pu/img/vSZ8hroYi_fVQp-F.jpg",
+        "sizes": {
+          "large": {
+            "h": 666,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 624,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 354,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327399568984731648,
+        "source_status_id_str": "1327399568984731648",
+        "source_user_id": 711356961107918849,
+        "source_user_id_str": "711356961107918849",
+        "type": "video",
+        "url": "https://t.co/m2yw7gTU5q",
+        "video_info": {
+          "aspect_ratio": [
+            640,
+            333
+          ],
+          "duration_millis": 25626,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327399533039521793/pu/vid/690x360/Df1p8ssvlZtNRTmr.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327399533039521793/pu/vid/1280x666/wFpLAgc6LpLLi0Mw.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327399533039521793/pu/vid/518x270/sfZJddczSn6rgIwd.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1327399533039521793/pu/pl/fEuHq-icVV_K6YlM.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 92979,
+  "favorited": false,
+  "full_text": "https://t.co/m2yw7gTU5q",
+  "geo": null,
+  "id": 1327404099827093504,
+  "id_str": "1327404099827093504",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 23084,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

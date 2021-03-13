@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 24 18:34:14 +0000 2020",
+  "display_text_range": [
+    0,
+    42
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/353UXMHgKM",
+        "expanded_url": "https://twitter.com/GOPconvention/status/1297937461696507905/video/1",
+        "id": 1297936085452877825,
+        "id_str": "1297936085452877825",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1297936085452877825/img/6rcyPrXB9KqzvGg0.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1297936085452877825/img/6rcyPrXB9KqzvGg0.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1297937461696507905,
+        "source_status_id_str": "1297937461696507905",
+        "source_user_id": 110924703,
+        "source_user_id_str": "110924703",
+        "type": "photo",
+        "url": "https://t.co/353UXMHgKM"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": true,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Feb 03 06:34:53 +0000 2010",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Paid for by the Committee on Arrangements for the 2020 Republican National Convention. Not authorized by any candidate or candidate\u2019s committee. #RNC2020",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "2020gopconvention.com",
+                    "expanded_url": "http://2020gopconvention.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/6lw7Sayw8S"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 396,
+            "follow_request_sent": false,
+            "followers_count": 67452,
+            "following": false,
+            "friends_count": 2417,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 110924703,
+            "id_str": "110924703",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 662,
+            "location": "Charlotte, NC",
+            "name": "#RNC2020 GOP Convention",
+            "notifications": false,
+            "profile_background_color": "0166C2",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/110924703/1593100592",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1276182562474463235/8qjhXFuZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1276182562474463235/8qjhXFuZ_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "A8C7F7",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "GOPconvention",
+            "statuses_count": 3080,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/6lw7Sayw8S",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/353UXMHgKM",
+        "expanded_url": "https://twitter.com/GOPconvention/status/1297937461696507905/video/1",
+        "id": 1297936085452877825,
+        "id_str": "1297936085452877825",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1297936085452877825/img/6rcyPrXB9KqzvGg0.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1297936085452877825/img/6rcyPrXB9KqzvGg0.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1297937461696507905,
+        "source_status_id_str": "1297937461696507905",
+        "source_user_id": 110924703,
+        "source_user_id_str": "110924703",
+        "type": "video",
+        "url": "https://t.co/353UXMHgKM",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 28208,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1297936085452877825/vid/640x360/DxWvAkCHoUcGOQdY.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1297936085452877825/pl/qfF_pW-Fmj6xJ5vw.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1297936085452877825/vid/480x270/8zHYxTr9SMDvpKkS.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1297936085452877825/vid/1280x720/I2d4M1Zl601EQUoq.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 118436,
+  "favorited": false,
+  "full_text": "GOD BLESS THE USA! https://t.co/353UXMHgKM",
+  "geo": null,
+  "id": 1297965457404723202,
+  "id_str": "1297965457404723202",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 29656,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85568760,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118677,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54896,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

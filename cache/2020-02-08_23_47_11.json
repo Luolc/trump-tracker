@@ -1,0 +1,297 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 08 23:47:11 +0000 2020",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kyle__boone/st\u2026",
+        "expanded_url": "https://twitter.com/kyle__boone/status/1226234981808250880",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/PBqvDaamoO"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 58159,
+  "favorited": false,
+  "full_text": "A great coach and a fantastic guy. His endorsement of me in Indiana was a very big deal! https://t.co/PBqvDaamoO",
+  "geo": null,
+  "id": 1226291413610045443,
+  "id_str": "1226291413610045443",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 08 20:02:56 +0000 2020",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JdLIZjVU1l",
+          "expanded_url": "https://twitter.com/Kyle__Boone/status/1226234981808250880/video/1",
+          "id": 1226234900241625088,
+          "id_str": "1226234900241625088",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226234900241625088/pu/img/Z0ki9Zm7R-hcqQep.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226234900241625088/pu/img/Z0ki9Zm7R-hcqQep.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JdLIZjVU1l"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/JdLIZjVU1l",
+          "expanded_url": "https://twitter.com/Kyle__Boone/status/1226234981808250880/video/1",
+          "id": 1226234900241625088,
+          "id_str": "1226234900241625088",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1226234900241625088/pu/img/Z0ki9Zm7R-hcqQep.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1226234900241625088/pu/img/Z0ki9Zm7R-hcqQep.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/JdLIZjVU1l",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 26778,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1226234900241625088/pu/vid/480x270/g1PK0i_SlOrofIPd.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1226234900241625088/pu/vid/640x360/z-YHTkmDhWG14vm3.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1226234900241625088/pu/pl/tftaxiAIG33i6Ixd.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9607,
+    "favorited": false,
+    "full_text": "Bob Knight back in Assembly Hall for the first time since 2000. What a moment. https://t.co/JdLIZjVU1l",
+    "geo": null,
+    "id": 1226234981808250880,
+    "id_str": "1226234981808250880",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1665,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 23 02:28:44 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Coffee aficionado. Lover of food. Hater of your team. Writer, @CBSSports. Tips: kyle.boone@cbsinteractive.com",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 8579,
+      "follow_request_sent": false,
+      "followers_count": 7209,
+      "following": false,
+      "friends_count": 488,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 181798724,
+      "id_str": "181798724",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 151,
+      "location": "Tulsa, OK",
+      "name": "Kyle Boone",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1224373265289883648/zSBEg8C2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224373265289883648/zSBEg8C2_normal.jpg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Kyle__Boone",
+      "statuses_count": 7545,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1226234981808250880,
+  "quoted_status_id_str": "1226234981808250880",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kyle__boone/st\u2026",
+    "expanded": "https://twitter.com/kyle__boone/status/1226234981808250880",
+    "url": "https://t.co/PBqvDaamoO"
+  },
+  "retweet_count": 11085,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72334195,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48847,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

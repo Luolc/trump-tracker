@@ -1,0 +1,322 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 18 04:08:50 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22199141,
+        "id_str": "22199141",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "FOX: NASCAR",
+        "screen_name": "NASCARONFOX"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NASCARONFOX: Here is the final lap of the Daytona 500 in which Ryan Newman's car was flipped at the line. \n\nWe will continue to keep yo\u2026",
+  "geo": null,
+  "id": 1229618753211707395,
+  "id_str": "1229618753211707395",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11900,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 18 01:23:22 +0000 2020",
+    "display_text_range": [
+      0,
+      163
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qkEwQBpoP0",
+          "expanded_url": "https://twitter.com/NASCARONFOX/status/1229577113491136512/video/1",
+          "id": 1229569362765516800,
+          "id_str": "1229569362765516800",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERBPIkPWoAE-pgw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERBPIkPWoAE-pgw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qkEwQBpoP0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/qkEwQBpoP0",
+          "expanded_url": "https://twitter.com/NASCARONFOX/status/1229577113491136512/video/1",
+          "id": 1229569362765516800,
+          "id_str": "1229569362765516800",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERBPIkPWoAE-pgw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERBPIkPWoAE-pgw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/qkEwQBpoP0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 107808,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1229569362765516800/vid/480x270/KxUHR4c6-9kAgCPo.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1229569362765516800/pl/BAMu6HPK6PfZhHEn.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1229569362765516800/vid/640x360/FT1Lw3ykP8WBKCc1.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1229569362765516800/vid/1280x720/lmA_oVNHtIWxudzD.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 34110,
+    "favorited": false,
+    "full_text": "Here is the final lap of the Daytona 500 in which Ryan Newman's car was flipped at the line. \n\nWe will continue to keep you updated on his status as we learn more. https://t.co/qkEwQBpoP0",
+    "geo": null,
+    "id": 1229577113491136512,
+    "id_str": "1229577113491136512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11900,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 22:21:34 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official page of @FOXSports' #NASCAR coverage. https://t.co/WyYuLZebZh",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "foxsports.com",
+              "expanded_url": "http://www.foxsports.com",
+              "indices": [
+                47,
+                70
+              ],
+              "url": "https://t.co/WyYuLZebZh"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxs.pt/Unfiltered",
+              "expanded_url": "http://foxs.pt/Unfiltered",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TpoRJ0WnOR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4370,
+      "follow_request_sent": false,
+      "followers_count": 879085,
+      "following": false,
+      "friends_count": 723,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22199141,
+      "id_str": "22199141",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5727,
+      "location": "",
+      "name": "FOX: NASCAR",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22199141/1578350496",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1168673965189058562/WHEL3Gpz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168673965189058562/WHEL3Gpz_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NASCARONFOX",
+      "statuses_count": 100160,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TpoRJ0WnOR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72662036,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114745,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49074,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 10 04:27:28 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 199798906,
+        "id_str": "199798906",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "USACE NY District",
+        "screen_name": "USACE_NY"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USACE_NY: Time-lapse footage shows efforts to convert sites at SUNY Old Westbury into an alternate care facility.1020 beds for various\u2026",
+  "geo": null,
+  "id": 1248467612767412228,
+  "id_str": "1248467612767412228",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1520,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 08 13:42:29 +0000 2020",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ge0LH7qSJI",
+          "expanded_url": "https://twitter.com/USACE_NY/status/1247882510454984704/video/1",
+          "id": 1247882404620046336,
+          "id_str": "1247882404620046336",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247882404620046336/pu/img/ixF5SXmM4-RzNPoy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247882404620046336/pu/img/ixF5SXmM4-RzNPoy.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ge0LH7qSJI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Ge0LH7qSJI",
+          "expanded_url": "https://twitter.com/USACE_NY/status/1247882510454984704/video/1",
+          "id": 1247882404620046336,
+          "id_str": "1247882404620046336",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1247882404620046336/pu/img/ixF5SXmM4-RzNPoy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1247882404620046336/pu/img/ixF5SXmM4-RzNPoy.jpg",
+          "sizes": {
+            "large": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 768,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Ge0LH7qSJI",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              3
+            ],
+            "duration_millis": 29400,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247882404620046336/pu/vid/480x360/3xgSAxUgMFt8p0U2.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1247882404620046336/pu/pl/LTj5OWy9b8XoV3TP.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247882404620046336/pu/vid/360x270/9D9mAFC_LNkj-Uf6.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247882404620046336/pu/vid/960x720/aCf28N9bFeaTOKY2.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5422,
+    "favorited": false,
+    "full_text": "Time-lapse footage shows efforts to convert sites at SUNY Old Westbury into an alternate care facility.1020 beds for various patients will be used to ease the burden on the New York Hospital system. https://t.co/Ge0LH7qSJI",
+    "geo": null,
+    "id": 1247882510454984704,
+    "id_str": "1247882510454984704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1520,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 07 19:12:38 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter Page, US Army Corps of Engineers, NY District. Tweeting about engineering missions serving the public. (Following does not equal endorsement.)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nan.usace.army.mil",
+              "expanded_url": "http://www.nan.usace.army.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/9uzrkNErTD"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1759,
+      "follow_request_sent": false,
+      "followers_count": 3992,
+      "following": false,
+      "friends_count": 907,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 199798906,
+      "id_str": "199798906",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 143,
+      "location": "New York City",
+      "name": "USACE NY District",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/199798906/1504018035",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/902545525936939008/Unaehv51_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/902545525936939008/Unaehv51_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USACE_NY",
+      "statuses_count": 5991,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/9uzrkNErTD",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76533287,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118980,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50571,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 26 06:52:58 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          78,
+          94
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @kayleighmcenany: \u201cWe are a qualified opportunity fund thanks to President @realDonaldTrump.\u201d\n\n\u201cWe need 4 more years because we need the\u2026",
+  "geo": null,
+  "id": 1232559159507206145,
+  "id_str": "1232559159507206145",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1607,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 25 14:16:49 +0000 2020",
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8mNW2m1XDN",
+          "expanded_url": "https://twitter.com/kayleighmcenany/status/1232308473519628289/video/1",
+          "id": 1232308388501053443,
+          "id_str": "1232308388501053443",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232308388501053443/pu/img/5iOj4D190hoyurNz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232308388501053443/pu/img/5iOj4D190hoyurNz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8mNW2m1XDN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            57,
+            73
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 217543151,
+          "id_str": "217543151",
+          "indices": [
+            137,
+            153
+          ],
+          "name": "Tim Scott",
+          "screen_name": "SenatorTimScott"
+        },
+        {
+          "id": 885317967705014272,
+          "id_str": "885317967705014272",
+          "indices": [
+            242,
+            253
+          ],
+          "name": "Abate Media",
+          "screen_name": "AbateMedia"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/8mNW2m1XDN",
+          "expanded_url": "https://twitter.com/kayleighmcenany/status/1232308473519628289/video/1",
+          "id": 1232308388501053443,
+          "id_str": "1232308388501053443",
+          "indices": [
+            254,
+            277
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232308388501053443/pu/img/5iOj4D190hoyurNz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232308388501053443/pu/img/5iOj4D190hoyurNz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/8mNW2m1XDN",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 24298,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1232308388501053443/pu/vid/640x360/izKjF1FTYAAZSybD.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1232308388501053443/pu/vid/1280x720/uFMNbL1H_nJ71CFw.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1232308388501053443/pu/vid/480x270/WJCgXTryI7PvLGqp.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1232308388501053443/pu/pl/Frs3HQRuR3aC8TZB.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4702,
+    "favorited": false,
+    "full_text": "\u201cWe are a qualified opportunity fund thanks to President @realDonaldTrump.\u201d\n\n\u201cWe need 4 more years because we need the extension of what @SenatorTimScott has done and what the President has signed in when it comes to opportunity zones.\u201d\n\nVia @AbateMedia https://t.co/8mNW2m1XDN",
+    "geo": null,
+    "id": 1232308473519628289,
+    "id_str": "1232308473519628289",
+    "in_reply_to_screen_name": "kayleighmcenany",
+    "in_reply_to_status_id": 1232308313720836096,
+    "in_reply_to_status_id_str": "1232308313720836096",
+    "in_reply_to_user_id": 259001548,
+    "in_reply_to_user_id_str": "259001548",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1607,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 28 23:33:33 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Press Secretary for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/New-American-R\u2026",
+              "expanded_url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NCyK14Aa4b"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13763,
+      "follow_request_sent": false,
+      "followers_count": 360437,
+      "following": false,
+      "friends_count": 2226,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 259001548,
+      "id_str": "259001548",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2300,
+      "location": "",
+      "name": "Kayleigh McEnany",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1578692228",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kayleighmcenany",
+      "statuses_count": 20010,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NCyK14Aa4b",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73053330,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115139,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49327,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

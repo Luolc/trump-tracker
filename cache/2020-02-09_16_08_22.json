@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 09 16:08:22 +0000 2020",
+  "display_text_range": [
+    0,
+    48
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/S7gwwqWw2K",
+        "expanded_url": "https://twitter.com/harmks/status/1225142926050824194/photo/1",
+        "id": 1225142919654445057,
+        "id_str": "1225142919654445057",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+        "sizes": {
+          "large": {
+            "h": 2000,
+            "resize": "fit",
+            "w": 1982
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1189
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 674
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1225142926050824194,
+        "source_status_id_str": "1225142926050824194",
+        "source_user_id": 233043851,
+        "source_user_id_str": "233043851",
+        "type": "photo",
+        "url": "https://t.co/S7gwwqWw2K"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 233043851,
+        "id_str": "233043851",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Karen",
+        "screen_name": "harmks"
+      },
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          12,
+          24
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/S7gwwqWw2K",
+        "expanded_url": "https://twitter.com/harmks/status/1225142926050824194/photo/1",
+        "id": 1225142919654445057,
+        "id_str": "1225142919654445057",
+        "indices": [
+          25,
+          48
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+        "sizes": {
+          "large": {
+            "h": 2000,
+            "resize": "fit",
+            "w": 1982
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 1189
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 674
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1225142926050824194,
+        "source_status_id_str": "1225142926050824194",
+        "source_user_id": 233043851,
+        "source_user_id_str": "233043851",
+        "type": "photo",
+        "url": "https://t.co/S7gwwqWw2K"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @harmks: @KimStrassel https://t.co/S7gwwqWw2K",
+  "geo": null,
+  "id": 1226538338196299781,
+  "id_str": "1226538338196299781",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 11155,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 05 19:43:30 +0000 2020",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/S7gwwqWw2K",
+          "expanded_url": "https://twitter.com/harmks/status/1225142926050824194/photo/1",
+          "id": 1225142919654445057,
+          "id_str": "1225142919654445057",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "resize": "fit",
+              "w": 1982
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1189
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 674
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/S7gwwqWw2K"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 384910109,
+          "id_str": "384910109",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Kimberley Strassel",
+          "screen_name": "KimStrassel"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/S7gwwqWw2K",
+          "expanded_url": "https://twitter.com/harmks/status/1225142926050824194/photo/1",
+          "id": 1225142919654445057,
+          "id_str": "1225142919654445057",
+          "indices": [
+            13,
+            36
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQCU_o0WkAEhXQt.jpg",
+          "sizes": {
+            "large": {
+              "h": 2000,
+              "resize": "fit",
+              "w": 1982
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1189
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 674
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/S7gwwqWw2K"
+        }
+      ]
+    },
+    "favorite_count": 22807,
+    "favorited": false,
+    "full_text": "@KimStrassel https://t.co/S7gwwqWw2K",
+    "geo": null,
+    "id": 1225142926050824194,
+    "id_str": "1225142926050824194",
+    "in_reply_to_screen_name": "KimStrassel",
+    "in_reply_to_status_id": 1225142633384665088,
+    "in_reply_to_status_id_str": "1225142633384665088",
+    "in_reply_to_user_id": 384910109,
+    "in_reply_to_user_id_str": "384910109",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11155,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 02 03:37:22 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#TRUMP2020 #Conservative #Sister #foodie #wine #SpaDays #IAmAPhoenix #BacktheBlue #KAG #2A4Ever #NRA https://t.co/qIYF5sz6zC",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "parler.com",
+              "expanded_url": "https://parler.com",
+              "indices": [
+                101,
+                124
+              ],
+              "url": "https://t.co/qIYF5sz6zC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 47587,
+      "follow_request_sent": false,
+      "followers_count": 2901,
+      "following": false,
+      "friends_count": 2850,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 233043851,
+      "id_str": "233043851",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 79,
+      "location": "",
+      "name": "Karen",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/233043851/1555638553",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/929824263233826819/DrFrvJmT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/929824263233826819/DrFrvJmT_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "harmks",
+      "statuses_count": 47058,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72368568,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114441,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

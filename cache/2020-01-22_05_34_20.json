@@ -1,0 +1,412 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 05:34:20 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 5693842,
+        "id_str": "5693842",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "The Senate Majority",
+        "screen_name": "NRSC"
+      },
+      {
+        "id": 117839957,
+        "id_str": "117839957",
+        "indices": [
+          36,
+          49
+        ],
+        "name": "John Hickenlooper",
+        "screen_name": "Hickenlooper"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NRSC: This isn\u2019t the first time @Hickenlooper potentially took money that wasn\u2019t his to use, and he\u2019s betraying Coloradans by using the\u2026",
+  "geo": null,
+  "id": 1219855798295318529,
+  "id_str": "1219855798295318529",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1360,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 18 15:45:04 +0000 2020",
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            190,
+            196
+          ],
+          "text": "COSen"
+        },
+        {
+          "indices": [
+            197,
+            208
+          ],
+          "text": "copolitics"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/785dRW2b1V",
+          "expanded_url": "https://twitter.com/NRSC/status/1218559941503528973/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 119,
+                  "w": 119,
+                  "x": 526,
+                  "y": 204
+                }
+              ]
+            }
+          },
+          "id": 1218559939196661760,
+          "id_str": "1218559939196661760",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOkxzvlWsAA0gP9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOkxzvlWsAA0gP9.jpg",
+          "sizes": {
+            "large": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/785dRW2b1V"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "denver.cbslocal.com/video/4405759-\u2026",
+          "expanded_url": "https://denver.cbslocal.com/video/4405759-state-republicans-want-to-audit-fund/",
+          "indices": [
+            209,
+            232
+          ],
+          "url": "https://t.co/hmJdfoWuHV"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 117839957,
+          "id_str": "117839957",
+          "indices": [
+            26,
+            39
+          ],
+          "name": "John Hickenlooper",
+          "screen_name": "Hickenlooper"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/785dRW2b1V",
+          "expanded_url": "https://twitter.com/NRSC/status/1218559941503528973/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 175,
+                  "w": 175,
+                  "x": 774,
+                  "y": 301
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 119,
+                  "w": 119,
+                  "x": 526,
+                  "y": 204
+                }
+              ]
+            }
+          },
+          "id": 1218559939196661760,
+          "id_str": "1218559939196661760",
+          "indices": [
+            233,
+            256
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOkxzvlWsAA0gP9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOkxzvlWsAA0gP9.jpg",
+          "sizes": {
+            "large": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/785dRW2b1V"
+        }
+      ]
+    },
+    "favorite_count": 3632,
+    "favorited": false,
+    "full_text": "This isn\u2019t the first time @Hickenlooper potentially took money that wasn\u2019t his to use, and he\u2019s betraying Coloradans by using their money for his own personal use. Colorado deserves better. #COSen #copolitics https://t.co/hmJdfoWuHV https://t.co/785dRW2b1V",
+    "geo": null,
+    "id": 1218559941503528973,
+    "id_str": "1218559941503528973",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1360,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue May 01 20:26:36 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NRSC.org",
+              "expanded_url": "http://www.NRSC.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mpfapNoOKr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 56,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 104604,
+      "following": false,
+      "friends_count": 3025,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 5693842,
+      "id_str": "5693842",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2143,
+      "location": "Washington, D.C.",
+      "name": "The Senate Majority",
+      "notifications": false,
+      "profile_background_color": "544F4F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1547667062",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_link_color": "D40404",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DBDAC7",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NRSC",
+      "statuses_count": 29359,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mpfapNoOKr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71382468,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48045,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

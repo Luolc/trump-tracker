@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 16 03:34:33 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/HGMNIEImFT",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1238196954775138304/video/1",
+        "id": 1238194160403976194,
+        "id_str": "1238194160403976194",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/ES7z4UCXgAE70pq.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ES7z4UCXgAE70pq.jpg",
+        "sizes": {
+          "large": {
+            "h": 937,
+            "resize": "fit",
+            "w": 936
+          },
+          "medium": {
+            "h": 937,
+            "resize": "fit",
+            "w": 936
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 679
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1238196954775138304,
+        "source_status_id_str": "1238196954775138304",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "photo",
+        "url": "https://t.co/HGMNIEImFT"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "We can all do our part.",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "facebook.com/senategop",
+                    "expanded_url": "http://www.facebook.com/senategop",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/LRez78SkoK"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 2878,
+            "follow_request_sent": false,
+            "followers_count": 1008115,
+            "following": false,
+            "friends_count": 26493,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14344823,
+            "id_str": "14344823",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 7845,
+            "location": "Washington, D.C.",
+            "name": "Senate Republicans",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SenateGOP",
+            "statuses_count": 26564,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/LRez78SkoK",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "We're in this TOGETHER."
+        },
+        "display_url": "pic.twitter.com/HGMNIEImFT",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1238196954775138304/video/1",
+        "id": 1238194160403976194,
+        "id_str": "1238194160403976194",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/ES7z4UCXgAE70pq.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ES7z4UCXgAE70pq.jpg",
+        "sizes": {
+          "large": {
+            "h": 937,
+            "resize": "fit",
+            "w": 936
+          },
+          "medium": {
+            "h": 937,
+            "resize": "fit",
+            "w": 936
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 679
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1238196954775138304,
+        "source_status_id_str": "1238196954775138304",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "video",
+        "url": "https://t.co/HGMNIEImFT",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 49833,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1238194160403976194/pl/RmpnyaNA8xkxJxA4.m3u8?tag=13"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1238194160403976194/vid/720x720/MYaZWygFLxMF51iH.mp4?tag=13"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1238194160403976194/vid/320x320/tPwYz2YDqynNTDQi.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1238194160403976194/vid/480x480/ZYdBXO5pOHLifsgC.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 48493,
+  "favorited": false,
+  "full_text": "https://t.co/HGMNIEImFT",
+  "geo": null,
+  "id": 1239394598667071488,
+  "id_str": "1239394598667071488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 14684,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74042345,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49818,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

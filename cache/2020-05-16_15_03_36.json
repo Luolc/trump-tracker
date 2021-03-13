@@ -1,0 +1,329 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 16 15:03:36 +0000 2020",
+  "display_text_range": [
+    0,
+    14
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/marklevinshow/\u2026",
+        "expanded_url": "https://twitter.com/marklevinshow/status/1261254787611459584",
+        "indices": [
+          15,
+          38
+        ],
+        "url": "https://t.co/k2zvDsELo5"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 39754,
+  "favorited": false,
+  "full_text": "One of a kind! https://t.co/k2zvDsELo5",
+  "geo": null,
+  "id": 1261673660319965189,
+  "id_str": "1261673660319965189",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 15 11:19:09 +0000 2020",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rsvL7ZXLfj",
+          "expanded_url": "https://twitter.com/marklevinshow/status/1261254787611459584/video/1",
+          "id": 1261253758027259907,
+          "id_str": "1261253758027259907",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1261253758027259907/img/gwwZr1gls67iymsn.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1261253758027259907/img/gwwZr1gls67iymsn.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rsvL7ZXLfj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "My appearance on Hannity\u00a0on Fox News Thursday\n\n",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "My appearance on Hannity\u00a0"
+          },
+          "display_url": "pic.twitter.com/rsvL7ZXLfj",
+          "expanded_url": "https://twitter.com/marklevinshow/status/1261254787611459584/video/1",
+          "id": 1261253758027259907,
+          "id_str": "1261253758027259907",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1261253758027259907/img/gwwZr1gls67iymsn.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1261253758027259907/img/gwwZr1gls67iymsn.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rsvL7ZXLfj",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 354560,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1261253758027259907/vid/640x360/FOGnjmN11A_bnlam.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1261253758027259907/pl/J6AqO1LRZ6i_fviF.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1261253758027259907/vid/1280x720/F5WChQuYxbnesH4j.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1261253758027259907/vid/480x270/JTASVSvsE6sp0DWn.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10329,
+    "favorited": false,
+    "full_text": "My appearance on Hannity https://t.co/rsvL7ZXLfj",
+    "geo": null,
+    "id": 1261254787611459584,
+    "id_str": "1261254787611459584",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4251,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 07 19:18:36 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "THIS IS THE OFFICIAL MARK LEVIN SHOW TWITTER PAGE. \nDOWNLOAD MY PODCAST FOR FREE https://t.co/HUEgXS3l2C",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "marklevinshow.com/audio-rewind",
+              "expanded_url": "http://www.marklevinshow.com/audio-rewind",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/HUEgXS3l2C"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "marklevinshow.com",
+              "expanded_url": "http://www.marklevinshow.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/YUs6HigZju"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 2184290,
+      "following": false,
+      "friends_count": 6,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 38495835,
+      "id_str": "38495835",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9363,
+      "location": "Underground Bunker",
+      "name": "Mark R. Levin",
+      "notifications": false,
+      "profile_background_color": "35475B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/38495835/1559247697",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000116305623/80c5515ce8244c85105172fe5640f550_normal.jpeg",
+      "profile_link_color": "0013B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "F00000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "marklevinshow",
+      "statuses_count": 23095,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/YUs6HigZju",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1261254787611459584,
+  "quoted_status_id_str": "1261254787611459584",
+  "quoted_status_permalink": {
+    "display": "twitter.com/marklevinshow/\u2026",
+    "expanded": "https://twitter.com/marklevinshow/status/1261254787611459584",
+    "url": "https://t.co/k2zvDsELo5"
+  },
+  "retweet_count": 11635,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79946177,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113564,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51693,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

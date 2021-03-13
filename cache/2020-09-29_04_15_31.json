@@ -1,0 +1,356 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 04:15:31 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 24385890,
+        "id_str": "24385890",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "David",
+        "screen_name": "athomeinbklyn"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @athomeinbklyn: And this is the smallest of the problems being reported today as the requested absentee ballots begin to arrive.\n\nPeople\u2026",
+  "geo": null,
+  "id": 1310795316229218304,
+  "id_str": "1310795316229218304",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1310758489183182849,
+  "quoted_status_id_str": "1310758489183182849",
+  "quoted_status_permalink": {
+    "display": "twitter.com/yuhline/status\u2026",
+    "expanded": "https://twitter.com/yuhline/status/1310758489183182849",
+    "url": "https://t.co/m5iZNRVeJ8"
+  },
+  "retweet_count": 4184,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 01:57:35 +0000 2020",
+    "display_text_range": [
+      0,
+      265
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/yuhline/status\u2026",
+          "expanded_url": "https://twitter.com/yuhline/status/1310758489183182849",
+          "indices": [
+            266,
+            289
+          ],
+          "url": "https://t.co/m5iZNRVeJ8"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10536,
+    "favorited": false,
+    "full_text": "And this is the smallest of the problems being reported today as the requested absentee ballots begin to arrive.\n\nPeople are receiving their neighbors ballots; I received a ballot marked absentee military ballot, though I'm not sure that that is problematic or not. https://t.co/m5iZNRVeJ8",
+    "geo": null,
+    "id": 1310760605746372609,
+    "id_str": "1310760605746372609",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 29 01:49:11 +0000 2020",
+      "display_text_range": [
+        0,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/adelinemedeiro\u2026",
+            "expanded_url": "https://twitter.com/adelinemedeiros/status/1310747251359322112",
+            "indices": [
+              65,
+              88
+            ],
+            "url": "https://t.co/4ezdSO5wHB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 239,
+      "favorited": false,
+      "full_text": "They could have just pluralized stamp to stamps and two boxes. \ud83d\ude2c https://t.co/4ezdSO5wHB",
+      "geo": null,
+      "id": 1310758489183182849,
+      "id_str": "1310758489183182849",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -79.76259,
+                40.477383
+              ],
+              [
+                -71.777492,
+                40.477383
+              ],
+              [
+                -71.777492,
+                45.015851
+              ],
+              [
+                -79.76259,
+                45.015851
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "New York, USA",
+        "id": "94965b2c45386f87",
+        "name": "New York",
+        "place_type": "admin",
+        "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json"
+      },
+      "possibly_sensitive": false,
+      "quoted_status_id": 1310747251359322112,
+      "quoted_status_id_str": "1310747251359322112",
+      "quoted_status_permalink": {
+        "display": "twitter.com/adelinemedeiro\u2026",
+        "expanded": "https://twitter.com/adelinemedeiros/status/1310747251359322112",
+        "url": "https://t.co/4ezdSO5wHB"
+      },
+      "retweet_count": 114,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 19 04:18:41 +0000 2010",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "\ud83d\udc3a New York State Assemblymember @AMYuhLineNiou | proud CUNY Baruch bearcat | loves dogs \ud83d\udc15 and anything dogs do \ud83d\udc3e (personal account) she/her/hers",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/Niou2020",
+                "expanded_url": "http://bit.ly/Niou2020",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wbKGJNjCfa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 45899,
+        "follow_request_sent": false,
+        "followers_count": 28622,
+        "following": false,
+        "friends_count": 7321,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 115576195,
+        "id_str": "115576195",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 268,
+        "location": "New York, NY",
+        "name": "Yuh-Line Niou",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/115576195/1563372630",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/782052480939155457/hxHce_fg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/782052480939155457/hxHce_fg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "yuhline",
+        "statuses_count": 30151,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wbKGJNjCfa",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1310758489183182849,
+    "quoted_status_id_str": "1310758489183182849",
+    "quoted_status_permalink": {
+      "display": "twitter.com/yuhline/status\u2026",
+      "expanded": "https://twitter.com/yuhline/status/1310758489183182849",
+      "url": "https://t.co/m5iZNRVeJ8"
+    },
+    "retweet_count": 4184,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 14 15:52:27 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Voting Rights Advocate. Baker of \ud83c\udf5e\ud83e\udd56\ud83e\udd50. I \ud83d\udeb6\ud83c\udffb\u200d\u2642\ufe0fand \ud83d\udeb2 and \ud83d\ude87and \ud83d\ude97 and I\u2019d like to be safe no matter how I go.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 8350,
+      "follow_request_sent": false,
+      "followers_count": 597,
+      "following": false,
+      "friends_count": 4296,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 24385890,
+      "id_str": "24385890",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6,
+      "location": "Brooklyn, NY",
+      "name": "David",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24385890/1600184674",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1164380366653796352/06qOsPGm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164380366653796352/06qOsPGm_normal.jpg",
+      "profile_link_color": "85A89E",
+      "profile_sidebar_border_color": "031634",
+      "profile_sidebar_fill_color": "033649",
+      "profile_text_color": "CDB380",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "athomeinbklyn",
+      "statuses_count": 5264,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

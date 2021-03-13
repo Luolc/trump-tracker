@@ -1,0 +1,519 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 28 04:55:57 +0000 2020",
+  "display_text_range": [
+    0,
+    124
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/3sMfC2kBze",
+        "expanded_url": "https://twitter.com/TheFirstonTV/status/1221857206708187137/video/1",
+        "features": {},
+        "id": 1221857142258520067,
+        "id_str": "1221857142258520067",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1221857206708187137,
+        "source_status_id_str": "1221857206708187137",
+        "source_user_id": 1182332284403376128,
+        "source_user_id_str": "1182332284403376128",
+        "type": "photo",
+        "url": "https://t.co/3sMfC2kBze"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1182332284403376128,
+        "id_str": "1182332284403376128",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "The First",
+        "screen_name": "TheFirstonTV"
+      },
+      {
+        "id": 109579534,
+        "id_str": "109579534",
+        "indices": [
+          20,
+          34
+        ],
+        "name": "Elise Stefanik",
+        "screen_name": "EliseStefanik"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "can_media_tag": true,
+            "contributors_enabled": false,
+            "created_at": "Thu Oct 10 16:29:39 +0000 2019",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "A FREE TV network dedicated to freedom, big ideas, and intellectual curiosity. No mainstream media talking points, no frills, and no censorship. Pluto TV ch 248",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "thefirsttv.com",
+                    "expanded_url": "http://www.thefirsttv.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/T9rYLG0rfm"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 19,
+            "follow_request_sent": false,
+            "followed_by": false,
+            "followers_count": 9846,
+            "following": false,
+            "friends_count": 7,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1182332284403376128,
+            "id_str": "1182332284403376128",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 54,
+            "location": "",
+            "name": "The First",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182332284403376128/1579118356",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TheFirstonTV",
+            "statuses_count": 992,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/T9rYLG0rfm",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/3sMfC2kBze",
+        "expanded_url": "https://twitter.com/TheFirstonTV/status/1221857206708187137/video/1",
+        "features": {},
+        "id": 1221857142258520067,
+        "id_str": "1221857142258520067",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1221857206708187137,
+        "source_status_id_str": "1221857206708187137",
+        "source_user_id": 1182332284403376128,
+        "source_user_id_str": "1182332284403376128",
+        "type": "video",
+        "url": "https://t.co/3sMfC2kBze",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 53378,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/480x270/YnUqg5RZ2uz8JnD8.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/640x360/5mJYYAy9p28-yTp-.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/1280x720/s9prRm2TJFOPvYq_.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/pl/QN9CUBgrg0p1xbL5.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TheFirstonTV: . @EliseStefanik goes head-to-head with a reporter and shuts her accusations down: https://t.co/3sMfC2kBze",
+  "geo": null,
+  "id": 1222020466686251008,
+  "id_str": "1222020466686251008",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 15662,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 18:07:13 +0000 2020",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3sMfC2kBze",
+          "expanded_url": "https://twitter.com/TheFirstonTV/status/1221857206708187137/video/1",
+          "features": {},
+          "id": 1221857142258520067,
+          "id_str": "1221857142258520067",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3sMfC2kBze"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 109579534,
+          "id_str": "109579534",
+          "indices": [
+            2,
+            16
+          ],
+          "name": "Elise Stefanik",
+          "screen_name": "EliseStefanik"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/3sMfC2kBze",
+          "expanded_url": "https://twitter.com/TheFirstonTV/status/1221857206708187137/video/1",
+          "features": {},
+          "id": 1221857142258520067,
+          "id_str": "1221857142258520067",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221857142258520067/pu/img/x5SEBr7iPEzV6Qtz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3sMfC2kBze",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 53378,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/480x270/YnUqg5RZ2uz8JnD8.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/640x360/5mJYYAy9p28-yTp-.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/vid/1280x720/s9prRm2TJFOPvYq_.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1221857142258520067/pu/pl/QN9CUBgrg0p1xbL5.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 47245,
+    "favorited": false,
+    "full_text": ". @EliseStefanik goes head-to-head with a reporter and shuts her accusations down: https://t.co/3sMfC2kBze",
+    "geo": null,
+    "id": 1221857206708187137,
+    "id_str": "1221857206708187137",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15662,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 10 16:29:39 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "A FREE TV network dedicated to freedom, big ideas, and intellectual curiosity. No mainstream media talking points, no frills, and no censorship. Pluto TV ch 248",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thefirsttv.com",
+              "expanded_url": "http://www.thefirsttv.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/T9rYLG0rfm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 9846,
+      "following": false,
+      "friends_count": 7,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1182332284403376128,
+      "id_str": "1182332284403376128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 54,
+      "location": "",
+      "name": "The First",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182332284403376128/1579118356",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TheFirstonTV",
+      "statuses_count": 992,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/T9rYLG0rfm",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71798127,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48436,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

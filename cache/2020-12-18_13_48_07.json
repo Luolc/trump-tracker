@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 18 13:48:07 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: How much worse off would California be if it had ordered *none* of the covid lockdowns and just told people to be cautious\u2026",
+  "geo": null,
+  "id": 1339930445308436480,
+  "id_str": "1339930445308436480",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1339555456306585601,
+  "quoted_status_id_str": "1339555456306585601",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thehill/status\u2026",
+    "expanded": "https://twitter.com/thehill/status/1339555456306585601",
+    "url": "https://t.co/2a5IDABEKy"
+  },
+  "retweet_count": 9530,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 17 14:36:54 +0000 2020",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/thehill/status\u2026",
+          "expanded_url": "https://twitter.com/thehill/status/1339555456306585601",
+          "indices": [
+            273,
+            296
+          ],
+          "url": "https://t.co/2a5IDABEKy"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 31426,
+    "favorited": false,
+    "full_text": "How much worse off would California be if it had ordered *none* of the covid lockdowns and just told people to be cautious for the last 9 months? \n\nGavin Newsom was doing victory laps because they crushed the virus with all their mask wearing this summer. So what changed? https://t.co/2a5IDABEKy",
+    "geo": null,
+    "id": 1339580332610179078,
+    "id_str": "1339580332610179078",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Dec 17 12:58:03 +0000 2020",
+      "display_text_range": [
+        0,
+        123
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              9
+            ],
+            "text": "BREAKING"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dCBkq7sMtf",
+            "expanded_url": "https://twitter.com/thehill/status/1339555456306585601/photo/1",
+            "id": 1339555454389784576,
+            "id_str": "1339555454389784576",
+            "indices": [
+              124,
+              147
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpcOlqfXEAAipRM.png",
+            "media_url_https": "https://pbs.twimg.com/media/EpcOlqfXEAAipRM.png",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dCBkq7sMtf"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "hill.cm/3vPutwu",
+            "expanded_url": "http://hill.cm/3vPutwu",
+            "indices": [
+              100,
+              123
+            ],
+            "url": "https://t.co/3LTw9bOLoQ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/dCBkq7sMtf",
+            "expanded_url": "https://twitter.com/thehill/status/1339555456306585601/photo/1",
+            "id": 1339555454389784576,
+            "id_str": "1339555454389784576",
+            "indices": [
+              124,
+              147
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpcOlqfXEAAipRM.png",
+            "media_url_https": "https://pbs.twimg.com/media/EpcOlqfXEAAipRM.png",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/dCBkq7sMtf"
+          }
+        ]
+      },
+      "favorite_count": 453,
+      "favorited": false,
+      "full_text": "#BREAKING: California reports daily record of more than 50,000 coronavirus cases, nearly 400 deaths https://t.co/3LTw9bOLoQ https://t.co/dCBkq7sMtf",
+      "geo": null,
+      "id": 1339555456306585601,
+      "id_str": "1339555456306585601",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 260,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thehill.com",
+                "expanded_url": "http://www.thehill.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/t414UtTRv4"
+              }
+            ]
+          }
+        },
+        "favourites_count": 10,
+        "follow_request_sent": false,
+        "followers_count": 4057693,
+        "following": false,
+        "friends_count": 269,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1917731,
+        "id_str": "1917731",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 27696,
+        "location": "Washington, DC",
+        "name": "The Hill",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+        "profile_link_color": "FF0021",
+        "profile_sidebar_border_color": "ADADAA",
+        "profile_sidebar_fill_color": "EBEBEB",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "thehill",
+        "statuses_count": 818568,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/t414UtTRv4",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1339555456306585601,
+    "quoted_status_id_str": "1339555456306585601",
+    "quoted_status_permalink": {
+      "display": "twitter.com/thehill/status\u2026",
+      "expanded": "https://twitter.com/thehill/status/1339555456306585601",
+      "url": "https://t.co/2a5IDABEKy"
+    },
+    "retweet_count": 9530,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show and \"Hold the Line\" on The First tv. Former CIA Analyst #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0fhttps://t.co/LQKtt0b8R8",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "http://apple.co/2lRor7y",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/LQKtt0b8R8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 25371,
+      "follow_request_sent": false,
+      "followers_count": 535388,
+      "following": false,
+      "friends_count": 1544,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2889,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 3650,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88610024,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125960,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

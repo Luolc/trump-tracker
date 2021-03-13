@@ -1,0 +1,569 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 28 04:15:15 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21111098,
+        "id_str": "21111098",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Richard Shelby",
+        "screen_name": "SenShelby"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          76,
+          82
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenShelby: Great news for farmers, ranchers, and small business owners! @POTUS continues to cut red tape, keeping his promise to protec\u2026",
+  "geo": null,
+  "id": 1222010221863763970,
+  "id_str": "1222010221863763970",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1220402356556267520,
+  "quoted_status_id_str": "1220402356556267520",
+  "quoted_status_permalink": {
+    "display": "twitter.com/EPA/status/122\u2026",
+    "expanded": "https://twitter.com/EPA/status/1220402356556267520",
+    "url": "https://t.co/uSSEWdShKD"
+  },
+  "retweet_count": 4152,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 17:06:41 +0000 2020",
+    "display_text_range": [
+      0,
+      239
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            227,
+            233
+          ],
+          "text": "WOTUS"
+        },
+        {
+          "indices": [
+            234,
+            239
+          ],
+          "text": "NWPR"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/EPA/status/122\u2026",
+          "expanded_url": "https://twitter.com/EPA/status/1220402356556267520",
+          "indices": [
+            240,
+            263
+          ],
+          "url": "https://t.co/uSSEWdShKD"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            61,
+            67
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "favorite_count": 14637,
+    "favorited": false,
+    "full_text": "Great news for farmers, ranchers, and small business owners! @POTUS continues to cut red tape, keeping his promise to protect our navigable waters and providing clarity, predictability, and consistency for the American people. #WOTUS #NWPR https://t.co/uSSEWdShKD",
+    "geo": null,
+    "id": 1220754808010878978,
+    "id_str": "1220754808010878978",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jan 23 17:46:10 +0000 2020",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              79,
+              84
+            ],
+            "text": "NWPR"
+          },
+          {
+            "indices": [
+              127,
+              133
+            ],
+            "text": "WOTUS"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9OyISzHr85",
+            "expanded_url": "https://twitter.com/EPA/status/1220402356556267520/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 178,
+                    "w": 178,
+                    "x": 1698,
+                    "y": 811
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 111,
+                    "w": 111,
+                    "x": 1061,
+                    "y": 506
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 178,
+                    "w": 178,
+                    "x": 1698,
+                    "y": 811
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 63,
+                    "w": 63,
+                    "x": 601,
+                    "y": 287
+                  }
+                ]
+              }
+            },
+            "id": 1220402349522477056,
+            "id_str": "1220402349522477056",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/EO-9eI5W4AAcLMv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EO-9eI5W4AAcLMv.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9OyISzHr85"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "epa.gov/newsreleases/e\u2026",
+            "expanded_url": "https://www.epa.gov/newsreleases/epa-and-army-deliver-president-trumps-promise-issue-navigable-waters-protection-rule-0",
+            "indices": [
+              141,
+              164
+            ],
+            "url": "https://t.co/4eUSsNmS6o"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1115337983731933185,
+            "id_str": "1115337983731933185",
+            "indices": [
+              17,
+              31
+            ],
+            "name": "Assistant Secretary of the Army for Civil Works",
+            "screen_name": "ASACivilWorks"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/9OyISzHr85",
+            "expanded_url": "https://twitter.com/EPA/status/1220402356556267520/photo/1",
+            "features": {
+              "large": {
+                "faces": [
+                  {
+                    "h": 178,
+                    "w": 178,
+                    "x": 1698,
+                    "y": 811
+                  }
+                ]
+              },
+              "medium": {
+                "faces": [
+                  {
+                    "h": 111,
+                    "w": 111,
+                    "x": 1061,
+                    "y": 506
+                  }
+                ]
+              },
+              "orig": {
+                "faces": [
+                  {
+                    "h": 178,
+                    "w": 178,
+                    "x": 1698,
+                    "y": 811
+                  }
+                ]
+              },
+              "small": {
+                "faces": [
+                  {
+                    "h": 63,
+                    "w": 63,
+                    "x": 601,
+                    "y": 287
+                  }
+                ]
+              }
+            },
+            "id": 1220402349522477056,
+            "id_str": "1220402349522477056",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/EO-9eI5W4AAcLMv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EO-9eI5W4AAcLMv.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/9OyISzHr85"
+          }
+        ]
+      },
+      "favorite_count": 324,
+      "favorited": false,
+      "full_text": "Today, EPA &amp; @ASACivilWorks released the Navigable Waters Protection Rule (#NWPR) that provides a final, new definition of #WOTUS. More: https://t.co/4eUSsNmS6o https://t.co/9OyISzHr85",
+      "geo": null,
+      "id": 1220402356556267520,
+      "id_str": "1220402356556267520",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 168,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Thu May 01 16:07:59 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Our mission is to protect human health and the environment.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "epa.gov",
+                "expanded_url": "http://www.epa.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/AvknKmkLit"
+              }
+            ]
+          }
+        },
+        "favourites_count": 102,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 608859,
+        "following": false,
+        "friends_count": 682,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14615871,
+        "id_str": "14615871",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8488,
+        "location": "USA",
+        "name": "U.S. EPA",
+        "notifications": false,
+        "profile_background_color": "768900",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14615871/1577887808",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/632228259879628800/-gvVhzPn_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/632228259879628800/-gvVhzPn_normal.png",
+        "profile_link_color": "426BBA",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "99CC33",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EPA",
+        "statuses_count": 15851,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/AvknKmkLit",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1220402356556267520,
+    "quoted_status_id_str": "1220402356556267520",
+    "quoted_status_permalink": {
+      "display": "twitter.com/EPA/status/122\u2026",
+      "expanded": "https://twitter.com/EPA/status/1220402356556267520",
+      "url": "https://t.co/uSSEWdShKD"
+    },
+    "retweet_count": 4152,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 17 17:53:43 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter page for U.S. Senator Richard Shelby (R-Ala.) https://t.co/YqOy54UpSf",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/RichardShelby",
+              "expanded_url": "https://www.facebook.com/RichardShelby",
+              "indices": [
+                67,
+                90
+              ],
+              "url": "https://t.co/YqOy54UpSf"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "shelby.senate.gov",
+              "expanded_url": "http://www.shelby.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1iULT8X6Vz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 349,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 87065,
+      "following": false,
+      "friends_count": 509,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21111098,
+      "id_str": "21111098",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2171,
+      "location": "Tuscaloosa, Alabama",
+      "name": "Richard Shelby",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21111098/1436912050",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/621070518834212864/ikIQKvUq_normal.jpg",
+      "profile_link_color": "A60000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenShelby",
+      "statuses_count": 2463,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1iULT8X6Vz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71798127,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48436,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

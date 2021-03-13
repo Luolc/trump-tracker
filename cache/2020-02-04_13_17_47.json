@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 13:17:47 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          110,
+          123
+        ],
+        "text": "IowaCaucuses"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 380285402,
+        "id_str": "380285402",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Daily Mail US",
+        "screen_name": "DailyMail"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DailyMail: Supporters wait to find out what is happening as the Democratic results are plunged into chaos #IowaCaucuses https://t.co/oC\u2026",
+  "geo": null,
+  "id": 1224683472016543744,
+  "id_str": "1224683472016543744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3520,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 05:03:07 +0000 2020",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            95,
+            108
+          ],
+          "text": "IowaCaucuses"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7Il2Qa72rP",
+          "expanded_url": "https://twitter.com/DailyMail/status/1224558984901931009/photo/1",
+          "id": 1224558981185708032,
+          "id_str": "1224558981185708032",
+          "indices": [
+            133,
+            156
+          ],
+          "media_url": "http://pbs.twimg.com/media/EP6B58gWoAAtGNx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EP6B58gWoAAtGNx.jpg",
+          "sizes": {
+            "large": {
+              "h": 648,
+              "resize": "fit",
+              "w": 962
+            },
+            "medium": {
+              "h": 648,
+              "resize": "fit",
+              "w": 962
+            },
+            "small": {
+              "h": 458,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7Il2Qa72rP"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "trib.al/eYNvXSt",
+          "expanded_url": "https://trib.al/eYNvXSt",
+          "indices": [
+            109,
+            132
+          ],
+          "url": "https://t.co/oCKpZ0SuHJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7Il2Qa72rP",
+          "expanded_url": "https://twitter.com/DailyMail/status/1224558984901931009/photo/1",
+          "id": 1224558981185708032,
+          "id_str": "1224558981185708032",
+          "indices": [
+            133,
+            156
+          ],
+          "media_url": "http://pbs.twimg.com/media/EP6B58gWoAAtGNx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EP6B58gWoAAtGNx.jpg",
+          "sizes": {
+            "large": {
+              "h": 648,
+              "resize": "fit",
+              "w": 962
+            },
+            "medium": {
+              "h": 648,
+              "resize": "fit",
+              "w": 962
+            },
+            "small": {
+              "h": 458,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7Il2Qa72rP"
+        },
+        {
+          "display_url": "pic.twitter.com/7Il2Qa72rP",
+          "expanded_url": "https://twitter.com/DailyMail/status/1224558984901931009/photo/1",
+          "id": 1224558983324803073,
+          "id_str": "1224558983324803073",
+          "indices": [
+            133,
+            156
+          ],
+          "media_url": "http://pbs.twimg.com/media/EP6B6EeWoAERDyb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EP6B6EeWoAERDyb.jpg",
+          "sizes": {
+            "large": {
+              "h": 664,
+              "resize": "fit",
+              "w": 962
+            },
+            "medium": {
+              "h": 664,
+              "resize": "fit",
+              "w": 962
+            },
+            "small": {
+              "h": 469,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7Il2Qa72rP"
+        }
+      ]
+    },
+    "favorite_count": 12836,
+    "favorited": false,
+    "full_text": "Supporters wait to find out what is happening as the Democratic results are plunged into chaos #IowaCaucuses https://t.co/oCKpZ0SuHJ https://t.co/7Il2Qa72rP",
+    "geo": null,
+    "id": 1224558984901931009,
+    "id_str": "1224558984901931009",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3520,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 26 11:52:56 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Latest news from the US Daily Mail team. We're on Facebook too: https://t.co/hD0PyZHS4Z \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "fb.me/DailyMail",
+              "expanded_url": "http://fb.me/DailyMail",
+              "indices": [
+                64,
+                87
+              ],
+              "url": "https://t.co/hD0PyZHS4Z"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dailymail.com",
+              "expanded_url": "http://www.dailymail.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/fT7KB2wyqg"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1543,
+      "follow_request_sent": false,
+      "followers_count": 232282,
+      "following": false,
+      "friends_count": 1838,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 380285402,
+      "id_str": "380285402",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3140,
+      "location": "New York",
+      "name": "Daily Mail US",
+      "notifications": false,
+      "profile_background_color": "F2F2F2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/380285402/1488911378",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1009393240330723328/w1FD-Dsj_normal.jpg",
+      "profile_link_color": "004EB3",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DailyMail",
+      "statuses_count": 173804,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/fT7KB2wyqg",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

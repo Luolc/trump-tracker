@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 08 12:29:05 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: Bizarro World.  Obama DOJ abusing FISA process, creating fraudulent documents to target Trump\u2014Not Scary. Barr saying DON\u2019T abu\u2026",
+  "geo": null,
+  "id": 1226120765814267904,
+  "id_str": "1226120765814267904",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1225575893424312324,
+  "quoted_status_id_str": "1225575893424312324",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brhodes/status\u2026",
+    "expanded": "https://twitter.com/brhodes/status/1225575893424312324",
+    "url": "https://t.co/wotNOI2Auj"
+  },
+  "retweet_count": 11637,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 20:30:44 +0000 2020",
+    "display_text_range": [
+      0,
+      172
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/brhodes/status\u2026",
+          "expanded_url": "https://twitter.com/brhodes/status/1225575893424312324",
+          "indices": [
+            173,
+            196
+          ],
+          "url": "https://t.co/wotNOI2Auj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 37851,
+    "favorited": false,
+    "full_text": "Bizarro World.  Obama DOJ abusing FISA process, creating fraudulent documents to target Trump\u2014Not Scary. Barr saying DON\u2019T abuse power, target political opponents\u2014\u201cScary\u201d?? https://t.co/wotNOI2Auj",
+    "geo": null,
+    "id": 1225879588720578565,
+    "id_str": "1225879588720578565",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Feb 07 00:23:57 +0000 2020",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/nbcnews/status\u2026",
+            "expanded_url": "https://twitter.com/nbcnews/status/1225538457990258690",
+            "indices": [
+              123,
+              146
+            ],
+            "url": "https://t.co/fQC1i7Hhos"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 18254,
+      "favorited": false,
+      "full_text": "Barr is legit scary. Now consider 4 more years of DOJ as an extension of Trump-Barr worldview of an all-powerful executive https://t.co/fQC1i7Hhos",
+      "geo": null,
+      "id": 1225575893424312324,
+      "id_str": "1225575893424312324",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1225538457990258690,
+      "quoted_status_id_str": "1225538457990258690",
+      "quoted_status_permalink": {
+        "display": "twitter.com/nbcnews/status\u2026",
+        "expanded": "https://twitter.com/nbcnews/status/1225538457990258690",
+        "url": "https://t.co/fQC1i7Hhos"
+      },
+      "retweet_count": 6291,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Jan 14 19:38:18 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Pod Save The World, MSNBC, National Security Action, Author - The World As It Is: A Memoir of the Obama White House",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinrandomhouse.com/books/564509/t\u2026",
+                "expanded_url": "https://www.penguinrandomhouse.com/books/564509/the-world-as-it-is-by-ben-rhodes/9780525509356/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/xEoSUyNTFK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3716,
+        "follow_request_sent": false,
+        "followers_count": 388493,
+        "following": false,
+        "friends_count": 1153,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 820354372827758592,
+        "id_str": "820354372827758592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3794,
+        "location": "Washington, DC",
+        "name": "Ben Rhodes",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/820354372827758592/1527630674",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/820355797641113600/6oCTdLPl_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brhodes",
+        "statuses_count": 5912,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/xEoSUyNTFK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1225575893424312324,
+    "quoted_status_id_str": "1225575893424312324",
+    "quoted_status_permalink": {
+      "display": "twitter.com/brhodes/status\u2026",
+      "expanded": "https://twitter.com/brhodes/status/1225575893424312324",
+      "url": "https://t.co/wotNOI2Auj"
+    },
+    "retweet_count": 11637,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tedcruz.org",
+              "expanded_url": "http://www.tedcruz.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dJ4Q3979gw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1421,
+      "follow_request_sent": false,
+      "followers_count": 3578313,
+      "following": false,
+      "friends_count": 6319,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12454,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 25745,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dJ4Q3979gw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72334195,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48847,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

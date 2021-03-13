@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 24 21:42:29 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          99,
+          106
+        ],
+        "text": "USNavy"
+      },
+      {
+        "indices": [
+          123,
+          135
+        ],
+        "text": "USNSComfort"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 54885400,
+        "id_str": "54885400",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "U.S. Navy",
+        "screen_name": "USNavy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USNavy: USNS Mercy is underway.\n\nCheck out this infographic to learn about the capabilities of #USNavy Hospital Ships, #USNSComfort and\u2026",
+  "geo": null,
+  "id": 1242567486874230790,
+  "id_str": "1242567486874230790",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6656,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 23 23:11:14 +0000 2020",
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            87,
+            94
+          ],
+          "text": "USNavy"
+        },
+        {
+          "indices": [
+            111,
+            123
+          ],
+          "text": "USNSComfort"
+        },
+        {
+          "indices": [
+            128,
+            138
+          ],
+          "text": "USNSMercy"
+        },
+        {
+          "indices": [
+            194,
+            206
+          ],
+          "text": "CoronaVirus"
+        },
+        {
+          "indices": [
+            207,
+            215
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6FlUEZVMey",
+          "expanded_url": "https://twitter.com/USNavy/status/1242227435892023298/photo/1",
+          "id": 1242226665146777601,
+          "id_str": "1242226665146777601",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/ET1GkgKXgAEH_tp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ET1GkgKXgAEH_tp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 565
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 565
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 375
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6FlUEZVMey"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "navy.mil/submit/display\u2026",
+          "expanded_url": "https://www.navy.mil/submit/display.asp?story_id=112443",
+          "indices": [
+            229,
+            252
+          ],
+          "url": "https://t.co/3aKk8IxIJH"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6FlUEZVMey",
+          "expanded_url": "https://twitter.com/USNavy/status/1242227435892023298/photo/1",
+          "id": 1242226665146777601,
+          "id_str": "1242226665146777601",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/ET1GkgKXgAEH_tp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ET1GkgKXgAEH_tp.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 565
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 565
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 375
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6FlUEZVMey"
+        }
+      ]
+    },
+    "favorite_count": 19395,
+    "favorited": false,
+    "full_text": "USNS Mercy is underway.\n\nCheck out this infographic to learn about the capabilities of #USNavy Hospital Ships, #USNSComfort and #USNSMercy being deployed to assist in COVID-19 response efforts. #CoronaVirus #COVID19 \n\nRead more: https://t.co/3aKk8IxIJH https://t.co/6FlUEZVMey",
+    "geo": null,
+    "id": 1242227435892023298,
+    "id_str": "1242227435892023298",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6656,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navy.mil",
+              "expanded_url": "http://www.navy.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/L3wbdU7iJq"
+            }
+          ]
+        }
+      },
+      "favourites_count": 761,
+      "follow_request_sent": false,
+      "followers_count": 1288797,
+      "following": false,
+      "friends_count": 1209,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 54885400,
+      "id_str": "54885400",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7606,
+      "location": "The 7 seas!",
+      "name": "U.S. Navy",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1585047671",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1211685747851431937/vsQ3433k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211685747851431937/vsQ3433k_normal.jpg",
+      "profile_link_color": "2C4D59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USNavy",
+      "statuses_count": 28692,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/L3wbdU7iJq",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 75103716,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117704,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50178,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

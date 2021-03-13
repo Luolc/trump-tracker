@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 06 04:35:21 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1072342620024815622,
+        "id_str": "1072342620024815622",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "LATAM for TRUMP\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "LATAMforTRUMP"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          61,
+          77
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LATAMforTRUMP: LATAM FOR TRUMP pays tribute to President @realDonaldTrump , the best story in the US. On November 3, history is ours an\u2026",
+  "geo": null,
+  "id": 1302465386412216320,
+  "id_str": "1302465386412216320",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7388,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Aug 17 20:18:54 +0000 2020",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cRAsvJGs4p",
+          "expanded_url": "https://twitter.com/LATAMforTRUMP/status/1295455081375072257/video/1",
+          "id": 1295454977255772167,
+          "id_str": "1295454977255772167",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1295454977255772167/pu/img/_kCJrbkt6tuSCI35.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1295454977255772167/pu/img/_kCJrbkt6tuSCI35.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cRAsvJGs4p"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            42,
+            58
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 129235890,
+          "id_str": "129235890",
+          "indices": [
+            167,
+            177
+          ],
+          "name": "LORI HENDRY",
+          "screen_name": "Lrihendry"
+        },
+        {
+          "id": 78523300,
+          "id_str": "78523300",
+          "indices": [
+            178,
+            193
+          ],
+          "name": "James Woods",
+          "screen_name": "RealJamesWoods"
+        },
+        {
+          "id": 25101996,
+          "id_str": "25101996",
+          "indices": [
+            194,
+            207
+          ],
+          "name": "Kimberly Guilfoyle",
+          "screen_name": "kimguilfoyle"
+        },
+        {
+          "id": 52544275,
+          "id_str": "52544275",
+          "indices": [
+            208,
+            220
+          ],
+          "name": "Ivanka Trump",
+          "screen_name": "IvankaTrump"
+        },
+        {
+          "id": 18822612,
+          "id_str": "18822612",
+          "indices": [
+            222,
+            232
+          ],
+          "name": "Amy Kremer",
+          "screen_name": "AmyKremer"
+        },
+        {
+          "id": 20118767,
+          "id_str": "20118767",
+          "indices": [
+            233,
+            244
+          ],
+          "name": "Dr. Gina - America\u2019s Voice News",
+          "screen_name": "RealDrGina"
+        },
+        {
+          "id": 729676086632656900,
+          "id_str": "729676086632656900",
+          "indices": [
+            245,
+            255
+          ],
+          "name": "Team Trump (Text VOTE to 88022)",
+          "screen_name": "TeamTrump"
+        },
+        {
+          "id": 1108472017144201216,
+          "id_str": "1108472017144201216",
+          "indices": [
+            256,
+            269
+          ],
+          "name": "Trump War Room - Text TRUMP to 88022",
+          "screen_name": "TrumpWarRoom"
+        },
+        {
+          "id": 2417586104,
+          "id_str": "2417586104",
+          "indices": [
+            270,
+            279
+          ],
+          "name": "Sebastian Gorka DrG",
+          "screen_name": "SebGorka"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/cRAsvJGs4p",
+          "expanded_url": "https://twitter.com/LATAMforTRUMP/status/1295455081375072257/video/1",
+          "id": 1295454977255772167,
+          "id_str": "1295454977255772167",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1295454977255772167/pu/img/_kCJrbkt6tuSCI35.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1295454977255772167/pu/img/_kCJrbkt6tuSCI35.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/cRAsvJGs4p",
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              11
+            ],
+            "duration_millis": 102033,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1295454977255772167/pu/pl/tROIp3lt7Vv1c00U.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1295454977255772167/pu/vid/640x352/sMfbhbbD0bBvdpfH.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1295454977255772167/pu/vid/490x270/wJI0itMuh4GppaX5.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16007,
+    "favorited": false,
+    "full_text": "LATAM FOR TRUMP pays tribute to President @realDonaldTrump , the best story in the US. On November 3, history is ours and is written by those who know.  VOTE TRUMP !! @Lrihendry @RealJamesWoods @kimguilfoyle @IvankaTrump  @AmyKremer @RealDrGina @TeamTrump @TrumpWarRoom @SebGorka https://t.co/cRAsvJGs4p",
+    "geo": null,
+    "id": 1295455081375072257,
+    "id_str": "1295455081375072257",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7388,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 11 04:09:38 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "We are @LATAMforTRUMP a social network dedicated to the defense of the US in the hemisphere, we defend the successful management of President @realDonaldTrump",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "latamfortrump.com",
+              "expanded_url": "https://latamfortrump.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QebXydDSdY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 58290,
+      "follow_request_sent": false,
+      "followers_count": 45825,
+      "following": false,
+      "friends_count": 39748,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1072342620024815622,
+      "id_str": "1072342620024815622",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 39,
+      "location": "Estados Unidos",
+      "name": "LATAM for TRUMP\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072342620024815622/1598493133",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1292552833909260288/D69qf5JG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292552833909260288/D69qf5JG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LATAMforTRUMP",
+      "statuses_count": 42016,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QebXydDSdY",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85785674,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119124,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55445,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 22 04:17:45 +0000 2020",
+  "display_text_range": [
+    0,
+    31
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/teamtrump/stat\u2026",
+        "expanded_url": "https://twitter.com/teamtrump/status/1230978704114884610",
+        "indices": [
+          32,
+          55
+        ],
+        "url": "https://t.co/3i6tgfqrRl"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 36274,
+  "favorited": false,
+  "full_text": "Incredible people, great Rally! https://t.co/3i6tgfqrRl",
+  "geo": null,
+  "id": 1231070547607511040,
+  "id_str": "1231070547607511040",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 21 22:12:48 +0000 2020",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            64,
+            75
+          ],
+          "text": "TrumpRally"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Y2odyPE4Hf",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1230978704114884610/video/1",
+          "id": 1230978171966763009,
+          "id_str": "1230978171966763009",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERVQP9nWsAIvP0t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERVQP9nWsAIvP0t.jpg",
+          "sizes": {
+            "large": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "medium": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "small": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Y2odyPE4Hf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Y2odyPE4Hf",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1230978704114884610/video/1",
+          "id": 1230978171966763009,
+          "id_str": "1230978171966763009",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERVQP9nWsAIvP0t.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERVQP9nWsAIvP0t.jpg",
+          "sizes": {
+            "large": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "medium": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "small": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Y2odyPE4Hf",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 20562,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1230978171966763009/vid/320x568/81PZlV4eqwTZ6VED.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1230978171966763009/pl/Zqy2ZaOtk8fJmIB6.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1230978171966763009/vid/360x640/Y1NNyDSdJUEgdaS3.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1230978171966763009/vid/720x1280/GA5Pk1pDvbKmCVNq.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13362,
+    "favorited": false,
+    "full_text": "THOUSANDS outside of the Las Vegas Convention Center during the #TrumpRally! https://t.co/Y2odyPE4Hf",
+    "geo": null,
+    "id": 1230978704114884610,
+    "id_str": "1230978704114884610",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4243,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2933,
+      "follow_request_sent": false,
+      "followers_count": 1479887,
+      "following": false,
+      "friends_count": 103,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3496,
+      "location": "USA",
+      "name": "Team Trump (Text TRUMP to 88022)",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1582139205",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "CB0606",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 18918,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1230978704114884610,
+  "quoted_status_id_str": "1230978704114884610",
+  "quoted_status_permalink": {
+    "display": "twitter.com/teamtrump/stat\u2026",
+    "expanded": "https://twitter.com/teamtrump/status/1230978704114884610",
+    "url": "https://t.co/3i6tgfqrRl"
+  },
+  "retweet_count": 8883,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72798320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114977,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49221,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

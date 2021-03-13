@@ -1,0 +1,381 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:41:19 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17685258,
+        "id_str": "17685258",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brad Parscale",
+        "screen_name": "parscale"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @parscale: Joe Biden raised his hand in support of giving illegal immigrants free health care &amp; making hardworking Americans pay for it.\u2026",
+  "geo": null,
+  "id": 1284347495787761666,
+  "id_str": "1284347495787761666",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8464,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 15 13:26:59 +0000 2020",
+    "display_text_range": [
+      0,
+      266
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            228,
+            241
+          ],
+          "text": "AmericaFirst"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xW9A7zJ9tv",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1276945279439298562/video/1",
+          "id": 1276944225905586184,
+          "id_str": "1276944225905586184",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbieMq8XsAAMxMg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbieMq8XsAAMxMg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1276945279439298562,
+          "source_status_id_str": "1276945279439298562",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "photo",
+          "url": "https://t.co/xW9A7zJ9tv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.donaldjtrump.com/"
+              }
+            },
+            "description": "Every Democrat on the debate stage raised their hands in support of giving free health care to anyone who is able to get into our country illegally. ",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "donaldjtrump.com",
+                      "expanded_url": "https://www.donaldjtrump.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mVHOxzYUNT"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 18,
+              "follow_request_sent": false,
+              "followers_count": 711646,
+              "following": false,
+              "friends_count": 259,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1108472017144201216,
+              "id_str": "1108472017144201216",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2096,
+              "location": "MAGA Country",
+              "name": "Trump War Room - Text TRUMP to 88022",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_link_color": "ABB8C2",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TrumpWarRoom",
+              "statuses_count": 15666,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mVHOxzYUNT",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Joe Biden supports giving free health care to illegal immigrants"
+          },
+          "display_url": "pic.twitter.com/xW9A7zJ9tv",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1276945279439298562/video/1",
+          "id": 1276944225905586184,
+          "id_str": "1276944225905586184",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbieMq8XsAAMxMg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbieMq8XsAAMxMg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1276945279439298562,
+          "source_status_id_str": "1276945279439298562",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "video",
+          "url": "https://t.co/xW9A7zJ9tv",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 13114,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1276944225905586184/pl/rWRa2ERovdvL3CrB.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1276944225905586184/vid/640x360/4IPb9JrNatox6fNj.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1276944225905586184/vid/1280x720/hVpCFTmu-CX5rUcW.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1276944225905586184/vid/480x270/lkj5cYcsGkPrIkQy.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20399,
+    "favorited": false,
+    "full_text": "Joe Biden raised his hand in support of giving illegal immigrants free health care &amp; making hardworking Americans pay for it.\n\nBiden will put illegal immigrants before hardworking Americans.\n\nPresident Trump will ALWAYS put #AmericaFirst.\nhttps://t.co/xW9A7zJ9tv",
+    "geo": null,
+    "id": 1283392618592903168,
+    "id_str": "1283392618592903168",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8464,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 27 18:47:32 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "#MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 947,
+      "follow_request_sent": false,
+      "followers_count": 736990,
+      "following": false,
+      "friends_count": 473,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17685258,
+      "id_str": "17685258",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3110,
+      "location": "Florida",
+      "name": "Brad Parscale",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1582219751",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_link_color": "AB2316",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "parscale",
+      "statuses_count": 5450,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

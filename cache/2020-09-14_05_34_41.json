@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 05:34:41 +0000 2020",
+  "display_text_range": [
+    0,
+    74
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17800215,
+        "id_str": "17800215",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Chaffetz",
+        "screen_name": "jasoninthehouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jasoninthehouse: Huge story, if true. Worthy of serious investigation.",
+  "geo": null,
+  "id": 1305379421583372288,
+  "id_str": "1305379421583372288",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1304457254998102021,
+  "quoted_status_id_str": "1304457254998102021",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nyhammond/stat\u2026",
+    "expanded": "https://twitter.com/nyhammond/status/1304457254998102021",
+    "url": "https://t.co/bOlqPCBtGx"
+  },
+  "retweet_count": 4206,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 12 15:53:27 +0000 2020",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nyhammond/stat\u2026",
+          "expanded_url": "https://twitter.com/nyhammond/status/1304457254998102021",
+          "indices": [
+            54,
+            77
+          ],
+          "url": "https://t.co/bOlqPCBtGx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10017,
+    "favorited": false,
+    "full_text": "Huge story, if true. Worthy of serious investigation. https://t.co/bOlqPCBtGx",
+    "geo": null,
+    "id": 1304810362928205824,
+    "id_str": "1304810362928205824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Sep 11 16:30:19 +0000 2020",
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Qqn4FHNT9J",
+            "expanded_url": "https://twitter.com/NYHammond/status/1304457254998102021/photo/1",
+            "id": 1304456647721484290,
+            "id_str": "1304456647721484290",
+            "indices": [
+              207,
+              230
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhpcaOhWAAIGLGi.png",
+            "media_url_https": "https://pbs.twimg.com/media/EhpcaOhWAAIGLGi.png",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 1460
+              },
+              "medium": {
+                "h": 329,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 186,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Qqn4FHNT9J"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 3108351,
+            "id_str": "3108351",
+            "indices": [
+              201,
+              205
+            ],
+            "name": "The Wall Street Journal",
+            "screen_name": "WSJ"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Qqn4FHNT9J",
+            "expanded_url": "https://twitter.com/NYHammond/status/1304457254998102021/photo/1",
+            "id": 1304456647721484290,
+            "id_str": "1304456647721484290",
+            "indices": [
+              207,
+              230
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhpcaOhWAAIGLGi.png",
+            "media_url_https": "https://pbs.twimg.com/media/EhpcaOhWAAIGLGi.png",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 1460
+              },
+              "medium": {
+                "h": 329,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 186,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Qqn4FHNT9J"
+          }
+        ]
+      },
+      "favorite_count": 1689,
+      "favorited": false,
+      "full_text": "The Cuomo administration's much-debated March 25 advisory, compelling nursing homes to accept COVID-positive patients, was pushed by Kenneth Raske of the Greater New York Hospital Association, reports @wsj. https://t.co/Qqn4FHNT9J",
+      "geo": null,
+      "id": 1304457254998102021,
+      "id_str": "1304457254998102021",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1215,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 26 18:06:33 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior Fellow for Health Policy, The @EmpireCenter. Recovering journalist. Mansplainer. Kid from Baltimore. Solely responsible for what I tweet.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "empirecenter.org",
+                "expanded_url": "http://empirecenter.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/tKDDmxzpsh"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4758,
+        "follow_request_sent": false,
+        "followers_count": 11663,
+        "following": false,
+        "friends_count": 1290,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 288352064,
+        "id_str": "288352064",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 352,
+        "location": "Albany, NY",
+        "name": "Bill Hammond",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/288352064/1556033557",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1120715455273021440/5pmpEzSW_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120715455273021440/5pmpEzSW_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NYHammond",
+        "statuses_count": 56787,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tKDDmxzpsh",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1304457254998102021,
+    "quoted_status_id_str": "1304457254998102021",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nyhammond/stat\u2026",
+      "expanded": "https://twitter.com/nyhammond/status/1304457254998102021",
+      "url": "https://t.co/bOlqPCBtGx"
+    },
+    "retweet_count": 4206,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 02 04:59:53 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Fox News Contributor. Author of Power Grab & The Deep State. Fmr. Chairman, Oversight & Gov't Reform U.S. House of Reps. Husband, Father, Grandfather, Brother.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JasonInTheHouse.com",
+              "expanded_url": "http://www.JasonInTheHouse.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4MqK5mQm5w"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3136,
+      "follow_request_sent": false,
+      "followers_count": 577096,
+      "following": false,
+      "friends_count": 1506,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17800215,
+      "id_str": "17800215",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3766,
+      "location": "Utah, USA",
+      "name": "Jason Chaffetz",
+      "notifications": false,
+      "profile_background_color": "2513AD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17800215/1586922996",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_link_color": "0D0DA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jasoninthehouse",
+      "statuses_count": 12757,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4MqK5mQm5w",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85958230,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119579,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1599936297",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55912,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

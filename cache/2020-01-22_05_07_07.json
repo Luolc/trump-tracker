@@ -1,0 +1,447 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 05:07:07 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MZHemingway: Republican Senators taking advantage of Pelosi/media impeachment with a highly produced video touting their Constitutional\u2026",
+  "geo": null,
+  "id": 1219848949466615808,
+  "id_str": "1219848949466615808",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1219661000556847107,
+  "quoted_status_id_str": "1219661000556847107",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NRSC/status/12\u2026",
+    "expanded": "https://twitter.com/NRSC/status/1219661000556847107",
+    "url": "https://t.co/U6nDgh6N66"
+  },
+  "retweet_count": 3464,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 22 01:31:18 +0000 2020",
+    "display_text_range": [
+      0,
+      180
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NRSC/status/12\u2026",
+          "expanded_url": "https://twitter.com/NRSC/status/1219661000556847107",
+          "indices": [
+            181,
+            204
+          ],
+          "url": "https://t.co/U6nDgh6N66"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 8759,
+    "favorited": false,
+    "full_text": "Republican Senators taking advantage of Pelosi/media impeachment with a highly produced video touting their Constitutional role in keeping fevered groups from getting carried away. https://t.co/U6nDgh6N66",
+    "geo": null,
+    "id": 1219794634286813184,
+    "id_str": "1219794634286813184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jan 21 16:40:17 +0000 2020",
+      "display_text_range": [
+        0,
+        77
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              65,
+              77
+            ],
+            "text": "HoldTheLine"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/k1Bif5M2JR",
+            "expanded_url": "https://twitter.com/NRSC/status/1219661000556847107/video/1",
+            "features": {},
+            "id": 1219659442637156357,
+            "id_str": "1219659442637156357",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1219659442637156357/img/VFLcMrwm6StjxZ6A.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219659442637156357/img/VFLcMrwm6StjxZ6A.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1728
+              },
+              "medium": {
+                "h": 500,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 283,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/k1Bif5M2JR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/k1Bif5M2JR",
+            "expanded_url": "https://twitter.com/NRSC/status/1219661000556847107/video/1",
+            "features": {},
+            "id": 1219659442637156357,
+            "id_str": "1219659442637156357",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1219659442637156357/img/VFLcMrwm6StjxZ6A.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1219659442637156357/img/VFLcMrwm6StjxZ6A.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1728
+              },
+              "medium": {
+                "h": 500,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 283,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/k1Bif5M2JR",
+            "video_info": {
+              "aspect_ratio": [
+                12,
+                5
+              ],
+              "duration_millis": 137054,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1219659442637156357/vid/648x270/Wb5zZmqOhVE3jzpy.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1219659442637156357/pl/7Ik8uWERPK3cyyiM.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1219659442637156357/vid/1728x720/myVRtrUb9HEz2EPd.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1219659442637156357/vid/864x360/zfO4Xv32JWZolr3Y.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 14969,
+      "favorited": false,
+      "full_text": "New Impeachment Video \ud83d\udea8: The Senate Exists for Moments Like This #HoldTheLine https://t.co/k1Bif5M2JR",
+      "geo": null,
+      "id": 1219661000556847107,
+      "id_str": "1219661000556847107",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 7368,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Tue May 01 20:26:36 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NRSC.org",
+                "expanded_url": "http://www.NRSC.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/mpfapNoOKr"
+              }
+            ]
+          }
+        },
+        "favourites_count": 56,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 104604,
+        "following": false,
+        "friends_count": 3025,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 5693842,
+        "id_str": "5693842",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2143,
+        "location": "Washington, D.C.",
+        "name": "The Senate Majority",
+        "notifications": false,
+        "profile_background_color": "544F4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1547667062",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+        "profile_link_color": "D40404",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DBDAC7",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NRSC",
+        "statuses_count": 29359,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/mpfapNoOKr",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1219661000556847107,
+    "quoted_status_id_str": "1219661000556847107",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NRSC/status/12\u2026",
+      "expanded": "https://twitter.com/NRSC/status/1219661000556847107",
+      "url": "https://t.co/U6nDgh6N66"
+    },
+    "retweet_count": 3464,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 09 22:44:12 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senior Editor, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/gp/product/162\u2026",
+              "expanded_url": "https://www.amazon.com/gp/product/1621579832/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeAS",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JDWGFiqY5h"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15261,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 411882,
+      "following": false,
+      "friends_count": 1372,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18005085,
+      "id_str": "18005085",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3562,
+      "location": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+      "name": "Mollie",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18005085/1563563189",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MZHemingway",
+      "statuses_count": 95130,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JDWGFiqY5h",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71382468,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48045,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

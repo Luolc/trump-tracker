@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 00:57:39 +0000 2020",
+  "display_text_range": [
+    0,
+    31
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 232901331,
+        "id_str": "232901331",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Dan Bongino",
+        "screen_name": "dbongino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dbongino: \u201cMostly peaceful\u201d",
+  "geo": null,
+  "id": 1287552699991375872,
+  "id_str": "1287552699991375872",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1287300892258000898,
+  "quoted_status_id_str": "1287300892258000898",
+  "quoted_status_permalink": {
+    "display": "twitter.com/livesmattersho\u2026",
+    "expanded": "https://twitter.com/livesmattershow/status/1287300892258000898",
+    "url": "https://t.co/wRdQumUR6j"
+  },
+  "retweet_count": 6996,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 26 18:39:52 +0000 2020",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/livesmattersho\u2026",
+          "expanded_url": "https://twitter.com/livesmattershow/status/1287300892258000898",
+          "indices": [
+            18,
+            41
+          ],
+          "url": "https://t.co/wRdQumUR6j"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16829,
+    "favorited": false,
+    "full_text": "\u201cMostly peaceful\u201d https://t.co/wRdQumUR6j",
+    "geo": null,
+    "id": 1287457625450348544,
+    "id_str": "1287457625450348544",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jul 26 08:17:04 +0000 2020",
+      "display_text_range": [
+        0,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Jxjv5WulvF",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1287300892258000898/video/1",
+            "id": 1287300755326513153,
+            "id_str": "1287300755326513153",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Jxjv5WulvF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/Jxjv5WulvF",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1287300892258000898/video/1",
+            "id": 1287300755326513153,
+            "id_str": "1287300755326513153",
+            "indices": [
+              54,
+              77
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/Jxjv5WulvF",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 37535,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/480x270/3LK-SSYTXWpihJq5.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/640x360/j2I_jyUXiPOI8puL.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/1280x720/UsLnrFE861VR6sPn.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/pl/GmvtgfFqF_Drk6UX.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2073,
+      "favorited": false,
+      "full_text": "BREAKING: rioters have taken fence down at courthouse https://t.co/Jxjv5WulvF",
+      "geo": null,
+      "id": 1287300892258000898,
+      "id_str": "1287300892258000898",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1111,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jul 27 04:02:27 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Host, Reporter, Producer of the hit web show \u201cLives Matter\u201c \u2022 Subscribe now\ud83d\udc47\ud83c\udffb",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/livesmatter",
+                "expanded_url": "http://youtube.com/livesmatter",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/G62puSzwnd"
+              }
+            ]
+          }
+        },
+        "favourites_count": 19,
+        "follow_request_sent": false,
+        "followers_count": 21827,
+        "following": false,
+        "friends_count": 86,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1022693675250249729,
+        "id_str": "1022693675250249729",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 94,
+        "location": "Los Angeles, CA",
+        "name": "Drew Hernandez",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022693675250249729/1573030185",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "livesmattershow",
+        "statuses_count": 590,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/G62puSzwnd",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1287300892258000898,
+    "quoted_status_id_str": "1287300892258000898",
+    "quoted_status_permalink": {
+      "display": "twitter.com/livesmattersho\u2026",
+      "expanded": "https://twitter.com/livesmattershow/status/1287300892258000898",
+      "url": "https://t.co/wRdQumUR6j"
+    },
+    "retweet_count": 6996,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 01 17:50:03 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Me",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bongino.com",
+              "expanded_url": "http://www.bongino.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eNhMvTGdKP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 61050,
+      "follow_request_sent": false,
+      "followers_count": 2121024,
+      "following": false,
+      "friends_count": 724,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 232901331,
+      "id_str": "232901331",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5518,
+      "location": "Florida, USA",
+      "name": "Dan Bongino",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232901331/1548899037",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "dbongino",
+      "statuses_count": 66818,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eNhMvTGdKP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

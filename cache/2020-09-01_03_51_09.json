@@ -1,0 +1,507 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 01 03:51:09 +0000 2020",
+  "display_text_range": [
+    0,
+    104
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52338305,
+        "id_str": "52338305",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Brandon Straka",
+        "screen_name": "BrandonStraka"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BrandonStraka: OMG. This isn\u2019t a mispronunciation or stumbling over a few words. This is really bad.",
+  "geo": null,
+  "id": 1300642322372333568,
+  "id_str": "1300642322372333568",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1300604790838362112,
+  "quoted_status_id_str": "1300604790838362112",
+  "quoted_status_permalink": {
+    "display": "twitter.com/erictrump/stat\u2026",
+    "expanded": "https://twitter.com/erictrump/status/1300604790838362112",
+    "url": "https://t.co/e8vlnPqFak"
+  },
+  "retweet_count": 12627,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 01 03:07:28 +0000 2020",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/erictrump/stat\u2026",
+          "expanded_url": "https://twitter.com/erictrump/status/1300604790838362112",
+          "indices": [
+            86,
+            109
+          ],
+          "url": "https://t.co/e8vlnPqFak"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 39612,
+    "favorited": false,
+    "full_text": "OMG. This isn\u2019t a mispronunciation or stumbling over a few words. This is really bad. https://t.co/e8vlnPqFak",
+    "geo": null,
+    "id": 1300631329076322307,
+    "id_str": "1300631329076322307",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 01 01:22:00 +0000 2020",
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/HJ2dJI3jpx",
+            "expanded_url": "https://twitter.com/ThomasCatenacci/status/1300494641180139521/video/1",
+            "id": 1300494422740738048,
+            "id_str": "1300494422740738048",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300494422740738048/pu/img/ZW8eNrWeK41Hzpye.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300494422740738048/pu/img/ZW8eNrWeK41Hzpye.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1300494641180139521,
+            "source_status_id_str": "1300494641180139521",
+            "source_user_id": 809090218838126596,
+            "source_user_id_str": "809090218838126596",
+            "type": "photo",
+            "url": "https://t.co/HJ2dJI3jpx"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Dec 14 17:38:35 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Labor, Health Care, Politics @DailyCaller News Foundation | Fmr. @CNBC @NBCNews @NBC10Boston @WCVB @MassGovernor | @Northeastern alum | Ad maiorem Dei gloriam",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "dailycaller.com/author/thomasg\u2026",
+                        "expanded_url": "https://dailycaller.com/author/thomasgcatenacci@gmail.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/cVikr9P3jz"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 373,
+                "follow_request_sent": false,
+                "followers_count": 1547,
+                "following": false,
+                "friends_count": 797,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 809090218838126596,
+                "id_str": "809090218838126596",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 7,
+                "location": "Washington, D.C.",
+                "name": "Thomas Catenacci",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/809090218838126596/1481738094",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1249724370559393795/qePF0IXl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249724370559393795/qePF0IXl_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "ThomasCatenacci",
+                "statuses_count": 470,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/cVikr9P3jz",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/HJ2dJI3jpx",
+            "expanded_url": "https://twitter.com/ThomasCatenacci/status/1300494641180139521/video/1",
+            "id": 1300494422740738048,
+            "id_str": "1300494422740738048",
+            "indices": [
+              172,
+              195
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300494422740738048/pu/img/ZW8eNrWeK41Hzpye.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300494422740738048/pu/img/ZW8eNrWeK41Hzpye.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1300494641180139521,
+            "source_status_id_str": "1300494641180139521",
+            "source_user_id": 809090218838126596,
+            "source_user_id_str": "809090218838126596",
+            "type": "video",
+            "url": "https://t.co/HJ2dJI3jpx",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 19186,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1300494422740738048/pu/pl/LK7zZGPjg9BjFiD3.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300494422740738048/pu/vid/480x270/9gOGovPBQ05cjNBJ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300494422740738048/pu/vid/1280x720/m8Xq6ezsP0Fxnl4L.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300494422740738048/pu/vid/640x360/sYon4HXMC2OBKH3h.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 41600,
+      "favorited": false,
+      "full_text": "This is why the Biden campaign doesn\u2019t want him to leave his basement \u2014 this guy isn\u2019t playing with a full deck and it is so irresponsible that the media covers this up... https://t.co/HJ2dJI3jpx",
+      "geo": null,
+      "id": 1300604790838362112,
+      "id_str": "1300604790838362112",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 13897,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 21:42:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Trump.com",
+                "expanded_url": "http://www.Trump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/uwwNiWPLLr"
+              }
+            ]
+          }
+        },
+        "favourites_count": 12460,
+        "follow_request_sent": false,
+        "followers_count": 4011835,
+        "following": false,
+        "friends_count": 974,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 39349894,
+        "id_str": "39349894",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7536,
+        "location": "",
+        "name": "Eric Trump",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+        "profile_link_color": "116AB8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "616161",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EricTrump",
+        "statuses_count": 6517,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uwwNiWPLLr",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1300604790838362112,
+    "quoted_status_id_str": "1300604790838362112",
+    "quoted_status_permalink": {
+      "display": "twitter.com/erictrump/stat\u2026",
+      "expanded": "https://twitter.com/erictrump/status/1300604790838362112",
+      "url": "https://t.co/e8vlnPqFak"
+    },
+    "retweet_count": 12627,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 07:52:26 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#WalkAway Campaign Founder BOOKING/MEDIA: bstrakabooking@gmail.com Former Liberal. Gay. On a mission to #RedPill humanity https://t.co/rjQBl0ghIC",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "BRANDONSTRAKA.com",
+              "expanded_url": "http://BRANDONSTRAKA.com",
+              "indices": [
+                122,
+                145
+              ],
+              "url": "https://t.co/rjQBl0ghIC"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WalkAwayCampaign.com",
+              "expanded_url": "http://WalkAwayCampaign.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dXT48dwaI9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 32796,
+      "follow_request_sent": false,
+      "followers_count": 510991,
+      "following": false,
+      "friends_count": 442,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 52338305,
+      "id_str": "52338305",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1115,
+      "location": "New York, USA",
+      "name": "Brandon Straka",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52338305/1547102017",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272349899909206016/1gHWCZtW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272349899909206016/1gHWCZtW_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BrandonStraka",
+      "statuses_count": 14016,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dXT48dwaI9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85683473,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118901,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55230,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

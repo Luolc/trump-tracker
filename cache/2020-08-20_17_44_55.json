@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Aug 20 17:44:55 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16456004,
+        "id_str": "16456004",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "NBC15 News",
+        "screen_name": "nbc15_madison"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @nbc15_madison: Goodyear employee says new zero-tolerance policy, barring items like Blue Lives Matter, All Lives Matter, MAGA Attire, i\u2026",
+  "geo": null,
+  "id": 1296503492555702273,
+  "id_str": "1296503492555702273",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10485,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 18 19:35:01 +0000 2020",
+    "display_text_range": [
+      0,
+      162
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TUITFBGvk6",
+          "expanded_url": "https://twitter.com/nbc15_madison/status/1295806425684377601/photo/1",
+          "id": 1295806420710035460,
+          "id_str": "1295806420710035460",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfuhEvwXkAQbJJr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EfuhEvwXkAQbJJr.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TUITFBGvk6"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "nbc15.com/2020/08/18/goo\u2026",
+          "expanded_url": "https://www.nbc15.com/2020/08/18/goodyear-employees-say-new-zero-tolerance-policy-is-discriminatory/",
+          "indices": [
+            139,
+            162
+          ],
+          "url": "https://t.co/9UYeW8BqoL"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TUITFBGvk6",
+          "expanded_url": "https://twitter.com/nbc15_madison/status/1295806425684377601/photo/1",
+          "id": 1295806420710035460,
+          "id_str": "1295806420710035460",
+          "indices": [
+            163,
+            186
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfuhEvwXkAQbJJr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EfuhEvwXkAQbJJr.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TUITFBGvk6"
+        }
+      ]
+    },
+    "favorite_count": 29823,
+    "favorited": false,
+    "full_text": "Goodyear employee says new zero-tolerance policy, barring items like Blue Lives Matter, All Lives Matter, MAGA Attire, is discriminatory.  https://t.co/9UYeW8BqoL https://t.co/TUITFBGvk6",
+    "geo": null,
+    "id": 1295806425684377601,
+    "id_str": "1295806425684377601",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10485,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 25 19:19:06 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official account for WMTV NBC15 in Madison, WI. \ud83c\udfa5\ud83d\udcf1\ud83d\udcbb\ud83d\udcfa   Tipline: 608-274-1500 | Email: news@nbc15.com | Instagram @nbc15_madison | Facebook @NBC15Madison",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nbc15.com",
+              "expanded_url": "http://www.nbc15.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RveLU8ugGT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2603,
+      "follow_request_sent": false,
+      "followers_count": 58354,
+      "following": false,
+      "friends_count": 3534,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16456004,
+      "id_str": "16456004",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1097,
+      "location": "Madison, WI",
+      "name": "NBC15 News",
+      "notifications": false,
+      "profile_background_color": "07268A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16456004/1555351256",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/847565865805533184/MWfES6xF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/847565865805533184/MWfES6xF_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "nbc15_madison",
+      "statuses_count": 112008,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RveLU8ugGT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85439348,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118456,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54801,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

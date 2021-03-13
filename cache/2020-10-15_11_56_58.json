@@ -1,0 +1,464 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 11:56:58 +0000 2020",
+  "display_text_range": [
+    0,
+    59
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19091173,
+        "id_str": "19091173",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Steven Crowder",
+        "screen_name": "scrowder"
+      },
+      {
+        "id": 2425151,
+        "id_str": "2425151",
+        "indices": [
+          31,
+          40
+        ],
+        "name": "Facebook",
+        "screen_name": "Facebook"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @scrowder: At what point is @Facebook election meddling?",
+  "geo": null,
+  "id": 1316709648712560640,
+  "id_str": "1316709648712560640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1316401922618789888,
+  "quoted_status_id_str": "1316401922618789888",
+  "quoted_status_permalink": {
+    "display": "twitter.com/redsteeze/stat\u2026",
+    "expanded": "https://twitter.com/redsteeze/status/1316401922618789888",
+    "url": "https://t.co/xMrunzQlNM"
+  },
+  "retweet_count": 7085,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 15:41:18 +0000 2020",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/redsteeze/stat\u2026",
+          "expanded_url": "https://twitter.com/redsteeze/status/1316401922618789888",
+          "indices": [
+            46,
+            69
+          ],
+          "url": "https://t.co/xMrunzQlNM"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2425151,
+          "id_str": "2425151",
+          "indices": [
+            17,
+            26
+          ],
+          "name": "Facebook",
+          "screen_name": "Facebook"
+        }
+      ]
+    },
+    "favorite_count": 19484,
+    "favorited": false,
+    "full_text": "At what point is @Facebook election meddling? https://t.co/xMrunzQlNM",
+    "geo": null,
+    "id": 1316403717810380801,
+    "id_str": "1316403717810380801",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Oct 14 15:34:10 +0000 2020",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ALUqSgOxaf",
+            "expanded_url": "https://twitter.com/redsteeze/status/1316401922618789888/photo/1",
+            "id": 1316401919246573569,
+            "id_str": "1316401919246573569",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkTMkipVoAEuP57.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkTMkipVoAEuP57.jpg",
+            "sizes": {
+              "large": {
+                "h": 1068,
+                "resize": "fit",
+                "w": 1125
+              },
+              "medium": {
+                "h": 1068,
+                "resize": "fit",
+                "w": 1125
+              },
+              "small": {
+                "h": 646,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ALUqSgOxaf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ALUqSgOxaf",
+            "expanded_url": "https://twitter.com/redsteeze/status/1316401922618789888/photo/1",
+            "id": 1316401919246573569,
+            "id_str": "1316401919246573569",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkTMkipVoAEuP57.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkTMkipVoAEuP57.jpg",
+            "sizes": {
+              "large": {
+                "h": 1068,
+                "resize": "fit",
+                "w": 1125
+              },
+              "medium": {
+                "h": 1068,
+                "resize": "fit",
+                "w": 1125
+              },
+              "small": {
+                "h": 646,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ALUqSgOxaf"
+          },
+          {
+            "display_url": "pic.twitter.com/ALUqSgOxaf",
+            "expanded_url": "https://twitter.com/redsteeze/status/1316401922618789888/photo/1",
+            "id": 1316401919280082945,
+            "id_str": "1316401919280082945",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkTMkixU8AEaue7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkTMkixU8AEaue7.jpg",
+            "sizes": {
+              "large": {
+                "h": 758,
+                "resize": "fit",
+                "w": 1113
+              },
+              "medium": {
+                "h": 758,
+                "resize": "fit",
+                "w": 1113
+              },
+              "small": {
+                "h": 463,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ALUqSgOxaf"
+          }
+        ]
+      },
+      "favorite_count": 4212,
+      "favorited": false,
+      "full_text": "Facebook comms, who is former DCCC announces that they are intentionally hiding the NY Post story on its platform without stating any reasoning. https://t.co/ALUqSgOxaf",
+      "geo": null,
+      "id": 1316401922618789888,
+      "id_str": "1316401922618789888",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2481,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Oct 18 15:46:57 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Creator + host of Vs Media Podcast on Patreon. Contributor @spectatorusa. Commentary archive at @nro @FoxNews @nypost",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/millervsmedia",
+                "expanded_url": "https://www.patreon.com/millervsmedia",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/KQeHXCDOJT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 25,
+        "follow_request_sent": false,
+        "followers_count": 275942,
+        "following": false,
+        "friends_count": 1606,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 393469195,
+        "id_str": "393469195",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2543,
+        "location": "New York City of Brooklyn",
+        "name": "Stephen L. Miller",
+        "notifications": false,
+        "profile_background_color": "CCCCCC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/393469195/1460992872",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+        "profile_link_color": "731010",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "redsteeze",
+        "statuses_count": 78759,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/KQeHXCDOJT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1316401922618789888,
+    "quoted_status_id_str": "1316401922618789888",
+    "quoted_status_permalink": {
+      "display": "twitter.com/redsteeze/stat\u2026",
+      "expanded": "https://twitter.com/redsteeze/status/1316401922618789888",
+      "url": "https://t.co/xMrunzQlNM"
+    },
+    "retweet_count": 7085,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Youtube.com/StevenCrowder",
+              "expanded_url": "http://Youtube.com/StevenCrowder",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/91mcSUahXm"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Youtube.com/StevenCrowder",
+              "expanded_url": "http://Youtube.com/StevenCrowder",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/91mcSUahXm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 994,
+      "follow_request_sent": false,
+      "followers_count": 1206085,
+      "following": false,
+      "friends_count": 2752,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19091173,
+      "id_str": "19091173",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5219,
+      "location": "Ghostlike",
+      "name": "Steven Crowder",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1598387085",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1305553352407871495/_fdGVlFe_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305553352407871495/_fdGVlFe_normal.png",
+      "profile_link_color": "A1A1A1",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "100B2B",
+      "profile_text_color": "878585",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "scrowder",
+      "statuses_count": 58774,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/91mcSUahXm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

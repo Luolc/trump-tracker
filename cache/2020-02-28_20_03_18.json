@@ -1,0 +1,434 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 28 20:03:18 +0000 2020",
+  "display_text_range": [
+    0,
+    32
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/brandonbeckham\u2026",
+        "expanded_url": "https://twitter.com/brandonbeckham_/status/1233264253605253120",
+        "indices": [
+          33,
+          56
+        ],
+        "url": "https://t.co/N4uFExD6Vz"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 65282,
+  "favorited": false,
+  "full_text": "We strongly stand with Terrence! https://t.co/N4uFExD6Vz",
+  "geo": null,
+  "id": 1233482829767507968,
+  "id_str": "1233482829767507968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 28 05:34:45 +0000 2020",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            80,
+            91
+          ],
+          "text": "censorship"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cHkVukUBdl",
+          "expanded_url": "https://twitter.com/w_terrence/status/1201635398813986816/video/1",
+          "id": 1201634738252980224,
+          "id_str": "1201634738252980224",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201634738252980224/pu/img/6VZi5WxwqD_4x3OB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201634738252980224/pu/img/6VZi5WxwqD_4x3OB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1201635398813986816,
+          "source_status_id_str": "1201635398813986816",
+          "source_user_id": 47293791,
+          "source_user_id_str": "47293791",
+          "type": "photo",
+          "url": "https://t.co/cHkVukUBdl"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 47293791,
+          "id_str": "47293791",
+          "indices": [
+            42,
+            53
+          ],
+          "name": "Terrence K. Williams",
+          "screen_name": "w_terrence"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            137,
+            148
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            183,
+            199
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jun 15 08:46:13 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Actor\u2022 Comedian\u2022Commentator",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "terrencekwilliams.com",
+                      "expanded_url": "https://www.terrencekwilliams.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/vgdcjmvrqT"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 6069,
+              "follow_request_sent": false,
+              "followers_count": 779698,
+              "following": false,
+              "friends_count": 634,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 47293791,
+              "id_str": "47293791",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2095,
+              "location": "United States",
+              "name": "Terrence K. Williams",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/47293791/1571093496",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1183878041006727169/G6DpLUIm_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1183878041006727169/G6DpLUIm_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "w_terrence",
+              "statuses_count": 4333,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/vgdcjmvrqT",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/cHkVukUBdl",
+          "expanded_url": "https://twitter.com/w_terrence/status/1201635398813986816/video/1",
+          "id": 1201634738252980224,
+          "id_str": "1201634738252980224",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1201634738252980224/pu/img/6VZi5WxwqD_4x3OB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1201634738252980224/pu/img/6VZi5WxwqD_4x3OB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1201635398813986816,
+          "source_status_id_str": "1201635398813986816",
+          "source_user_id": 47293791,
+          "source_user_id_str": "47293791",
+          "type": "video",
+          "url": "https://t.co/cHkVukUBdl",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 139033,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1201634738252980224/pu/vid/720x720/Z1Y_EHZwibMvC53_.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1201634738252980224/pu/vid/480x480/g3gPTkensy1_ohUM.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1201634738252980224/pu/pl/_kb03m6jI5zv_tng.m3u8?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1201634738252980224/pu/vid/320x320/jlgq_PCrQuRQ5IbN.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17599,
+    "favorited": false,
+    "full_text": "\ud83c\uddfa\ud83c\uddf8 Very concerning that Terrence Williams @w_terrence finds himself a target of #censorship immediately after receiving an invite to the @WhiteHouse as an advisory guest of President @realDonaldTrump\u2935\ufe0f\nhttps://t.co/cHkVukUBdl",
+    "geo": null,
+    "id": 1233264253605253120,
+    "id_str": "1233264253605253120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8126,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jul 19 16:50:20 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "M.Div, Th.M, J.D., Christian Lawyer. Founder of https://t.co/jQL88uqu4p, a voice for biblical moral conservatism. \ud835\uddd9\ud835\uddfc\ud835\uddf9\ud835\uddf9\ud835\uddfc\ud835\ude04 for a Bold Christian Voice.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ChristianPolitics.com",
+              "expanded_url": "http://ChristianPolitics.com",
+              "indices": [
+                48,
+                71
+              ],
+              "url": "https://t.co/jQL88uqu4p"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/brandonbeckham_",
+              "expanded_url": "https://www.instagram.com/brandonbeckham_",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AWZtzVLelC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9656,
+      "follow_request_sent": false,
+      "followers_count": 23560,
+      "following": false,
+      "friends_count": 262,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 338473859,
+      "id_str": "338473859",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 200,
+      "location": "USA\ud83c\uddfa\ud83c\uddf8 Tweets=Personal Views",
+      "name": "\u2600\ufe0fBrandon Beckham, Esq.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/338473859/1580076767",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232179405180424192/G-ArNe-k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232179405180424192/G-ArNe-k_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BrandonBeckham_",
+      "statuses_count": 12975,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/AWZtzVLelC",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1233264253605253120,
+  "quoted_status_id_str": "1233264253605253120",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brandonbeckham\u2026",
+    "expanded": "https://twitter.com/brandonbeckham_/status/1233264253605253120",
+    "url": "https://t.co/N4uFExD6Vz"
+  },
+  "retweet_count": 21435,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73186130,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115276,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49384,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

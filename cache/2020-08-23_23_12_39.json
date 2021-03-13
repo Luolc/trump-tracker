@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 23 23:12:39 +0000 2020",
+  "display_text_range": [
+    0,
+    129
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2779389582,
+        "id_str": "2779389582",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "steve hilton",
+        "screen_name": "SteveHiltonx"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SteveHiltonx: \ud83d\udea8\ud83d\udea8 ALSO: first details of Republican policy platform EXCLUSIVE tonight Trump 2nd Term Agenda 9pm don't miss it!",
+  "geo": null,
+  "id": 1297673134234128384,
+  "id_str": "1297673134234128384",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1297562839637544965,
+  "quoted_status_id_str": "1297562839637544965",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NextRevFNC/sta\u2026",
+    "expanded": "https://twitter.com/NextRevFNC/status/1297562839637544965",
+    "url": "https://t.co/E98Zgu6l6v"
+  },
+  "retweet_count": 6558,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 23 16:10:38 +0000 2020",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NextRevFNC/sta\u2026",
+          "expanded_url": "https://twitter.com/NextRevFNC/status/1297562839637544965",
+          "indices": [
+            112,
+            135
+          ],
+          "url": "https://t.co/E98Zgu6l6v"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 22111,
+    "favorited": false,
+    "full_text": "\ud83d\udea8\ud83d\udea8 ALSO: first details of Republican policy platform EXCLUSIVE tonight Trump 2nd Term Agenda 9pm don't miss it! https://t.co/E98Zgu6l6v",
+    "geo": null,
+    "id": 1297566929083744258,
+    "id_str": "1297566929083744258",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Aug 23 15:54:23 +0000 2020",
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              133,
+              144
+            ],
+            "text": "NextRevFNC"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8LbVdclaRc",
+            "expanded_url": "https://twitter.com/NextRevFNC/status/1297562839637544965/photo/1",
+            "id": 1297194892695871489,
+            "id_str": "1297194892695871489",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/media/EgCP4c-WoAEtBEc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EgCP4c-WoAEtBEc.jpg",
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "resize": "fit",
+                "w": 2016
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/8LbVdclaRc"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 2779389582,
+            "id_str": "2779389582",
+            "indices": [
+              21,
+              34
+            ],
+            "name": "steve hilton",
+            "screen_name": "SteveHiltonx"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              75,
+              91
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 1367531,
+            "id_str": "1367531",
+            "indices": [
+              122,
+              130
+            ],
+            "name": "Fox News",
+            "screen_name": "FoxNews"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8LbVdclaRc",
+            "expanded_url": "https://twitter.com/NextRevFNC/status/1297562839637544965/photo/1",
+            "id": 1297194892695871489,
+            "id_str": "1297194892695871489",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/media/EgCP4c-WoAEtBEc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EgCP4c-WoAEtBEc.jpg",
+            "sizes": {
+              "large": {
+                "h": 1512,
+                "resize": "fit",
+                "w": 2016
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/8LbVdclaRc"
+          }
+        ]
+      },
+      "favorite_count": 1893,
+      "favorited": false,
+      "full_text": "TONIGHT! \nDon't miss @SteveHiltonx's exclusive conversation with President @realDonaldTrump! \nTune in at 9PM ET - only on @FoxNews! \n#NextRevFNC https://t.co/8LbVdclaRc",
+      "geo": null,
+      "id": 1297562839637544965,
+      "id_str": "1297562839637544965",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 822,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 10 20:03:53 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "The Next Revolution with @SteveHiltonx focuses on the impact of #PositivePopulism in the U.S. and throughout the world. Sundays at 9PM ET on @FoxNews.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxnews.com/on-air/the-nex\u2026",
+                "expanded_url": "http://www.foxnews.com/on-air/the-next-revolution-with-steve-hilton/index.html",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/NKSexqASJ4"
+              }
+            ]
+          }
+        },
+        "favourites_count": 575,
+        "follow_request_sent": false,
+        "followers_count": 66918,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 851526166100029442,
+        "id_str": "851526166100029442",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 264,
+        "location": "Los Angeles, CA",
+        "name": "The Next Revolution",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/851526166100029442/1499439721",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NextRevFNC",
+        "statuses_count": 5866,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NKSexqASJ4",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1297562839637544965,
+    "quoted_status_id_str": "1297562839637544965",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NextRevFNC/sta\u2026",
+      "expanded": "https://twitter.com/NextRevFNC/status/1297562839637544965",
+      "url": "https://t.co/E98Zgu6l6v"
+    },
+    "retweet_count": 6558,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 29 23:23:37 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Author Positive Populism (2018), More Human (2016), Good Business (2002); Host @NextRevFNC. Co-founder @Crowdpac, @gbminds  \n#PositivePopulism = #PeoplePower",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "positivepopulism.org",
+              "expanded_url": "http://positivepopulism.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iLB44RSPN4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 116244,
+      "following": false,
+      "friends_count": 101,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2779389582,
+      "id_str": "2779389582",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 683,
+      "location": "California",
+      "name": "steve hilton",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2779389582/1536082663",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/613536867141574656/JZ-xm2kG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/613536867141574656/JZ-xm2kG_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SteveHiltonx",
+      "statuses_count": 10214,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iLB44RSPN4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85568338,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118630,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54842,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

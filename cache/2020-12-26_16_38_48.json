@@ -1,0 +1,239 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Dec 26 16:38:48 +0000 2020",
+  "display_text_range": [
+    0,
+    73
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/markfinchem/st\u2026",
+        "expanded_url": "https://twitter.com/markfinchem/status/1342866304089387008",
+        "indices": [
+          74,
+          97
+        ],
+        "url": "https://t.co/I6UXM3cz42"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 152359,
+  "favorited": false,
+  "full_text": "Thank you Mark. Big numbers found in Arizona.We must win for our Country! https://t.co/I6UXM3cz42",
+  "geo": null,
+  "id": 1342872502306009089,
+  "id_str": "1342872502306009089",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Dec 26 16:14:10 +0000 2020",
+    "display_text_range": [
+      0,
+      185
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorite_count": 41504,
+    "favorited": false,
+    "full_text": "Patriots, recharge. \u201cHave I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go.\u201d Joshua 1:9 NIV",
+    "geo": null,
+    "id": 1342866304089387008,
+    "id_str": "1342866304089387008",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -109.060257,
+              36.992427
+            ],
+            [
+              -102.041524,
+              36.992427
+            ],
+            [
+              -102.041524,
+              41.003445
+            ],
+            [
+              -109.060257,
+              41.003445
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Colorado, USA",
+      "id": "e21c8e4914eef2b3",
+      "name": "Colorado",
+      "place_type": "admin",
+      "url": "https://api.twitter.com/1.1/geo/id/e21c8e4914eef2b3.json"
+    },
+    "retweet_count": 9384,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 14 23:42:37 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Arizona State Representative. Chaired the #ArizonaHearing on Election Fraud. Standing for Limited Government, Limited Taxation & the Rule of Law. #honeybadger",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "markfinchem.com",
+              "expanded_url": "http://www.markfinchem.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/FvI6vxCiP6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1125,
+      "follow_request_sent": false,
+      "followers_count": 50795,
+      "following": false,
+      "friends_count": 1357,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 74303349,
+      "id_str": "74303349",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 199,
+      "location": "Tucson, AZ",
+      "name": "Mark Finchem",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/74303349/1528298206",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/581992915045511169/R6pliSJ6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/581992915045511169/R6pliSJ6_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MarkFinchem",
+      "statuses_count": 3738,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/FvI6vxCiP6",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1342866304089387008,
+  "quoted_status_id_str": "1342866304089387008",
+  "quoted_status_permalink": {
+    "display": "twitter.com/markfinchem/st\u2026",
+    "expanded": "https://twitter.com/markfinchem/status/1342866304089387008",
+    "url": "https://t.co/I6UXM3cz42"
+  },
+  "retweet_count": 34739,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88589528,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 126106,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59357,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

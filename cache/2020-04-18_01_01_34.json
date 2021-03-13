@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 18 01:01:34 +0000 2020",
+  "display_text_range": [
+    0,
+    97
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 842072478834909184,
+        "id_str": "842072478834909184",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Sec. Sonny Perdue",
+        "screen_name": "SecretarySonny"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          30,
+          46
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecretarySonny: Thank you @realDonaldTrump for all you do for America's farmers and ranchers.",
+  "geo": null,
+  "id": 1251314895896920065,
+  "id_str": "1251314895896920065",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1251282587047297031,
+  "quoted_status_id_str": "1251282587047297031",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WhiteHouse/sta\u2026",
+    "expanded": "https://twitter.com/WhiteHouse/status/1251282587047297031",
+    "url": "https://t.co/b4FfSSdmhP"
+  },
+  "retweet_count": 10131,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 00:07:51 +0000 2020",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WhiteHouse/sta\u2026",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1251282587047297031",
+          "indices": [
+            78,
+            101
+          ],
+          "url": "https://t.co/b4FfSSdmhP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 45118,
+    "favorited": false,
+    "full_text": "Thank you @realDonaldTrump for all you do for America's farmers and ranchers. https://t.co/b4FfSSdmhP",
+    "geo": null,
+    "id": 1251301380712693763,
+    "id_str": "1251301380712693763",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 17 22:53:11 +0000 2020",
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/w1TZDOnNMn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1251282587047297031/video/1",
+            "id": 1251282559465553920,
+            "id_str": "1251282559465553920",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1251282559465553920/img/bWrpXaLP3nrO-SiR.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1251282559465553920/img/bWrpXaLP3nrO-SiR.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/w1TZDOnNMn"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 842072478834909184,
+            "id_str": "842072478834909184",
+            "indices": [
+              1,
+              16
+            ],
+            "name": "Sec. Sonny Perdue",
+            "screen_name": "SecretarySonny"
+          },
+          {
+            "id": 61853389,
+            "id_str": "61853389",
+            "indices": [
+              21,
+              26
+            ],
+            "name": "Dept. of Agriculture",
+            "screen_name": "USDA"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/w1TZDOnNMn",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1251282587047297031/video/1",
+            "id": 1251282559465553920,
+            "id_str": "1251282559465553920",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1251282559465553920/img/bWrpXaLP3nrO-SiR.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1251282559465553920/img/bWrpXaLP3nrO-SiR.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/w1TZDOnNMn",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 45978,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1251282559465553920/vid/640x360/x404mytNrwZ26cK3.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1251282559465553920/vid/1280x720/6oNHL04PhQGWi8ok.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1251282559465553920/vid/480x270/8kV5AelmDJkxZ1uC.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1251282559465553920/pl/ltIUctg-gPy88y3y.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 10797,
+      "favorited": false,
+      "full_text": ".@SecretarySonny and @USDA will be implementing a $19 billion relief program for our great farmers and ranchers! https://t.co/w1TZDOnNMn",
+      "geo": null,
+      "id": 1251282587047297031,
+      "id_str": "1251282587047297031",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2584,
+      "retweeted": false,
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 21747483,
+        "following": false,
+        "friends_count": 20,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14539,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1580922287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 17446,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1251282587047297031,
+    "quoted_status_id_str": "1251282587047297031",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WhiteHouse/sta\u2026",
+      "expanded": "https://twitter.com/WhiteHouse/status/1251282587047297031",
+      "url": "https://t.co/b4FfSSdmhP"
+    },
+    "retweet_count": 10131,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 15 17:58:18 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "31st Secretary @USDA. Husband, Father of 4, Big Buddy to 14 grandchildren. #Farmer, #Veteran, #Veterinarian, former two-term Gov. of GA.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "usda.gov",
+              "expanded_url": "https://www.usda.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JAsBIE5HWA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 46,
+      "follow_request_sent": false,
+      "followers_count": 77655,
+      "following": false,
+      "friends_count": 526,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 842072478834909184,
+      "id_str": "842072478834909184",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 651,
+      "location": "",
+      "name": "Sec. Sonny Perdue",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/842072478834909184/1584711798",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1218256697749274624/McLV7Wqe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218256697749274624/McLV7Wqe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecretarySonny",
+      "statuses_count": 3364,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JAsBIE5HWA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

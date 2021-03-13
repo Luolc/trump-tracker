@@ -1,0 +1,446 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 25 01:00:03 +0000 2020",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22956220,
+        "id_str": "22956220",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Tammy Bruce",
+        "screen_name": "HeyTammyBruce"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @HeyTammyBruce: \ud83d\ude10",
+  "geo": null,
+  "id": 1320168209262194688,
+  "id_str": "1320168209262194688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quoted_status_id": 1320117045762064385,
+  "quoted_status_id_str": "1320117045762064385",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trumpwarroom/s\u2026",
+    "expanded": "https://twitter.com/trumpwarroom/status/1320117045762064385",
+    "url": "https://t.co/8bVSJoG4cC"
+  },
+  "retweet_count": 8732,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 00:16:23 +0000 2020",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/trumpwarroom/s\u2026",
+          "expanded_url": "https://twitter.com/trumpwarroom/status/1320117045762064385",
+          "indices": [
+            2,
+            25
+          ],
+          "url": "https://t.co/8bVSJoG4cC"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 34603,
+    "favorited": false,
+    "full_text": "\ud83d\ude10 https://t.co/8bVSJoG4cC",
+    "geo": null,
+    "id": 1320157222371053570,
+    "id_str": "1320157222371053570",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 24 21:36:44 +0000 2020",
+      "display_text_range": [
+        0,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/yf92vqVD62",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1320117045762064385/video/1",
+            "id": 1320115546927616000,
+            "id_str": "1320115546927616000",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1320115546927616000/img/ndMUoPnnoviQYhti.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1320115546927616000/img/ndMUoPnnoviQYhti.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/yf92vqVD62"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Biden says he is \"sick and tired of smart guys\""
+            },
+            "display_url": "pic.twitter.com/yf92vqVD62",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1320117045762064385/video/1",
+            "id": 1320115546927616000,
+            "id_str": "1320115546927616000",
+            "indices": [
+              58,
+              81
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1320115546927616000/img/ndMUoPnnoviQYhti.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1320115546927616000/img/ndMUoPnnoviQYhti.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/yf92vqVD62",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 5800,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1320115546927616000/pl/ByuBr9U8hiqgNv7x.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1320115546927616000/vid/1280x720/ru9N61JxOB5nvoe3.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1320115546927616000/vid/480x270/wsArJbN_hsgkoTlA.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1320115546927616000/vid/640x360/LVBlcvkV7Aj7R8bl.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 25221,
+      "favorited": false,
+      "full_text": "Slow Joe Biden says he is \"sick and tired of smart guys.\" https://t.co/yf92vqVD62",
+      "geo": null,
+      "id": 1320117045762064385,
+      "id_str": "1320117045762064385",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9605,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 98,
+        "follow_request_sent": false,
+        "followers_count": 955042,
+        "following": false,
+        "friends_count": 276,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2813,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text TRUMP to 88022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 25302,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1320117045762064385,
+    "quoted_status_id_str": "1320117045762064385",
+    "quoted_status_permalink": {
+      "display": "twitter.com/trumpwarroom/s\u2026",
+      "expanded": "https://twitter.com/trumpwarroom/status/1320117045762064385",
+      "url": "https://t.co/8bVSJoG4cC"
+    },
+    "retweet_count": 8732,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 05 18:32:14 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@FoxNews Contributor, Host @FoxNation, President @IWV, NYT Best Selling Author, @WashTimes Columnist. Italian. Scottish. Bookish. #TAM https://t.co/kyrcLxzmmX",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tammybruce.com",
+              "expanded_url": "http://tammybruce.com",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/kyrcLxzmmX"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tammybruce.com/subscribe",
+              "expanded_url": "http://tammybruce.com/subscribe",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/idzuhiv6g4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 45648,
+      "follow_request_sent": false,
+      "followers_count": 434155,
+      "following": false,
+      "friends_count": 1376,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22956220,
+      "id_str": "22956220",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3267,
+      "location": "New York/Los Angeles",
+      "name": "Tammy Bruce",
+      "notifications": false,
+      "profile_background_color": "870100",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22956220/1446101571",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287920000792252417/m_s4a_Y7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287920000792252417/m_s4a_Y7_normal.jpg",
+      "profile_link_color": "870100",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F09393",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "HeyTammyBruce",
+      "statuses_count": 124606,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/idzuhiv6g4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

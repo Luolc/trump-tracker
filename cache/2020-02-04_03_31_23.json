@@ -1,0 +1,391 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 03:31:23 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOP: \u201cBy approving both articles, the House of Representatives violated our Constitutional order, illegally abused their power of impea\u2026",
+  "geo": null,
+  "id": 1224535896579543050,
+  "id_str": "1224535896579543050",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8458,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 03 20:25:01 +0000 2020",
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rufx0ZvxXi",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1224411852286898177/video/1",
+          "id": 1224411029561585664,
+          "id_str": "1224411029561585664",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1224411029561585664/img/vWKbTbigOb3kFnn4.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1224411029561585664/img/vWKbTbigOb3kFnn4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1224411852286898177,
+          "source_status_id_str": "1224411852286898177",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "photo",
+          "url": "https://t.co/rufx0ZvxXi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "goo.gl/oryp5i",
+                      "expanded_url": "https://goo.gl/oryp5i",
+                      "indices": [
+                        134,
+                        157
+                      ],
+                      "url": "https://t.co/OLjaWvAwOj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "gop.com/research/",
+                      "expanded_url": "https://gop.com/research/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oeE4SVAXcg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followers_count": 73702,
+              "following": false,
+              "friends_count": 3420,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 55329156,
+              "id_str": "55329156",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1245,
+              "location": "Washington, DC",
+              "name": "RNC Research",
+              "notifications": false,
+              "profile_background_color": "CC0A0A",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_link_color": "F50808",
+              "profile_sidebar_border_color": "030303",
+              "profile_sidebar_fill_color": "8A8585",
+              "profile_text_color": "050505",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RNCResearch",
+              "statuses_count": 18370,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/oeE4SVAXcg",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/rufx0ZvxXi",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1224411852286898177/video/1",
+          "id": 1224411029561585664,
+          "id_str": "1224411029561585664",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1224411029561585664/img/vWKbTbigOb3kFnn4.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1224411029561585664/img/vWKbTbigOb3kFnn4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1224411852286898177,
+          "source_status_id_str": "1224411852286898177",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "video",
+          "url": "https://t.co/rufx0ZvxXi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 79433,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1224411029561585664/vid/1280x720/jt3HH8mtQiGbKWxo.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1224411029561585664/pl/v9Blx0cPPfXG1bbg.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1224411029561585664/vid/480x270/P8x82mDUsvF30ULQ.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1224411029561585664/vid/640x360/E5vdHdltUXo635UX.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24954,
+    "favorited": false,
+    "full_text": "\u201cBy approving both articles, the House of Representatives violated our Constitutional order, illegally abused their power of impeachment, in order to obstruct the President\u2019s ability to faithfully execute the duties of his office.\u201d  -Jay Sekulow\nhttps://t.co/rufx0ZvxXi",
+    "geo": null,
+    "id": 1224428599354253315,
+    "id_str": "1224428599354253315",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8458,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sign up to get official updates from the Republican National Committee\u2b07\ufe0f",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 278,
+      "follow_request_sent": false,
+      "followers_count": 2247227,
+      "following": false,
+      "friends_count": 1668,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9693,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 38082,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Feb 24 21:51:28 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          63,
+          68
+        ],
+        "text": "Cuba"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 299700105,
+        "id_str": "299700105",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Yali Nu\u00f1ez",
+        "screen_name": "yalinunez"
+      },
+      {
+        "id": 216776631,
+        "id_str": "216776631",
+        "indices": [
+          16,
+          30
+        ],
+        "name": "Bernie Sanders",
+        "screen_name": "BernieSanders"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @yalinunez: .@BernieSanders , I lived and went to school in #Cuba for 15 years.\n\nYou have NO IDEA of you are talking about.\n\nNot in the\u2026",
+  "geo": null,
+  "id": 1232060498495123457,
+  "id_str": "1232060498495123457",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 27962,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 14:53:37 +0000 2020",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            53
+          ],
+          "text": "Cuba"
+        },
+        {
+          "indices": [
+            270,
+            274
+          ],
+          "text": "KAG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 216776631,
+          "id_str": "216776631",
+          "indices": [
+            1,
+            15
+          ],
+          "name": "Bernie Sanders",
+          "screen_name": "BernieSanders"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            220,
+            236
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 74679,
+    "favorited": false,
+    "full_text": ".@BernieSanders , I lived and went to school in #Cuba for 15 years.\n\nYou have NO IDEA of you are talking about.\n\nNot in the 1980s, and not now.\n\nThe Cuban regime does not offer education, it gives free indoctrination. \n\n@realDonaldTrump continues to deliver for Cubans. #KAG",
+    "geo": null,
+    "id": 1231955343552503810,
+    "id_str": "1231955343552503810",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "id": "01fbe706f872cb32",
+      "name": "Washington",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+    },
+    "retweet_count": 27962,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 16 15:03:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Journalist & Director of Hispanic Media @GOP, Presenter of Batalla Politica at NTN24, Former @Univision reporter/anchor,  https://t.co/sbiqKH48MS",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/yalinunez",
+              "expanded_url": "http://Instagram.com/yalinunez",
+              "indices": [
+                122,
+                145
+              ],
+              "url": "https://t.co/sbiqKH48MS"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/yalinunez",
+              "expanded_url": "http://Instagram.com/yalinunez",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/sbiqKH48MS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 901,
+      "follow_request_sent": false,
+      "followers_count": 5314,
+      "following": false,
+      "friends_count": 168,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 299700105,
+      "id_str": "299700105",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 31,
+      "location": "Washington, DC",
+      "name": "Yali Nu\u00f1ez",
+      "notifications": false,
+      "profile_background_color": "F1EDF5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/299700105/1539699535",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1118628864085954560/CnLOCHyP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118628864085954560/CnLOCHyP_normal.jpg",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "yalinunez",
+      "statuses_count": 1794,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/sbiqKH48MS",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73053330,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115139,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49327,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

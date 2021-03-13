@@ -1,0 +1,513 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 05:47:13 +0000 2020",
+  "display_text_range": [
+    0,
+    117
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          103
+        ],
+        "text": "MAGA"
+      },
+      {
+        "indices": [
+          104,
+          117
+        ],
+        "text": "AmericaFirst"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          90,
+          96
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouDobbs: Thanks for your kind words Rudy, and for all you've done for the nation and @POTUS! #MAGA #AmericaFirst",
+  "geo": null,
+  "id": 1305382577386086402,
+  "id_str": "1305382577386086402",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1303738793644752896,
+  "quoted_status_id_str": "1303738793644752896",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RudyGiuliani/s\u2026",
+    "expanded": "https://twitter.com/RudyGiuliani/status/1303738793644752896",
+    "url": "https://t.co/IPpX1FQjIi"
+  },
+  "retweet_count": 4069,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 10 00:26:52 +0000 2020",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            89
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            90,
+            103
+          ],
+          "text": "AmericaFirst"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RudyGiuliani/s\u2026",
+          "expanded_url": "https://twitter.com/RudyGiuliani/status/1303738793644752896",
+          "indices": [
+            104,
+            127
+          ],
+          "url": "https://t.co/IPpX1FQjIi"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            76,
+            82
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "favorite_count": 14337,
+    "favorited": false,
+    "full_text": "Thanks for your kind words Rudy, and for all you've done for the nation and @POTUS! #MAGA #AmericaFirst https://t.co/IPpX1FQjIi",
+    "geo": null,
+    "id": 1303852404828495873,
+    "id_str": "1303852404828495873",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 09 16:55:25 +0000 2020",
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BO9xpi9c8i",
+            "expanded_url": "https://twitter.com/RudyGiuliani/status/1303738793644752896/video/1",
+            "id": 1303736168857690116,
+            "id_str": "1303736168857690116",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303736168857690116/img/sEwvaE9TQOJmno7H.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303736168857690116/img/sEwvaE9TQOJmno7H.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BO9xpi9c8i"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 26487169,
+            "id_str": "26487169",
+            "indices": [
+              1,
+              10
+            ],
+            "name": "Lou Dobbs",
+            "screen_name": "LouDobbs"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              95,
+              111
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/BO9xpi9c8i",
+            "expanded_url": "https://twitter.com/RudyGiuliani/status/1303738793644752896/video/1",
+            "id": 1303736168857690116,
+            "id_str": "1303736168857690116",
+            "indices": [
+              217,
+              240
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303736168857690116/img/sEwvaE9TQOJmno7H.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303736168857690116/img/sEwvaE9TQOJmno7H.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/BO9xpi9c8i",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 79370,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303736168857690116/vid/640x360/6wSduv-Rqm1kMgyc.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1303736168857690116/pl/aUQqAlOW35mcyGVE.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303736168857690116/vid/480x270/fvGSGBaKR78ouE86.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303736168857690116/vid/1280x720/RtNFhk1rthUXzTGG.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 3710,
+      "favorited": false,
+      "full_text": ".@LouDobbs book should be an immediate buy for everyone. It is a persuasive explanation of how @realDonaldTrump, and only Trump, can lead America's already growing economy back to the historic levels pre-China virus. https://t.co/BO9xpi9c8i",
+      "geo": null,
+      "id": 1303738793644752896,
+      "id_str": "1303738793644752896",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1446,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 31 00:35:10 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Listen to the Common Sense podcast through the link below. \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "RudyGiulianiCS.com",
+                "expanded_url": "http://RudyGiulianiCS.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/oCTUJ0ZiFb"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2301,
+        "follow_request_sent": false,
+        "followers_count": 748277,
+        "following": false,
+        "friends_count": 521,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 770781940341288960,
+        "id_str": "770781940341288960",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2706,
+        "location": "New York, NY",
+        "name": "Rudy W. Giuliani",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/770781940341288960/1580934833",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1225153508963487744/vJ3PwX5y_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RudyGiuliani",
+        "statuses_count": 2624,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/oCTUJ0ZiFb",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1303738793644752896,
+    "quoted_status_id_str": "1303738793644752896",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RudyGiuliani/s\u2026",
+      "expanded": "https://twitter.com/RudyGiuliani/status/1303738793644752896",
+      "url": "https://t.co/IPpX1FQjIi"
+    },
+    "retweet_count": 4069,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 5, 7 & 10 pm Eastern https://t.co/Mqnxd3lgtA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/loudobbstonigh\u2026",
+              "expanded_url": "http://Instagram.com/loudobbstonight/",
+              "indices": [
+                62,
+                85
+              ],
+              "url": "https://t.co/Mqnxd3lgtA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thetrumpcentury.com",
+              "expanded_url": "http://thetrumpcentury.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jphChsfK3r"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17033,
+      "follow_request_sent": false,
+      "followers_count": 2211871,
+      "following": false,
+      "friends_count": 2101,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5506,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1598294612",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 35401,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/jphChsfK3r",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85958230,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119579,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1599936297",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55912,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

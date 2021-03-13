@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 11:31:09 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14344823,
+        "id_str": "14344823",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senate Republicans",
+        "screen_name": "SenateGOP"
+      },
+      {
+        "id": 202206694,
+        "id_str": "202206694",
+        "indices": [
+          35,
+          51
+        ],
+        "name": "Sen. John Barrasso",
+        "screen_name": "SenJohnBarrasso"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenateGOP: Conference Chairman @SenJohnBarrasso:\n\nOur nation needs to listen to the voices of African Americans about police brutality.\u2026",
+  "geo": null,
+  "id": 1268867954218799104,
+  "id_str": "1268867954218799104",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1736,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 04 21:53:02 +0000 2020",
+    "display_text_range": [
+      0,
+      180
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fTJjN3Fzwd",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1268662067520778244/video/1",
+          "id": 1268661095436353543,
+          "id_str": "1268661095436353543",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZsw6TNXQAAI9cH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZsw6TNXQAAI9cH.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fTJjN3Fzwd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 202206694,
+          "id_str": "202206694",
+          "indices": [
+            20,
+            36
+          ],
+          "name": "Sen. John Barrasso",
+          "screen_name": "SenJohnBarrasso"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/fTJjN3Fzwd",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1268662067520778244/video/1",
+          "id": 1268661095436353543,
+          "id_str": "1268661095436353543",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZsw6TNXQAAI9cH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZsw6TNXQAAI9cH.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/fTJjN3Fzwd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 64498,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1268661095436353543/pl/jrw_CEVzKuUNxNjz.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268661095436353543/vid/480x270/pI4Mbm-HZEASVGa9.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268661095436353543/vid/640x360/nxOummQxqKfsU1Rq.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1268661095436353543/vid/1280x720/dD4AuSnNaaGx21Og.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6241,
+    "favorited": false,
+    "full_text": "Conference Chairman @SenJohnBarrasso:\n\nOur nation needs to listen to the voices of African Americans about police brutality.\n\nEvery American citizen deserves justice under the law. https://t.co/fTJjN3Fzwd",
+    "geo": null,
+    "id": 1268662067520778244,
+    "id_str": "1268662067520778244",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1736,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/senategop",
+              "expanded_url": "http://www.facebook.com/senategop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LRez78SkoK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3125,
+      "follow_request_sent": false,
+      "followers_count": 1082909,
+      "following": false,
+      "friends_count": 25957,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14344823,
+      "id_str": "14344823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7731,
+      "location": "Washington, D.C.",
+      "name": "Senate Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenateGOP",
+      "statuses_count": 27655,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LRez78SkoK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 16 00:17:42 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          25,
+          42
+        ],
+        "text": "TreyGowdyPodcast"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11611052,
+        "id_str": "11611052",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "FOX News Radio",
+        "screen_name": "foxnewsradio"
+      },
+      {
+        "id": 237348797,
+        "id_str": "237348797",
+        "indices": [
+          44,
+          53
+        ],
+        "name": "Trey Gowdy",
+        "screen_name": "TGowdySC"
+      },
+      {
+        "id": 432895323,
+        "id_str": "432895323",
+        "indices": [
+          103,
+          119
+        ],
+        "name": "Lindsey Graham",
+        "screen_name": "LindseyGrahamSC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @foxnewsradio: On the #TreyGowdyPodcast, @TGowdySC is joined by Senate Judiciary Committee Chairman @LindseyGrahamSC to discuss what he\u2026",
+  "geo": null,
+  "id": 1283556379853238277,
+  "id_str": "1283556379853238277",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3727,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 15 14:00:31 +0000 2020",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            24
+          ],
+          "text": "TreyGowdyPodcast"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gPJRVAzgPL",
+          "expanded_url": "https://twitter.com/foxnewsradio/status/1283401058576982019/video/1",
+          "id": 1283400203022802945,
+          "id_str": "1283400203022802945",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283400203022802945/pu/img/bIaS6UwK2JMnE8-Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283400203022802945/pu/img/bIaS6UwK2JMnE8-Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gPJRVAzgPL"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "radio.foxnews.com/2020/07/14/sen\u2026",
+          "expanded_url": "https://radio.foxnews.com/2020/07/14/sen-graham-on-mueller-probe-time-for-us-to-look-at-the-other-side-of-the-story/",
+          "indices": [
+            259,
+            282
+          ],
+          "url": "https://t.co/qRzwLItixZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 237348797,
+          "id_str": "237348797",
+          "indices": [
+            26,
+            35
+          ],
+          "name": "Trey Gowdy",
+          "screen_name": "TGowdySC"
+        },
+        {
+          "id": 432895323,
+          "id_str": "432895323",
+          "indices": [
+            85,
+            101
+          ],
+          "name": "Lindsey Graham",
+          "screen_name": "LindseyGrahamSC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/gPJRVAzgPL",
+          "expanded_url": "https://twitter.com/foxnewsradio/status/1283401058576982019/video/1",
+          "id": 1283400203022802945,
+          "id_str": "1283400203022802945",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283400203022802945/pu/img/bIaS6UwK2JMnE8-Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283400203022802945/pu/img/bIaS6UwK2JMnE8-Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/gPJRVAzgPL",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 51050,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1283400203022802945/pu/pl/l6vxc5S54t6gbFsj.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283400203022802945/pu/vid/480x480/KJaM0zJf45CkCyNV.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283400203022802945/pu/vid/320x320/vilbDh3MDsTI4san.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283400203022802945/pu/vid/720x720/_7_hig3CQjnKeEqE.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12243,
+    "favorited": false,
+    "full_text": "On the #TreyGowdyPodcast, @TGowdySC is joined by Senate Judiciary Committee Chairman @LindseyGrahamSC to discuss what he sees as serious flaws in the Mueller investigation &amp; why former special counsel Robert Mueller needs to testify before his committee: https://t.co/qRzwLItixZ https://t.co/gPJRVAzgPL",
+    "geo": null,
+    "id": 1283401058576982019,
+    "id_str": "1283401058576982019",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3727,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 28 21:33:23 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The power of FOX News on the Radio!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxnewsradio.com",
+              "expanded_url": "http://www.foxnewsradio.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HRq0UZwTpj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 205,
+      "follow_request_sent": false,
+      "followers_count": 162799,
+      "following": false,
+      "friends_count": 294,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 11611052,
+      "id_str": "11611052",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3303,
+      "location": "FOX News Channel",
+      "name": "FOX News Radio",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11611052/1509483861",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925468541666525185/GMZaXFic_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925468541666525185/GMZaXFic_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "foxnewsradio",
+      "statuses_count": 95413,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/HRq0UZwTpj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83588059,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116692,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53695,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

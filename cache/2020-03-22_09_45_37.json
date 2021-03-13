@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 09:45:37 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 217543151,
+        "id_str": "217543151",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Tim Scott",
+        "screen_name": "SenatorTimScott"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorTimScott: A quick update from Washington about what we are doing to provide the necessary resources to protect the American peop\u2026",
+  "geo": null,
+  "id": 1241662305072447488,
+  "id_str": "1241662305072447488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 601,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 20:07:39 +0000 2020",
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            139,
+            150
+          ],
+          "text": "TwoWithTim"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2EcsFjKG5a",
+          "expanded_url": "https://twitter.com/SenatorTimScott/status/1241094071986380803/photo/1",
+          "id": 1241094067926315009,
+          "id_str": "1241094067926315009",
+          "indices": [
+            239,
+            262
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETlAequXsAEI_-8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETlAequXsAEI_-8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2EcsFjKG5a"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2xdh28h",
+          "expanded_url": "https://bit.ly/2xdh28h",
+          "indices": [
+            173,
+            196
+          ],
+          "url": "https://t.co/6W90YrwCvH"
+        },
+        {
+          "display_url": "bit.ly/3df8SfX",
+          "expanded_url": "https://bit.ly/3df8SfX",
+          "indices": [
+            215,
+            238
+          ],
+          "url": "https://t.co/SNtfNdZ12c"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2EcsFjKG5a",
+          "expanded_url": "https://twitter.com/SenatorTimScott/status/1241094071986380803/photo/1",
+          "id": 1241094067926315009,
+          "id_str": "1241094067926315009",
+          "indices": [
+            239,
+            262
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETlAequXsAEI_-8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETlAequXsAEI_-8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2EcsFjKG5a"
+        }
+      ]
+    },
+    "favorite_count": 2026,
+    "favorited": false,
+    "full_text": "A quick update from Washington about what we are doing to provide the necessary resources to protect the American people against COVID-19. #TwoWithTim \n\nWatch on Facebook: \nhttps://t.co/6W90YrwCvH \n\nWatch on IGTV: \nhttps://t.co/SNtfNdZ12c https://t.co/2EcsFjKG5a",
+    "geo": null,
+    "id": 1241094071986380803,
+    "id_str": "1241094071986380803",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.172219,
+              38.827378
+            ],
+            [
+              -77.031779,
+              38.827378
+            ],
+            [
+              -77.031779,
+              38.934311
+            ],
+            [
+              -77.172219,
+              38.934311
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Arlington, VA",
+      "id": "319ee7b36c9149da",
+      "name": "Arlington",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 601,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator from South Carolina",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "scott.senate.gov",
+              "expanded_url": "http://scott.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EoB6giYuOp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1929,
+      "follow_request_sent": false,
+      "followers_count": 405347,
+      "following": false,
+      "friends_count": 3860,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 217543151,
+      "id_str": "217543151",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3753,
+      "location": "",
+      "name": "Tim Scott",
+      "notifications": false,
+      "profile_background_color": "E0DBC8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1581525937",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+      "profile_link_color": "606060",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EBE9DC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorTimScott",
+      "statuses_count": 8423,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/EoB6giYuOp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 24 11:11:41 +0000 2020",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/WTShJUchsr",
+        "expanded_url": "https://twitter.com/miblogestublog/status/1241104227138777092/video/1",
+        "id": 1241104205156438016,
+        "id_str": "1241104205156438016",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1241104227138777092,
+        "source_status_id_str": "1241104227138777092",
+        "source_user_id": 20183596,
+        "source_user_id_str": "20183596",
+        "type": "photo",
+        "url": "https://t.co/WTShJUchsr"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20183596,
+        "id_str": "20183596",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Laura Mart\u00ednez\u00ae",
+        "screen_name": "miblogestublog"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Feb 05 20:25:19 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Professional Mexican and taco enthusiast. Opinions are mine, and not those of the @nytimes because I don't work there.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "miblogestublog.com/about/",
+                    "expanded_url": "https://miblogestublog.com/about/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/X6gFqu1636"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 50243,
+            "follow_request_sent": false,
+            "followers_count": 19600,
+            "following": false,
+            "friends_count": 1376,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 20183596,
+            "id_str": "20183596",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 310,
+            "location": "NYC / CDMX",
+            "name": "Laura Mart\u00ednez\u00ae",
+            "notifications": false,
+            "profile_background_color": "F0F5F5",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/20183596/1502984145",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1241218268603482113/uaKD6hRi_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241218268603482113/uaKD6hRi_normal.jpg",
+            "profile_link_color": "FF691F",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F6F6F6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "miblogestublog",
+            "statuses_count": 75606,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/X6gFqu1636",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/WTShJUchsr",
+        "expanded_url": "https://twitter.com/miblogestublog/status/1241104227138777092/video/1",
+        "id": 1241104205156438016,
+        "id_str": "1241104205156438016",
+        "indices": [
+          49,
+          72
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1241104227138777092,
+        "source_status_id_str": "1241104227138777092",
+        "source_user_id": 20183596,
+        "source_user_id_str": "20183596",
+        "type": "video",
+        "url": "https://t.co/WTShJUchsr",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 15430,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/vid/480x270/icoioI-aFuP4eGhK.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/vid/640x360/0m3sFDho0W3LYcjG.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/pl/-xh8E1rChsJqz8Ik.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @miblogestublog: Dr. Fauci is all of us \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f https://t.co/WTShJUchsr",
+  "geo": null,
+  "id": 1242408742643261440,
+  "id_str": "1242408742643261440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4255,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 20:48:01 +0000 2020",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WTShJUchsr",
+          "expanded_url": "https://twitter.com/miblogestublog/status/1241104227138777092/video/1",
+          "id": 1241104205156438016,
+          "id_str": "1241104205156438016",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WTShJUchsr"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/WTShJUchsr",
+          "expanded_url": "https://twitter.com/miblogestublog/status/1241104227138777092/video/1",
+          "id": 1241104205156438016,
+          "id_str": "1241104205156438016",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241104205156438016/pu/img/umehNqPGrZXoNPnA.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/WTShJUchsr",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 15430,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/vid/480x270/icoioI-aFuP4eGhK.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/vid/640x360/0m3sFDho0W3LYcjG.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1241104205156438016/pu/pl/-xh8E1rChsJqz8Ik.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16766,
+    "favorited": false,
+    "full_text": "Dr. Fauci is all of us \ud83e\udd26\ud83c\udffc\u200d\u2642\ufe0f https://t.co/WTShJUchsr",
+    "geo": null,
+    "id": 1241104227138777092,
+    "id_str": "1241104227138777092",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4255,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 05 20:25:19 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Professional Mexican and taco enthusiast. Opinions are mine, and not those of the @nytimes because I don't work there.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "miblogestublog.com/about/",
+              "expanded_url": "https://miblogestublog.com/about/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/X6gFqu1636"
+            }
+          ]
+        }
+      },
+      "favourites_count": 50243,
+      "follow_request_sent": false,
+      "followers_count": 19600,
+      "following": false,
+      "friends_count": 1376,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 20183596,
+      "id_str": "20183596",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 310,
+      "location": "NYC / CDMX",
+      "name": "Laura Mart\u00ednez\u00ae",
+      "notifications": false,
+      "profile_background_color": "F0F5F5",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20183596/1502984145",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1241218268603482113/uaKD6hRi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241218268603482113/uaKD6hRi_normal.jpg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "miblogestublog",
+      "statuses_count": 75606,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/X6gFqu1636",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74985162,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117544,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50147,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

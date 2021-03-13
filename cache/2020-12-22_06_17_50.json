@@ -1,0 +1,467 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 22 06:17:50 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 233737858,
+        "id_str": "233737858",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Senator Ron Johnson",
+        "screen_name": "SenRonJohnson"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenRonJohnson: So galling.\n\nThe purveyors of Russian disinformation have been the Democrats.\n\nToday's hearing was about restoring confi\u2026",
+  "geo": null,
+  "id": 1341266680828342274,
+  "id_str": "1341266680828342274",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1339251149170495489,
+  "quoted_status_id_str": "1339251149170495489",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cspan/status/1\u2026",
+    "expanded": "https://twitter.com/cspan/status/1339251149170495489",
+    "url": "https://t.co/QBjpzwIfPx"
+  },
+  "retweet_count": 14192,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 17 02:49:48 +0000 2020",
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cspan/status/1\u2026",
+          "expanded_url": "https://twitter.com/cspan/status/1339251149170495489",
+          "indices": [
+            227,
+            250
+          ],
+          "url": "https://t.co/QBjpzwIfPx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 48383,
+    "favorited": false,
+    "full_text": "So galling.\n\nThe purveyors of Russian disinformation have been the Democrats.\n\nToday's hearing was about restoring confidence in our election integrity. \n\nWe need to find out where there are problems and fix it moving forward. https://t.co/QBjpzwIfPx",
+    "geo": null,
+    "id": 1339402385328730113,
+    "id_str": "1339402385328730113",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 16 16:48:50 +0000 2020",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BVDJEucALD",
+            "expanded_url": "https://twitter.com/cspan/status/1339251149170495489/video/1",
+            "id": 1339250642808938497,
+            "id_str": "1339250642808938497",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpX5zw2WEAQv8Ur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpX5zw2WEAQv8Ur.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BVDJEucALD"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "c-span.org/video/?507292-\u2026",
+            "expanded_url": "https://www.c-span.org/video/?507292-1/senate-hearing-election-security-administration",
+            "indices": [
+              252,
+              275
+            ],
+            "url": "https://t.co/2RpqO2s58g"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 233737858,
+            "id_str": "233737858",
+            "indices": [
+              1,
+              15
+            ],
+            "name": "Senator Ron Johnson",
+            "screen_name": "SenRonJohnson"
+          },
+          {
+            "id": 236511574,
+            "id_str": "236511574",
+            "indices": [
+              121,
+              135
+            ],
+            "name": "Senator Gary Peters",
+            "screen_name": "SenGaryPeters"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.c-span.org/video/?507292-1/senate-hearing-election-security-administration"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/BVDJEucALD",
+            "expanded_url": "https://twitter.com/cspan/status/1339251149170495489/video/1",
+            "id": 1339250642808938497,
+            "id_str": "1339250642808938497",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/media/EpX5zw2WEAQv8Ur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EpX5zw2WEAQv8Ur.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/BVDJEucALD",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 186119,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1339250642808938497/vid/480x270/sikL10FK5p7JhP27.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1339250642808938497/vid/1280x720/miQZwlzkbx14GNlf.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1339250642808938497/pl/pSyEkTqgB_T9DHld.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1339250642808938497/vid/640x360/0C0_qo8pgCRUztOL.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 9383,
+      "favorited": false,
+      "full_text": ".@SenRonJohnson: \"You lied repeatedly in the press that I was spreading Russian disinformation...I told you to stop...\"\n\n@SenGaryPeters: \"This is not about airing your grievances. I don't know what rabbit hole you're running down...\"\n\nFull video here: https://t.co/2RpqO2s58g https://t.co/BVDJEucALD",
+      "geo": null,
+      "id": 1339251149170495489,
+      "id_str": "1339251149170495489",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3157,
+      "retweeted": false,
+      "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 31 14:29:10 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Capitol Hill. The White House. National Politics.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "c-span.org",
+                "expanded_url": "http://www.c-span.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/L3A4afzX6T"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1738,
+        "follow_request_sent": false,
+        "followers_count": 2088151,
+        "following": false,
+        "friends_count": 8745,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15675138,
+        "id_str": "15675138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 13718,
+        "location": "Washington, D.C.",
+        "name": "CSPAN",
+        "notifications": false,
+        "profile_background_color": "04005F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15675138/1552903501",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107583584460857344/Ewo1E1vu_normal.png",
+        "profile_link_color": "04007D",
+        "profile_sidebar_border_color": "00012B",
+        "profile_sidebar_fill_color": "FFFFFF",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cspan",
+        "statuses_count": 49198,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/L3A4afzX6T",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1339251149170495489,
+    "quoted_status_id_str": "1339251149170495489",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cspan/status/1\u2026",
+      "expanded": "https://twitter.com/cspan/status/1339251149170495489",
+      "url": "https://t.co/QBjpzwIfPx"
+    },
+    "retweet_count": 14192,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 04 00:25:27 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proud to serve Wisconsin in U.S. Senate. Chair of Homeland Security and Governmental Affairs Committee & Subcommittee on Europe & Regional Security Cooperation.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ronjohnson.senate.gov",
+              "expanded_url": "http://www.ronjohnson.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/uMmOdTCWwT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 683,
+      "follow_request_sent": false,
+      "followers_count": 206376,
+      "following": false,
+      "friends_count": 854,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 233737858,
+      "id_str": "233737858",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3041,
+      "location": "Oshkosh, WI",
+      "name": "Senator Ron Johnson",
+      "notifications": false,
+      "profile_background_color": "C6E3FF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/233737858/1391454550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1213023547/Twitter_2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1213023547/Twitter_2_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenRonJohnson",
+      "statuses_count": 6024,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/uMmOdTCWwT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88586874,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125992,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59300,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

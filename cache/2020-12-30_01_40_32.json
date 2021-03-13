@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 30 01:40:32 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1133781254959239168,
+        "id_str": "1133781254959239168",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Senator Doug Mastriano",
+        "screen_name": "SenMastriano"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenMastriano: Electoral irregularities are real and prevalent in Pennsylvania. Sadly, despite evidence, our Governor and State Departme\u2026",
+  "geo": null,
+  "id": 1344095997841047552,
+  "id_str": "1344095997841047552",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 22898,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 29 17:12:25 +0000 2020",
+    "display_text_range": [
+      0,
+      219
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SeCDmRDUux",
+          "expanded_url": "https://twitter.com/SenMastriano/status/1343968123859427328/photo/1",
+          "id": 1343968112656457728,
+          "id_str": "1343968112656457728",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqa74LhXIAA8xjm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqa74LhXIAA8xjm.jpg",
+          "sizes": {
+            "large": {
+              "h": 880,
+              "resize": "fit",
+              "w": 666
+            },
+            "medium": {
+              "h": 880,
+              "resize": "fit",
+              "w": 666
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 515
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SeCDmRDUux"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SeCDmRDUux",
+          "expanded_url": "https://twitter.com/SenMastriano/status/1343968123859427328/photo/1",
+          "id": 1343968112656457728,
+          "id_str": "1343968112656457728",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqa74LhXIAA8xjm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqa74LhXIAA8xjm.jpg",
+          "sizes": {
+            "large": {
+              "h": 880,
+              "resize": "fit",
+              "w": 666
+            },
+            "medium": {
+              "h": 880,
+              "resize": "fit",
+              "w": 666
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 515
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SeCDmRDUux"
+        },
+        {
+          "display_url": "pic.twitter.com/SeCDmRDUux",
+          "expanded_url": "https://twitter.com/SenMastriano/status/1343968123859427328/photo/1",
+          "id": 1343968112648060931,
+          "id_str": "1343968112648060931",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqa74LfXAAMantq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqa74LfXAAMantq.jpg",
+          "sizes": {
+            "large": {
+              "h": 862,
+              "resize": "fit",
+              "w": 663
+            },
+            "medium": {
+              "h": 862,
+              "resize": "fit",
+              "w": 663
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 523
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SeCDmRDUux"
+        },
+        {
+          "display_url": "pic.twitter.com/SeCDmRDUux",
+          "expanded_url": "https://twitter.com/SenMastriano/status/1343968123859427328/photo/1",
+          "id": 1343968112652279809,
+          "id_str": "1343968112652279809",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqa74LgXYAEKziB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqa74LgXYAEKziB.jpg",
+          "sizes": {
+            "large": {
+              "h": 806,
+              "resize": "fit",
+              "w": 623
+            },
+            "medium": {
+              "h": 806,
+              "resize": "fit",
+              "w": 623
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 526
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SeCDmRDUux"
+        },
+        {
+          "display_url": "pic.twitter.com/SeCDmRDUux",
+          "expanded_url": "https://twitter.com/SenMastriano/status/1343968123859427328/photo/1",
+          "id": 1343968112664858626,
+          "id_str": "1343968112664858626",
+          "indices": [
+            220,
+            243
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eqa74LjXUAI9IAD.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eqa74LjXUAI9IAD.jpg",
+          "sizes": {
+            "large": {
+              "h": 831,
+              "resize": "fit",
+              "w": 657
+            },
+            "medium": {
+              "h": 831,
+              "resize": "fit",
+              "w": 657
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 538
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SeCDmRDUux"
+        }
+      ]
+    },
+    "favorite_count": 61187,
+    "favorited": false,
+    "full_text": "Electoral irregularities are real and prevalent in Pennsylvania. Sadly, despite evidence, our Governor and State Department Secretary refuse to investigate.\n\nMy letter to Acting Deputy Attorney General Richard Donoghue. https://t.co/SeCDmRDUux",
+    "geo": null,
+    "id": 1343968123859427328,
+    "id_str": "1343968123859427328",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22898,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 29 17:04:50 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Senator for PA's 33rd Senate District: Adams County, most of Franklin County, & portions of Cumberland & York counties. Follows are not endorsements.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "senatormastriano.com",
+              "expanded_url": "http://senatormastriano.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/S5KMDdpTNG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 401,
+      "follow_request_sent": false,
+      "followers_count": 189872,
+      "following": false,
+      "friends_count": 810,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1133781254959239168,
+      "id_str": "1133781254959239168",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 429,
+      "location": "Fayetteville, PA",
+      "name": "Senator Doug Mastriano",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1133781254959239168/1559151208",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245132886786834433/GmEFOsyZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245132886786834433/GmEFOsyZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenMastriano",
+      "statuses_count": 890,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/S5KMDdpTNG",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88592156,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 126104,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59401,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

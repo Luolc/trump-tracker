@@ -1,0 +1,504 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 12 14:36:40 +0000 2020",
+  "display_text_range": [
+    0,
+    100
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          54,
+          74
+        ],
+        "text": "blackvoicesfortrump"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/CkJ2skVn1z",
+        "expanded_url": "https://twitter.com/CorrinRankin/status/1296643855467417607/video/1",
+        "id": 1296643779940585472,
+        "id_str": "1296643779940585472",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1296643855467417607,
+        "source_status_id_str": "1296643855467417607",
+        "source_user_id": 1411620450,
+        "source_user_id_str": "1411620450",
+        "type": "photo",
+        "url": "https://t.co/CkJ2skVn1z"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1411620450,
+        "id_str": "1411620450",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Corrin Rankin",
+        "screen_name": "CorrinRankin"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed May 08 01:04:18 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Founder of @LegacyReps |@blackvoices4DJT Advisory Board Member | RNC Delegate (RT\u2019s are not an endorsement) |#BlackVoicesForTrump #MAGA #KAG\ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "corrinrankin.info",
+                    "expanded_url": "http://www.corrinrankin.info",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/yeNwTWg5T1"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 4223,
+            "follow_request_sent": false,
+            "followers_count": 24451,
+            "following": false,
+            "friends_count": 8628,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 1411620450,
+            "id_str": "1411620450",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 62,
+            "location": "California, USA",
+            "name": "Corrin Rankin",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411620450/1602523078",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1271110154382016512/GmR1IdGT_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271110154382016512/GmR1IdGT_normal.jpg",
+            "profile_link_color": "E81C4F",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "CorrinRankin",
+            "statuses_count": 3637,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/yeNwTWg5T1",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/CkJ2skVn1z",
+        "expanded_url": "https://twitter.com/CorrinRankin/status/1296643855467417607/video/1",
+        "id": 1296643779940585472,
+        "id_str": "1296643779940585472",
+        "indices": [
+          77,
+          100
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+        "sizes": {
+          "large": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 640,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1296643855467417607,
+        "source_status_id_str": "1296643855467417607",
+        "source_user_id": 1411620450,
+        "source_user_id_str": "1411620450",
+        "type": "video",
+        "url": "https://t.co/CkJ2skVn1z",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 29667,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/pl/Yhokffz8KYZJT2Yz.m3u8?tag=10"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/640x640/J1uiVZHa3Hufr2Lr.mp4?tag=10"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/320x320/akD9LPu6hWT1oTVV.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/480x480/F2MNLDmlYTwexbrV.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CorrinRankin: Black voters speak out in Delaware. #blackvoicesfortrump \ud83d\udc40 https://t.co/CkJ2skVn1z",
+  "geo": null,
+  "id": 1315662678065643521,
+  "id_str": "1315662678065643521",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 13112,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 21 03:02:40 +0000 2020",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            36,
+            56
+          ],
+          "text": "blackvoicesfortrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CkJ2skVn1z",
+          "expanded_url": "https://twitter.com/CorrinRankin/status/1296643855467417607/video/1",
+          "id": 1296643779940585472,
+          "id_str": "1296643779940585472",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CkJ2skVn1z"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CkJ2skVn1z",
+          "expanded_url": "https://twitter.com/CorrinRankin/status/1296643855467417607/video/1",
+          "id": 1296643779940585472,
+          "id_str": "1296643779940585472",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1296643779940585472/pu/img/LtyILx0iMHa9Xl2W.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CkJ2skVn1z",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 29667,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/pl/Yhokffz8KYZJT2Yz.m3u8?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/640x640/J1uiVZHa3Hufr2Lr.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/320x320/akD9LPu6hWT1oTVV.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1296643779940585472/pu/vid/480x480/F2MNLDmlYTwexbrV.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29957,
+    "favorited": false,
+    "full_text": "Black voters speak out in Delaware. #blackvoicesfortrump \ud83d\udc40 https://t.co/CkJ2skVn1z",
+    "geo": null,
+    "id": 1296643855467417607,
+    "id_str": "1296643855467417607",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13112,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 08 01:04:18 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Founder of @LegacyReps |@blackvoices4DJT Advisory Board Member | RNC Delegate (RT\u2019s are not an endorsement) |#BlackVoicesForTrump #MAGA #KAG\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "corrinrankin.info",
+              "expanded_url": "http://www.corrinrankin.info",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yeNwTWg5T1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4223,
+      "follow_request_sent": false,
+      "followers_count": 24451,
+      "following": false,
+      "friends_count": 8628,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1411620450,
+      "id_str": "1411620450",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 62,
+      "location": "California, USA",
+      "name": "Corrin Rankin",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1411620450/1602523078",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1271110154382016512/GmR1IdGT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271110154382016512/GmR1IdGT_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "CorrinRankin",
+      "statuses_count": 3637,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/yeNwTWg5T1",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

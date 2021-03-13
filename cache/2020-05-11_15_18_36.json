@@ -1,0 +1,585 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon May 11 15:18:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          77,
+          87
+        ],
+        "text": "ChuckTodd"
+      },
+      {
+        "indices": [
+          101,
+          114
+        ],
+        "text": "MeetThePress"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 24295482,
+        "id_str": "24295482",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "David Webb",
+        "screen_name": "davidwebbshow"
+      },
+      {
+        "id": 50325797,
+        "id_str": "50325797",
+        "indices": [
+          66,
+          76
+        ],
+        "name": "Chuck Todd",
+        "screen_name": "chucktodd"
+      },
+      {
+        "id": 14173315,
+        "id_str": "14173315",
+        "indices": [
+          92,
+          100
+        ],
+        "name": "NBC News",
+        "screen_name": "NBCNews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @davidwebbshow: It's not even the pretense of news any more by @ChuckTodd #ChuckTodd and @NBCNews #MeetThePress. I'm not disappointed. T\u2026",
+  "geo": null,
+  "id": 1259865497203617799,
+  "id_str": "1259865497203617799",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1259532906722197504,
+  "quoted_status_id_str": "1259532906722197504",
+  "quoted_status_permalink": {
+    "display": "twitter.com/KerriKupecDOJ/\u2026",
+    "expanded": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504",
+    "url": "https://t.co/6s6snnfBwg"
+  },
+  "retweet_count": 9016,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 10 23:49:43 +0000 2020",
+    "display_text_range": [
+      0,
+      179
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            58,
+            68
+          ],
+          "text": "ChuckTodd"
+        },
+        {
+          "indices": [
+            82,
+            95
+          ],
+          "text": "MeetThePress"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/KerriKupecDOJ/\u2026",
+          "expanded_url": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504",
+          "indices": [
+            180,
+            203
+          ],
+          "url": "https://t.co/6s6snnfBwg"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 50325797,
+          "id_str": "50325797",
+          "indices": [
+            47,
+            57
+          ],
+          "name": "Chuck Todd",
+          "screen_name": "chucktodd"
+        },
+        {
+          "id": 14173315,
+          "id_str": "14173315",
+          "indices": [
+            73,
+            81
+          ],
+          "name": "NBC News",
+          "screen_name": "NBCNews"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            145,
+            153
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        },
+        {
+          "id": 352211941,
+          "id_str": "352211941",
+          "indices": [
+            154,
+            170
+          ],
+          "name": "SiriusXM Patriot",
+          "screen_name": "SiriusXMPatriot"
+        },
+        {
+          "id": 1917731,
+          "id_str": "1917731",
+          "indices": [
+            171,
+            179
+          ],
+          "name": "The Hill",
+          "screen_name": "thehill"
+        }
+      ]
+    },
+    "favorite_count": 24071,
+    "favorited": false,
+    "full_text": "It's not even the pretense of news any more by @ChuckTodd #ChuckTodd and @NBCNews #MeetThePress. I'm not disappointed. This is what is expected. @FoxNews @SiriusXMPatriot @thehill https://t.co/6s6snnfBwg",
+    "geo": null,
+    "id": 1259631735630946306,
+    "id_str": "1259631735630946306",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun May 10 17:17:00 +0000 2020",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PR1ciceMmE",
+            "expanded_url": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504/photo/1",
+            "id": 1259532900296536066,
+            "id_str": "1259532900296536066",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/EXrCf-EXsAIyvR5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EXrCf-EXsAIyvR5.jpg",
+            "sizes": {
+              "large": {
+                "h": 1903,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 783
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 444
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PR1ciceMmE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 50325797,
+            "id_str": "50325797",
+            "indices": [
+              57,
+              67
+            ],
+            "name": "Chuck Todd",
+            "screen_name": "chucktodd"
+          },
+          {
+            "id": 11856892,
+            "id_str": "11856892",
+            "indices": [
+              71,
+              84
+            ],
+            "name": "Meet the Press",
+            "screen_name": "MeetThePress"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PR1ciceMmE",
+            "expanded_url": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504/photo/1",
+            "id": 1259532900296536066,
+            "id_str": "1259532900296536066",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/EXrCf-EXsAIyvR5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EXrCf-EXsAIyvR5.jpg",
+            "sizes": {
+              "large": {
+                "h": 1903,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 783
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 444
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PR1ciceMmE"
+          },
+          {
+            "display_url": "pic.twitter.com/PR1ciceMmE",
+            "expanded_url": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504/photo/1",
+            "id": 1259532900292329473,
+            "id_str": "1259532900292329473",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/EXrCf-DXgAEZzTU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EXrCf-DXgAEZzTU.jpg",
+            "sizes": {
+              "large": {
+                "h": 1456,
+                "resize": "fit",
+                "w": 1242
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 580
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PR1ciceMmE"
+          }
+        ]
+      },
+      "favorite_count": 29223,
+      "favorited": false,
+      "full_text": "Very disappointed by the deceptive editing/commentary by @ChuckTodd on @MeetThePress on AG Barr\u2019s CBS interview. \n\nCompare the two transcripts below. Not only did the AG make the case in the VERY answer Chuck says he didn\u2019t, he also did so multiple times throughout the interview. https://t.co/PR1ciceMmE",
+      "geo": null,
+      "id": 1259532906722197504,
+      "id_str": "1259532906722197504",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.144435,
+                38.789907
+              ],
+              [
+                -77.037304,
+                38.789907
+              ],
+              [
+                -77.037304,
+                38.8448531
+              ],
+              [
+                -77.144435,
+                38.8448531
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Alexandria, VA",
+        "id": "d6819fe60643ebc1",
+        "name": "Alexandria",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 15510,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Nov 13 22:02:39 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Official DOJ Twitter account. AG Barr Spox; Dir. of Comms & Public Affairs @TheJusticeDept. Privacy Policy: https://t.co/0qnvVwjX9m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "justice.gov/doj/privacy-po\u2026",
+                "expanded_url": "https://www.justice.gov/doj/privacy-policy#visiting",
+                "indices": [
+                  108,
+                  131
+                ],
+                "url": "https://t.co/0qnvVwjX9m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "justice.gov/opa",
+                "expanded_url": "http://justice.gov/opa",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/yaajCD2PpK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 373,
+        "follow_request_sent": false,
+        "followers_count": 32303,
+        "following": false,
+        "friends_count": 23,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1062465792212717574,
+        "id_str": "1062465792212717574",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 136,
+        "location": "Washington, DC",
+        "name": "KerriKupecDOJ",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1062465792212717574/1542148241",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1216849163821993984/eXhtuchg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216849163821993984/eXhtuchg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KerriKupecDOJ",
+        "statuses_count": 554,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/yaajCD2PpK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1259532906722197504,
+    "quoted_status_id_str": "1259532906722197504",
+    "quoted_status_permalink": {
+      "display": "twitter.com/KerriKupecDOJ/\u2026",
+      "expanded": "https://twitter.com/KerriKupecDOJ/status/1259532906722197504",
+      "url": "https://t.co/6s6snnfBwg"
+    },
+    "retweet_count": 9016,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Mar 14 00:51:43 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "SiriusXM Patriot host M-F 9am east/6am west. Fox Nation host, Fox News contributor, The Hill columnist, RTs \u2260 endorsements.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3047,
+      "follow_request_sent": false,
+      "followers_count": 173219,
+      "following": false,
+      "friends_count": 649,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 24295482,
+      "id_str": "24295482",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1355,
+      "location": "New York City",
+      "name": "David Webb",
+      "notifications": false,
+      "profile_background_color": "800000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24295482/1556752978",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/859913302117318657/0kuQZV0A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/859913302117318657/0kuQZV0A_normal.jpg",
+      "profile_link_color": "870303",
+      "profile_sidebar_border_color": "1805F0",
+      "profile_sidebar_fill_color": "E8E8E8",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "davidwebbshow",
+      "statuses_count": 88552,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79761118,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114822,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51530,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

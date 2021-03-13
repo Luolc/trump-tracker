@@ -1,0 +1,421 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 23 00:37:47 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 823367015830323201,
+        "id_str": "823367015830323201",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Scavino45"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Scavino45: \u201cAs long as I am your president, you can feel confident that you have a leader who will always fight for you...and I will no\u2026",
+  "geo": null,
+  "id": 1241886828749299715,
+  "id_str": "1241886828749299715",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13863,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 22 22:24:34 +0000 2020",
+    "display_text_range": [
+      0,
+      193
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OjyhjOMGBh",
+          "expanded_url": "https://twitter.com/ABC/status/1241852468155133953/video/1",
+          "id": 1241852164923768832,
+          "id_str": "1241852164923768832",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1241852164923768832/img/1SXxQnj9YzAasnZB.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1241852164923768832/img/1SXxQnj9YzAasnZB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1241852468155133953,
+          "source_status_id_str": "1241852468155133953",
+          "source_user_id": 28785486,
+          "source_user_id_str": "28785486",
+          "type": "photo",
+          "url": "https://t.co/OjyhjOMGBh"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            146,
+            152
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            153,
+            169
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/abcnews",
+                      "expanded_url": "http://instagram.com/abcnews",
+                      "indices": [
+                        77,
+                        100
+                      ],
+                      "url": "https://t.co/PKeobr4xt0"
+                    },
+                    {
+                      "display_url": "abcn.ws/tips",
+                      "expanded_url": "https://abcn.ws/tips",
+                      "indices": [
+                        107,
+                        130
+                      ],
+                      "url": "https://t.co/2ICEX6CuXd"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "abcnews.go.com",
+                      "expanded_url": "https://abcnews.go.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/B4vihbwCGa"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 32,
+              "follow_request_sent": false,
+              "followers_count": 15187106,
+              "following": false,
+              "friends_count": 527,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 28785486,
+              "id_str": "28785486",
+              "is_translation_enabled": true,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 59721,
+              "location": "New York City / Worldwide",
+              "name": "ABC News",
+              "notifications": false,
+              "profile_background_color": "6E8EB5",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+              "profile_link_color": "336699",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "ABC",
+              "statuses_count": 293901,
+              "time_zone": null,
+              "translator_type": "regular",
+              "url": "https://t.co/B4vihbwCGa",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/OjyhjOMGBh",
+          "expanded_url": "https://twitter.com/ABC/status/1241852468155133953/video/1",
+          "id": 1241852164923768832,
+          "id_str": "1241852164923768832",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1241852164923768832/img/1SXxQnj9YzAasnZB.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1241852164923768832/img/1SXxQnj9YzAasnZB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1241852468155133953,
+          "source_status_id_str": "1241852468155133953",
+          "source_user_id": 28785486,
+          "source_user_id_str": "28785486",
+          "type": "video",
+          "url": "https://t.co/OjyhjOMGBh",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 72096,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1241852164923768832/vid/640x360/Jrd9nb3QA0w_Am6a.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1241852164923768832/vid/1280x720/gIoIeWTUblUKpRsH.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1241852164923768832/pl/zkFaAEN0BQuCV6GB.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1241852164923768832/vid/480x270/uXo5XSfUb4aZpYrq.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 58503,
+    "favorited": false,
+    "full_text": "\u201cAs long as I am your president, you can feel confident that you have a leader who will always fight for you...and I will not stop until we win.\"\n@POTUS @realDonaldTrump https://t.co/OjyhjOMGBh",
+    "geo": null,
+    "id": 1241853300598808578,
+    "id_str": "1241853300598808578",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13863,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8Personal account @DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "coronavirus.gov",
+              "expanded_url": "http://coronavirus.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iSrMWKVV0a"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1017,
+      "follow_request_sent": false,
+      "followers_count": 563212,
+      "following": false,
+      "friends_count": 992,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2691,
+      "location": "1600 Pennsylvania Avenue ",
+      "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1583518138",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 5798,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iSrMWKVV0a",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74842210,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117395,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50101,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

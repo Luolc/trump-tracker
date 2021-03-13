@@ -1,0 +1,458 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 09 15:20:17 +0000 2020",
+  "display_text_range": [
+    0,
+    106
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4121225056,
+        "id_str": "4121225056",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Corey R. Lewandowski",
+        "screen_name": "CLewandowski_"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          25,
+          41
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CLewandowski_: Watch @realDonaldTrump win big in N.H. on Tuesday and see Uncle Joe have a tough night.",
+  "geo": null,
+  "id": 1226526237599895554,
+  "id_str": "1226526237599895554",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1226337412705587201,
+  "quoted_status_id_str": "1226337412705587201",
+  "quoted_status_permalink": {
+    "display": "twitter.com/judgejeanine/s\u2026",
+    "expanded": "https://twitter.com/judgejeanine/status/1226337412705587201",
+    "url": "https://t.co/pVd1jC5vwP"
+  },
+  "retweet_count": 4489,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 09 02:57:49 +0000 2020",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/judgejeanine/s\u2026",
+          "expanded_url": "https://twitter.com/judgejeanine/status/1226337412705587201",
+          "indices": [
+            88,
+            111
+          ],
+          "url": "https://t.co/pVd1jC5vwP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            6,
+            22
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 16962,
+    "favorited": false,
+    "full_text": "Watch @realDonaldTrump win big in N.H. on Tuesday and see Uncle Joe have a tough night. https://t.co/pVd1jC5vwP",
+    "geo": null,
+    "id": 1226339391464976385,
+    "id_str": "1226339391464976385",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Feb 09 02:49:58 +0000 2020",
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cw9liKkbdX",
+            "expanded_url": "https://twitter.com/JudgeJeanine/status/1226337412705587201/video/1",
+            "id": 1226334861671182337,
+            "id_str": "1226334861671182337",
+            "indices": [
+              174,
+              197
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1226334861671182337/img/v6x3IbG80HT2wPnG.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1226334861671182337/img/v6x3IbG80HT2wPnG.jpg",
+            "sizes": {
+              "large": {
+                "h": 432,
+                "resize": "fit",
+                "w": 786
+              },
+              "medium": {
+                "h": 432,
+                "resize": "fit",
+                "w": 786
+              },
+              "small": {
+                "h": 374,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cw9liKkbdX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 4121225056,
+            "id_str": "4121225056",
+            "indices": [
+              96,
+              110
+            ],
+            "name": "Corey R. Lewandowski",
+            "screen_name": "CLewandowski_"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/cw9liKkbdX",
+            "expanded_url": "https://twitter.com/JudgeJeanine/status/1226337412705587201/video/1",
+            "id": 1226334861671182337,
+            "id_str": "1226334861671182337",
+            "indices": [
+              174,
+              197
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1226334861671182337/img/v6x3IbG80HT2wPnG.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1226334861671182337/img/v6x3IbG80HT2wPnG.jpg",
+            "sizes": {
+              "large": {
+                "h": 432,
+                "resize": "fit",
+                "w": 786
+              },
+              "medium": {
+                "h": 432,
+                "resize": "fit",
+                "w": 786
+              },
+              "small": {
+                "h": 374,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/cw9liKkbdX",
+            "video_info": {
+              "aspect_ratio": [
+                131,
+                72
+              ],
+              "duration_millis": 307067,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1226334861671182337/vid/490x270/MKAjvxUFv9ZaPbLh.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1226334861671182337/pl/BkK07_xlzpoHG7Fh.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1226334861671182337/vid/786x432/WyP1EGUWgvaYHhkl.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2748,
+      "favorited": false,
+      "full_text": "\u201cI think Tuesday night he is going to win here as the Democrat\u201d \u2014 Former Trump Campaign Manager @CLewandowski_ referring to Bernie Sanders\u2019 chances of winning New Hampshire. https://t.co/cw9liKkbdX",
+      "geo": null,
+      "id": 1226337412705587201,
+      "id_str": "1226337412705587201",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 863,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Apr 07 14:27:06 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Judge Pirro is a highly respected District Attorney, Judge, author & renowned champion of the underdog. She hosts the Fox News show, Justice with Judge Jeanine.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/radicalsresist\u2026",
+                "expanded_url": "http://bit.ly/radicalsresistance",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/tpWA70DIe0"
+              }
+            ]
+          }
+        },
+        "favourites_count": 243,
+        "follow_request_sent": false,
+        "followers_count": 1870854,
+        "following": false,
+        "friends_count": 463,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 29458079,
+        "id_str": "29458079",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5134,
+        "location": "New York, NY",
+        "name": "Jeanine Pirro",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/29458079/1579535022",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "187CAB",
+        "profile_sidebar_fill_color": "92CEE0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JudgeJeanine",
+        "statuses_count": 17120,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/tpWA70DIe0",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1226337412705587201,
+    "quoted_status_id_str": "1226337412705587201",
+    "quoted_status_permalink": {
+      "display": "twitter.com/judgejeanine/s\u2026",
+      "expanded": "https://twitter.com/judgejeanine/status/1226337412705587201",
+      "url": "https://t.co/pVd1jC5vwP"
+    },
+    "retweet_count": 4489,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 05 18:19:17 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TV Commentator, Campaign Manager Donald J. Trump for President 2016, 2X NYTimes Best Selling Author. Senior Advisor to Trump 2020",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "roughrider.media",
+              "expanded_url": "http://www.roughrider.media",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DKEEYIPuND"
+            }
+          ]
+        }
+      },
+      "favourites_count": 333,
+      "follow_request_sent": false,
+      "followers_count": 502507,
+      "following": false,
+      "friends_count": 49,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 4121225056,
+      "id_str": "4121225056",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2468,
+      "location": "Washington, DC",
+      "name": "Corey R. Lewandowski",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4121225056/1525173964",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1164917635118747648/CWr4Ws2J_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164917635118747648/CWr4Ws2J_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CLewandowski_",
+      "statuses_count": 2745,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DKEEYIPuND",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72368568,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114441,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48901,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

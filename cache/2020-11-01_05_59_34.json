@@ -1,0 +1,509 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 01 05:59:34 +0000 2020",
+  "display_text_range": [
+    0,
+    118
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/8nRjKSTsp2",
+        "expanded_url": "https://twitter.com/GOP/status/1322598820082049025/video/1",
+        "id": 1322598733142478850,
+        "id_str": "1322598733142478850",
+        "indices": [
+          95,
+          118
+        ],
+        "media_url": "http://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1322598820082049025,
+        "source_status_id_str": "1322598820082049025",
+        "source_user_id": 11134252,
+        "source_user_id_str": "11134252",
+        "type": "photo",
+        "url": "https://t.co/8nRjKSTsp2"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          78,
+          94
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Text TWITTER to 80810 to receive exclusive updates from the Republican National Committee!",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "goo.gl/xqho9k",
+                    "expanded_url": "https://goo.gl/xqho9k",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/TuMeEDhfc4"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 264,
+            "follow_request_sent": false,
+            "followers_count": 2561440,
+            "following": false,
+            "friends_count": 1653,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 11134252,
+            "id_str": "11134252",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 10486,
+            "location": "",
+            "name": "GOP",
+            "notifications": false,
+            "profile_background_color": "F0F0F0",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+            "profile_link_color": "F1242B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "F5F5F5",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "GOP",
+            "statuses_count": 43953,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/TuMeEDhfc4",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/8nRjKSTsp2",
+        "expanded_url": "https://twitter.com/GOP/status/1322598820082049025/video/1",
+        "id": 1322598733142478850,
+        "id_str": "1322598733142478850",
+        "indices": [
+          95,
+          118
+        ],
+        "media_url": "http://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1322598820082049025,
+        "source_status_id_str": "1322598820082049025",
+        "source_user_id": 11134252,
+        "source_user_id_str": "11134252",
+        "type": "video",
+        "url": "https://t.co/8nRjKSTsp2",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 96801,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/1280x720/2dr96i8qZ8cP1Hk2.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1322598733142478850/pl/LxH2HDVsUtrdx5G0.m3u8?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/480x270/-Nn13A99KpPrbaGF.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/640x360/BACVwoYa3rQwEGzM.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOP: \u201cLast night, our brave Special Forces rescued an American hostage.\u201d -@realDonaldTrump https://t.co/8nRjKSTsp2",
+  "geo": null,
+  "id": 1322780299328167938,
+  "id_str": "1322780299328167938",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 9327,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 31 17:58:26 +0000 2020",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8nRjKSTsp2",
+          "expanded_url": "https://twitter.com/GOP/status/1322598820082049025/video/1",
+          "id": 1322598733142478850,
+          "id_str": "1322598733142478850",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8nRjKSTsp2"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            69,
+            85
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/8nRjKSTsp2",
+          "expanded_url": "https://twitter.com/GOP/status/1322598820082049025/video/1",
+          "id": 1322598733142478850,
+          "id_str": "1322598733142478850",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElrQnYxWkAEqbTI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/8nRjKSTsp2",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 96801,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/1280x720/2dr96i8qZ8cP1Hk2.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1322598733142478850/pl/LxH2HDVsUtrdx5G0.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/480x270/-Nn13A99KpPrbaGF.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1322598733142478850/vid/640x360/BACVwoYa3rQwEGzM.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 44562,
+    "favorited": false,
+    "full_text": "\u201cLast night, our brave Special Forces rescued an American hostage.\u201d -@realDonaldTrump https://t.co/8nRjKSTsp2",
+    "geo": null,
+    "id": 1322598820082049025,
+    "id_str": "1322598820082049025",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9327,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Text TWITTER to 80810 to receive exclusive updates from the Republican National Committee!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 264,
+      "follow_request_sent": false,
+      "followers_count": 2561440,
+      "following": false,
+      "friends_count": 1653,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10486,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 43953,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87373210,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121910,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57966,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

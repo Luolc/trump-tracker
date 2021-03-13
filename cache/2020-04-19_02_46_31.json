@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 19 02:46:31 +0000 2020",
+  "display_text_range": [
+    0,
+    43
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Great news, thank you!",
+  "geo": null,
+  "id": 1251703696385290240,
+  "id_str": "1251703696385290240",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1251200015508344832,
+  "quoted_status_id_str": "1251200015508344832",
+  "quoted_status_permalink": {
+    "display": "twitter.com/gm/status/1251\u2026",
+    "expanded": "https://twitter.com/gm/status/1251200015508344832",
+    "url": "https://t.co/hp4TCZQW9r"
+  },
+  "retweet_count": 14345,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 17:05:13 +0000 2020",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/gm/status/1251\u2026",
+          "expanded_url": "https://twitter.com/gm/status/1251200015508344832",
+          "indices": [
+            23,
+            46
+          ],
+          "url": "https://t.co/hp4TCZQW9r"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 61289,
+    "favorited": false,
+    "full_text": "Great news, thank you! https://t.co/hp4TCZQW9r",
+    "geo": null,
+    "id": 1251557409061056519,
+    "id_str": "1251557409061056519",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 17 17:25:04 +0000 2020",
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/v041cwM4BI",
+            "expanded_url": "https://twitter.com/GM/status/1251200015508344832/photo/1",
+            "id": 1251200013113470984,
+            "id_str": "1251200013113470984",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EV0nyGSXsAg_kax.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EV0nyGSXsAg_kax.jpg",
+            "sizes": {
+              "large": {
+                "h": 872,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 872,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 494,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/v041cwM4BI"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "s.gm.com/tj6w6",
+            "expanded_url": "https://s.gm.com/tj6w6",
+            "indices": [
+              232,
+              255
+            ],
+            "url": "https://t.co/3yCXpuYv15"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/v041cwM4BI",
+            "expanded_url": "https://twitter.com/GM/status/1251200015508344832/photo/1",
+            "id": 1251200013113470984,
+            "id_str": "1251200013113470984",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EV0nyGSXsAg_kax.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EV0nyGSXsAg_kax.jpg",
+            "sizes": {
+              "large": {
+                "h": 872,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 872,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 494,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/v041cwM4BI"
+          }
+        ]
+      },
+      "favorite_count": 5457,
+      "favorited": false,
+      "full_text": "This box is filled with Ventec critical-care ventilators capable of helping those seriously ill with COVID-19. Signed by our employees in Kokomo, IN, this box and many more arrived at Chicagoland hospitals this morning. Learn more: https://t.co/3yCXpuYv15 https://t.co/v041cwM4BI",
+      "geo": null,
+      "id": 1251200015508344832,
+      "id_str": "1251200015508344832",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1630,
+      "retweeted": false,
+      "source": "<a href=\"https://www.spredfast.com/\" rel=\"nofollow\">Khoros</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 04 20:43:28 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We\u2019re on a journey to create a world with zero crashes, zero emissions and zero congestion. See how we\u2019ll get there. Privacy Statement: https://t.co/u3I3TbTZSR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2klxld5",
+                "expanded_url": "http://bit.ly/2klxld5",
+                "indices": [
+                  136,
+                  159
+                ],
+                "url": "https://t.co/u3I3TbTZSR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gm.com",
+                "expanded_url": "https://www.gm.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/LFnVrYy6kW"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1656,
+        "follow_request_sent": false,
+        "followers_count": 738470,
+        "following": false,
+        "friends_count": 6237,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 10850192,
+        "id_str": "10850192",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4423,
+        "location": "Detroit, MI",
+        "name": "General Motors",
+        "notifications": false,
+        "profile_background_color": "F7E6F7",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/10850192/1583160327",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1128385203687383040/gkrotM7N_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128385203687383040/gkrotM7N_normal.png",
+        "profile_link_color": "0066CC",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0E6EF",
+        "profile_text_color": "444444",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "GM",
+        "statuses_count": 16579,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/LFnVrYy6kW",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1251200015508344832,
+    "quoted_status_id_str": "1251200015508344832",
+    "quoted_status_permalink": {
+      "display": "twitter.com/gm/status/1251\u2026",
+      "expanded": "https://twitter.com/gm/status/1251200015508344832",
+      "url": "https://t.co/hp4TCZQW9r"
+    },
+    "retweet_count": 14345,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 77660651,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 119746,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 50774,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

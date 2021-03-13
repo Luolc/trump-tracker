@@ -1,0 +1,131 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 14:30:39 +0000 2020",
+  "display_text_range": [
+    0,
+    283
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          236,
+          247
+        ],
+        "text": "ConfirmACB"
+      },
+      {
+        "indices": [
+          251,
+          258
+        ],
+        "text": "SCOTUS"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "amazon.com/One-Vote-Away-\u2026",
+        "expanded_url": "https://www.amazon.com/One-Vote-Away-Supreme-History/dp/1684511348",
+        "indices": [
+          260,
+          283
+        ],
+        "url": "https://t.co/M9xyXiUti2"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          131,
+          139
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 12767,
+  "favorited": false,
+  "full_text": "Our Great 1st Amendment, our Great 2nd Amendment, our right to worship God &amp; so much more comes down to one vote on the Court. @TedCruz has a fantastic new book, \u201cOne Vote Away\u201d, out today! It's the best book to read as we fight to #ConfirmACB to #SCOTUS. https://t.co/M9xyXiUti2",
+  "geo": null,
+  "id": 1310950121329356802,
+  "id_str": "1310950121329356802",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3421,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

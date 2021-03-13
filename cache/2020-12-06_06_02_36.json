@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 06 06:02:36 +0000 2020",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kylenabecker/s\u2026",
+        "expanded_url": "https://twitter.com/kylenabecker/status/1333849243287687172",
+        "indices": [
+          18,
+          41
+        ],
+        "url": "https://t.co/45q70Ps7oK"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 89400,
+  "favorited": false,
+  "full_text": "Melissa is great! https://t.co/45q70Ps7oK",
+  "geo": null,
+  "id": 1335464641301008384,
+  "id_str": "1335464641301008384",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 19:03:35 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            253,
+            269
+          ],
+          "text": "MichiganHearing"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/t1D91ROqVc",
+          "expanded_url": "https://twitter.com/kylenabecker/status/1333849243287687172/video/1",
+          "id": 1333848289016483842,
+          "id_str": "1333848289016483842",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333848289016483842/pu/img/Ud4JFr124UPMY4jS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333848289016483842/pu/img/Ud4JFr124UPMY4jS.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/t1D91ROqVc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/t1D91ROqVc",
+          "expanded_url": "https://twitter.com/kylenabecker/status/1333849243287687172/video/1",
+          "id": 1333848289016483842,
+          "id_str": "1333848289016483842",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1333848289016483842/pu/img/Ud4JFr124UPMY4jS.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1333848289016483842/pu/img/Ud4JFr124UPMY4jS.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/t1D91ROqVc",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 90757,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1333848289016483842/pu/vid/640x360/vhWPyZ4fpxFvrmHV.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1333848289016483842/pu/pl/wT8aCzvsg8NFlMyO.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1333848289016483842/pu/vid/480x270/NTLvpYOEfsDzUePE.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16593,
+    "favorited": false,
+    "full_text": "DOMINION.\ud83d\udea8\n\n\"What I witnessed at the TCF center was complete f****.\"\n\n\"There was batches of ballots being ran through the tabulating machines numerous times. Being counted 8-10 TIMES.\"\n\nDominion contractor Melissa Carone EXPOSES this election fiasco at #MichiganHearing. WATCH:\ud83d\udd3b https://t.co/t1D91ROqVc",
+    "geo": null,
+    "id": 1333849243287687172,
+    "id_str": "1333849243287687172",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5994,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jun 22 12:06:56 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Independent Journalist. Fmr. Assoc. Prod./Writer @FoxNews. Fmr. Director of Viral Media @TheIJR. Parler: https://t.co/rEoO7uikVX",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "parler.com/profile/kylenb\u2026",
+              "expanded_url": "https://parler.com/profile/kylenbecker/posts",
+              "indices": [
+                105,
+                128
+              ],
+              "url": "https://t.co/rEoO7uikVX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 133392,
+      "follow_request_sent": false,
+      "followers_count": 129417,
+      "following": false,
+      "friends_count": 4681,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 321954654,
+      "id_str": "321954654",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 910,
+      "location": "New York, NY",
+      "name": "Kyle Becker",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/321954654/1603398693",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1323382428271104001/5WW7wgCl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1323382428271104001/5WW7wgCl_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kylenabecker",
+      "statuses_count": 6526,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1333849243287687172,
+  "quoted_status_id_str": "1333849243287687172",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kylenabecker/s\u2026",
+    "expanded": "https://twitter.com/kylenabecker/status/1333849243287687172",
+    "url": "https://t.co/45q70Ps7oK"
+  },
+  "retweet_count": 19549,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88721399,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125681,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58985,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 29 12:33:49 +0000 2020",
+  "display_text_range": [
+    0,
+    53
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/gop/status/129\u2026",
+        "expanded_url": "https://twitter.com/gop/status/1299455926903111682",
+        "indices": [
+          54,
+          77
+        ],
+        "url": "https://t.co/Mbnp96Lu0x"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 14176,
+  "favorited": false,
+  "full_text": "Steve has my Complete and Total support. HE IS GREAT! https://t.co/Mbnp96Lu0x",
+  "geo": null,
+  "id": 1299686694380359680,
+  "id_str": "1299686694380359680",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 28 21:16:50 +0000 2020",
+    "display_text_range": [
+      0,
+      209
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            187,
+            193
+          ],
+          "text": "MTSen"
+        },
+        {
+          "indices": [
+            194,
+            200
+          ],
+          "text": "mtpol"
+        },
+        {
+          "indices": [
+            201,
+            209
+          ],
+          "text": "RNC2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4p6Fxec61x",
+          "expanded_url": "https://twitter.com/GOP/status/1299455926903111682/video/1",
+          "id": 1299455729917665281,
+          "id_str": "1299455729917665281",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgiYRizWAAYa5DY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgiYRizWAAYa5DY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4p6Fxec61x"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 214767677,
+          "id_str": "214767677",
+          "indices": [
+            118,
+            130
+          ],
+          "name": "Team Daines",
+          "screen_name": "DainesforMT"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/4p6Fxec61x",
+          "expanded_url": "https://twitter.com/GOP/status/1299455926903111682/video/1",
+          "id": 1299455729917665281,
+          "id_str": "1299455729917665281",
+          "indices": [
+            210,
+            233
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgiYRizWAAYa5DY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgiYRizWAAYa5DY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4p6Fxec61x",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 137938,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1299455729917665281/vid/1280x720/RARQ55LsTTXnXgSt.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1299455729917665281/pl/lnNj-bCGT_cKuBuK.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1299455729917665281/vid/640x360/ptTdYz7nrcm8IVt0.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1299455729917665281/vid/480x270/OIoj8yKs7hiv--wC.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1098,
+    "favorited": false,
+    "full_text": "\ud83d\udc18MEET THE CANDIDATE: Steve Daines\ud83d\udc18\n \n\u2014Fmr. Businessman, Fmr. U.S. House Rep, and Current U.S. Senator for Montana \n \n\u2014@DainesforMT is the Republican Nominee for U.S. Senate in Montana \n \n#MTSen #mtpol #RNC2020 https://t.co/4p6Fxec61x",
+    "geo": null,
+    "id": 1299455926903111682,
+    "id_str": "1299455926903111682",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 413,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Text TWITTER to 80810 to receive exclusive updates from the Republican National Committee!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 264,
+      "follow_request_sent": false,
+      "followers_count": 2474569,
+      "following": false,
+      "friends_count": 1656,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9974,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 42374,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1299455926903111682,
+  "quoted_status_id_str": "1299455926903111682",
+  "quoted_status_permalink": {
+    "display": "twitter.com/gop/status/129\u2026",
+    "expanded": "https://twitter.com/gop/status/1299455926903111682",
+    "url": "https://t.co/Mbnp96Lu0x"
+  },
+  "retweet_count": 3772,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85628577,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118777,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55067,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

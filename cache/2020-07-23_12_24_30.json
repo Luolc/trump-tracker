@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:24:30 +0000 2020",
+  "display_text_range": [
+    0,
+    57
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 384910109,
+        "id_str": "384910109",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Kimberley Strassel",
+        "screen_name": "KimStrassel"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KimStrassel: This is what Joe Biden calls \"peaceful.\"",
+  "geo": null,
+  "id": 1286275997676048384,
+  "id_str": "1286275997676048384",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1285886884774842369,
+  "quoted_status_id_str": "1285886884774842369",
+  "quoted_status_permalink": {
+    "display": "twitter.com/PortlandPolice\u2026",
+    "expanded": "https://twitter.com/PortlandPolice/status/1285886884774842369",
+    "url": "https://t.co/SvqXOjIQjs"
+  },
+  "retweet_count": 4753,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 22 16:53:03 +0000 2020",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/PortlandPolice\u2026",
+          "expanded_url": "https://twitter.com/PortlandPolice/status/1285886884774842369",
+          "indices": [
+            41,
+            64
+          ],
+          "url": "https://t.co/SvqXOjIQjs"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12216,
+    "favorited": false,
+    "full_text": "This is what Joe Biden calls \"peaceful.\" https://t.co/SvqXOjIQjs",
+    "geo": null,
+    "id": 1285981192655745025,
+    "id_str": "1285981192655745025",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 22 10:38:18 +0000 2020",
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CdITsaGeJr",
+            "expanded_url": "https://twitter.com/PortlandPolice/status/1285886884774842369/photo/1",
+            "id": 1285886883420147712,
+            "id_str": "1285886883420147712",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/EdhjTruXkAAna_Y.png",
+            "media_url_https": "https://pbs.twimg.com/media/EdhjTruXkAAna_Y.png",
+            "sizes": {
+              "large": {
+                "h": 512,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 512,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 340,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CdITsaGeJr"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "portlandoregon.gov/police/news/re\u2026",
+            "expanded_url": "https://www.portlandoregon.gov/police/news/read.cfm?id=251017&ec=1&ch=twitter",
+            "indices": [
+              95,
+              118
+            ],
+            "url": "https://t.co/VlJJJW66sc"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/CdITsaGeJr",
+            "expanded_url": "https://twitter.com/PortlandPolice/status/1285886884774842369/photo/1",
+            "id": 1285886883420147712,
+            "id_str": "1285886883420147712",
+            "indices": [
+              119,
+              142
+            ],
+            "media_url": "http://pbs.twimg.com/media/EdhjTruXkAAna_Y.png",
+            "media_url_https": "https://pbs.twimg.com/media/EdhjTruXkAAna_Y.png",
+            "sizes": {
+              "large": {
+                "h": 512,
+                "resize": "fit",
+                "w": 1024
+              },
+              "medium": {
+                "h": 512,
+                "resize": "fit",
+                "w": 1024
+              },
+              "small": {
+                "h": 340,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/CdITsaGeJr"
+          }
+        ]
+      },
+      "favorite_count": 508,
+      "favorited": false,
+      "full_text": "Groups Attempt to Break in to Federal Courthouse, Light Fires, and Vandalize Property Downtown https://t.co/VlJJJW66sc https://t.co/CdITsaGeJr",
+      "geo": null,
+      "id": 1285886884774842369,
+      "id_str": "1285886884774842369",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 382,
+      "retweeted": false,
+      "source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 30 19:13:50 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Sworn to Protect. Dedicated to Serve. Portland, Oregon. NOT MONITORED 24/7. Call or Text 911 for Emergencies (in progress) or 503-823-3333 for Non-Emergencies.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portlandpolice.com",
+                "expanded_url": "http://www.portlandpolice.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/1yPZxPOpLh"
+              }
+            ]
+          }
+        },
+        "favourites_count": 814,
+        "follow_request_sent": false,
+        "followers_count": 219613,
+        "following": false,
+        "friends_count": 597,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14604442,
+        "id_str": "14604442",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1734,
+        "location": "Portland, Oregon",
+        "name": "Portland Police",
+        "notifications": false,
+        "profile_background_color": "003571",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14604442/1585687983",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278794889828810752/clnN3lm3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278794889828810752/clnN3lm3_normal.jpg",
+        "profile_link_color": "003571",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "ECEDEA",
+        "profile_text_color": "3C2626",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PortlandPolice",
+        "statuses_count": 21221,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1yPZxPOpLh",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1285886884774842369,
+    "quoted_status_id_str": "1285886884774842369",
+    "quoted_status_permalink": {
+      "display": "twitter.com/PortlandPolice\u2026",
+      "expanded": "https://twitter.com/PortlandPolice/status/1285886884774842369",
+      "url": "https://t.co/SvqXOjIQjs"
+    },
+    "retweet_count": 4753,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 04 15:00:44 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Potomac Watch columnist for Wall Street Journal edit page. Please order my new book! Resistance (At All Costs). https://t.co/g6cVbmus81",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/y23r5k6q",
+              "expanded_url": "http://tinyurl.com/y23r5k6q",
+              "indices": [
+                112,
+                135
+              ],
+              "url": "https://t.co/g6cVbmus81"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5030,
+      "follow_request_sent": false,
+      "followers_count": 422373,
+      "following": false,
+      "friends_count": 486,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 384910109,
+      "id_str": "384910109",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2513,
+      "location": "",
+      "name": "Kimberley Strassel",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/384910109/1571165408",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1658210459/strasshedcut_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KimStrassel",
+      "statuses_count": 6830,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

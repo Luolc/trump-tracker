@@ -1,0 +1,430 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 21:06:00 +0000 2020",
+  "display_text_range": [
+    0,
+    70
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          20,
+          25
+        ],
+        "text": "PA16"
+      },
+      {
+        "indices": [
+          26,
+          34
+        ],
+        "text": "Economy"
+      },
+      {
+        "indices": [
+          35,
+          45
+        ],
+        "text": "JobGrowth"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "mobile.twitter.com/DavidJUrban/st\u2026",
+        "expanded_url": "https://mobile.twitter.com/DavidJUrban/status/1248655193530667009",
+        "indices": [
+          47,
+          70
+        ],
+        "url": "https://t.co/UuaiIfTcfE"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 113763245,
+        "id_str": "113763245",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Mike Kelly for Congress",
+        "screen_name": "MikeKellyforPA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MikeKellyforPA: #PA16 #Economy #JobGrowth\n\nhttps://t.co/UuaiIfTcfE",
+  "geo": null,
+  "id": 1305613796346458112,
+  "id_str": "1305613796346458112",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1248655193530667009,
+  "quoted_status_id_str": "1248655193530667009",
+  "quoted_status_permalink": {
+    "display": "mobile.twitter.com/DavidJUrban/st\u2026",
+    "expanded": "https://mobile.twitter.com/DavidJUrban/status/1248655193530667009",
+    "url": "https://t.co/UuaiIfTcfE"
+  },
+  "retweet_count": 3628,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 11 20:17:15 +0000 2020",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            5
+          ],
+          "text": "PA16"
+        },
+        {
+          "indices": [
+            6,
+            14
+          ],
+          "text": "Economy"
+        },
+        {
+          "indices": [
+            15,
+            25
+          ],
+          "text": "JobGrowth"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "mobile.twitter.com/DavidJUrban/st\u2026",
+          "expanded_url": "https://mobile.twitter.com/DavidJUrban/status/1248655193530667009",
+          "indices": [
+            27,
+            50
+          ],
+          "url": "https://t.co/UuaiIfTcfE"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 11032,
+    "favorited": false,
+    "full_text": "#PA16 #Economy #JobGrowth\n\nhttps://t.co/UuaiIfTcfE",
+    "geo": null,
+    "id": 1249069021212925962,
+    "id_str": "1249069021212925962",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 10 16:52:51 +0000 2020",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              227,
+              238
+            ],
+            "text": "WhiteHouse"
+          },
+          {
+            "indices": [
+              241,
+              251
+            ],
+            "text": "Trump2020"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "thehill.com/opinion/energy\u2026",
+            "expanded_url": "https://thehill.com/opinion/energy-environment/491378-bidens-fracking-ban-will-derail-environmental-and-economic-gains",
+            "indices": [
+              252,
+              275
+            ],
+            "url": "https://t.co/P3WEtxQb9d"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1339835893,
+            "id_str": "1339835893",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "Hillary Clinton",
+            "screen_name": "HillaryClinton"
+          },
+          {
+            "id": 939091,
+            "id_str": "939091",
+            "indices": [
+              75,
+              84
+            ],
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              194,
+              210
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 33054,
+      "favorited": false,
+      "full_text": "@HillaryClinton said she would \"\u200bput a lot of coal miners out of jobs\" now @JoeBiden says the same thing to the hardworking men and women in the oil/gas industry in Pennsylvania? Another reason @realDonaldTrump re-takes PA and #WhiteHouse   #Trump2020 https://t.co/P3WEtxQb9d",
+      "geo": null,
+      "id": 1248655193530667009,
+      "id_str": "1248655193530667009",
+      "in_reply_to_screen_name": "HillaryClinton",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 1339835893,
+      "in_reply_to_user_id_str": "1339835893",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12262,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 13 17:28:17 +0000 2011",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "President, American Continental Group (ACG). Senior Advisor, 2016 @realDonaldTrump for President. Former Chief of Staff, US Senator Arlen Specter (R-PA).",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "acg-consultants.com",
+                "expanded_url": "http://www.acg-consultants.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Et74itsSR7"
+              }
+            ]
+          }
+        },
+        "favourites_count": 560,
+        "follow_request_sent": false,
+        "followers_count": 6617,
+        "following": false,
+        "friends_count": 1157,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 390232813,
+        "id_str": "390232813",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 42,
+        "location": "Washington, DC",
+        "name": "David J. Urban",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/390232813/1455143389",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/926940435939037184/zNQx1lpe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/926940435939037184/zNQx1lpe_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "DavidJUrban",
+        "statuses_count": 1268,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Et74itsSR7",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1248655193530667009,
+    "quoted_status_id_str": "1248655193530667009",
+    "quoted_status_permalink": {
+      "display": "mobile.twitter.com/DavidJUrban/st\u2026",
+      "expanded": "https://mobile.twitter.com/DavidJUrban/status/1248655193530667009",
+      "url": "https://t.co/UuaiIfTcfE"
+    },
+    "retweet_count": 3628,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 12 23:43:53 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "With your support, I can keep fighting to make sure that Washington works for you, and not the other way around.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "MikeKellyforCongress.com",
+              "expanded_url": "http://MikeKellyforCongress.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/b4dvfCcOho"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3,
+      "follow_request_sent": false,
+      "followers_count": 3139,
+      "following": false,
+      "friends_count": 1723,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 113763245,
+      "id_str": "113763245",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 152,
+      "location": "Butler, PA",
+      "name": "Mike Kelly for Congress",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/113763245/1462889154",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/436190930337419264/A236zORB_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/436190930337419264/A236zORB_normal.jpeg",
+      "profile_link_color": "0D6B23",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MikeKellyforPA",
+      "statuses_count": 406,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/b4dvfCcOho",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86042865,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119683,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600202078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56013,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 03 14:36:19 +0000 2020",
+  "display_text_range": [
+    0,
+    84
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/trumpturnberry\u2026",
+        "expanded_url": "https://twitter.com/trumpturnberry/status/1255812697150668801",
+        "indices": [
+          85,
+          108
+        ],
+        "url": "https://t.co/FfJyUmRdGi"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 55974,
+  "favorited": false,
+  "full_text": "So nice to see this great honor. Thank you (but haven\u2019t played golf in a long time)! https://t.co/FfJyUmRdGi",
+  "geo": null,
+  "id": 1256955754428448768,
+  "id_str": "1256955754428448768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 10:54:13 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            265,
+            280
+          ],
+          "text": "trumpturnberry"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HcYGPyj2eo",
+          "expanded_url": "https://twitter.com/TrumpTurnberry/status/1255812697150668801/photo/1",
+          "id": 1255812456238194693,
+          "id_str": "1255812456238194693",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EW2Kxn6WoAUEIQt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EW2Kxn6WoAUEIQt.jpg",
+          "sizes": {
+            "large": {
+              "h": 634,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 634,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 449,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HcYGPyj2eo"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 60866477,
+          "id_str": "60866477",
+          "indices": [
+            100,
+            111
+          ],
+          "name": "Golf World",
+          "screen_name": "GolfWorld1"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HcYGPyj2eo",
+          "expanded_url": "https://twitter.com/TrumpTurnberry/status/1255812697150668801/photo/1",
+          "id": 1255812456238194693,
+          "id_str": "1255812456238194693",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EW2Kxn6WoAUEIQt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EW2Kxn6WoAUEIQt.jpg",
+          "sizes": {
+            "large": {
+              "h": 634,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 634,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 449,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HcYGPyj2eo"
+        }
+      ]
+    },
+    "favorite_count": 1990,
+    "favorited": false,
+    "full_text": "We\u2019re delighted to announce Turnberry\u2019s 18-hole Ailsa golf course has once again been recognised by @GolfWorld1 as the best golf course in the UK and Ireland for 2020. \nWe\u2019d like to thank all of the wonderful readers and editors at Golf World for their nominations #trumpturnberry https://t.co/HcYGPyj2eo",
+    "geo": null,
+    "id": 1255812697150668801,
+    "id_str": "1255812697150668801",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 473,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jul 05 21:31:28 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A world-renowned Scottish resort on the iconic Ayrshire coast. Experience legendary golf, memorable dining, ESPA, unique events and family adventures.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "trumpturnberry.com",
+              "expanded_url": "http://www.trumpturnberry.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/q7Q9wBWixG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3183,
+      "follow_request_sent": false,
+      "followers_count": 19741,
+      "following": false,
+      "friends_count": 852,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 54013169,
+      "id_str": "54013169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 218,
+      "location": "Turnberry, Ayrshire, Scotland",
+      "name": "Trump Turnberry",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/54013169/1547732809",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085895876306972672/2iBgucJd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085895876306972672/2iBgucJd_normal.jpg",
+      "profile_link_color": "753C52",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TrumpTurnberry",
+      "statuses_count": 7100,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/q7Q9wBWixG",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1255812697150668801,
+  "quoted_status_id_str": "1255812697150668801",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trumpturnberry\u2026",
+    "expanded": "https://twitter.com/trumpturnberry/status/1255812697150668801",
+    "url": "https://t.co/FfJyUmRdGi"
+  },
+  "retweet_count": 11616,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79369844,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51222,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 10:52:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1022693675250249729,
+        "id_str": "1022693675250249729",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Drew Hernandez",
+        "screen_name": "livesmattershow"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @livesmattershow: These are the zombies that are calling for a revolution to move into power in the USA\n\nImagine these people becoming y\u2026",
+  "geo": null,
+  "id": 1300023595549298689,
+  "id_str": "1300023595549298689",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2357,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 29 09:59:31 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/pINXMkDYuZ",
+          "expanded_url": "https://twitter.com/MacSmiff/status/1299560177549496320/video/1",
+          "id": 1299560106963550208,
+          "id_str": "1299560106963550208",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299560106963550208/pu/img/dUerQz0cvkVVJzqt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299560106963550208/pu/img/dUerQz0cvkVVJzqt.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1299560177549496320,
+          "source_status_id_str": "1299560177549496320",
+          "source_user_id": 42458463,
+          "source_user_id_str": "42458463",
+          "type": "photo",
+          "url": "https://t.co/pINXMkDYuZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon May 25 18:30:20 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Not in DC because my problems are local. |\n\n#DefundThePolice #InvestInCommunity |\n\nVenmo: @MacSmiff \nCashApp: $MacSmiff",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "MacSmiff.com",
+                      "expanded_url": "http://MacSmiff.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/54ctiKegIl"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 79930,
+              "follow_request_sent": false,
+              "followers_count": 17653,
+              "following": false,
+              "friends_count": 1047,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 42458463,
+              "id_str": "42458463",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 268,
+              "location": "Portland, OR",
+              "name": "Defund PPB \ud83c\udfc1\ud83d\udc0d",
+              "notifications": false,
+              "profile_background_color": "9AE4E8",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/42458463/1586028762",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1299372056664969216/P5v5WRKj_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299372056664969216/P5v5WRKj_normal.jpg",
+              "profile_link_color": "008FB3",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDFFCC",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "MacSmiff",
+              "statuses_count": 174260,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/54ctiKegIl",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/pINXMkDYuZ",
+          "expanded_url": "https://twitter.com/MacSmiff/status/1299560177549496320/video/1",
+          "id": 1299560106963550208,
+          "id_str": "1299560106963550208",
+          "indices": [
+            255,
+            278
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299560106963550208/pu/img/dUerQz0cvkVVJzqt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299560106963550208/pu/img/dUerQz0cvkVVJzqt.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1299560177549496320,
+          "source_status_id_str": "1299560177549496320",
+          "source_user_id": 42458463,
+          "source_user_id_str": "42458463",
+          "type": "video",
+          "url": "https://t.co/pINXMkDYuZ",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 24336,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1299560106963550208/pu/vid/320x568/texbfV03ZUOX-W1K.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1299560106963550208/pu/pl/Qopd2Bf94Q1PEFWl.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1299560106963550208/pu/vid/720x1280/l212aPXANbaTjwNh.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1299560106963550208/pu/vid/360x640/5qd84u8ONawEUbhy.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5822,
+    "favorited": false,
+    "full_text": "These are the zombies that are calling for a revolution to move into power in the USA\n\nImagine these people becoming your government officials someday\n\nI guess there was some kind of musical gathering in front of Ted Wheeler\u2019s condo in Portland tonight\n\n https://t.co/pINXMkDYuZ",
+    "geo": null,
+    "id": 1299647864788774913,
+    "id_str": "1299647864788774913",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 2357,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 27 04:02:27 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Host, Investigative Reporter, Producer of the hit web show \u201cLives Matter\u201c \u2022 Subscribe now\ud83d\udc47\ud83c\udffb",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/livesmatter",
+              "expanded_url": "http://youtube.com/livesmatter",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/G62puSzwnd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15,
+      "follow_request_sent": false,
+      "followers_count": 84474,
+      "following": false,
+      "friends_count": 95,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1022693675250249729,
+      "id_str": "1022693675250249729",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 379,
+      "location": "Los Angeles, CA",
+      "name": "Drew Hernandez",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022693675250249729/1573030185",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "livesmattershow",
+      "statuses_count": 1008,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/G62puSzwnd",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

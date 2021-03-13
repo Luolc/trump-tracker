@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 10 04:50:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21784951,
+        "id_str": "21784951",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Andrew Surabian",
+        "screen_name": "Surabees"
+      },
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          24,
+          28
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      },
+      {
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          55,
+          63
+        ],
+        "name": "The New York Times",
+        "screen_name": "nytimes"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Surabees: Just like @CNN did earlier today, here's @nytimes once again changing a headline to protect their close personal friends in t\u2026",
+  "geo": null,
+  "id": 1248473431512768512,
+  "id_str": "1248473431512768512",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1248258892766810112,
+  "quoted_status_id_str": "1248258892766810112",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nyt_diff/statu\u2026",
+    "expanded": "https://twitter.com/nyt_diff/status/1248258892766810112",
+    "url": "https://t.co/tlNHS0XZmM"
+  },
+  "retweet_count": 4078,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 09 15:39:21 +0000 2020",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nyt_diff/statu\u2026",
+          "expanded_url": "https://twitter.com/nyt_diff/status/1248258892766810112",
+          "indices": [
+            144,
+            167
+          ],
+          "url": "https://t.co/tlNHS0XZmM"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            10,
+            14
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 807095,
+          "id_str": "807095",
+          "indices": [
+            41,
+            49
+          ],
+          "name": "The New York Times",
+          "screen_name": "nytimes"
+        }
+      ]
+    },
+    "favorite_count": 9866,
+    "favorited": false,
+    "full_text": "Just like @CNN did earlier today, here's @nytimes once again changing a headline to protect their close personal friends in the Democrat Party. https://t.co/tlNHS0XZmM",
+    "geo": null,
+    "id": 1248274308239110144,
+    "id_str": "1248274308239110144",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Apr 09 14:38:06 +0000 2020",
+      "display_text_range": [
+        0,
+        18
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NuX1cxzj5Y",
+            "expanded_url": "https://twitter.com/nyt_diff/status/1248258892766810112/photo/1",
+            "id": 1248258889843232770,
+            "id_str": "1248258889843232770",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVK02MTUUAI5tlT.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVK02MTUUAI5tlT.png",
+            "sizes": {
+              "large": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "medium": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "small": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NuX1cxzj5Y"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/NuX1cxzj5Y",
+            "expanded_url": "https://twitter.com/nyt_diff/status/1248258892766810112/photo/1",
+            "id": 1248258889843232770,
+            "id_str": "1248258889843232770",
+            "indices": [
+              19,
+              42
+            ],
+            "media_url": "http://pbs.twimg.com/media/EVK02MTUUAI5tlT.png",
+            "media_url_https": "https://pbs.twimg.com/media/EVK02MTUUAI5tlT.png",
+            "sizes": {
+              "large": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "medium": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "small": {
+                "h": 200,
+                "resize": "fit",
+                "w": 400
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/NuX1cxzj5Y"
+          }
+        ]
+      },
+      "favorite_count": 302,
+      "favorited": false,
+      "full_text": "Change in Headline https://t.co/NuX1cxzj5Y",
+      "geo": null,
+      "id": 1248258892766810112,
+      "id_str": "1248258892766810112",
+      "in_reply_to_screen_name": "nyt_diff",
+      "in_reply_to_status_id": 1248257914067918850,
+      "in_reply_to_status_id_str": "1248257914067918850",
+      "in_reply_to_user_id": 763099930487615488,
+      "in_reply_to_user_id_str": "763099930487615488",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 203,
+      "retweeted": false,
+      "source": "<a href=\"https://unahormiga.com\" rel=\"nofollow\">nytdiff</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 09 19:49:35 +0000 2016",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Bot that highlights the changes in the news on the main page of @nytimes. By @j_e_d. Based on the idea of @newsdiffs.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/j-e-d/NYTdiff",
+                "expanded_url": "https://github.com/j-e-d/NYTdiff",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/MYZ6M3YhlI"
+              }
+            ]
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 29840,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 763099930487615488,
+        "id_str": "763099930487615488",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 444,
+        "location": "",
+        "name": "Editing TheGrayLady",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/763099930487615488/1470773409",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/763105373599457284/OGdfyCJv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/763105373599457284/OGdfyCJv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nyt_diff",
+        "statuses_count": 64546,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MYZ6M3YhlI",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1248258892766810112,
+    "quoted_status_id_str": "1248258892766810112",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nyt_diff/statu\u2026",
+      "expanded": "https://twitter.com/nyt_diff/status/1248258892766810112",
+      "url": "https://t.co/tlNHS0XZmM"
+    },
+    "retweet_count": 4078,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 24 19:18:55 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Strategist. \"He\u2019s basically a no-holds barred street fighter who is just totally mauling whoever the opposition is.\"",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 7717,
+      "follow_request_sent": false,
+      "followers_count": 64274,
+      "following": false,
+      "friends_count": 2878,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 21784951,
+      "id_str": "21784951",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 389,
+      "location": "",
+      "name": "Andrew Surabian",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21784951/1528805457",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_link_color": "2FBFEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Surabees",
+      "statuses_count": 7608,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76533287,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118980,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50571,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

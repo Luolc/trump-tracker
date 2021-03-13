@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 25 00:28:17 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ZPoaFDppg2",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1220865941434699776/video/1",
+        "features": {},
+        "id": 1220863165208125440,
+        "id_str": "1220863165208125440",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220863165208125440/pu/img/rup4OkAPms-5Ploi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220863165208125440/pu/img/rup4OkAPms-5Ploi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/ZPoaFDppg2"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/march_for_life\u2026",
+        "expanded_url": "https://twitter.com/march_for_life/status/1220845061367353345",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/c1KBtLnbQn"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/ZPoaFDppg2",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1220865941434699776/video/1",
+        "features": {},
+        "id": 1220863165208125440,
+        "id_str": "1220863165208125440",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220863165208125440/pu/img/rup4OkAPms-5Ploi.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220863165208125440/pu/img/rup4OkAPms-5Ploi.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/ZPoaFDppg2",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 39018,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1220863165208125440/pu/vid/640x360/sD5_l3kF3TreCj5a.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1220863165208125440/pu/vid/480x270/ngRZlmL6dj-cp_pd.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1220863165208125440/pu/pl/gH3tbmPSbRmDzMOf.m3u8?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1220863165208125440/pu/vid/1280x720/L86CuB8wpbvY2wO3.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 65167,
+  "favorited": false,
+  "full_text": "https://t.co/c1KBtLnbQn https://t.co/ZPoaFDppg2",
+  "geo": null,
+  "id": 1220865941434699776,
+  "id_str": "1220865941434699776",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 23:05:19 +0000 2020",
+    "display_text_range": [
+      0,
+      175
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1220771079234510850",
+          "indices": [
+            176,
+            199
+          ],
+          "url": "https://t.co/1AjvJ6RaKp"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            25,
+            41
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 4953,
+    "favorited": false,
+    "full_text": "What a historic day with @realDonaldTrump! Thank you President Trump for your inspiring words at today\u2019s March for Life. Together, we will continue building a culture of LIFE! https://t.co/1AjvJ6RaKp",
+    "geo": null,
+    "id": 1220845061367353345,
+    "id_str": "1220845061367353345",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1220771079234510850,
+    "quoted_status_id_str": "1220771079234510850",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1220771079234510850",
+      "url": "https://t.co/1AjvJ6RaKp"
+    },
+    "retweet_count": 1570,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 06 20:07:36 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official March for Life account. Join us for the next annual march in Washington, DC on January 24, 2020. Led by @JeanneMFL. #whywemarch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "marchforlife.org",
+              "expanded_url": "http://www.marchforlife.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HV7n8dz5of"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13771,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 117606,
+      "following": false,
+      "friends_count": 2404,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 430130014,
+      "id_str": "430130014",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 616,
+      "location": "Washington, DC",
+      "name": "March for Life",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/430130014/1549985624",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991801976236265472/YmdAQriQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991801976236265472/YmdAQriQ_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "March_for_Life",
+      "statuses_count": 26773,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/HV7n8dz5of",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1220845061367353345,
+  "quoted_status_id_str": "1220845061367353345",
+  "quoted_status_permalink": {
+    "display": "twitter.com/march_for_life\u2026",
+    "expanded": "https://twitter.com/march_for_life/status/1220845061367353345",
+    "url": "https://t.co/c1KBtLnbQn"
+  },
+  "retweet_count": 19185,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

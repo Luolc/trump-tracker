@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Aug 26 00:11:57 +0000 2020",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/WbxpnRjboI",
+        "expanded_url": "https://twitter.com/thehill/status/1298333083314401281/photo/1",
+        "id": 1298333080726503425,
+        "id_str": "1298333080726503425",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+        "sizes": {
+          "large": {
+            "h": 551,
+            "resize": "fit",
+            "w": 980
+          },
+          "medium": {
+            "h": 551,
+            "resize": "fit",
+            "w": 980
+          },
+          "small": {
+            "h": 382,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1298333083314401281,
+        "source_status_id_str": "1298333083314401281",
+        "source_user_id": 1917731,
+        "source_user_id_str": "1917731",
+        "type": "photo",
+        "url": "https://t.co/WbxpnRjboI"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "hill.cm/TQVquVv",
+        "expanded_url": "http://hill.cm/TQVquVv",
+        "indices": [
+          72,
+          95
+        ],
+        "url": "https://t.co/AJCUqm8kaB"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1917731,
+        "id_str": "1917731",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "The Hill",
+        "screen_name": "thehill"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/WbxpnRjboI",
+        "expanded_url": "https://twitter.com/thehill/status/1298333083314401281/photo/1",
+        "id": 1298333080726503425,
+        "id_str": "1298333080726503425",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+        "sizes": {
+          "large": {
+            "h": 551,
+            "resize": "fit",
+            "w": 980
+          },
+          "medium": {
+            "h": 551,
+            "resize": "fit",
+            "w": 980
+          },
+          "small": {
+            "h": 382,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1298333083314401281,
+        "source_status_id_str": "1298333083314401281",
+        "source_user_id": 1917731,
+        "source_user_id_str": "1917731",
+        "type": "photo",
+        "url": "https://t.co/WbxpnRjboI"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @thehill: Navarro: \"Melania Trump is the Jackie Kennedy of her time\" https://t.co/AJCUqm8kaB https://t.co/WbxpnRjboI",
+  "geo": null,
+  "id": 1298412834162974729,
+  "id_str": "1298412834162974729",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8563,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Aug 25 18:55:03 +0000 2020",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WbxpnRjboI",
+          "expanded_url": "https://twitter.com/thehill/status/1298333083314401281/photo/1",
+          "id": 1298333080726503425,
+          "id_str": "1298333080726503425",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+          "sizes": {
+            "large": {
+              "h": 551,
+              "resize": "fit",
+              "w": 980
+            },
+            "medium": {
+              "h": 551,
+              "resize": "fit",
+              "w": 980
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WbxpnRjboI"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "hill.cm/TQVquVv",
+          "expanded_url": "http://hill.cm/TQVquVv",
+          "indices": [
+            59,
+            82
+          ],
+          "url": "https://t.co/AJCUqm8kaB"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WbxpnRjboI",
+          "expanded_url": "https://twitter.com/thehill/status/1298333083314401281/photo/1",
+          "id": 1298333080726503425,
+          "id_str": "1298333080726503425",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EgSbDtzXgAEzef9.jpg",
+          "sizes": {
+            "large": {
+              "h": 551,
+              "resize": "fit",
+              "w": 980
+            },
+            "medium": {
+              "h": 551,
+              "resize": "fit",
+              "w": 980
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WbxpnRjboI"
+        }
+      ]
+    },
+    "favorite_count": 37226,
+    "favorited": false,
+    "full_text": "Navarro: \"Melania Trump is the Jackie Kennedy of her time\" https://t.co/AJCUqm8kaB https://t.co/WbxpnRjboI",
+    "geo": null,
+    "id": 1298333083314401281,
+    "id_str": "1298333083314401281",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8563,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 22 18:15:18 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Hill is the premier source for policy and political news. Follow for tweets on what's happening in Washington, breaking news and retweets of our reporters.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thehill.com",
+              "expanded_url": "http://www.thehill.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/t414UtTRv4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10,
+      "follow_request_sent": false,
+      "followers_count": 3927919,
+      "following": false,
+      "friends_count": 266,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1917731,
+      "id_str": "1917731",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 26475,
+      "location": "Washington, DC",
+      "name": "The Hill",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917731/1434034905",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg",
+      "profile_link_color": "FF0021",
+      "profile_sidebar_border_color": "ADADAA",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "thehill",
+      "statuses_count": 771992,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/t414UtTRv4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85589410,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118675,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54987,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

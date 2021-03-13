@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 28 04:04:00 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 600463589,
+        "id_str": "600463589",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senator Mike Crapo",
+        "screen_name": "MikeCrapo"
+      },
+      {
+        "id": 14615871,
+        "id_str": "14615871",
+        "indices": [
+          19,
+          23
+        ],
+        "name": "U.S. EPA",
+        "screen_name": "EPA"
+      },
+      {
+        "id": 161329769,
+        "id_str": "161329769",
+        "indices": [
+          32,
+          40
+        ],
+        "name": "USACE HQ",
+        "screen_name": "USACEHQ"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MikeCrapo: The @EPA and the @USACEHQ announced the final rule for the Navigable Waters Protection Rule. The rule provides clarity to th\u2026",
+  "geo": null,
+  "id": 1222007390943444999,
+  "id_str": "1222007390943444999",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3097,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 15:56:40 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            174,
+            180
+          ],
+          "text": "WOTUS"
+        },
+        {
+          "indices": [
+            250,
+            256
+          ],
+          "text": "WOTUS"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/C76yJAqFte",
+          "expanded_url": "https://twitter.com/MikeCrapo/status/1220737186372423682/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1220737177782489089,
+          "id_str": "1220737177782489089",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPDt_tXWkAEsLm8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPDt_tXWkAEsLm8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/C76yJAqFte"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "crapo.senate.gov/media/newsrele\u2026",
+          "expanded_url": "https://www.crapo.senate.gov/media/newsreleases/idaho-delegation-applauds-trump-administration-rewrite-on-water-policy",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/zl7ILMEme7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 14615871,
+          "id_str": "14615871",
+          "indices": [
+            4,
+            8
+          ],
+          "name": "U.S. EPA",
+          "screen_name": "EPA"
+        },
+        {
+          "id": 161329769,
+          "id_str": "161329769",
+          "indices": [
+            17,
+            25
+          ],
+          "name": "USACE HQ",
+          "screen_name": "USACEHQ"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            219,
+            225
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/C76yJAqFte",
+          "expanded_url": "https://twitter.com/MikeCrapo/status/1220737186372423682/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1220737177782489089,
+          "id_str": "1220737177782489089",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPDt_tXWkAEsLm8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPDt_tXWkAEsLm8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/C76yJAqFte"
+        }
+      ]
+    },
+    "favorite_count": 10931,
+    "favorited": false,
+    "full_text": "The @EPA and the @USACEHQ announced the final rule for the Navigable Waters Protection Rule. The rule provides clarity to the federal-state partnership for the definition of #WOTUS under the Clean Water Act.  Thank you @POTUS  for decisive action on #WOTUS https://t.co/zl7ILMEme7 https://t.co/C76yJAqFte",
+    "geo": null,
+    "id": 1220737186372423682,
+    "id_str": "1220737186372423682",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3097,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 05 22:16:35 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator for the great state of Idaho.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "crapo.senate.gov",
+              "expanded_url": "http://www.crapo.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/W6cAM2HKzW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1147,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 106022,
+      "following": false,
+      "friends_count": 749,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 600463589,
+      "id_str": "600463589",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1808,
+      "location": "Idaho & Washington, D.C.",
+      "name": "Senator Mike Crapo",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/600463589/1358530313",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2286763334/atyer80hkqhdwmgk73t0_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MikeCrapo",
+      "statuses_count": 6986,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/W6cAM2HKzW",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71798127,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48436,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

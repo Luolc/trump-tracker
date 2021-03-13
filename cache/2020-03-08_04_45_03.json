@@ -1,0 +1,333 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 08 04:45:03 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          100,
+          124
+        ],
+        "text": "KAG2020LandslideVictory"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          80,
+          96
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: Sleepy Joe\ud83d\udca4in St. Louis, Missouri today:\n\n\u201cWe can only re-elect @realDonaldTrump.\u201d\n\n#KAG2020LandslideVictory\ud83c\uddfa\ud83c\uddf8 https://t.co\u2026",
+  "geo": null,
+  "id": 1236513235056111616,
+  "id_str": "1236513235056111616",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10570,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 08 01:18:33 +0000 2020",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            108
+          ],
+          "text": "KAG2020LandslideVictory"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FT4q2MWfcD",
+          "expanded_url": "https://twitter.com/DanScavino/status/1236461268594294785/video/1",
+          "id": 1236461219730665472,
+          "id_str": "1236461219730665472",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236461219730665472/pu/img/K_QREueriGkUXNrz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236461219730665472/pu/img/K_QREueriGkUXNrz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FT4q2MWfcD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            64,
+            80
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/FT4q2MWfcD",
+          "expanded_url": "https://twitter.com/DanScavino/status/1236461268594294785/video/1",
+          "id": 1236461219730665472,
+          "id_str": "1236461219730665472",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236461219730665472/pu/img/K_QREueriGkUXNrz.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236461219730665472/pu/img/K_QREueriGkUXNrz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FT4q2MWfcD",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 13400,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236461219730665472/pu/vid/1280x720/7uuGZXc5XNwhTRU9.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1236461219730665472/pu/pl/ACOiKQYLivfioQA1.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236461219730665472/pu/vid/480x270/I728ESAgVzFyNbIK.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236461219730665472/pu/vid/640x360/0AW4LGOwFlCN1ZM0.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30582,
+    "favorited": false,
+    "full_text": "Sleepy Joe\ud83d\udca4in St. Louis, Missouri today:\n\n\u201cWe can only re-elect @realDonaldTrump.\u201d\n\n#KAG2020LandslideVictory\ud83c\uddfa\ud83c\uddf8 https://t.co/FT4q2MWfcD",
+    "geo": null,
+    "id": 1236461268594294785,
+    "id_str": "1236461268594294785",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10570,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Currently serving as Assistant to the President and Director of Social Media at the White House. For official announcements, go to @Scavino45.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2884,
+      "follow_request_sent": false,
+      "followers_count": 696313,
+      "following": false,
+      "friends_count": 655,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3869,
+      "location": "",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1582938126",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10877,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73484821,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115714,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49605,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

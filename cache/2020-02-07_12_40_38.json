@@ -1,0 +1,410 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 07 12:40:38 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: It keeps getting worse. As the 2020 Dems get more &amp; more anti-Israel, will any of them stand up and condemn comments like thes\u2026",
+  "geo": null,
+  "id": 1225761283263340544,
+  "id_str": "1225761283263340544",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1225619091739881472,
+  "quoted_status_id_str": "1225619091739881472",
+  "quoted_status_permalink": {
+    "display": "twitter.com/AZachParkinson\u2026",
+    "expanded": "https://twitter.com/AZachParkinson/status/1225619091739881472",
+    "url": "https://t.co/bUTRA4STxz"
+  },
+  "retweet_count": 7270,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 05:13:31 +0000 2020",
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/AZachParkinson\u2026",
+          "expanded_url": "https://twitter.com/AZachParkinson/status/1225619091739881472",
+          "indices": [
+            198,
+            221
+          ],
+          "url": "https://t.co/bUTRA4STxz"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20524,
+    "favorited": false,
+    "full_text": "It keeps getting worse. As the 2020 Dems get more &amp; more anti-Israel, will any of them stand up and condemn comments like these? Directly? Or are they too scared of the angry anti-Semitic Left? https://t.co/bUTRA4STxz",
+    "geo": null,
+    "id": 1225648763143778305,
+    "id_str": "1225648763143778305",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Feb 07 03:15:37 +0000 2020",
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/U2MJ6DCTdZ",
+            "expanded_url": "https://twitter.com/AZachParkinson/status/1225619091739881472/video/1",
+            "id": 1225619058298630144,
+            "id_str": "1225619058298630144",
+            "indices": [
+              269,
+              292
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225619058298630144/pu/img/Ln7IP-_2qpD3tpBp.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225619058298630144/pu/img/Ln7IP-_2qpD3tpBp.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/U2MJ6DCTdZ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/U2MJ6DCTdZ",
+            "expanded_url": "https://twitter.com/AZachParkinson/status/1225619091739881472/video/1",
+            "id": 1225619058298630144,
+            "id_str": "1225619058298630144",
+            "indices": [
+              269,
+              292
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225619058298630144/pu/img/Ln7IP-_2qpD3tpBp.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225619058298630144/pu/img/Ln7IP-_2qpD3tpBp.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/U2MJ6DCTdZ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 26080,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1225619058298630144/pu/vid/640x360/KJs89WxnvIsGRHOF.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1225619058298630144/pu/vid/480x270/754twE6TnPzh7Yjn.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1225619058298630144/pu/pl/Z0Uu80Zr_ectoI1X.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2753,
+      "favorited": false,
+      "full_text": "Tonight, Elizabeth Warren nodded along and smiled as a questioner slandered AIPAC as \"an unholy alliance\" of \"Islamophobes,\" \"anti-semites, and white nationalists\" that perpetuates \"bigotry\"\n\nWithout blinking, Warren then agreed to boycott next year's AIPAC conference https://t.co/U2MJ6DCTdZ",
+      "geo": null,
+      "id": 1225619091739881472,
+      "id_str": "1225619091739881472",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1618,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Dec 12 14:30:01 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Deputy Director of Communications - Research for @realDonaldTrump 2020. Former @WhiteHouse & @RNCResearch Alum. Proud Marylander.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 175,
+        "follow_request_sent": false,
+        "followers_count": 20441,
+        "following": false,
+        "friends_count": 1001,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1006482620,
+        "id_str": "1006482620",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 150,
+        "location": "Washington, D.C.",
+        "name": "Zach Parkinson",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1006482620/1457060749",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/2966023737/1a7c765292b282580b69715ef2650ae6_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/2966023737/1a7c765292b282580b69715ef2650ae6_normal.jpeg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "AZachParkinson",
+        "statuses_count": 1691,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1225619091739881472,
+    "quoted_status_id_str": "1225619091739881472",
+    "quoted_status_permalink": {
+      "display": "twitter.com/AZachParkinson\u2026",
+      "expanded": "https://twitter.com/AZachParkinson/status/1225619091739881472",
+      "url": "https://t.co/bUTRA4STxz"
+    },
+    "retweet_count": 7270,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tedcruz.org",
+              "expanded_url": "http://www.tedcruz.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dJ4Q3979gw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1422,
+      "follow_request_sent": false,
+      "followers_count": 3575955,
+      "following": false,
+      "friends_count": 6320,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12447,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 25745,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dJ4Q3979gw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72296337,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114335,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48775,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

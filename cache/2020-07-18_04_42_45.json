@@ -1,0 +1,473 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:42:45 +0000 2020",
+  "display_text_range": [
+    0,
+    58
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      },
+      {
+        "id": 1201953403099893760,
+        "id_str": "1201953403099893760",
+        "indices": [
+          29,
+          45
+        ],
+        "name": "Ronny Jackson",
+        "screen_name": "RonnyJackson4TX"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Congrats @RonnyJackson4TX well done!!!",
+  "geo": null,
+  "id": 1284347857751945218,
+  "id_str": "1284347857751945218",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1283235880568795144,
+  "quoted_status_id_str": "1283235880568795144",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RonnyJackson4T\u2026",
+    "expanded": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144",
+    "url": "https://t.co/HKq1NAeo5p"
+  },
+  "retweet_count": 6343,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 15 03:11:55 +0000 2020",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RonnyJackson4T\u2026",
+          "expanded_url": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144",
+          "indices": [
+            39,
+            62
+          ],
+          "url": "https://t.co/HKq1NAeo5p"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1201953403099893760,
+          "id_str": "1201953403099893760",
+          "indices": [
+            9,
+            25
+          ],
+          "name": "Ronny Jackson",
+          "screen_name": "RonnyJackson4TX"
+        }
+      ]
+    },
+    "favorite_count": 32773,
+    "favorited": false,
+    "full_text": "Congrats @RonnyJackson4TX well done!!! https://t.co/HKq1NAeo5p",
+    "geo": null,
+    "id": 1283237833159913472,
+    "id_str": "1283237833159913472",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 15 03:04:09 +0000 2020",
+      "display_text_range": [
+        0,
+        157
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              118,
+              123
+            ],
+            "text": "TX13"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Hr7ZJPfwqu",
+            "expanded_url": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144/photo/1",
+            "id": 1283235872033460225,
+            "id_str": "1283235872033460225",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec74OguX0AE-AvB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec74OguX0AE-AvB.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Hr7ZJPfwqu"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              39,
+              55
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Hr7ZJPfwqu",
+            "expanded_url": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144/photo/1",
+            "id": 1283235872033460225,
+            "id_str": "1283235872033460225",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec74OguX0AE-AvB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec74OguX0AE-AvB.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Hr7ZJPfwqu"
+          },
+          {
+            "display_url": "pic.twitter.com/Hr7ZJPfwqu",
+            "expanded_url": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144/photo/1",
+            "id": 1283235872033447936,
+            "id_str": "1283235872033447936",
+            "indices": [
+              158,
+              181
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ec74OguXoAAJ3pO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ec74OguXoAAJ3pO.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Hr7ZJPfwqu"
+          }
+        ]
+      },
+      "favorite_count": 61702,
+      "favorited": false,
+      "full_text": "Jane and I just got off the phone with @realDonaldTrump! It\u2019s official! I am honored to be the Republican nominee for #TX13! I promise I will make you proud! https://t.co/Hr7ZJPfwqu",
+      "geo": null,
+      "id": 1283235880568795144,
+      "id_str": "1283235880568795144",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 11373,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 03 19:56:45 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Republican Candidate for Texas 13th Congressional District *** U.S. Navy Rear Admiral (Retired) *** Texan/Veteran/Physician/Leader",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ronnyjacksonfortexas13.com",
+                "expanded_url": "http://www.ronnyjacksonfortexas13.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GXHRkNqKYy"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1879,
+        "follow_request_sent": false,
+        "followers_count": 87285,
+        "following": false,
+        "friends_count": 215,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 1201953403099893760,
+        "id_str": "1201953403099893760",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 174,
+        "location": "Amarillo, Texas",
+        "name": "Ronny Jackson",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201953403099893760/1575848016",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1201992134431301632/1LjVPCFA_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201992134431301632/1LjVPCFA_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RonnyJackson4TX",
+        "statuses_count": 849,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GXHRkNqKYy",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1283235880568795144,
+    "quoted_status_id_str": "1283235880568795144",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RonnyJackson4T\u2026",
+      "expanded": "https://twitter.com/RonnyJackson4TX/status/1283235880568795144",
+      "url": "https://t.co/HKq1NAeo5p"
+    },
+    "retweet_count": 6343,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonJr.com",
+              "expanded_url": "http://DonJr.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mqxNHnqCbK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16955,
+      "follow_request_sent": false,
+      "followers_count": 5306935,
+      "following": false,
+      "friends_count": 1464,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12546,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1589577103",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 36027,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mqxNHnqCbK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

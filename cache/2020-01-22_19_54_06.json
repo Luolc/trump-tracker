@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 19:54:06 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          21,
+          37
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: .@realDonaldTrump makes a very solid point here. Hillary talking about other people\u2019s like-ability is peak 2020. https:\u2026",
+  "geo": null,
+  "id": 1220072165770317824,
+  "id_str": "1220072165770317824",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13757,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 22 19:34:47 +0000 2020",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CL0gm2wrOx",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1220067304840605696/video/1",
+          "features": {},
+          "id": 1220067109729861632,
+          "id_str": "1220067109729861632",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220067109729861632/pu/img/T4Hi1mkVu-Ai-KmK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220067109729861632/pu/img/T4Hi1mkVu-Ai-KmK.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CL0gm2wrOx"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CL0gm2wrOx",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1220067304840605696/video/1",
+          "features": {},
+          "id": 1220067109729861632,
+          "id_str": "1220067109729861632",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1220067109729861632/pu/img/T4Hi1mkVu-Ai-KmK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1220067109729861632/pu/img/T4Hi1mkVu-Ai-KmK.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CL0gm2wrOx",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 58567,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1220067109729861632/pu/vid/480x480/LnzqTcpksVmvkzTn.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1220067109729861632/pu/vid/320x320/oV2Eifv7iVG7MSiW.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1220067109729861632/pu/vid/640x640/l59RCHKVq8cvKn-5.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1220067109729861632/pu/pl/RMvKISbzJUZ9J_9J.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 53161,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump makes a very solid point here. Hillary talking about other people\u2019s like-ability is peak 2020. https://t.co/CL0gm2wrOx",
+    "geo": null,
+    "id": 1220067304840605696,
+    "id_str": "1220067304840605696",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13757,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/donald-\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/donald-trump-jr/triggered/9781546086031/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0wYduKA0W"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14974,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 4336239,
+      "following": false,
+      "friends_count": 1412,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11751,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1571423068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 32554,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/p0wYduKA0W",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

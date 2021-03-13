@@ -1,0 +1,305 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 18 13:31:43 +0000 2020",
+  "display_text_range": [
+    0,
+    60
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nytimes/status\u2026",
+        "expanded_url": "https://twitter.com/nytimes/status/1328834297567076354",
+        "indices": [
+          61,
+          84
+        ],
+        "url": "https://t.co/9coP3R44UQ"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 148630,
+  "favorited": false,
+  "full_text": "...AND I WON THE ELECTION. VOTER FRAUD ALL OVER THE COUNTRY! https://t.co/9coP3R44UQ",
+  "geo": null,
+  "id": 1329054683441278977,
+  "id_str": "1329054683441278977",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 22:55:59 +0000 2020",
+    "display_text_range": [
+      0,
+      176
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/pViEF2Nuhg",
+          "expanded_url": "https://twitter.com/nytimes/status/1328834297567076354/photo/1",
+          "id": 1328834248535642112,
+          "id_str": "1328834248535642112",
+          "indices": [
+            177,
+            200
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnD3tWVXEAAgg3Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnD3tWVXEAAgg3Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/pViEF2Nuhg"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "nyti.ms/35HqH5P",
+          "expanded_url": "http://nyti.ms/35HqH5P",
+          "indices": [
+            153,
+            176
+          ],
+          "url": "https://t.co/9IEzcKjK42"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/pViEF2Nuhg",
+          "expanded_url": "https://twitter.com/nytimes/status/1328834297567076354/photo/1",
+          "id": 1328834248535642112,
+          "id_str": "1328834248535642112",
+          "indices": [
+            177,
+            200
+          ],
+          "media_url": "http://pbs.twimg.com/media/EnD3tWVXEAAgg3Y.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EnD3tWVXEAAgg3Y.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/pViEF2Nuhg"
+        }
+      ]
+    },
+    "favorite_count": 5663,
+    "favorited": false,
+    "full_text": "President Trump received 10.1 million more votes across the U.S. than he received four years ago, including in areas with a majority of Hispanic voters. https://t.co/9IEzcKjK42 https://t.co/pViEF2Nuhg",
+    "geo": null,
+    "id": 1328834297567076354,
+    "id_str": "1328834297567076354",
+    "in_reply_to_screen_name": "nytimes",
+    "in_reply_to_status_id": 1328834055257911298,
+    "in_reply_to_status_id_str": "1328834055257911298",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_user_id_str": "807095",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1482,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nyti.ms/2FVHq9v",
+              "expanded_url": "http://nyti.ms/2FVHq9v",
+              "indices": [
+                28,
+                51
+              ],
+              "url": "https://t.co/ghL9OoYKMM"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nytimes.com",
+              "expanded_url": "http://www.nytimes.com/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ahvuWqicF9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 18384,
+      "follow_request_sent": false,
+      "followers_count": 48148159,
+      "following": false,
+      "friends_count": 900,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 807095,
+      "id_str": "807095",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 204892,
+      "location": "New York City",
+      "name": "The New York Times",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+      "profile_link_color": "607696",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nytimes",
+      "statuses_count": 413875,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/ahvuWqicF9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1328834297567076354,
+  "quoted_status_id_str": "1328834297567076354",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nytimes/status\u2026",
+    "expanded": "https://twitter.com/nytimes/status/1328834297567076354",
+    "url": "https://t.co/9coP3R44UQ"
+  },
+  "retweet_count": 32820,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88950287,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125051,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58515,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 06 20:11:47 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      },
+      {
+        "id": 21682561,
+        "id_str": "21682561",
+        "indices": [
+          65,
+          70
+        ],
+        "name": "#NHRA",
+        "screen_name": "NHRA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: Thank you to all of our incredible friends at the @NHRA U.S. Nationals in Indianapolis! We love and appreciate you \u2014 @realDo\u2026",
+  "geo": null,
+  "id": 1302701046951809024,
+  "id_str": "1302701046951809024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11536,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 06 18:39:13 +0000 2020",
+    "display_text_range": [
+      0,
+      208
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            159,
+            175
+          ],
+          "text": "DriversForTrump"
+        },
+        {
+          "indices": [
+            176,
+            186
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            187,
+            204
+          ],
+          "text": "KeepAmericaGreat"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VWRXLo8Lt9",
+          "expanded_url": "https://twitter.com/EricTrump/status/1302677754236809218/video/1",
+          "id": 1302677712650350592,
+          "id_str": "1302677712650350592",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302677712650350592/pu/img/xCsczVb_jDUGNSMK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302677712650350592/pu/img/xCsczVb_jDUGNSMK.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 676
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 676
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 479
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VWRXLo8Lt9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 21682561,
+          "id_str": "21682561",
+          "indices": [
+            50,
+            55
+          ],
+          "name": "#NHRA",
+          "screen_name": "NHRA"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            117,
+            133
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/VWRXLo8Lt9",
+          "expanded_url": "https://twitter.com/EricTrump/status/1302677754236809218/video/1",
+          "id": 1302677712650350592,
+          "id_str": "1302677712650350592",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1302677712650350592/pu/img/xCsczVb_jDUGNSMK.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1302677712650350592/pu/img/xCsczVb_jDUGNSMK.jpg",
+          "sizes": {
+            "large": {
+              "h": 960,
+              "resize": "fit",
+              "w": 676
+            },
+            "medium": {
+              "h": 960,
+              "resize": "fit",
+              "w": 676
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 479
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/VWRXLo8Lt9",
+          "video_info": {
+            "aspect_ratio": [
+              169,
+              240
+            ],
+            "duration_millis": 23083,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302677712650350592/pu/vid/676x960/GeuO4GhxHStvTw5a.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302677712650350592/pu/vid/320x454/EDU9muxvMJjvxmZq.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1302677712650350592/pu/vid/360x510/4D6qFbvcaoK5k3st.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1302677712650350592/pu/pl/mPSJBkQhOC_R03XV.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 38274,
+    "favorited": false,
+    "full_text": "Thank you to all of our incredible friends at the @NHRA U.S. Nationals in Indianapolis! We love and appreciate you \u2014 @realDonaldTrump will never let you down! #DriversForTrump #Trump2020 #KeepAmericaGreat \ud83c\udfc1\ud83c\udfc1\ud83c\udfc1 https://t.co/VWRXLo8Lt9",
+    "geo": null,
+    "id": 1302677754236809218,
+    "id_str": "1302677754236809218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11536,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWPLLr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12502,
+      "follow_request_sent": false,
+      "followers_count": 4036047,
+      "following": false,
+      "friends_count": 977,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7591,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 6548,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWPLLr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85805889,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119176,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55485,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

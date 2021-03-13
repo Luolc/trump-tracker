@@ -1,0 +1,287 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 24 02:55:53 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4236806414,
+        "id_str": "4236806414",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "John K Stahl",
+        "screen_name": "JohnKStahlUSA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JohnKStahlUSA: Anyone know what\u2019s going on with PolyGrip? I\u2019ve noticed lately that her face seems glossy and she is sporting a poorly m\u2026",
+  "geo": null,
+  "id": 1264389631363239938,
+  "id_str": "1264389631363239938",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4889,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 21 14:09:57 +0000 2020",
+    "display_text_range": [
+      0,
+      229
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            213,
+            218
+          ],
+          "text": "maga"
+        },
+        {
+          "indices": [
+            219,
+            224
+          ],
+          "text": "tcot"
+        },
+        {
+          "indices": [
+            225,
+            229
+          ],
+          "text": "kag"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FkduhFHWZR",
+          "expanded_url": "https://twitter.com/JohnKStahlUSA/status/1263472100796510208/photo/1",
+          "id": 1263472093628416002,
+          "id_str": "1263472093628416002",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYjBLMxXQAIoXpo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYjBLMxXQAIoXpo.jpg",
+          "sizes": {
+            "large": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "medium": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "small": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FkduhFHWZR"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FkduhFHWZR",
+          "expanded_url": "https://twitter.com/JohnKStahlUSA/status/1263472100796510208/photo/1",
+          "id": 1263472093628416002,
+          "id_str": "1263472093628416002",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYjBLMxXQAIoXpo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYjBLMxXQAIoXpo.jpg",
+          "sizes": {
+            "large": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "medium": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "small": {
+              "h": 479,
+              "resize": "fit",
+              "w": 467
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FkduhFHWZR"
+        }
+      ]
+    },
+    "favorite_count": 17327,
+    "favorited": false,
+    "full_text": "Anyone know what\u2019s going on with PolyGrip? I\u2019ve noticed lately that her face seems glossy and she is sporting a poorly marked 2nd set of eyebrows. I\u2019m thinking it\u2019s an extreme case of incurable TDS. Any thoughts? #maga #tcot #kag https://t.co/FkduhFHWZR",
+    "geo": null,
+    "id": 1263472100796510208,
+    "id_str": "1263472100796510208",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4889,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Nov 14 17:34:56 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Conservative, Naval Aviator, Retired High Tech Executive. Golfing, Investing and Traveling. Just a regular guy wanting to Make America Great Again.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 153250,
+      "follow_request_sent": false,
+      "followers_count": 104814,
+      "following": false,
+      "friends_count": 17632,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 4236806414,
+      "id_str": "4236806414",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 483,
+      "location": "",
+      "name": "John K Stahl",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4236806414/1450905931",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/665584576161406976/12xsTXYj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/665584576161406976/12xsTXYj_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JohnKStahlUSA",
+      "statuses_count": 26222,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80208449,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113515,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

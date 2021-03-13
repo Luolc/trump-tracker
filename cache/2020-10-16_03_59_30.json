@@ -1,0 +1,413 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 16 03:59:30 +0000 2020",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          31,
+          49
+        ],
+        "text": "BigTechCensorship"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: This is insane. \n\n#BigTechCensorship",
+  "geo": null,
+  "id": 1316951879914561536,
+  "id_str": "1316951879914561536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1316446749729398790,
+  "quoted_status_id_str": "1316446749729398790",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SohrabAhmari/s\u2026",
+    "expanded": "https://twitter.com/SohrabAhmari/status/1316446749729398790",
+    "url": "https://t.co/afzRBnYaPi"
+  },
+  "retweet_count": 24375,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 18:48:21 +0000 2020",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            18,
+            36
+          ],
+          "text": "BigTechCensorship"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SohrabAhmari/s\u2026",
+          "expanded_url": "https://twitter.com/SohrabAhmari/status/1316446749729398790",
+          "indices": [
+            37,
+            60
+          ],
+          "url": "https://t.co/afzRBnYaPi"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 57695,
+    "favorited": false,
+    "full_text": "This is insane. \n\n#BigTechCensorship https://t.co/afzRBnYaPi",
+    "geo": null,
+    "id": 1316450791184642048,
+    "id_str": "1316450791184642048",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Oct 14 18:32:18 +0000 2020",
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BKNQmAG19H",
+            "expanded_url": "https://twitter.com/SohrabAhmari/status/1316446749729398790/photo/1",
+            "id": 1316446747250614273,
+            "id_str": "1316446747250614273",
+            "indices": [
+              258,
+              281
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkT1V3-XYAE1jKE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkT1V3-XYAE1jKE.jpg",
+            "sizes": {
+              "large": {
+                "h": 543,
+                "resize": "fit",
+                "w": 828
+              },
+              "medium": {
+                "h": 543,
+                "resize": "fit",
+                "w": 828
+              },
+              "small": {
+                "h": 446,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BKNQmAG19H"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BKNQmAG19H",
+            "expanded_url": "https://twitter.com/SohrabAhmari/status/1316446749729398790/photo/1",
+            "id": 1316446747250614273,
+            "id_str": "1316446747250614273",
+            "indices": [
+              258,
+              281
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkT1V3-XYAE1jKE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkT1V3-XYAE1jKE.jpg",
+            "sizes": {
+              "large": {
+                "h": 543,
+                "resize": "fit",
+                "w": 828
+              },
+              "medium": {
+                "h": 543,
+                "resize": "fit",
+                "w": 828
+              },
+              "small": {
+                "h": 446,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BKNQmAG19H"
+          }
+        ]
+      },
+      "favorite_count": 106349,
+      "favorited": false,
+      "full_text": "This is a Big Tech information coup. This is digital civil war. \n\nI, an editor at The New York Post, one of the nation\u2019s largest papers by circulation, can\u2019t post one of our own stories that details corruption by a major-party presidential candidate, Biden. https://t.co/BKNQmAG19H",
+      "geo": null,
+      "id": 1316446749729398790,
+      "id_str": "1316446749729398790",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 68929,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 23 23:09:31 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Op-ed editor, @NYPost. My next book: \u201cThe Unbroken Thread: Discovering the Wisdom of Tradition in an Age of Chaos\u201d (Spring 2021).",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinrandomhouse.com/books/623405/t\u2026",
+                "expanded_url": "https://www.penguinrandomhouse.com/books/623405/the-unbroken-thread-by-sohrab-ahmari/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/fuDUrVk5sq"
+              }
+            ]
+          }
+        },
+        "favourites_count": 36459,
+        "follow_request_sent": false,
+        "followers_count": 113837,
+        "following": false,
+        "friends_count": 1644,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 472431999,
+        "id_str": "472431999",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 992,
+        "location": "New York, NY",
+        "name": "Sohrab Ahmari",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/472431999/1599123063",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1316566074587000832/hMyk2FkT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316566074587000832/hMyk2FkT_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SohrabAhmari",
+        "statuses_count": 524,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fuDUrVk5sq",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1316446749729398790,
+    "quoted_status_id_str": "1316446749729398790",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SohrabAhmari/s\u2026",
+      "expanded": "https://twitter.com/SohrabAhmari/status/1316446749729398790",
+      "url": "https://t.co/afzRBnYaPi"
+    },
+    "retweet_count": 24375,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OneVoteAway.com",
+              "expanded_url": "http://www.OneVoteAway.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nyPZqAKI4B"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1401,
+      "follow_request_sent": false,
+      "followers_count": 3971221,
+      "following": false,
+      "friends_count": 6163,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12764,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232763579830558720/055sMET8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232763579830558720/055sMET8_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 29288,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nyPZqAKI4B",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87275415,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57238,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

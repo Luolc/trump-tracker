@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 22 12:16:32 +0000 2020",
+  "display_text_range": [
+    0,
+    74
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/u9UOYa0A4B",
+        "expanded_url": "https://twitter.com/mschlapp/status/1329985173014929411/video/1",
+        "id": 1329978272004837379,
+        "id_str": "1329978272004837379",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1152
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1152
+          },
+          "small": {
+            "h": 425,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1329985173014929411,
+        "source_status_id_str": "1329985173014929411",
+        "source_user_id": 138809881,
+        "source_user_id_str": "138809881",
+        "type": "photo",
+        "url": "https://t.co/u9UOYa0A4B"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 757832485,
+        "id_str": "757832485",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Elizabeth Harrington",
+        "screen_name": "LizRNC"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 30 17:20:18 +0000 2010",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on the screen, kansas, American Conservative Union Chair, @cpac, Go Irish, life is better on the farm",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "instagram.com/mschlapp",
+                    "expanded_url": "http://instagram.com/mschlapp",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/fHBgoYgN2A"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 59485,
+            "follow_request_sent": false,
+            "followers_count": 280969,
+            "following": false,
+            "friends_count": 1577,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 138809881,
+            "id_str": "138809881",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1410,
+            "location": "Alexandria VA",
+            "name": "Matt Schlapp",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/138809881/1428765108",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1327401576680615938/pHXRCNvG_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327401576680615938/pHXRCNvG_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "mschlapp",
+            "statuses_count": 57940,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/fHBgoYgN2A",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/u9UOYa0A4B",
+        "expanded_url": "https://twitter.com/mschlapp/status/1329985173014929411/video/1",
+        "id": 1329978272004837379,
+        "id_str": "1329978272004837379",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1152
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1152
+          },
+          "small": {
+            "h": 425,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1329985173014929411,
+        "source_status_id_str": "1329985173014929411",
+        "source_user_id": 138809881,
+        "source_user_id_str": "138809881",
+        "type": "video",
+        "url": "https://t.co/u9UOYa0A4B",
+        "video_info": {
+          "aspect_ratio": [
+            8,
+            5
+          ],
+          "duration_millis": 97048,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/432x270/03fC03LSR3IDGPzK.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/576x360/PcXsgwQIWN4X8HV1.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/1152x720/GoU-qaOMvyoQ5try.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/pl/JVS4PBeTe1yOEk4W.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LizRNC: \"We have to get to the bottom of it.\"\n\nhttps://t.co/u9UOYa0A4B",
+  "geo": null,
+  "id": 1330485312896774153,
+  "id_str": "1330485312896774153",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 5414,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 18:51:51 +0000 2020",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u9UOYa0A4B",
+          "expanded_url": "https://twitter.com/mschlapp/status/1329985173014929411/video/1",
+          "id": 1329978272004837379,
+          "id_str": "1329978272004837379",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1329985173014929411,
+          "source_status_id_str": "1329985173014929411",
+          "source_user_id": 138809881,
+          "source_user_id_str": "138809881",
+          "type": "photo",
+          "url": "https://t.co/u9UOYa0A4B"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Apr 30 17:20:18 +0000 2010",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Dad to 5 angels, husband to @mercedesschlapp as seen on the screen, kansas, American Conservative Union Chair, @cpac, Go Irish, life is better on the farm",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "instagram.com/mschlapp",
+                      "expanded_url": "http://instagram.com/mschlapp",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/fHBgoYgN2A"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 59485,
+              "follow_request_sent": false,
+              "followers_count": 280969,
+              "following": false,
+              "friends_count": 1577,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 138809881,
+              "id_str": "138809881",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1410,
+              "location": "Alexandria VA",
+              "name": "Matt Schlapp",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/138809881/1428765108",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1327401576680615938/pHXRCNvG_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327401576680615938/pHXRCNvG_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "mschlapp",
+              "statuses_count": 57940,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/fHBgoYgN2A",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/u9UOYa0A4B",
+          "expanded_url": "https://twitter.com/mschlapp/status/1329985173014929411/video/1",
+          "id": 1329978272004837379,
+          "id_str": "1329978272004837379",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329978272004837379/pu/img/yftRcyaRLfon3GZV.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1329985173014929411,
+          "source_status_id_str": "1329985173014929411",
+          "source_user_id": 138809881,
+          "source_user_id_str": "138809881",
+          "type": "video",
+          "url": "https://t.co/u9UOYa0A4B",
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              5
+            ],
+            "duration_millis": 97048,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/432x270/03fC03LSR3IDGPzK.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/576x360/PcXsgwQIWN4X8HV1.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/vid/1152x720/GoU-qaOMvyoQ5try.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1329978272004837379/pu/pl/JVS4PBeTe1yOEk4W.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20936,
+    "favorited": false,
+    "full_text": "\"We have to get to the bottom of it.\"\n\nhttps://t.co/u9UOYa0A4B",
+    "geo": null,
+    "id": 1330222411514589184,
+    "id_str": "1330222411514589184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5414,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 14 20:25:30 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP National Spokesperson",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gop.com",
+              "expanded_url": "http://gop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ffQMjJ0Q8U"
+            }
+          ]
+        }
+      },
+      "favourites_count": 35851,
+      "follow_request_sent": false,
+      "followers_count": 184853,
+      "following": false,
+      "friends_count": 974,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 757832485,
+      "id_str": "757832485",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 881,
+      "location": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+      "name": "Elizabeth Harrington",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/757832485/1604706298",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1293217673745137665/p1QPHR7i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1293217673745137665/p1QPHR7i_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LizRNC",
+      "statuses_count": 16622,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ffQMjJ0Q8U",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88921718,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125249,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58620,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

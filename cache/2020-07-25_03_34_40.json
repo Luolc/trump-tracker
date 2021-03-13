@@ -1,0 +1,249 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 25 03:34:40 +0000 2020",
+  "display_text_range": [
+    0,
+    19
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/monasalama_/st\u2026",
+        "expanded_url": "https://twitter.com/monasalama_/status/1286831126141526016",
+        "indices": [
+          20,
+          43
+        ],
+        "url": "https://t.co/q1XDB5BuTY"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 64765,
+  "favorited": false,
+  "full_text": "Wow. Win in 2020!!! https://t.co/q1XDB5BuTY",
+  "geo": null,
+  "id": 1286867436193685504,
+  "id_str": "1286867436193685504",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 25 01:10:23 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorite_count": 8173,
+    "favorited": false,
+    "full_text": "The\u00a0Supreme Court\u00a0in a 5-4 decision denied an appeal by a Nevada church to ease the state\u2019s 50-person cap on worship to operate at 50% of capacity like casinos amid the coronavirus pandemic\n\nChief Justice John Roberts joined the court\u2019s four liberal members to form the majority",
+    "geo": null,
+    "id": 1286831126141526016,
+    "id_str": "1286831126141526016",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -73.933612,
+              40.785365
+            ],
+            [
+              -73.765271,
+              40.785365
+            ],
+            [
+              -73.765271,
+              40.91533
+            ],
+            [
+              -73.933612,
+              40.91533
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Bronx, NY",
+      "id": "002e24c6736f069d",
+      "name": "Bronx",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/002e24c6736f069d.json"
+    },
+    "retweet_count": 4964,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 04 19:08:38 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Political Reporter @Floridianpress \u2022 Fashion Influencer \u2022 I Write #WhatMelaniaWore \u2192 https://t.co/0Yr1yRLEkV \u2022 #BackTheBlue",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "monasalama.com/category/polit\u2026",
+              "expanded_url": "https://monasalama.com/category/politicalfashion/",
+              "indices": [
+                85,
+                108
+              ],
+              "url": "https://t.co/0Yr1yRLEkV"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/bymonasalama",
+              "expanded_url": "http://Instagram.com/bymonasalama",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/3LyjnvCokN"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9592,
+      "follow_request_sent": false,
+      "followers_count": 33442,
+      "following": false,
+      "friends_count": 1931,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1568858138,
+      "id_str": "1568858138",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 209,
+      "location": "NYC \u21c6 DC",
+      "name": "Mona Salama",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1568858138/1578536192",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1078447099736412160/zNdflhVM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078447099736412160/zNdflhVM_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MonaSalama_",
+      "statuses_count": 35747,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/3LyjnvCokN",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1286831126141526016,
+  "quoted_status_id_str": "1286831126141526016",
+  "quoted_status_permalink": {
+    "display": "twitter.com/monasalama_/st\u2026",
+    "expanded": "https://twitter.com/monasalama_/status/1286831126141526016",
+    "url": "https://t.co/q1XDB5BuTY"
+  },
+  "retweet_count": 16045,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84188118,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117042,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53915,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

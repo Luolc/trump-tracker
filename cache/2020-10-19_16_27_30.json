@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 19 16:27:30 +0000 2020",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 387937220,
+        "id_str": "387937220",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Alayna Treene",
+        "screen_name": "alaynatreene"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alaynatreene: POTUS: \u201cWe're going to win. I wouldn't have told you that maybe two or three weeks ago\u201d",
+  "geo": null,
+  "id": 1318227282088071172,
+  "id_str": "1318227282088071172",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1318207712648310793,
+  "quoted_status_id_str": "1318207712648310793",
+  "quoted_status_permalink": {
+    "display": "twitter.com/josh_wingrove/\u2026",
+    "expanded": "https://twitter.com/josh_wingrove/status/1318207712648310793",
+    "url": "https://t.co/wnfUbCHYmf"
+  },
+  "retweet_count": 7882,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 15:12:15 +0000 2020",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/josh_wingrove/\u2026",
+          "expanded_url": "https://twitter.com/josh_wingrove/status/1318207712648310793",
+          "indices": [
+            88,
+            111
+          ],
+          "url": "https://t.co/wnfUbCHYmf"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 31158,
+    "favorited": false,
+    "full_text": "POTUS: \u201cWe're going to win. I wouldn't have told you that maybe two or three weeks ago\u201d https://t.co/wnfUbCHYmf",
+    "geo": null,
+    "id": 1318208345732534277,
+    "id_str": "1318208345732534277",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -83.288056,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.450488
+            ],
+            [
+              -83.288056,
+              42.450488
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Detroit, MI",
+      "id": "b463d3bd6064861b",
+      "name": "Detroit",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 19 15:09:44 +0000 2020",
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VGiUqsEEXY",
+            "expanded_url": "https://twitter.com/josh_wingrove/status/1318207712648310793/photo/1",
+            "id": 1318207699817959424,
+            "id_str": "1318207699817959424",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eks26zfVkAA6wTq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eks26zfVkAA6wTq.jpg",
+            "sizes": {
+              "large": {
+                "h": 1956,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1146,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 649,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VGiUqsEEXY"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 636949016,
+            "id_str": "636949016",
+            "indices": [
+              176,
+              189
+            ],
+            "name": "Mario Parker",
+            "screen_name": "MarioDParker"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/VGiUqsEEXY",
+            "expanded_url": "https://twitter.com/josh_wingrove/status/1318207712648310793/photo/1",
+            "id": 1318207699817959424,
+            "id_str": "1318207699817959424",
+            "indices": [
+              253,
+              276
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eks26zfVkAA6wTq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eks26zfVkAA6wTq.jpg",
+            "sizes": {
+              "large": {
+                "h": 1956,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 1146,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 649,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/VGiUqsEEXY"
+          }
+        ]
+      },
+      "favorite_count": 2272,
+      "favorited": false,
+      "full_text": "President Trump, from his hotel in Las Vegas, has called into a press call being held by his campaign manager, Bill Stepien.\n\n\"We're going to win,\" Trump says on the call, per @MarioDParker. \"I wouldn't have told you that maybe two or three weeks ago.\" https://t.co/VGiUqsEEXY",
+      "geo": null,
+      "id": 1318207712648310793,
+      "id_str": "1318207712648310793",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 745,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 08 00:15:20 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "White House reporter, Bloomberg News. Views are my own. e: jwingrove4@bloomberg.net, insta: josh_wingrove",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 10310,
+        "follow_request_sent": false,
+        "followers_count": 40781,
+        "following": false,
+        "friends_count": 5532,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 164075542,
+        "id_str": "164075542",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1061,
+        "location": "",
+        "name": "Josh Wingrove",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164075542/1562423927",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308955552257638401/8LyqrUgr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308955552257638401/8LyqrUgr_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "josh_wingrove",
+        "statuses_count": 52094,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1318207712648310793,
+    "quoted_status_id_str": "1318207712648310793",
+    "quoted_status_permalink": {
+      "display": "twitter.com/josh_wingrove/\u2026",
+      "expanded": "https://twitter.com/josh_wingrove/status/1318207712648310793",
+      "url": "https://t.co/wnfUbCHYmf"
+    },
+    "retweet_count": 7882,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Oct 09 22:18:01 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "White House reporter for @axios, covering POTUS and Congress. Lapsed NJ girl & @SMPAgwu alum. Send tips to alayna@axios.com.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "axios.com",
+              "expanded_url": "http://www.axios.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gThDzed4Ob"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10183,
+      "follow_request_sent": false,
+      "followers_count": 23158,
+      "following": false,
+      "friends_count": 3195,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 387937220,
+      "id_str": "387937220",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 494,
+      "location": "Washington, DC",
+      "name": "Alayna Treene",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/387937220/1602238302",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1313477623494971393/DywdqnSc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313477623494971393/DywdqnSc_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "0DFCF0",
+      "profile_text_color": "080008",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "alaynatreene",
+      "statuses_count": 12636,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/gThDzed4Ob",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87352350,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121594,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57455,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

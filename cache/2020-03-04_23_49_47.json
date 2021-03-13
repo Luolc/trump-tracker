@@ -1,0 +1,362 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 04 23:49:47 +0000 2020",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nihdirector/st\u2026",
+        "expanded_url": "https://twitter.com/nihdirector/status/1235200651728220160",
+        "indices": [
+          35,
+          58
+        ],
+        "url": "https://t.co/X2ATpyv2vi"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 25186,
+  "favorited": false,
+  "full_text": "Thank you, keep up the great work! https://t.co/X2ATpyv2vi",
+  "geo": null,
+  "id": 1235351764737675264,
+  "id_str": "1235351764737675264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 04 13:49:18 +0000 2020",
+    "display_text_range": [
+      0,
+      296
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            45,
+            49
+          ],
+          "text": "NIH"
+        },
+        {
+          "indices": [
+            78,
+            90
+          ],
+          "text": "coronavirus"
+        },
+        {
+          "indices": [
+            112,
+            116
+          ],
+          "text": "NIH"
+        },
+        {
+          "indices": [
+            248,
+            256
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/577HvI3P26",
+          "expanded_url": "https://twitter.com/NIHDirector/status/1235200651728220160/photo/1",
+          "id": 1235200644954361856,
+          "id_str": "1235200644954361856",
+          "indices": [
+            297,
+            320
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESRQcTTWkAA9vqj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESRQcTTWkAA9vqj.jpg",
+          "sizes": {
+            "large": {
+              "h": 790,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 463,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 262,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/577HvI3P26"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1234928714053369856",
+          "indices": [
+            273,
+            296
+          ],
+          "url": "https://t.co/oMB36XscnC"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            10,
+            16
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 956283913835614208,
+          "id_str": "956283913835614208",
+          "indices": [
+            23,
+            31
+          ],
+          "name": "Secretary Alex Azar",
+          "screen_name": "SecAzar"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/577HvI3P26",
+          "expanded_url": "https://twitter.com/NIHDirector/status/1235200651728220160/photo/1",
+          "id": 1235200644954361856,
+          "id_str": "1235200644954361856",
+          "indices": [
+            297,
+            320
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESRQcTTWkAA9vqj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESRQcTTWkAA9vqj.jpg",
+          "sizes": {
+            "large": {
+              "h": 790,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 463,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 262,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/577HvI3P26"
+        }
+      ]
+    },
+    "favorite_count": 874,
+    "favorited": false,
+    "full_text": "Thank you @POTUS &amp; @SecAzar for visiting #NIH yesterday for a briefing on #coronavirus.  As Dr. Fauci said, #NIH is the SWAT team for fighting emerging viruses &amp; we have rolled up our research sleeves to create vaccines &amp; therapies for #COVID19 in record time. https://t.co/oMB36XscnC https://t.co/577HvI3P26",
+    "geo": null,
+    "id": 1235200651728220160,
+    "id_str": "1235200651728220160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1234928714053369856,
+    "quoted_status_id_str": "1234928714053369856",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1234928714053369856",
+      "url": "https://t.co/oMB36XscnC"
+    },
+    "retweet_count": 359,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 18 18:32:15 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of Francis S. Collins, M.D., Ph.D., NIH Director.  NIH\u2026Turning Discovery Into Health \u00ae. Privacy Policy: https://t.co/QTI46zY00q",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2jQa5Rk",
+              "expanded_url": "http://bit.ly/2jQa5Rk",
+              "indices": [
+                129,
+                152
+              ],
+              "url": "https://t.co/QTI46zY00q"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nih.gov/about/director/",
+              "expanded_url": "http://www.nih.gov/about/director/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/chM4AXez5s"
+            }
+          ]
+        }
+      },
+      "favourites_count": 113,
+      "follow_request_sent": false,
+      "followers_count": 118781,
+      "following": false,
+      "friends_count": 127,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 124237063,
+      "id_str": "124237063",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1875,
+      "location": "Bethesda, Maryland, USA",
+      "name": "Francis S. Collins",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/124237063/1354810851",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2590532094/jtzrhzqy12ffo09ln2z8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2590532094/jtzrhzqy12ffo09ln2z8_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NIHDirector",
+      "statuses_count": 3136,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/chM4AXez5s",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1235200651728220160,
+  "quoted_status_id_str": "1235200651728220160",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nihdirector/st\u2026",
+    "expanded": "https://twitter.com/nihdirector/status/1235200651728220160",
+    "url": "https://t.co/X2ATpyv2vi"
+  },
+  "retweet_count": 6069,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73406728,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115559,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49534,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

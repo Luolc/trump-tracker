@@ -1,0 +1,547 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 05 13:11:07 +0000 2020",
+  "display_text_range": [
+    0,
+    86
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/3ju6dzvO2S",
+        "expanded_url": "https://twitter.com/LionelMedia/status/1190057966520668162/video/1",
+        "id": 1190057870659862528,
+        "id_str": "1190057870659862528",
+        "indices": [
+          63,
+          86
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1190057966520668162,
+        "source_status_id_str": "1190057966520668162",
+        "source_user_id": 24787367,
+        "source_user_id_str": "24787367",
+        "type": "photo",
+        "url": "https://t.co/3ju6dzvO2S"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 24787367,
+        "id_str": "24787367",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Lionel\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "LionelMedia"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          44,
+          60
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Mar 16 22:45:21 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The Official Account of #LOTUS (Lionel of the U.S.) \u2014 Emmy\u00ae totin\u2019 #Paronomasiac #TrialLawyer #Patriot #TruthSentry https://t.co/Bli5jYyCqm and https://t.co/7SifFahw9e",
+            "entities": {
+              "description": {
+                "urls": [
+                  {
+                    "display_url": "lionelmedia.com",
+                    "expanded_url": "http://lionelmedia.com",
+                    "indices": [
+                      116,
+                      139
+                    ],
+                    "url": "https://t.co/Bli5jYyCqm"
+                  },
+                  {
+                    "display_url": "youtube.com/LionelNation",
+                    "expanded_url": "http://youtube.com/LionelNation",
+                    "indices": [
+                      144,
+                      167
+                    ],
+                    "url": "https://t.co/7SifFahw9e"
+                  }
+                ]
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/lionelnation",
+                    "expanded_url": "http://youtube.com/lionelnation",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/AIVw8eWGdM"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 1144,
+            "follow_request_sent": false,
+            "followers_count": 103280,
+            "following": false,
+            "friends_count": 3794,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 24787367,
+            "id_str": "24787367",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 890,
+            "location": "Hell's Kitchen, USA",
+            "name": "Lionel\ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/24787367/1579547587",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1205911859850821637/frZ7zTpH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205911859850821637/frZ7zTpH_normal.jpg",
+            "profile_link_color": "002DB3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LionelMedia",
+            "statuses_count": 285166,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/AIVw8eWGdM",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/3ju6dzvO2S",
+        "expanded_url": "https://twitter.com/LionelMedia/status/1190057966520668162/video/1",
+        "id": 1190057870659862528,
+        "id_str": "1190057870659862528",
+        "indices": [
+          63,
+          86
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1190057966520668162,
+        "source_status_id_str": "1190057966520668162",
+        "source_user_id": 24787367,
+        "source_user_id_str": "24787367",
+        "type": "video",
+        "url": "https://t.co/3ju6dzvO2S",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 26933,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/320x320/lTUwWat7gdUWQdZP.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/480x480/y7xBC8mg8qtaKbtu.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/pl/mYZ67FD1QIdaCZxl.m3u8?tag=10"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/720x720/c5ESNQJKiy-qTXgk.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LionelMedia: Retweet if you stand with \u2066@realDonaldTrump\u2069! https://t.co/3ju6dzvO2S",
+  "geo": null,
+  "id": 1225044181443383296,
+  "id_str": "1225044181443383296",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 22906,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 01 00:08:24 +0000 2019",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3ju6dzvO2S",
+          "expanded_url": "https://twitter.com/LionelMedia/status/1190057966520668162/video/1",
+          "id": 1190057870659862528,
+          "id_str": "1190057870659862528",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3ju6dzvO2S"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            27,
+            43
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/3ju6dzvO2S",
+          "expanded_url": "https://twitter.com/LionelMedia/status/1190057966520668162/video/1",
+          "id": 1190057870659862528,
+          "id_str": "1190057870659862528",
+          "indices": [
+            46,
+            69
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1190057870659862528/pu/img/wtuG1eAMcFx7ubes.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3ju6dzvO2S",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 26933,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/320x320/lTUwWat7gdUWQdZP.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/480x480/y7xBC8mg8qtaKbtu.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/pl/mYZ67FD1QIdaCZxl.m3u8?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1190057870659862528/pu/vid/720x720/c5ESNQJKiy-qTXgk.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 39362,
+    "favorited": false,
+    "full_text": "Retweet if you stand with \u2066@realDonaldTrump\u2069! https://t.co/3ju6dzvO2S",
+    "geo": null,
+    "id": 1190057966520668162,
+    "id_str": "1190057966520668162",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22906,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 16 22:45:21 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Official Account of #LOTUS (Lionel of the U.S.) \u2014 Emmy\u00ae totin\u2019 #Paronomasiac #TrialLawyer #Patriot #TruthSentry https://t.co/Bli5jYyCqm and https://t.co/7SifFahw9e",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "lionelmedia.com",
+              "expanded_url": "http://lionelmedia.com",
+              "indices": [
+                116,
+                139
+              ],
+              "url": "https://t.co/Bli5jYyCqm"
+            },
+            {
+              "display_url": "youtube.com/LionelNation",
+              "expanded_url": "http://youtube.com/LionelNation",
+              "indices": [
+                144,
+                167
+              ],
+              "url": "https://t.co/7SifFahw9e"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youtube.com/lionelnation",
+              "expanded_url": "http://youtube.com/lionelnation",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AIVw8eWGdM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1144,
+      "follow_request_sent": false,
+      "followers_count": 103280,
+      "following": false,
+      "friends_count": 3794,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 24787367,
+      "id_str": "24787367",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 890,
+      "location": "Hell's Kitchen, USA",
+      "name": "Lionel\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24787367/1579547587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1205911859850821637/frZ7zTpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1205911859850821637/frZ7zTpH_normal.jpg",
+      "profile_link_color": "002DB3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LionelMedia",
+      "statuses_count": 285166,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/AIVw8eWGdM",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

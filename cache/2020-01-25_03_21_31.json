@@ -1,0 +1,318 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 25 03:21:31 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 217543151,
+        "id_str": "217543151",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Tim Scott",
+        "screen_name": "SenatorTimScott"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorTimScott: The facts are clear, House Democrats aren't interested in removing POTUS now (because they know they can't), they're i\u2026",
+  "geo": null,
+  "id": 1220909538020339713,
+  "id_str": "1220909538020339713",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5147,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 21:37:00 +0000 2020",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/np9VIPgY0G",
+          "expanded_url": "https://twitter.com/SenatorTimScott/status/1220822834731155458/video/1",
+          "features": {},
+          "id": 1220765008751210497,
+          "id_str": "1220765008751210497",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPEH3M3WAAE67r3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPEH3M3WAAE67r3.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/np9VIPgY0G"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/np9VIPgY0G",
+          "expanded_url": "https://twitter.com/SenatorTimScott/status/1220822834731155458/video/1",
+          "features": {},
+          "id": 1220765008751210497,
+          "id_str": "1220765008751210497",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPEH3M3WAAE67r3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPEH3M3WAAE67r3.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/np9VIPgY0G",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 218952,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220765008751210497/vid/1280x720/KXu6v_XCtSWgguJR.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220765008751210497/vid/640x360/EWEG6TsDbTt_sMSc.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220765008751210497/vid/480x270/eFRU7JUpGzVrRCyB.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1220765008751210497/pl/4j592SD2l8kotHz8.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15494,
+    "favorited": false,
+    "full_text": "The facts are clear, House Democrats aren't interested in removing POTUS now (because they know they can't), they're interested in using this trial for political showmanship to force Republicans to vote for their attack ads. Let's end this quick and move on to what matters. https://t.co/np9VIPgY0G",
+    "geo": null,
+    "id": 1220822834731155458,
+    "id_str": "1220822834731155458",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5147,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 19 20:34:30 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator from South Carolina",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "scott.senate.gov",
+              "expanded_url": "http://scott.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EoB6giYuOp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1893,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 384674,
+      "following": false,
+      "friends_count": 3867,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 217543151,
+      "id_str": "217543151",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3679,
+      "location": "",
+      "name": "Tim Scott",
+      "notifications": false,
+      "profile_background_color": "E0DBC8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/217543151/1567348104",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1096516272517496832/AkG_QkNf_normal.png",
+      "profile_link_color": "606060",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EBE9DC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorTimScott",
+      "statuses_count": 8270,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/EoB6giYuOp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71555446,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113725,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48242,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

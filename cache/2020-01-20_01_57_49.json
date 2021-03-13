@@ -1,0 +1,529 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jan 20 01:57:49 +0000 2020",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/NextRevFNC/sta\u2026",
+        "expanded_url": "https://twitter.com/NextRevFNC/status/1218941188704632832",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/AH1WHoGbY1"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          43,
+          51
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      }
+    ]
+  },
+  "favorite_count": 43775,
+  "favorited": false,
+  "full_text": "A great show! Check it out tonight at 9pm. @FoxNews https://t.co/AH1WHoGbY1",
+  "geo": null,
+  "id": 1219076533354037249,
+  "id_str": "1219076533354037249",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 19 17:00:00 +0000 2020",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            69,
+            80
+          ],
+          "text": "NextRevFNC"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/f6d6I9K78u",
+          "expanded_url": "https://twitter.com/NextRevFNC/status/1218941188704632832/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 567,
+                  "y": 192
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 942,
+                  "y": 167
+                },
+                {
+                  "h": 160,
+                  "w": 160,
+                  "x": 192,
+                  "y": 175
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 531,
+                  "y": 180
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 883,
+                  "y": 156
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 180,
+                  "y": 164
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 567,
+                  "y": 192
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 942,
+                  "y": 167
+                },
+                {
+                  "h": 160,
+                  "w": 160,
+                  "x": 192,
+                  "y": 175
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 61,
+                  "w": 61,
+                  "x": 301,
+                  "y": 102
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 500,
+                  "y": 88
+                },
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 102,
+                  "y": 92
+                }
+              ]
+            }
+          },
+          "id": 1217906324903800832,
+          "id_str": "1217906324903800832",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EObfWYmXsAAc-Ep.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EObfWYmXsAAc-Ep.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f6d6I9K78u"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 292929271,
+          "id_str": "292929271",
+          "indices": [
+            13,
+            27
+          ],
+          "name": "Charlie Kirk",
+          "screen_name": "charliekirk11"
+        },
+        {
+          "id": 1170029571942563842,
+          "id_str": "1170029571942563842",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "KT McFarland",
+          "screen_name": "realKTMcFarland"
+        },
+        {
+          "id": 778763106289758208,
+          "id_str": "778763106289758208",
+          "indices": [
+            51,
+            65
+          ],
+          "name": "Jenna Ellis",
+          "screen_name": "JennaEllisEsq"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            103,
+            111
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/f6d6I9K78u",
+          "expanded_url": "https://twitter.com/NextRevFNC/status/1218941188704632832/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 567,
+                  "y": 192
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 942,
+                  "y": 167
+                },
+                {
+                  "h": 160,
+                  "w": 160,
+                  "x": 192,
+                  "y": 175
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 531,
+                  "y": 180
+                },
+                {
+                  "h": 120,
+                  "w": 120,
+                  "x": 883,
+                  "y": 156
+                },
+                {
+                  "h": 150,
+                  "w": 150,
+                  "x": 180,
+                  "y": 164
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 116,
+                  "w": 116,
+                  "x": 567,
+                  "y": 192
+                },
+                {
+                  "h": 128,
+                  "w": 128,
+                  "x": 942,
+                  "y": 167
+                },
+                {
+                  "h": 160,
+                  "w": 160,
+                  "x": 192,
+                  "y": 175
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 61,
+                  "w": 61,
+                  "x": 301,
+                  "y": 102
+                },
+                {
+                  "h": 68,
+                  "w": 68,
+                  "x": 500,
+                  "y": 88
+                },
+                {
+                  "h": 85,
+                  "w": 85,
+                  "x": 102,
+                  "y": 92
+                }
+              ]
+            }
+          },
+          "id": 1217906324903800832,
+          "id_str": "1217906324903800832",
+          "indices": [
+            113,
+            136
+          ],
+          "media_url": "http://pbs.twimg.com/media/EObfWYmXsAAc-Ep.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EObfWYmXsAAc-Ep.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f6d6I9K78u"
+        }
+      ]
+    },
+    "favorite_count": 976,
+    "favorited": false,
+    "full_text": "TONIGHT! See @CharlieKirk11, @realKTMcFarland, and @JennaEllisEsq on #NextRevFNC! Tune in at 9pm ET on @FoxNews! https://t.co/f6d6I9K78u",
+    "geo": null,
+    "id": 1218941188704632832,
+    "id_str": "1218941188704632832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 304,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 10 20:03:53 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The Next Revolution with @SteveHiltonx focuses on the impact of the populist movement, both in the United States and throughout the world.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxnews.com/on-air/the-nex\u2026",
+              "expanded_url": "http://www.foxnews.com/on-air/the-next-revolution-with-steve-hilton/index.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NKSexqASJ4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 557,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 48822,
+      "following": false,
+      "friends_count": 216,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 851526166100029442,
+      "id_str": "851526166100029442",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 254,
+      "location": "Los Angeles, CA",
+      "name": "The Next Revolution",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/851526166100029442/1499439721",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NextRevFNC",
+      "statuses_count": 4047,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NKSexqASJ4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1218941188704632832,
+  "quoted_status_id_str": "1218941188704632832",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NextRevFNC/sta\u2026",
+    "expanded": "https://twitter.com/NextRevFNC/status/1218941188704632832",
+    "url": "https://t.co/AH1WHoGbY1"
+  },
+  "retweet_count": 9522,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71382468,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48045,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

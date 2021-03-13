@@ -1,0 +1,456 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 08 19:17:16 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2388042907,
+        "id_str": "2388042907",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Christina Bobb",
+        "screen_name": "christina_bobb"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          42,
+          58
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @christina_bobb: Dems planning to harm @realDonaldTrump?  Why would they have to talk about the 25th Amendment?  It\u2019s only invoked if @P\u2026",
+  "geo": null,
+  "id": 1314283740122820608,
+  "id_str": "1314283740122820608",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1314228201900703744,
+  "quoted_status_id_str": "1314228201900703744",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cbsnews/status\u2026",
+    "expanded": "https://twitter.com/cbsnews/status/1314228201900703744",
+    "url": "https://t.co/w5LETk9Nk1"
+  },
+  "retweet_count": 9077,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 08 19:15:21 +0000 2020",
+    "display_text_range": [
+      0,
+      236
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cbsnews/status\u2026",
+          "expanded_url": "https://twitter.com/cbsnews/status/1314228201900703744",
+          "indices": [
+            237,
+            260
+          ],
+          "url": "https://t.co/w5LETk9Nk1"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            22,
+            38
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            117,
+            123
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "favorite_count": 24717,
+    "favorited": false,
+    "full_text": "Dems planning to harm @realDonaldTrump?  Why would they have to talk about the 25th Amendment?  It\u2019s only invoked if @POTUS can no longer carry out duties, or is removed from office.  Dems are trying to install Crazy Nancy as President. https://t.co/w5LETk9Nk1",
+    "geo": null,
+    "id": 1314283258008473601,
+    "id_str": "1314283258008473601",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 08 15:36:35 +0000 2020",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qtnNc3NAD0",
+            "expanded_url": "https://twitter.com/CBSNews/status/1314228201900703744/video/1",
+            "id": 1314228166056120328,
+            "id_str": "1314228166056120328",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1314228166056120328/img/RToHCFFz69Oif3Wq.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1314228166056120328/img/RToHCFFz69Oif3Wq.jpg",
+            "sizes": {
+              "large": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qtnNc3NAD0"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cbsnews.com/news/trump-cov\u2026",
+            "expanded_url": "https://www.cbsnews.com/news/trump-covid-test-what-is-the-25th-amendment-succession-white-house/",
+            "indices": [
+              253,
+              276
+            ],
+            "url": "https://t.co/Sk39EHPIL5"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/qtnNc3NAD0",
+            "expanded_url": "https://twitter.com/CBSNews/status/1314228201900703744/video/1",
+            "id": 1314228166056120328,
+            "id_str": "1314228166056120328",
+            "indices": [
+              277,
+              300
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1314228166056120328/img/RToHCFFz69Oif3Wq.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1314228166056120328/img/RToHCFFz69Oif3Wq.jpg",
+            "sizes": {
+              "large": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "medium": {
+                "h": 540,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/qtnNc3NAD0",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 53120,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1314228166056120328/vid/480x270/krlENtiI68f_ApaQ.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1314228166056120328/pl/J99wXsHQwKns6r-O.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1314228166056120328/vid/640x360/x5rRhXGhWdxt6BBj.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1314228166056120328/vid/960x540/4368BjhY-4v91NUz.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4988,
+      "favorited": false,
+      "full_text": "Pelosi says at her weekly press conference: \"By the way, tomorrow \u2014 come here tomorrow. We're going to be talking about the 25th Amendment.\" \n\n25th Amendment lays out succession if the president is incapacitated or deemed unable to carry out his duties https://t.co/Sk39EHPIL5 https://t.co/qtnNc3NAD0",
+      "geo": null,
+      "id": 1314228201900703744,
+      "id_str": "1314228201900703744",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1888,
+      "retweeted": false,
+      "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 05 00:54:31 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Your source for original reporting and trusted news.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "CBSNews.com",
+                "expanded_url": "http://CBSNews.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/VGut7r2Vg5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 298,
+        "follow_request_sent": false,
+        "followers_count": 7748119,
+        "following": false,
+        "friends_count": 533,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 15012486,
+        "id_str": "15012486",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51438,
+        "location": "New York, NY",
+        "name": "CBS News",
+        "notifications": false,
+        "profile_background_color": "D9DADA",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15012486/1581519449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/645966750941626368/d0Q4voGK_normal.jpg",
+        "profile_link_color": "B12124",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EAEDF0",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CBSNews",
+        "statuses_count": 270690,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/VGut7r2Vg5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1314228201900703744,
+    "quoted_status_id_str": "1314228201900703744",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cbsnews/status\u2026",
+      "expanded": "https://twitter.com/cbsnews/status/1314228201900703744",
+      "url": "https://t.co/w5LETk9Nk1"
+    },
+    "retweet_count": 9077,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 13 23:04:09 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Host of Weekly Briefing on OAN.  US Marine. Lawyer. Author. Sister. Daughter. Dog Mom.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 5761,
+      "follow_request_sent": false,
+      "followers_count": 26284,
+      "following": false,
+      "friends_count": 9062,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2388042907,
+      "id_str": "2388042907",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 84,
+      "location": "Washington, DC",
+      "name": "Christina Bobb",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2388042907/1598656180",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277933623140851713/qrkpbnL5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277933623140851713/qrkpbnL5_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "christina_bobb",
+      "statuses_count": 1297,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87206812,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121246,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56834,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

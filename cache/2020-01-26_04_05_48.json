@@ -1,0 +1,485 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 26 04:05:48 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1200451909406121984,
+        "id_str": "1200451909406121984",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Senator Kelly Loeffler",
+        "screen_name": "SenatorLoeffler"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          91,
+          107
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorLoeffler: The House Democrats spent 24 hours recycling baseless attacks against @realDonaldTrump. It didn't take but two hours f\u2026",
+  "geo": null,
+  "id": 1221283066980851719,
+  "id_str": "1221283066980851719",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1221134942555508737,
+  "quoted_status_id_str": "1221134942555508737",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SenJohnBarrass\u2026",
+    "expanded": "https://twitter.com/SenJohnBarrasso/status/1221134942555508737",
+    "url": "https://t.co/lZ1MVqmSe8"
+  },
+  "retweet_count": 2940,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 26 02:03:04 +0000 2020",
+    "display_text_range": [
+      0,
+      179
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            173,
+            179
+          ],
+          "text": "gapol"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SenJohnBarrass\u2026",
+          "expanded_url": "https://twitter.com/SenJohnBarrasso/status/1221134942555508737",
+          "indices": [
+            180,
+            203
+          ],
+          "url": "https://t.co/lZ1MVqmSe8"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            70,
+            86
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            125,
+            136
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "favorite_count": 10533,
+    "favorited": false,
+    "full_text": "The House Democrats spent 24 hours recycling baseless attacks against @realDonaldTrump. It didn't take but two hours for the @WhiteHouse team to undermine every accusation. #gapol https://t.co/lZ1MVqmSe8",
+    "geo": null,
+    "id": 1221252180398813185,
+    "id_str": "1221252180398813185",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jan 25 18:17:12 +0000 2020",
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qwMTLdSxnJ",
+            "expanded_url": "https://twitter.com/SenJohnBarrasso/status/1221134942555508737/video/1",
+            "features": {},
+            "id": 1221125637852844033,
+            "id_str": "1221125637852844033",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPJWoaaX4AAbo2y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPJWoaaX4AAbo2y.jpg",
+            "sizes": {
+              "large": {
+                "h": 594,
+                "resize": "fit",
+                "w": 1117
+              },
+              "medium": {
+                "h": 594,
+                "resize": "fit",
+                "w": 1117
+              },
+              "small": {
+                "h": 362,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/qwMTLdSxnJ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              126,
+              142
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 29501253,
+            "id_str": "29501253",
+            "indices": [
+              179,
+              193
+            ],
+            "name": "Adam Schiff",
+            "screen_name": "RepAdamSchiff"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Senator Barrasso on C-SPAN"
+            },
+            "display_url": "pic.twitter.com/qwMTLdSxnJ",
+            "expanded_url": "https://twitter.com/SenJohnBarrasso/status/1221134942555508737/video/1",
+            "features": {},
+            "id": 1221125637852844033,
+            "id_str": "1221125637852844033",
+            "indices": [
+              272,
+              295
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPJWoaaX4AAbo2y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPJWoaaX4AAbo2y.jpg",
+            "sizes": {
+              "large": {
+                "h": 594,
+                "resize": "fit",
+                "w": 1117
+              },
+              "medium": {
+                "h": 594,
+                "resize": "fit",
+                "w": 1117
+              },
+              "small": {
+                "h": 362,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/qwMTLdSxnJ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 525258,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1221125637852844033/vid/960x540/sSMQHXdXxcGJSzkI.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1221125637852844033/vid/480x270/KR2EFYbBRmXdUgCn.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1221125637852844033/pl/ToQCZHe6gqTTf2QC.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1221125637852844033/vid/640x360/rYDMbhkMleRhjMAb.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 20704,
+      "favorited": false,
+      "full_text": "Today, we heard a presentation that was strong, that was clear &amp; that completely undermined the case of Democrats against @realDonaldTrump &amp; undermined the credibility of @RepAdamSchiff. I look forward to hearing more from the White House team in the coming days. https://t.co/qwMTLdSxnJ",
+      "geo": null,
+      "id": 1221134942555508737,
+      "id_str": "1221134942555508737",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 6412,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "barrasso.senate.gov",
+                "expanded_url": "http://barrasso.senate.gov",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/oAKWpUrAWS"
+              }
+            ]
+          }
+        },
+        "favourites_count": 26,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 128728,
+        "following": false,
+        "friends_count": 520,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 202206694,
+        "id_str": "202206694",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2281,
+        "location": "",
+        "name": "Sen. John Barrasso",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SenJohnBarrasso",
+        "statuses_count": 4561,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/oAKWpUrAWS",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1221134942555508737,
+    "quoted_status_id_str": "1221134942555508737",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SenJohnBarrass\u2026",
+      "expanded": "https://twitter.com/SenJohnBarrasso/status/1221134942555508737",
+      "url": "https://t.co/lZ1MVqmSe8"
+    },
+    "retweet_count": 2940,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 29 16:30:25 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly representing the great state of Georgia in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 41,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 8296,
+      "following": false,
+      "friends_count": 85,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1200451909406121984,
+      "id_str": "1200451909406121984",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 65,
+      "location": "Atlanta, GA",
+      "name": "Senator Kelly Loeffler",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1200451909406121984/1575477333",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202228171741028354/6VnrGzcn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202228171741028354/6VnrGzcn_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorLoeffler",
+      "statuses_count": 96,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

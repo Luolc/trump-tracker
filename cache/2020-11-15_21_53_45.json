@@ -1,0 +1,415 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 15 21:53:45 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          74,
+          91
+        ],
+        "text": "MillionMAGAMarch"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2835451658,
+        "id_str": "2835451658",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Andy Ng\u00f4",
+        "screen_name": "MrAndyNgo"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MrAndyNgo: There was a lot of violence today against attendees of the #MillionMAGAMarch. Now, a large crowd sings the American national\u2026",
+  "geo": null,
+  "id": 1328093859549736964,
+  "id_str": "1328093859549736964",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 24624,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 15 03:02:43 +0000 2020",
+    "display_text_range": [
+      0,
+      212
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            59,
+            76
+          ],
+          "text": "MillionMAGAMarch"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kq8PDv7Xfq",
+          "expanded_url": "https://twitter.com/BGOnTheScene/status/1327807765570576384/video/1",
+          "id": 1327807615024369665,
+          "id_str": "1327807615024369665",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327807615024369665/pu/img/NWmEi67_Lo1glMWD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327807615024369665/pu/img/NWmEi67_Lo1glMWD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1327807765570576384,
+          "source_status_id_str": "1327807765570576384",
+          "source_user_id": 23951440,
+          "source_user_id_str": "23951440",
+          "type": "photo",
+          "url": "https://t.co/kq8PDv7Xfq"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 23951440,
+          "id_str": "23951440",
+          "indices": [
+            174,
+            187
+          ],
+          "name": "Brendan Gutenschwager",
+          "screen_name": "BGOnTheScene"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Mar 12 14:05:32 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Independent reporter on the scene capturing original videos at rallies, protests, breaking news & more in the US. Videos available for licensing, DM to inquire",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "paypal.me/bgonthescene",
+                      "expanded_url": "http://paypal.me/bgonthescene",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/f7QiPrWeSd"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 17758,
+              "follow_request_sent": false,
+              "followers_count": 82914,
+              "following": false,
+              "friends_count": 1172,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 23951440,
+              "id_str": "23951440",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 650,
+              "location": "United States",
+              "name": "Brendan Gutenschwager",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/23951440/1595171353",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1248347118026330123/Cb4VmSXD_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248347118026330123/Cb4VmSXD_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "BGOnTheScene",
+              "statuses_count": 20159,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/f7QiPrWeSd",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/kq8PDv7Xfq",
+          "expanded_url": "https://twitter.com/BGOnTheScene/status/1327807765570576384/video/1",
+          "id": 1327807615024369665,
+          "id_str": "1327807615024369665",
+          "indices": [
+            189,
+            212
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327807615024369665/pu/img/NWmEi67_Lo1glMWD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327807615024369665/pu/img/NWmEi67_Lo1glMWD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1327807765570576384,
+          "source_status_id_str": "1327807765570576384",
+          "source_user_id": 23951440,
+          "source_user_id_str": "23951440",
+          "type": "video",
+          "url": "https://t.co/kq8PDv7Xfq",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 53350,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1327807615024369665/pu/pl/mOS20U0NLx_V5q78.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327807615024369665/pu/vid/640x360/RcyDTv3-kuyQZQW6.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327807615024369665/pu/vid/480x270/dIlDHoFJdwM6hlsO.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327807615024369665/pu/vid/1280x720/nNT3lSSFGcrlTm-l.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 82853,
+    "favorited": false,
+    "full_text": "There was a lot of violence today against attendees of the #MillionMAGAMarch. Now, a large crowd sings the American national anthem outside the Willard Hotel in DC. Video by @BGOnTheScene: https://t.co/kq8PDv7Xfq",
+    "geo": null,
+    "id": 1327809223481118720,
+    "id_str": "1327809223481118720",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24624,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Editor-at-large - @TPostMillennial. Preorder my tell-all book on antifa: https://t.co/iPi6KZBb9h",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/andy-ng\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/andy-ngo/unmasked/9781546059585/",
+              "indices": [
+                73,
+                96
+              ],
+              "url": "https://t.co/iPi6KZBb9h"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ngo.locals.com",
+              "expanded_url": "https://ngo.locals.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jPwMbP8CBz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 47923,
+      "follow_request_sent": false,
+      "followers_count": 798908,
+      "following": false,
+      "friends_count": 798,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2835451658,
+      "id_str": "2835451658",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3669,
+      "location": "",
+      "name": "Andy Ng\u00f4",
+      "notifications": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1603740486",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+      "profile_link_color": "AF7D5D",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MrAndyNgo",
+      "statuses_count": 17982,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/jPwMbP8CBz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88955435,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124912,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58480,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

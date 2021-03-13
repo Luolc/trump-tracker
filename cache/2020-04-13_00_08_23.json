@@ -1,0 +1,342 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 13 00:08:23 +0000 2020",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/NatalieJHarp/s\u2026",
+        "expanded_url": "https://twitter.com/NatalieJHarp/status/1144763093827739648",
+        "indices": [
+          21,
+          44
+        ],
+        "url": "https://t.co/OldfyDdFRO"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 77959,
+  "favorited": false,
+  "full_text": "Great going Natalie! https://t.co/OldfyDdFRO",
+  "geo": null,
+  "id": 1249489574184747008,
+  "id_str": "1249489574184747008",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 29 00:22:44 +0000 2019",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            266,
+            274
+          ],
+          "text": "RTM2019"
+        },
+        {
+          "indices": [
+            275,
+            279
+          ],
+          "text": "KAG"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OaT0bQWR9j",
+          "expanded_url": "https://twitter.com/NatalieJHarp/status/1144763093827739648/video/1",
+          "id": 1144760893458173952,
+          "id_str": "1144760893458173952",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144760893458173952/pu/img/dMTpMc5rB54TsZE7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144760893458173952/pu/img/dMTpMc5rB54TsZE7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/OaT0bQWR9j"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            215,
+            231
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/OaT0bQWR9j",
+          "expanded_url": "https://twitter.com/NatalieJHarp/status/1144763093827739648/video/1",
+          "id": 1144760893458173952,
+          "id_str": "1144760893458173952",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1144760893458173952/pu/img/dMTpMc5rB54TsZE7.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1144760893458173952/pu/img/dMTpMc5rB54TsZE7.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/OaT0bQWR9j",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 94240,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1144760893458173952/pu/vid/480x270/MiHd0yIQadSPPU8M.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1144760893458173952/pu/vid/1280x720/wqgwZBv46Rf2H3wN.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1144760893458173952/pu/vid/640x360/xkp5an3nfx8hxH9A.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1144760893458173952/pu/pl/CL1sNUrgpYmuZWBh.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19816,
+    "favorited": false,
+    "full_text": "We all know the story of the Good Samaritan.\n\nBut what you don't know is I was that forgotten person on the side of the road \u2014 left to die of medical error and cancer.\n\nThe Political Establishment passed me by. But @realDonaldTrump didn't.\n\nMeet my Good Samaritan!\n\n#RTM2019 #KAG https://t.co/OaT0bQWR9j",
+    "geo": null,
+    "id": 1144763093827739648,
+    "id_str": "1144763093827739648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7396,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 05 23:10:30 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Advisory Board, @realDonaldTrump for President \u2022 Ambassador @falkirk_center \u2022 Psalm 23",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "natalieharp.com",
+              "expanded_url": "http://www.natalieharp.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uWnRE7hB3H"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20869,
+      "follow_request_sent": false,
+      "followers_count": 13537,
+      "following": false,
+      "friends_count": 1237,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 772934961766608897,
+      "id_str": "772934961766608897",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 29,
+      "location": "California, USA",
+      "name": "Natalie Harp - Text TRUMP to 88022",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/772934961766608897/1561766290",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1010629460079493120/grDoHKSQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1010629460079493120/grDoHKSQ_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NatalieJHarp",
+      "statuses_count": 7247,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uWnRE7hB3H",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1144763093827739648,
+  "quoted_status_id_str": "1144763093827739648",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NatalieJHarp/s\u2026",
+    "expanded": "https://twitter.com/NatalieJHarp/status/1144763093827739648",
+    "url": "https://t.co/OldfyDdFRO"
+  },
+  "retweet_count": 20272,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77237846,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119500,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50678,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

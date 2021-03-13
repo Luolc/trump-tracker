@@ -1,0 +1,526 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 01:18:27 +0000 2020",
+  "display_text_range": [
+    0,
+    94
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1148223852494950400,
+        "id_str": "1148223852494950400",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "CBP Mark Morgan",
+        "screen_name": "CBPMarkMorgan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CBPMarkMorgan: There is nothing \u201cpeaceful\u201d about using power tools to saw through fencing.",
+  "geo": null,
+  "id": 1287557933320921088,
+  "id_str": "1287557933320921088",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1286915433828724736,
+  "quoted_status_id_str": "1286915433828724736",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MrAndyNgo/stat\u2026",
+    "expanded": "https://twitter.com/MrAndyNgo/status/1286915433828724736",
+    "url": "https://t.co/KwlZ16Fnr1"
+  },
+  "retweet_count": 8129,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 25 16:30:23 +0000 2020",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MrAndyNgo/stat\u2026",
+          "expanded_url": "https://twitter.com/MrAndyNgo/status/1286915433828724736",
+          "indices": [
+            76,
+            99
+          ],
+          "url": "https://t.co/KwlZ16Fnr1"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 21204,
+    "favorited": false,
+    "full_text": "There is nothing \u201cpeaceful\u201d about using power tools to saw through fencing. https://t.co/KwlZ16Fnr1",
+    "geo": null,
+    "id": 1287062654507462656,
+    "id_str": "1287062654507462656",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jul 25 06:45:23 +0000 2020",
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              139,
+              153
+            ],
+            "text": "PortlandRiots"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/okZ56jpH5B",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1286911599513489408/video/1",
+            "id": 1286911065666666497,
+            "id_str": "1286911065666666497",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286911065666666497/pu/img/ER7dn0Jflwtf_13v.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286911065666666497/pu/img/ER7dn0Jflwtf_13v.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286911599513489408,
+            "source_status_id_str": "1286911599513489408",
+            "source_user_id": 1022693675250249729,
+            "source_user_id_str": "1022693675250249729",
+            "type": "photo",
+            "url": "https://t.co/okZ56jpH5B"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1022693675250249729,
+            "id_str": "1022693675250249729",
+            "indices": [
+              98,
+              114
+            ],
+            "name": "Drew Hernandez",
+            "screen_name": "livesmattershow"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jul 27 04:02:27 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Host, Reporter, Producer of the hit web show \u201cLives Matter\u201c \u2022 Subscribe now\ud83d\udc47\ud83c\udffb",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/livesmatter",
+                        "expanded_url": "http://youtube.com/livesmatter",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/G62puSzwnd"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 19,
+                "follow_request_sent": false,
+                "followers_count": 21827,
+                "following": false,
+                "friends_count": 86,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1022693675250249729,
+                "id_str": "1022693675250249729",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 94,
+                "location": "Los Angeles, CA",
+                "name": "Drew Hernandez",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022693675250249729/1573030185",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "livesmattershow",
+                "statuses_count": 590,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/G62puSzwnd",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/okZ56jpH5B",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1286911599513489408/video/1",
+            "id": 1286911065666666497,
+            "id_str": "1286911065666666497",
+            "indices": [
+              115,
+              138
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286911065666666497/pu/img/ER7dn0Jflwtf_13v.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286911065666666497/pu/img/ER7dn0Jflwtf_13v.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286911599513489408,
+            "source_status_id_str": "1286911599513489408",
+            "source_user_id": 1022693675250249729,
+            "source_user_id_str": "1022693675250249729",
+            "type": "video",
+            "url": "https://t.co/okZ56jpH5B",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 47502,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286911065666666497/pu/vid/480x270/waPrn21edgvgeU8t.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286911065666666497/pu/vid/640x360/MyNi7U3ErHN4GD1I.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286911065666666497/pu/vid/1280x720/24uI3JjxlF4KZnGj.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1286911065666666497/pu/pl/VzSESJGQZRaD9MT4.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 11144,
+      "favorited": false,
+      "full_text": "Rioters are using a circle saw to cut apart the fence protecting the federal courthouse. Video by @livesmattershow https://t.co/okZ56jpH5B #PortlandRiots",
+      "geo": null,
+      "id": 1286915433828724736,
+      "id_str": "1286915433828724736",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8167,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                "indices": [
+                  76,
+                  99
+                ],
+                "url": "https://t.co/nHDpgWNnvX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngo.locals.com",
+                "expanded_url": "https://ngo.locals.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jPwMbP8CBz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 41755,
+        "follow_request_sent": false,
+        "followers_count": 525555,
+        "following": false,
+        "friends_count": 688,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2835451658,
+        "id_str": "2835451658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2326,
+        "location": "",
+        "name": "Andy Ng\u00f4",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_link_color": "AF7D5D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrAndyNgo",
+        "statuses_count": 14347,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jPwMbP8CBz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1286915433828724736,
+    "quoted_status_id_str": "1286915433828724736",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MrAndyNgo/stat\u2026",
+      "expanded": "https://twitter.com/MrAndyNgo/status/1286915433828724736",
+      "url": "https://t.co/KwlZ16Fnr1"
+    },
+    "retweet_count": 8129,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 08 13:34:34 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Senior Official Performing the Duties of the Commissioner of U.S. Customs and Border Protection (@CBP)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "CBP.gov",
+              "expanded_url": "http://www.CBP.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8QUkU7xNlf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 23247,
+      "following": false,
+      "friends_count": 135,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1148223852494950400,
+      "id_str": "1148223852494950400",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 206,
+      "location": "Washington, DC",
+      "name": "CBP Mark Morgan",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1148223852494950400/1562594333",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149350858561392641/kQeuudZN_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149350858561392641/kQeuudZN_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CBPMarkMorgan",
+      "statuses_count": 765,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8QUkU7xNlf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

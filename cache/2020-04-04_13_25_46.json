@@ -1,0 +1,457 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 04 13:25:46 +0000 2020",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 22330739,
+        "id_str": "22330739",
+        "indices": [
+          27,
+          35
+        ],
+        "name": "Marc Benioff",
+        "screen_name": "Benioff"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Love this @Benioff \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f",
+  "geo": null,
+  "id": 1246428750931267585,
+  "id_str": "1246428750931267585",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1245851858062544896,
+  "quoted_status_id_str": "1245851858062544896",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sfchronicle/st\u2026",
+    "expanded": "https://twitter.com/sfchronicle/status/1245851858062544896",
+    "url": "https://t.co/0jn0ME1go3"
+  },
+  "retweet_count": 4417,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 03 00:44:59 +0000 2020",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/sfchronicle/st\u2026",
+          "expanded_url": "https://twitter.com/sfchronicle/status/1245851858062544896",
+          "indices": [
+            23,
+            46
+          ],
+          "url": "https://t.co/0jn0ME1go3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 22330739,
+          "id_str": "22330739",
+          "indices": [
+            10,
+            18
+          ],
+          "name": "Marc Benioff",
+          "screen_name": "Benioff"
+        }
+      ]
+    },
+    "favorite_count": 23412,
+    "favorited": false,
+    "full_text": "Love this @Benioff \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f https://t.co/0jn0ME1go3",
+    "geo": null,
+    "id": 1245874904156852224,
+    "id_str": "1245874904156852224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Apr 02 23:13:24 +0000 2020",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              155,
+              163
+            ],
+            "text": "COVID19"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YwyTExooYF",
+            "expanded_url": "https://twitter.com/sfchronicle/status/1245851858062544896/video/1",
+            "id": 1245849673224425474,
+            "id_str": "1245849673224425474",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1245849673224425474/img/73yjKfbsKDayoX4V.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1245849673224425474/img/73yjKfbsKDayoX4V.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YwyTExooYF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/YwyTExooYF",
+            "expanded_url": "https://twitter.com/sfchronicle/status/1245851858062544896/video/1",
+            "id": 1245849673224425474,
+            "id_str": "1245849673224425474",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1245849673224425474/img/73yjKfbsKDayoX4V.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1245849673224425474/img/73yjKfbsKDayoX4V.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/YwyTExooYF",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 50050,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1245849673224425474/vid/480x270/ea8HrwD6ASb624mw.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1245849673224425474/vid/1280x720/4JxxAqrB0JEaAxNQ.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1245849673224425474/pl/zq0mNBlkF5vZ1MQ_.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1245849673224425474/vid/640x360/bCip2J27O-1wBMxG.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4398,
+      "favorited": false,
+      "full_text": "The top of the Salesforce Tower is illuminated with a video of clapping hands and prayer flags in support of medical workers and first responders fighting #COVID19. https://t.co/YwyTExooYF",
+      "geo": null,
+      "id": 1245851858062544896,
+      "id_str": "1245851858062544896",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1180,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 10 00:44:07 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Delivering the Bay Area\u2019s best journalism every day. Subscribe and support the newsroom: https://t.co/E4WoU29tLu",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "SFChronicle.com/subscribe",
+                "expanded_url": "http://SFChronicle.com/subscribe",
+                "indices": [
+                  89,
+                  112
+                ],
+                "url": "https://t.co/E4WoU29tLu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "SFChronicle.com",
+                "expanded_url": "http://SFChronicle.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/CV0gqLJvPR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2750,
+        "follow_request_sent": false,
+        "followers_count": 206329,
+        "following": false,
+        "friends_count": 236,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 121597316,
+        "id_str": "121597316",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3610,
+        "location": "San Francisco, CA",
+        "name": "San Francisco Chronicle",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/121597316/1431378314",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1145742752824483842/gAPc8mwO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145742752824483842/gAPc8mwO_normal.png",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "sfchronicle",
+        "statuses_count": 127781,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CV0gqLJvPR",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1245851858062544896,
+    "quoted_status_id_str": "1245851858062544896",
+    "quoted_status_permalink": {
+      "display": "twitter.com/sfchronicle/st\u2026",
+      "expanded": "https://twitter.com/sfchronicle/status/1245851858062544896",
+      "url": "https://t.co/0jn0ME1go3"
+    },
+    "retweet_count": 4417,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2946,
+      "follow_request_sent": false,
+      "followers_count": 8376817,
+      "following": false,
+      "friends_count": 1433,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 22444,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 16845,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76006789,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50421,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

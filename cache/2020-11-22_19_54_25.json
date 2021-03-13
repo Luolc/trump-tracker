@@ -1,0 +1,326 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 22 19:54:25 +0000 2020",
+  "display_text_range": [
+    0,
+    69
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/BVNf1KmA2A",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1330600542159167488/photo/1",
+        "id": 1330600538862460929,
+        "id_str": "1330600538862460929",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/media/Enc-I-jXIAElogv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Enc-I-jXIAElogv.jpg",
+        "sizes": {
+          "large": {
+            "h": 626,
+            "resize": "fit",
+            "w": 1103
+          },
+          "medium": {
+            "h": 626,
+            "resize": "fit",
+            "w": 1103
+          },
+          "small": {
+            "h": 386,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BVNf1KmA2A"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/CNBC/status/13\u2026",
+        "expanded_url": "https://twitter.com/CNBC/status/1330256192132804612",
+        "indices": [
+          46,
+          69
+        ],
+        "url": "https://t.co/5GaxLp2piq"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 44401911,
+        "id_str": "44401911",
+        "indices": [
+          1,
+          14
+        ],
+        "name": "Larry Kudlow",
+        "screen_name": "larry_kudlow"
+      },
+      {
+        "id": 257661436,
+        "id_str": "257661436",
+        "indices": [
+          23,
+          35
+        ],
+        "name": "Eamon Javers",
+        "screen_name": "EamonJavers"
+      },
+      {
+        "id": 20402945,
+        "id_str": "20402945",
+        "indices": [
+          36,
+          41
+        ],
+        "name": "CNBC",
+        "screen_name": "CNBC"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/BVNf1KmA2A",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1330600542159167488/photo/1",
+        "id": 1330600538862460929,
+        "id_str": "1330600538862460929",
+        "indices": [
+          70,
+          93
+        ],
+        "media_url": "http://pbs.twimg.com/media/Enc-I-jXIAElogv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/Enc-I-jXIAElogv.jpg",
+        "sizes": {
+          "large": {
+            "h": 626,
+            "resize": "fit",
+            "w": 1103
+          },
+          "medium": {
+            "h": 626,
+            "resize": "fit",
+            "w": 1103
+          },
+          "small": {
+            "h": 386,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/BVNf1KmA2A"
+      }
+    ]
+  },
+  "favorite_count": 112947,
+  "favorited": false,
+  "full_text": ".@Larry_Kudlow note to @EamonJavers @CNBC.... https://t.co/5GaxLp2piq https://t.co/BVNf1KmA2A",
+  "geo": null,
+  "id": 1330600542159167488,
+  "id_str": "1330600542159167488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 21:06:05 +0000 2020",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "cnb.cx/3lNVxiF",
+          "expanded_url": "https://cnb.cx/3lNVxiF",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/Lwb1TS8YPL"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 1502,
+    "favorited": false,
+    "full_text": "Trump does not attend G-20 event on global pandemic preparedness https://t.co/Lwb1TS8YPL",
+    "geo": null,
+    "id": 1330256192132804612,
+    "id_str": "1330256192132804612",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 319,
+    "retweeted": false,
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 09 00:03:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "First in business worldwide.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cnbc.com",
+              "expanded_url": "https://www.cnbc.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fdcFKDtOzb"
+            }
+          ]
+        }
+      },
+      "favourites_count": 616,
+      "follow_request_sent": false,
+      "followers_count": 3844841,
+      "following": false,
+      "friends_count": 831,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20402945,
+      "id_str": "20402945",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 32254,
+      "location": "Englewood Cliffs, NJ",
+      "name": "CNBC",
+      "notifications": false,
+      "profile_background_color": "0D181F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1601925989",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317082585382735874/DBEM-rWK_normal.png",
+      "profile_link_color": "2D648A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EAEBEA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CNBC",
+      "statuses_count": 392530,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fdcFKDtOzb",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1330256192132804612,
+  "quoted_status_id_str": "1330256192132804612",
+  "quoted_status_permalink": {
+    "display": "twitter.com/CNBC/status/13\u2026",
+    "expanded": "https://twitter.com/CNBC/status/1330256192132804612",
+    "url": "https://t.co/5GaxLp2piq"
+  },
+  "retweet_count": 29662,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88900657,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125290,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58642,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 16 10:52:11 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23686641,
+        "id_str": "23686641",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Troy Jackson",
+        "screen_name": "ootroy"
+      },
+      {
+        "id": 37760670,
+        "id_str": "37760670",
+        "indices": [
+          12,
+          21
+        ],
+        "name": "Texas GOP",
+        "screen_name": "TexasGOP"
+      },
+      {
+        "id": 237403203,
+        "id_str": "237403203",
+        "indices": [
+          22,
+          32
+        ],
+        "name": "Allen West",
+        "screen_name": "AllenWest"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ootroy: @TexasGOP @AllenWest  Southern Dallas County Minority engagement at the Polls educating voters on realities of Democratic Party\u2026",
+  "geo": null,
+  "id": 1317055733465317376,
+  "id_str": "1317055733465317376",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3108,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 00:45:44 +0000 2020",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vKuqJwxbS3",
+          "expanded_url": "https://twitter.com/ootroy/status/1316178342530494470/photo/1",
+          "id": 1316178337857929217,
+          "id_str": "1316178337857929217",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkQBOZEWAAE-Uxk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkQBOZEWAAE-Uxk.jpg",
+          "sizes": {
+            "large": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "medium": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vKuqJwxbS3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 37760670,
+          "id_str": "37760670",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Texas GOP",
+          "screen_name": "TexasGOP"
+        },
+        {
+          "id": 237403203,
+          "id_str": "237403203",
+          "indices": [
+            10,
+            20
+          ],
+          "name": "Allen West",
+          "screen_name": "AllenWest"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vKuqJwxbS3",
+          "expanded_url": "https://twitter.com/ootroy/status/1316178342530494470/photo/1",
+          "id": 1316178337857929217,
+          "id_str": "1316178337857929217",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkQBOZEWAAE-Uxk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkQBOZEWAAE-Uxk.jpg",
+          "sizes": {
+            "large": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "medium": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vKuqJwxbS3"
+        },
+        {
+          "display_url": "pic.twitter.com/vKuqJwxbS3",
+          "expanded_url": "https://twitter.com/ootroy/status/1316178342530494470/photo/1",
+          "id": 1316178337849585664,
+          "id_str": "1316178337849585664",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkQBOZCWsAAECpt.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkQBOZCWsAAECpt.jpg",
+          "sizes": {
+            "large": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "medium": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vKuqJwxbS3"
+        },
+        {
+          "display_url": "pic.twitter.com/vKuqJwxbS3",
+          "expanded_url": "https://twitter.com/ootroy/status/1316178342530494470/photo/1",
+          "id": 1316178337862217728,
+          "id_str": "1316178337862217728",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkQBOZFXcAAMxie.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkQBOZFXcAAMxie.jpg",
+          "sizes": {
+            "large": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "medium": {
+              "h": 686,
+              "resize": "fit",
+              "w": 915
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vKuqJwxbS3"
+        },
+        {
+          "display_url": "pic.twitter.com/vKuqJwxbS3",
+          "expanded_url": "https://twitter.com/ootroy/status/1316178342530494470/photo/1",
+          "id": 1316178337870557187,
+          "id_str": "1316178337870557187",
+          "indices": [
+            128,
+            151
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkQBOZHWsAMEJL1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkQBOZHWsAMEJL1.jpg",
+          "sizes": {
+            "large": {
+              "h": 971,
+              "resize": "fit",
+              "w": 1295
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vKuqJwxbS3"
+        }
+      ]
+    },
+    "favorite_count": 10773,
+    "favorited": false,
+    "full_text": "@TexasGOP @AllenWest  Southern Dallas County Minority engagement at the Polls educating voters on realities of Democratic Party https://t.co/vKuqJwxbS3",
+    "geo": null,
+    "id": 1316178342530494470,
+    "id_str": "1316178342530494470",
+    "in_reply_to_screen_name": "TexasGOP",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 37760670,
+    "in_reply_to_user_id_str": "37760670",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3108,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 11 00:03:24 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I am who and what God says I am, and I can do anything His word says I can do!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "troybjackson.com",
+              "expanded_url": "http://www.troybjackson.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7JxeFeqfgG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 956,
+      "follow_request_sent": false,
+      "followers_count": 478,
+      "following": false,
+      "friends_count": 1597,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23686641,
+      "id_str": "23686641",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "Desoto, TX",
+      "name": "Troy Jackson",
+      "notifications": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23686641/1457825782",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/708798817685012480/P6xN7b77_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/708798817685012480/P6xN7b77_normal.jpg",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_text_color": "3D1957",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ootroy",
+      "statuses_count": 707,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/7JxeFeqfgG",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87275415,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57238,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

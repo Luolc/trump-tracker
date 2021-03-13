@@ -1,0 +1,384 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 05 02:39:40 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 812135885328236551,
+        "id_str": "812135885328236551",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Ryan Saavedra",
+        "screen_name": "RealSaavedra"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealSaavedra: Joe Rogan on the 2020 election: \u201cThis is the real issue with the Democratic Party. They\u2019ve essentially made us all morons\u2026",
+  "geo": null,
+  "id": 1246628541573332994,
+  "id_str": "1246628541573332994",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6971,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 04 18:43:15 +0000 2020",
+    "display_text_range": [
+      0,
+      253
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2G93Jaim2X",
+          "expanded_url": "https://twitter.com/AlxThomp/status/1246499752071647233/video/1",
+          "id": 1246499326043607048,
+          "id_str": "1246499326043607048",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246499326043607048/pu/img/aUMFH05x7XzZ69WI.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246499326043607048/pu/img/aUMFH05x7XzZ69WI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1246499752071647233,
+          "source_status_id_str": "1246499752071647233",
+          "source_user_id": 370982639,
+          "source_user_id_str": "370982639",
+          "type": "photo",
+          "url": "https://t.co/2G93Jaim2X"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Sep 10 00:19:31 +0000 2011",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "covering 2020 for Politico. DM's open AThompson@politico.com Secure Drop instrux: https://t.co/OY42qOCdNm newsletter: https://t.co/tACe99LY1W",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "politico.com/news-tips/",
+                      "expanded_url": "http://politico.com/news-tips/",
+                      "indices": [
+                        82,
+                        105
+                      ],
+                      "url": "https://t.co/OY42qOCdNm"
+                    },
+                    {
+                      "display_url": "alexthompson.substack.com",
+                      "expanded_url": "http://alexthompson.substack.com",
+                      "indices": [
+                        118,
+                        141
+                      ],
+                      "url": "https://t.co/tACe99LY1W"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "alexthompson.substack.com",
+                      "expanded_url": "https://alexthompson.substack.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/opdJFehgsU"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 8422,
+              "follow_request_sent": false,
+              "followers_count": 24973,
+              "following": false,
+              "friends_count": 6461,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 370982639,
+              "id_str": "370982639",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 561,
+              "location": "Washington, DC",
+              "name": "Alex Thompson",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/370982639/1474470863",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1233100518920249344/6ZaS4jW0_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1233100518920249344/6ZaS4jW0_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "AlxThomp",
+              "statuses_count": 7319,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/opdJFehgsU",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/2G93Jaim2X",
+          "expanded_url": "https://twitter.com/AlxThomp/status/1246499752071647233/video/1",
+          "id": 1246499326043607048,
+          "id_str": "1246499326043607048",
+          "indices": [
+            230,
+            253
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246499326043607048/pu/img/aUMFH05x7XzZ69WI.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246499326043607048/pu/img/aUMFH05x7XzZ69WI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1246499752071647233,
+          "source_status_id_str": "1246499752071647233",
+          "source_user_id": 370982639,
+          "source_user_id_str": "370982639",
+          "type": "video",
+          "url": "https://t.co/2G93Jaim2X",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 93962,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246499326043607048/pu/vid/640x360/qclDHTOGf292OuTw.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246499326043607048/pu/vid/480x270/A78XuGe7AJa4a7tC.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1246499326043607048/pu/pl/XmpPzuEs2m3uLJFx.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246499326043607048/pu/vid/1280x720/VJQaN2pmzWSZrbeI.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23235,
+    "favorited": false,
+    "full_text": "Joe Rogan on the 2020 election: \u201cThis is the real issue with the Democratic Party. They\u2019ve essentially made us all morons with this Joe Biden thing. \u2026 I\u2019d rather vote for Trump than [Biden]. I don\u2019t think he can handle anything.\u201d\nhttps://t.co/2G93Jaim2X",
+    "geo": null,
+    "id": 1246508649159118849,
+    "id_str": "1246508649159118849",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6971,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 11849,
+      "follow_request_sent": false,
+      "followers_count": 319983,
+      "following": false,
+      "friends_count": 367,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 812135885328236551,
+      "id_str": "812135885328236551",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2007,
+      "location": "TX",
+      "name": "Ryan Saavedra",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1572666692",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1190456901089275904/W_nfkQsF_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190456901089275904/W_nfkQsF_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RealSaavedra",
+      "statuses_count": 45653,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76006789,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50421,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

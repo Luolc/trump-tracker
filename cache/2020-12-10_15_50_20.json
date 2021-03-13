@@ -1,0 +1,380 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 10 15:50:20 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1029094268542099457,
+        "id_str": "1029094268542099457",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Lance Gooden",
+        "screen_name": "Lancegooden"
+      },
+      {
+        "id": 296245061,
+        "id_str": "296245061",
+        "indices": [
+          17,
+          32
+        ],
+        "name": "Rep. Adrian Smith",
+        "screen_name": "RepAdrianSmith"
+      },
+      {
+        "id": 237299871,
+        "id_str": "237299871",
+        "indices": [
+          34,
+          46
+        ],
+        "name": "Mo Brooks",
+        "screen_name": "RepMoBrooks"
+      },
+      {
+        "id": 1060370282,
+        "id_str": "1060370282",
+        "indices": [
+          48,
+          58
+        ],
+        "name": "Markwayne Mullin",
+        "screen_name": "RepMullin"
+      },
+      {
+        "id": 1080854935535800320,
+        "id_str": "1080854935535800320",
+        "indices": [
+          60,
+          73
+        ],
+        "name": "Ron Wright",
+        "screen_name": "RepRonWright"
+      },
+      {
+        "id": 2929491549,
+        "id_str": "2929491549",
+        "indices": [
+          75,
+          89
+        ],
+        "name": "Brian Babin",
+        "screen_name": "RepBrianBabin"
+      },
+      {
+        "id": 834069080,
+        "id_str": "834069080",
+        "indices": [
+          91,
+          106
+        ],
+        "name": "David Rouzer",
+        "screen_name": "RepDavidRouzer"
+      },
+      {
+        "id": 18773159,
+        "id_str": "18773159",
+        "indices": [
+          108,
+          122
+        ],
+        "name": "RepScottPerry",
+        "screen_name": "RepScottPerry"
+      },
+      {
+        "id": 880480631108644864,
+        "id_str": "880480631108644864",
+        "indices": [
+          124,
+          139
+        ],
+        "name": "Rep. Ralph Norman",
+        "screen_name": "RepRalphNorman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Lancegooden: @RepAdrianSmith, @RepMoBrooks, @RepMullin, @RepRonWright, @RepBrianBabin, @RepDavidRouzer, @RepScottPerry, @RepRalphNorman\u2026",
+  "geo": null,
+  "id": 1337062099814674432,
+  "id_str": "1337062099814674432",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "retweet_count": 5154,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 15:20:47 +0000 2020",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 296245061,
+          "id_str": "296245061",
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Rep. Adrian Smith",
+          "screen_name": "RepAdrianSmith"
+        },
+        {
+          "id": 237299871,
+          "id_str": "237299871",
+          "indices": [
+            17,
+            29
+          ],
+          "name": "Mo Brooks",
+          "screen_name": "RepMoBrooks"
+        },
+        {
+          "id": 1060370282,
+          "id_str": "1060370282",
+          "indices": [
+            31,
+            41
+          ],
+          "name": "Markwayne Mullin",
+          "screen_name": "RepMullin"
+        },
+        {
+          "id": 1080854935535800320,
+          "id_str": "1080854935535800320",
+          "indices": [
+            43,
+            56
+          ],
+          "name": "Ron Wright",
+          "screen_name": "RepRonWright"
+        },
+        {
+          "id": 2929491549,
+          "id_str": "2929491549",
+          "indices": [
+            58,
+            72
+          ],
+          "name": "Brian Babin",
+          "screen_name": "RepBrianBabin"
+        },
+        {
+          "id": 834069080,
+          "id_str": "834069080",
+          "indices": [
+            74,
+            89
+          ],
+          "name": "David Rouzer",
+          "screen_name": "RepDavidRouzer"
+        },
+        {
+          "id": 18773159,
+          "id_str": "18773159",
+          "indices": [
+            91,
+            105
+          ],
+          "name": "RepScottPerry",
+          "screen_name": "RepScottPerry"
+        },
+        {
+          "id": 880480631108644864,
+          "id_str": "880480631108644864",
+          "indices": [
+            107,
+            122
+          ],
+          "name": "Rep. Ralph Norman",
+          "screen_name": "RepRalphNorman"
+        },
+        {
+          "id": 815241612154417152,
+          "id_str": "815241612154417152",
+          "indices": [
+            124,
+            139
+          ],
+          "name": "Rep. Jack Bergman",
+          "screen_name": "RepJackBergman"
+        },
+        {
+          "id": 76452765,
+          "id_str": "76452765",
+          "indices": [
+            147,
+            163
+          ],
+          "name": "Robert Aderholt",
+          "screen_name": "Robert_Aderholt"
+        }
+      ]
+    },
+    "favorite_count": 24981,
+    "favorited": false,
+    "full_text": "@RepAdrianSmith, @RepMoBrooks, @RepMullin, @RepRonWright, @RepBrianBabin, @RepDavidRouzer, @RepScottPerry, @RepRalphNorman, @RepJackBergman, &amp; @Robert_Aderholt \n\n(3/3)",
+    "geo": null,
+    "id": 1336692274173009921,
+    "id_str": "1336692274173009921",
+    "in_reply_to_screen_name": "Lancegooden",
+    "in_reply_to_status_id": 1336692185836777474,
+    "in_reply_to_status_id_str": "1336692185836777474",
+    "in_reply_to_user_id": 1029094268542099457,
+    "in_reply_to_user_id_str": "1029094268542099457",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "retweet_count": 5154,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 13 19:56:08 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Husband, Father, and U.S. Congressman for TX's 5th Congressional District.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lancegooden.com",
+              "expanded_url": "http://www.lancegooden.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/se9SXZNb3A"
+            }
+          ]
+        }
+      },
+      "favourites_count": 573,
+      "follow_request_sent": false,
+      "followers_count": 40992,
+      "following": false,
+      "friends_count": 1655,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1029094268542099457,
+      "id_str": "1029094268542099457",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 238,
+      "location": "Terrell, TX",
+      "name": "Lance Gooden",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029094268542099457/1607108266",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Lancegooden",
+      "statuses_count": 937,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/se9SXZNb3A",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88640746,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125869,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59165,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

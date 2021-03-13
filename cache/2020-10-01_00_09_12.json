@@ -1,0 +1,466 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 01 00:09:12 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 739610364975808513,
+        "id_str": "739610364975808513",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Paul Sperry",
+        "screen_name": "paulsperry_"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @paulsperry_: all this memory loss and out-of-the-loop i dunnos is strange for a guy who took copious notes after playing a case agent s\u2026",
+  "geo": null,
+  "id": 1311458104920485888,
+  "id_str": "1311458104920485888",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1311410783050436610,
+  "quoted_status_id_str": "1311410783050436610",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tomselliott/st\u2026",
+    "expanded": "https://twitter.com/tomselliott/status/1311410783050436610",
+    "url": "https://t.co/dqJtlJnZ5D"
+  },
+  "retweet_count": 10110,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 23:08:57 +0000 2020",
+    "display_text_range": [
+      0,
+      220
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/tomselliott/st\u2026",
+          "expanded_url": "https://twitter.com/tomselliott/status/1311410783050436610",
+          "indices": [
+            221,
+            244
+          ],
+          "url": "https://t.co/dqJtlJnZ5D"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 23048,
+    "favorited": false,
+    "full_text": "all this memory loss and out-of-the-loop i dunnos is strange for a guy who took copious notes after playing a case agent spying on Trump and locked them in his home safe, and wrote a book and is writing a second book now https://t.co/dqJtlJnZ5D",
+    "geo": null,
+    "id": 1311442943643918336,
+    "id_str": "1311442943643918336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 30 21:01:10 +0000 2020",
+      "display_text_range": [
+        0,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WxYdih8KCE",
+            "expanded_url": "https://twitter.com/tomselliott/status/1311410783050436610/video/1",
+            "id": 1311410191179624454,
+            "id_str": "1311410191179624454",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjMQzmTXkAEf5sk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjMQzmTXkAEf5sk.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/WxYdih8KCE"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 2334193741,
+            "id_str": "2334193741",
+            "indices": [
+              11,
+              17
+            ],
+            "name": "James Comey",
+            "screen_name": "Comey"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://news.grabien.com/story-supercut-comey-cant-recall-anything-about-russia-probe-he-le"
+                }
+              },
+              "description": "\u2018I don\u2019t remember whether I knew\u2019",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Supercut: Comey \u2018Can\u2019t Recall\u2019 Anything About the Russia Probe He Led"
+            },
+            "display_url": "pic.twitter.com/WxYdih8KCE",
+            "expanded_url": "https://twitter.com/tomselliott/status/1311410783050436610/video/1",
+            "id": 1311410191179624454,
+            "id_str": "1311410191179624454",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjMQzmTXkAEf5sk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjMQzmTXkAEf5sk.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/WxYdih8KCE",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 76343,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1311410191179624454/vid/1280x720/ofhDs4PI5mooJlYf.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1311410191179624454/vid/480x270/xU5Pdeknig7d9_PY.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1311410191179624454/vid/640x360/dasdzMNAJLJ_ZkrJ.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1311410191179624454/pl/TE5ZEXq3UBpCeFcH.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 8408,
+      "favorited": false,
+      "full_text": "SUPERCUT!\n\n@Comey \"can't recall\" anything about the Russia probe he oversaw https://t.co/WxYdih8KCE",
+      "geo": null,
+      "id": 1311410783050436610,
+      "id_str": "1311410783050436610",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4963,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 17:30:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biased. Founder, editor @GrabienMedia & https://t.co/lbLNiEKKpn Some of my fave funk: https://t.co/dLaMZ25oZz tom@grabien.com See it here first.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NewsLists.co",
+                "expanded_url": "http://NewsLists.co",
+                "indices": [
+                  40,
+                  63
+                ],
+                "url": "https://t.co/lbLNiEKKpn"
+              },
+              {
+                "display_url": "contemporaneousbeats.tumblr.com",
+                "expanded_url": "http://contemporaneousbeats.tumblr.com/",
+                "indices": [
+                  86,
+                  109
+                ],
+                "url": "https://t.co/dLaMZ25oZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grabien.com",
+                "expanded_url": "http://grabien.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mrXnsPXrKk"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13791,
+        "follow_request_sent": false,
+        "followers_count": 50561,
+        "following": false,
+        "friends_count": 559,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49698174,
+        "id_str": "49698174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 295,
+        "location": "Madrid, Spain",
+        "name": "Tom Elliott",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49698174/1479775446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tomselliott",
+        "statuses_count": 35399,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mrXnsPXrKk",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1311410783050436610,
+    "quoted_status_id_str": "1311410783050436610",
+    "quoted_status_permalink": {
+      "display": "twitter.com/tomselliott/st\u2026",
+      "expanded": "https://twitter.com/tomselliott/status/1311410783050436610",
+      "url": "https://t.co/dqJtlJnZ5D"
+    },
+    "retweet_count": 10110,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 06 00:10:27 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Former D.C. bureau chief for Investor's Business Daily, Hoover Institution media fellow, author of several books, including bestseller INFILTRATION",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sperryfiles.com",
+              "expanded_url": "http://sperryfiles.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DAzkcJGVm8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4,
+      "follow_request_sent": false,
+      "followers_count": 262949,
+      "following": false,
+      "friends_count": 4847,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 739610364975808513,
+      "id_str": "739610364975808513",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1568,
+      "location": "Washington DC",
+      "name": "Paul Sperry",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/739610364975808513/1465177180",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/739632272865951744/yVceRI-w_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/739632272865951744/yVceRI-w_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "paulsperry_",
+      "statuses_count": 18212,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DAzkcJGVm8",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86455431,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120153,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56564,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

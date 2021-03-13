@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 21 16:06:10 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 5558312,
+        "id_str": "5558312",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Senator John Boozman",
+        "screen_name": "JohnBoozman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JohnBoozman: Our servicemembers stand ready to defend our interests each day. Meeting w/military leaders on the ground allows us to see\u2026",
+  "geo": null,
+  "id": 1230886439472123905,
+  "id_str": "1230886439472123905",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1229422694031998976,
+  "quoted_status_id_str": "1229422694031998976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/JimInhofe/stat\u2026",
+    "expanded": "https://twitter.com/JimInhofe/status/1229422694031998976",
+    "url": "https://t.co/KPm3oQLlyd"
+  },
+  "retweet_count": 4104,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 18 14:57:43 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/JimInhofe/stat\u2026",
+          "expanded_url": "https://twitter.com/JimInhofe/status/1229422694031998976",
+          "indices": [
+            281,
+            304
+          ],
+          "url": "https://t.co/KPm3oQLlyd"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13753,
+    "favorited": false,
+    "full_text": "Our servicemembers stand ready to defend our interests each day. Meeting w/military leaders on the ground allows us to see the work being done to prepare against evolving threats in the region and ensure they have the resources they need to successfully accomplish their missions. https://t.co/KPm3oQLlyd",
+    "geo": null,
+    "id": 1229782051253035011,
+    "id_str": "1229782051253035011",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Feb 17 15:09:46 +0000 2020",
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/aJvOU8JHWK",
+            "expanded_url": "https://twitter.com/JimInhofe/status/1229422694031998976/video/1",
+            "id": 1229421985857339392,
+            "id_str": "1229421985857339392",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229421985857339392/pu/img/4EVtZxqoy2cWhwAn.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229421985857339392/pu/img/4EVtZxqoy2cWhwAn.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/aJvOU8JHWK"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/aJvOU8JHWK",
+            "expanded_url": "https://twitter.com/JimInhofe/status/1229422694031998976/video/1",
+            "id": 1229421985857339392,
+            "id_str": "1229421985857339392",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229421985857339392/pu/img/4EVtZxqoy2cWhwAn.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229421985857339392/pu/img/4EVtZxqoy2cWhwAn.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/aJvOU8JHWK",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 20325,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1229421985857339392/pu/vid/640x360/-45rPWCoSBzjdh6G.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1229421985857339392/pu/pl/h7QOk_S22UH48c5f.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1229421985857339392/pu/vid/480x270/O0XpKZEYTavCp_Wq.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1229421985857339392/pu/vid/1280x720/gg8OXjc14gGJDfyj.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 759,
+      "favorited": false,
+      "full_text": "This weekend, I led the first delegation visit to Iraq since the successful strike on Soleimani. There, we got the latest information from Gen. White about last month\u2019s Iranian strike on al-Asad Air Base. https://t.co/aJvOU8JHWK",
+      "geo": null,
+      "id": 1229422694031998976,
+      "id_str": "1229422694031998976",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 238,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jul 05 14:39:13 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "United States Senator from the great state of Oklahoma.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Inhofe.senate.gov",
+                "expanded_url": "http://www.Inhofe.senate.gov",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/MsjJPG2F5l"
+              }
+            ]
+          }
+        },
+        "favourites_count": 100,
+        "follow_request_sent": false,
+        "followers_count": 63985,
+        "following": false,
+        "friends_count": 353,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 7270292,
+        "id_str": "7270292",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2258,
+        "location": "Oklahoma",
+        "name": "Sen. Jim Inhofe",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/7270292/1579116092",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1217527245390172160/zLp9qtnN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217527245390172160/zLp9qtnN_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "JimInhofe",
+        "statuses_count": 2547,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/MsjJPG2F5l",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1229422694031998976,
+    "quoted_status_id_str": "1229422694031998976",
+    "quoted_status_permalink": {
+      "display": "twitter.com/JimInhofe/stat\u2026",
+      "expanded": "https://twitter.com/JimInhofe/status/1229422694031998976",
+      "url": "https://t.co/KPm3oQLlyd"
+    },
+    "retweet_count": 4104,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 27 16:05:52 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator for Arkansas serving on the Agriculture, Appropriations, EPW and Veterans\u2019 Affairs committees. Contact: 202-224-4843 #ServingAR #ARinDC",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "boozman.senate.gov",
+              "expanded_url": "http://boozman.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/AogvCCLB3S"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1949,
+      "follow_request_sent": false,
+      "followers_count": 93587,
+      "following": false,
+      "friends_count": 805,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 5558312,
+      "id_str": "5558312",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2458,
+      "location": "Arkansas",
+      "name": "Senator John Boozman",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5558312/1520286185",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/970776346250104834/i7B-Xp9G_normal.jpg",
+      "profile_link_color": "A60000",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JohnBoozman",
+      "statuses_count": 5829,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/AogvCCLB3S",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72798320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114977,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49221,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

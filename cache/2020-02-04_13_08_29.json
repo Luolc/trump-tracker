@@ -1,0 +1,447 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 13:08:29 +0000 2020",
+  "display_text_range": [
+    0,
+    122
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          108,
+          122
+        ],
+        "text": "ChiefsKingdom"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2352629311,
+        "id_str": "2352629311",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Josh Hawley",
+        "screen_name": "HawleyMO"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @HawleyMO: Today I will introduce in the Senate a resolution honoring the Chiefs as SUPER BOWL CHAMPIONS #ChiefsKingdom",
+  "geo": null,
+  "id": 1224681131951493121,
+  "id_str": "1224681131951493121",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1224170178482708481,
+  "quoted_status_id_str": "1224170178482708481",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Chiefs/status/\u2026",
+    "expanded": "https://twitter.com/Chiefs/status/1224170178482708481",
+    "url": "https://t.co/KktQJbQgSM"
+  },
+  "retweet_count": 3437,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 03 13:42:41 +0000 2020",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            94,
+            108
+          ],
+          "text": "ChiefsKingdom"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Chiefs/status/\u2026",
+          "expanded_url": "https://twitter.com/Chiefs/status/1224170178482708481",
+          "indices": [
+            109,
+            132
+          ],
+          "url": "https://t.co/KktQJbQgSM"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 15260,
+    "favorited": false,
+    "full_text": "Today I will introduce in the Senate a resolution honoring the Chiefs as SUPER BOWL CHAMPIONS #ChiefsKingdom https://t.co/KktQJbQgSM",
+    "geo": null,
+    "id": 1224327348943757313,
+    "id_str": "1224327348943757313",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Feb 03 03:18:09 +0000 2020",
+      "display_text_range": [
+        0,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EQE78sd6HG",
+            "expanded_url": "https://twitter.com/Chiefs/status/1224170178482708481/video/1",
+            "id": 1224169746763014144,
+            "id_str": "1224169746763014144",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP0gAgjWsAABvAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EP0gAgjWsAABvAX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EQE78sd6HG"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/EQE78sd6HG",
+            "expanded_url": "https://twitter.com/Chiefs/status/1224170178482708481/video/1",
+            "id": 1224169746763014144,
+            "id_str": "1224169746763014144",
+            "indices": [
+              20,
+              43
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP0gAgjWsAABvAX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EP0gAgjWsAABvAX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/EQE78sd6HG",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 11411,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224169746763014144/vid/480x480/QoSodekeyuH2BIA0.mp4?tag=13"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224169746763014144/vid/720x720/LcSKRrLnWkdfURoU.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1224169746763014144/pl/9IKCv6xB3OHDiLJ9.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224169746763014144/vid/320x320/SesrKFsxJB79mesS.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 86728,
+      "favorited": false,
+      "full_text": "SUPER BOWL CHAMPS \ud83c\udfc6 https://t.co/EQE78sd6HG",
+      "geo": null,
+      "id": 1224170178482708481,
+      "id_str": "1224170178482708481",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 29893,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 20 17:09:07 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official Twitter account of the Kansas City Chiefs #ChiefsKingdom",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiefs.com",
+                "expanded_url": "https://www.chiefs.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/K7Q25DNqzQ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7369,
+        "follow_request_sent": false,
+        "followers_count": 1497209,
+        "following": false,
+        "friends_count": 412,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 33583496,
+        "id_str": "33583496",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 6758,
+        "location": "1 Arrowhead Drive",
+        "name": "Kansas City Chiefs",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/33583496/1580699347",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1224167903957790720/QF-UtxB__normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224167903957790720/QF-UtxB__normal.png",
+        "profile_link_color": "E31837",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7FF0F",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "Chiefs",
+        "statuses_count": 41953,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/K7Q25DNqzQ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1224170178482708481,
+    "quoted_status_id_str": "1224170178482708481",
+    "quoted_status_permalink": {
+      "display": "twitter.com/Chiefs/status/\u2026",
+      "expanded": "https://twitter.com/Chiefs/status/1224170178482708481",
+      "url": "https://t.co/KktQJbQgSM"
+    },
+    "retweet_count": 3437,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 03:13:57 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Constitutional lawyer, husband to Erin, Dad to Elijah and Blaise, US Senator from Missouri",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "joshhawley.com",
+              "expanded_url": "http://joshhawley.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rJtdXKw4ol"
+            }
+          ]
+        }
+      },
+      "favourites_count": 472,
+      "follow_request_sent": false,
+      "followers_count": 156812,
+      "following": false,
+      "friends_count": 1044,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2352629311,
+      "id_str": "2352629311",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1022,
+      "location": "Missouri, USA",
+      "name": "Josh Hawley",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2352629311/1550239827",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1097246042934992898/YqXTdt3v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1097246042934992898/YqXTdt3v_normal.jpg",
+      "profile_link_color": "111F35",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "HawleyMO",
+      "statuses_count": 3483,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rJtdXKw4ol",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

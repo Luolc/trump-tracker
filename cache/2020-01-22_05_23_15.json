@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 05:23:15 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 823367015830323201,
+        "id_str": "823367015830323201",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Scavino45"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Scavino45: A great day for the United States of America at the World Economic Forum in Davos, Switzerland!\n\n\u201cAMERICA is thriving. AMERI\u2026",
+  "geo": null,
+  "id": 1219853009913511938,
+  "id_str": "1219853009913511938",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2626,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 21 18:51:37 +0000 2020",
+    "display_text_range": [
+      0,
+      226
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            209,
+            215
+          ],
+          "text": "WEF20"
+        },
+        {
+          "indices": [
+            216,
+            226
+          ],
+          "text": "Davos2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8NJ0uKIDQW",
+          "expanded_url": "https://twitter.com/Scavino45/status/1219694051735113728/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 386,
+                  "y": 317
+                }
+              ]
+            }
+          },
+          "id": 1219694025092894720,
+          "id_str": "1219694025092894720",
+          "indices": [
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO05QOxUEAASpZX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO05QOxUEAASpZX.jpg",
+          "sizes": {
+            "large": {
+              "h": 773,
+              "resize": "fit",
+              "w": 863
+            },
+            "medium": {
+              "h": 773,
+              "resize": "fit",
+              "w": 863
+            },
+            "small": {
+              "h": 609,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8NJ0uKIDQW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            181,
+            187
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            188,
+            204
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8NJ0uKIDQW",
+          "expanded_url": "https://twitter.com/Scavino45/status/1219694051735113728/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 50,
+                  "w": 50,
+                  "x": 490,
+                  "y": 403
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 39,
+                  "w": 39,
+                  "x": 386,
+                  "y": 317
+                }
+              ]
+            }
+          },
+          "id": 1219694025092894720,
+          "id_str": "1219694025092894720",
+          "indices": [
+            227,
+            250
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO05QOxUEAASpZX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO05QOxUEAASpZX.jpg",
+          "sizes": {
+            "large": {
+              "h": 773,
+              "resize": "fit",
+              "w": 863
+            },
+            "medium": {
+              "h": 773,
+              "resize": "fit",
+              "w": 863
+            },
+            "small": {
+              "h": 609,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8NJ0uKIDQW"
+        }
+      ]
+    },
+    "favorite_count": 7947,
+    "favorited": false,
+    "full_text": "A great day for the United States of America at the World Economic Forum in Davos, Switzerland!\n\n\u201cAMERICA is thriving. AMERICA is flourishing - and yes, AMERICA is WINNING again!\u201d\n\n@POTUS @realDonaldTrump\ud83c\uddfa\ud83c\uddf8  \n#WEF20 #Davos2020 https://t.co/8NJ0uKIDQW",
+    "geo": null,
+    "id": 1219694051735113728,
+    "id_str": "1219694051735113728",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2626,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8Personal account @DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1013,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 496807,
+      "following": false,
+      "friends_count": 969,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2544,
+      "location": "1600 Pennsylvania Avenue ",
+      "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1572328564",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 5158,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71382468,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48045,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

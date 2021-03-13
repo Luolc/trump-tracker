@@ -1,0 +1,461 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 17 18:56:13 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          77,
+          85
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19668491,
+        "id_str": "19668491",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Governor Kay Ivey",
+        "screen_name": "GovernorKayIvey"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          22,
+          28
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GovernorKayIvey: .@POTUS just released further recommendations regarding #COVID19. Please help spread this important information. Remem\u2026",
+  "geo": null,
+  "id": 1239988928716955648,
+  "id_str": "1239988928716955648",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1239646763222474754,
+  "quoted_status_id_str": "1239646763222474754",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1239646763222474754",
+    "url": "https://t.co/HBsp6RzRtQ"
+  },
+  "retweet_count": 2875,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 20:56:03 +0000 2020",
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            56,
+            64
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            227,
+            238
+          ],
+          "text": "alpolitics"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1239646763222474754",
+          "indices": [
+            239,
+            262
+          ],
+          "url": "https://t.co/HBsp6RzRtQ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            1,
+            7
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 323311059,
+          "id_str": "323311059",
+          "indices": [
+            203,
+            218
+          ],
+          "name": "Alabama Public Health",
+          "screen_name": "ALPublicHealth"
+        },
+        {
+          "id": 146569971,
+          "id_str": "146569971",
+          "indices": [
+            219,
+            226
+          ],
+          "name": "CDC",
+          "screen_name": "CDCgov"
+        }
+      ]
+    },
+    "favorite_count": 9356,
+    "favorited": false,
+    "full_text": ".@POTUS just released further recommendations regarding #COVID19. Please help spread this important information. Remember, if you feel sick, stay home.\u00a0 Do not go to work.\u00a0Contact your medical provider. @ALPublicHealth @CDCgov #alpolitics https://t.co/HBsp6RzRtQ",
+    "geo": null,
+    "id": 1239656700447203329,
+    "id_str": "1239656700447203329",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Mar 16 20:16:34 +0000 2020",
+      "display_text_range": [
+        0,
+        0
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tit0HdkE4e",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1239646763222474754/photo/1",
+            "id": 1239646757899902977,
+            "id_str": "1239646757899902977",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETQcKIuWoAEhtbs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETQcKIuWoAEhtbs.jpg",
+            "sizes": {
+              "large": {
+                "h": 1583,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 928,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 526,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/tit0HdkE4e"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tit0HdkE4e",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1239646763222474754/photo/1",
+            "id": 1239646757899902977,
+            "id_str": "1239646757899902977",
+            "indices": [
+              0,
+              23
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETQcKIuWoAEhtbs.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETQcKIuWoAEhtbs.jpg",
+            "sizes": {
+              "large": {
+                "h": 1583,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 928,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 526,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/tit0HdkE4e"
+          }
+        ]
+      },
+      "favorite_count": 65622,
+      "favorited": false,
+      "full_text": "https://t.co/tit0HdkE4e",
+      "geo": null,
+      "id": 1239646763222474754,
+      "id_str": "1239646763222474754",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "und",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 21427,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 74284645,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 116761,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 49890,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1239646763222474754,
+    "quoted_status_id_str": "1239646763222474754",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1239646763222474754",
+      "url": "https://t.co/HBsp6RzRtQ"
+    },
+    "retweet_count": 2875,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 28 19:00:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "54th Governor of Alabama",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "governor.alabama.gov",
+              "expanded_url": "http://governor.alabama.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nkODVXq4YZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2007,
+      "follow_request_sent": false,
+      "followers_count": 43653,
+      "following": false,
+      "friends_count": 1153,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 19668491,
+      "id_str": "19668491",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 631,
+      "location": "Montgomery, AL",
+      "name": "Governor Kay Ivey",
+      "notifications": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19668491/1547830550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1086305831325450245/3a989Zub_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1086305831325450245/3a989Zub_normal.jpg",
+      "profile_link_color": "1F95F0",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GovernorKayIvey",
+      "statuses_count": 4990,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nkODVXq4YZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74284645,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49890,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

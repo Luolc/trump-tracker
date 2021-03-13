@@ -1,0 +1,388 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 02 21:27:21 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2438831503,
+        "id_str": "2438831503",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Chanel Rion OAN",
+        "screen_name": "ChanelRion"
+      },
+      {
+        "id": 240454812,
+        "id_str": "240454812",
+        "indices": [
+          83,
+          92
+        ],
+        "name": "General Flynn",
+        "screen_name": "GenFlynn"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ChanelRion: Should we \"get him to lie\" or \"get him fired?\"\n\nLatest FBI memo on @GenFlynn exposes a portrait of NeverTrump actors wieldi\u2026",
+  "geo": null,
+  "id": 1256696807297634306,
+  "id_str": "1256696807297634306",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8348,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 20:30:11 +0000 2020",
+    "display_text_range": [
+      0,
+      257
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/jWOljYVhwZ",
+          "expanded_url": "https://twitter.com/ChanelRion/status/1255957642511634432/video/1",
+          "id": 1255954124929105920,
+          "id_str": "1255954124929105920",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255954124929105920/pu/img/LNQw9aC2BRVkZIhY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255954124929105920/pu/img/LNQw9aC2BRVkZIhY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1270
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 386,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/jWOljYVhwZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 240454812,
+          "id_str": "240454812",
+          "indices": [
+            67,
+            76
+          ],
+          "name": "General Flynn",
+          "screen_name": "GenFlynn"
+        },
+        {
+          "id": 471672239,
+          "id_str": "471672239",
+          "indices": [
+            145,
+            160
+          ],
+          "name": "Kellyanne Conway",
+          "screen_name": "KellyannePolls"
+        },
+        {
+          "id": 749686190,
+          "id_str": "749686190",
+          "indices": [
+            236,
+            251
+          ],
+          "name": "Jennifer Franco",
+          "screen_name": "jennfranconews"
+        },
+        {
+          "id": 1209936918,
+          "id_str": "1209936918",
+          "indices": [
+            252,
+            257
+          ],
+          "name": "One America News",
+          "screen_name": "OANN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/jWOljYVhwZ",
+          "expanded_url": "https://twitter.com/ChanelRion/status/1255957642511634432/video/1",
+          "id": 1255954124929105920,
+          "id_str": "1255954124929105920",
+          "indices": [
+            258,
+            281
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255954124929105920/pu/img/LNQw9aC2BRVkZIhY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255954124929105920/pu/img/LNQw9aC2BRVkZIhY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1270
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 386,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/jWOljYVhwZ",
+          "video_info": {
+            "aspect_ratio": [
+              127,
+              72
+            ],
+            "duration_millis": 138498,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1255954124929105920/pu/pl/R-OIdAulqfjn5FP-.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255954124929105920/pu/vid/1270x720/GIYTXmyEzXmN4-G3.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255954124929105920/pu/vid/634x360/iJLrj2URA8B-WCxa.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255954124929105920/pu/vid/476x270/9MrM3RSPvTL0AT2M.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20014,
+    "favorited": false,
+    "full_text": "Should we \"get him to lie\" or \"get him fired?\"\n\nLatest FBI memo on @GenFlynn exposes a portrait of NeverTrump actors wielding horrific agendas.\n\n@KellyannePolls: \"Every American should feel a chill\" at the FBI's framing of Gen. Flynn.\n\n@jennfranconews @OANN https://t.co/jWOljYVhwZ",
+    "geo": null,
+    "id": 1255957642511634432,
+    "id_str": "1255957642511634432",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8348,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 11 17:19:00 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@OANN Chief White House Correspondent | https://t.co/Ul5TsBCJJD | https://t.co/68u4uYyM5i | Chanel's OAN Reports here: https://t.co/NLLGchnU2s",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ChanelRion.com",
+              "expanded_url": "http://ChanelRion.com",
+              "indices": [
+                40,
+                63
+              ],
+              "url": "https://t.co/Ul5TsBCJJD"
+            },
+            {
+              "display_url": "Wordebys.com",
+              "expanded_url": "http://Wordebys.com",
+              "indices": [
+                66,
+                89
+              ],
+              "url": "https://t.co/68u4uYyM5i"
+            },
+            {
+              "display_url": "shorturl.at/djsuK",
+              "expanded_url": "http://shorturl.at/djsuK",
+              "indices": [
+                119,
+                142
+              ],
+              "url": "https://t.co/NLLGchnU2s"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OANN.com",
+              "expanded_url": "http://www.OANN.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/pgEo51fYv7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10165,
+      "follow_request_sent": false,
+      "followers_count": 251467,
+      "following": false,
+      "friends_count": 19989,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2438831503,
+      "id_str": "2438831503",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 880,
+      "location": "Washington, DC \ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddf7",
+      "name": "Chanel Rion OAN",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2438831503/1558024257",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1148367530437808135/e4LVGJeT_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1148367530437808135/e4LVGJeT_normal.png",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ChanelRion",
+      "statuses_count": 19626,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/pgEo51fYv7",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79287230,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

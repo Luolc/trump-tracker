@@ -1,0 +1,469 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 13 02:38:35 +0000 2020",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 202206694,
+        "id_str": "202206694",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Sen. John Barrasso",
+        "screen_name": "SenJohnBarrasso"
+      },
+      {
+        "id": 1071402577,
+        "id_str": "1071402577",
+        "indices": [
+          33,
+          48
+        ],
+        "name": "Senator Deb Fischer",
+        "screen_name": "SenatorFischer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenJohnBarrasso: Outrageous. @SenatorFischer\u2019s bill will save lives.",
+  "geo": null,
+  "id": 1238293347829264384,
+  "id_str": "1238293347829264384",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1238231958129442818,
+  "quoted_status_id_str": "1238231958129442818",
+  "quoted_status_permalink": {
+    "display": "twitter.com/senatemajldr/s\u2026",
+    "expanded": "https://twitter.com/senatemajldr/status/1238231958129442818",
+    "url": "https://t.co/dmDWYexw7Y"
+  },
+  "retweet_count": 5465,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 23:38:01 +0000 2020",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/senatemajldr/s\u2026",
+          "expanded_url": "https://twitter.com/senatemajldr/status/1238231958129442818",
+          "indices": [
+            52,
+            75
+          ],
+          "url": "https://t.co/dmDWYexw7Y"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1071402577,
+          "id_str": "1071402577",
+          "indices": [
+            12,
+            27
+          ],
+          "name": "Senator Deb Fischer",
+          "screen_name": "SenatorFischer"
+        }
+      ]
+    },
+    "favorite_count": 11914,
+    "favorited": false,
+    "full_text": "Outrageous. @SenatorFischer\u2019s bill will save lives. https://t.co/dmDWYexw7Y",
+    "geo": null,
+    "id": 1238247909239468033,
+    "id_str": "1238247909239468033",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Mar 12 22:34:38 +0000 2020",
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/OFMgOdC2eq",
+            "expanded_url": "https://twitter.com/senatemajldr/status/1238231958129442818/video/1",
+            "id": 1238231500577013760,
+            "id_str": "1238231500577013760",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238231500577013760/pu/img/drZdm6h9dPVAjxci.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238231500577013760/pu/img/drZdm6h9dPVAjxci.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/OFMgOdC2eq"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1071402577,
+            "id_str": "1071402577",
+            "indices": [
+              1,
+              16
+            ],
+            "name": "Senator Deb Fischer",
+            "screen_name": "SenatorFischer"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/OFMgOdC2eq",
+            "expanded_url": "https://twitter.com/senatemajldr/status/1238231958129442818/video/1",
+            "id": 1238231500577013760,
+            "id_str": "1238231500577013760",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1238231500577013760/pu/img/drZdm6h9dPVAjxci.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1238231500577013760/pu/img/drZdm6h9dPVAjxci.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/OFMgOdC2eq",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 87254,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1238231500577013760/pu/vid/480x270/oy4QBHzf04OIeyVC.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1238231500577013760/pu/pl/S61c8ZoRqWSvvH3e.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1238231500577013760/pu/vid/1280x720/P71hstCoBfDQG7UK.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1238231500577013760/pu/vid/640x360/ZY4mlmNFvcn4XZ-i.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 7607,
+      "favorited": false,
+      "full_text": ".@SenatorFischer\u2019s bipartisan PREP Act would expand medical professionals\u2019 access to vitally-needed respirators and create certainty for mask manufacturers. It is not controversial. The Senate could have passed it today.\n\nBut Senate Democrats refused to let it move forward. https://t.co/OFMgOdC2eq",
+      "geo": null,
+      "id": 1238231958129442818,
+      "id_str": "1238231958129442818",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4590,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 07 20:21:15 +0000 2013",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "U.S. Senate Majority Leader Mitch McConnell",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicanleader.senate.gov",
+                "expanded_url": "http://republicanleader.senate.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/J5RQpHiTgo"
+              }
+            ]
+          }
+        },
+        "favourites_count": 112,
+        "follow_request_sent": false,
+        "followers_count": 1397077,
+        "following": false,
+        "friends_count": 104,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1249982359,
+        "id_str": "1249982359",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5347,
+        "location": "Washington, DC",
+        "name": "Leader McConnell",
+        "notifications": false,
+        "profile_background_color": "0066CC",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1249982359/1563547854",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/732596482336002049/JYMrr9_4_normal.jpg",
+        "profile_link_color": "AD0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "senatemajldr",
+        "statuses_count": 4002,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/J5RQpHiTgo",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1238231958129442818,
+    "quoted_status_id_str": "1238231958129442818",
+    "quoted_status_permalink": {
+      "display": "twitter.com/senatemajldr/s\u2026",
+      "expanded": "https://twitter.com/senatemajldr/status/1238231958129442818",
+      "url": "https://t.co/dmDWYexw7Y"
+    },
+    "retweet_count": 5465,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/senjohnbarrass\u2026",
+              "expanded_url": "https://www.instagram.com/senjohnbarrasso/",
+              "indices": [
+                91,
+                114
+              ],
+              "url": "https://t.co/bMw3qwlxRu"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "barrasso.senate.gov",
+              "expanded_url": "http://barrasso.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/oAKWpUrAWS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 27,
+      "follow_request_sent": false,
+      "followers_count": 137747,
+      "following": false,
+      "friends_count": 523,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 202206694,
+      "id_str": "202206694",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2319,
+      "location": "",
+      "name": "Sen. John Barrasso",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnBarrasso",
+      "statuses_count": 4673,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/oAKWpUrAWS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73745074,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116102,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49740,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

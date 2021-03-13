@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 29 15:13:26 +0000 2020",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/PaigePfleger/s\u2026",
+        "expanded_url": "https://twitter.com/PaigePfleger/status/1243972525262082048",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/pLpI4CSs9H"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 30887511,
+        "id_str": "30887511",
+        "indices": [
+          31,
+          42
+        ],
+        "name": "Mike DeWine",
+        "screen_name": "MikeDeWine"
+      },
+      {
+        "id": 271155634,
+        "id_str": "271155634",
+        "indices": [
+          52,
+          56
+        ],
+        "name": "MLK",
+        "screen_name": "FdA"
+      }
+    ]
+  },
+  "favorite_count": 45761,
+  "favorited": false,
+  "full_text": "Highly recommended by Governor @MikeDeWine of Ohio. @FDA must move quickly! https://t.co/pLpI4CSs9H",
+  "geo": null,
+  "id": 1244281520065576961,
+  "id_str": "1244281520065576961",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 18:45:36 +0000 2020",
+    "display_text_range": [
+      0,
+      260
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            177,
+            189
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sasFDAOkhB",
+          "expanded_url": "https://twitter.com/PaigePfleger/status/1243972525262082048/photo/1",
+          "id": 1243971274398928896,
+          "id_str": "1243971274398928896",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUN5SIFWkAAqQxi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUN5SIFWkAAqQxi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sasFDAOkhB"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "radio.wosu.org/post/coronavir\u2026",
+          "expanded_url": "https://radio.wosu.org/post/coronavirus-ohio-battelle-pioneers-technology-clean-and-reuse-ppe#stream/0",
+          "indices": [
+            237,
+            260
+          ],
+          "url": "https://t.co/0LTTHI1G4k"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 74748331,
+          "id_str": "74748331",
+          "indices": [
+            23,
+            32
+          ],
+          "name": "Battelle",
+          "screen_name": "Battelle"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sasFDAOkhB",
+          "expanded_url": "https://twitter.com/PaigePfleger/status/1243972525262082048/photo/1",
+          "id": 1243971274398928896,
+          "id_str": "1243971274398928896",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUN5SIFWkAAqQxi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUN5SIFWkAAqQxi.jpg",
+          "sizes": {
+            "large": {
+              "h": 1365,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sasFDAOkhB"
+        }
+      ]
+    },
+    "favorite_count": 1991,
+    "favorited": false,
+    "full_text": "The research institute @Battelle has successfully developed technology that can clean up to 80,000 pieces of PPE for reuse. This is a huge breakthrough in the fight against the #coronavirus. This morning, I got an exclusive look inside: https://t.co/0LTTHI1G4k https://t.co/sasFDAOkhB",
+    "geo": null,
+    "id": 1243972525262082048,
+    "id_str": "1243972525262082048",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 942,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 08 20:13:43 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Reporting on health for @wosunews \u2022 Past lives: @NPR @michiganradio @whyythepulse \u2022 Email me: paige.pfleger@wosu.org",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "paigepfleger.com",
+              "expanded_url": "http://paigepfleger.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5zuZQ7wcq1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9774,
+      "follow_request_sent": false,
+      "followers_count": 4016,
+      "following": false,
+      "friends_count": 5585,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 431892276,
+      "id_str": "431892276",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 99,
+      "location": "Columbus, OH",
+      "name": "Paige Southwick Pfleger",
+      "notifications": false,
+      "profile_background_color": "1E818E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/431892276/1573665371",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1215371613350154240/zd4j8u5f_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215371613350154240/zd4j8u5f_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "F8956C",
+      "profile_sidebar_fill_color": "E68B6E",
+      "profile_text_color": "BA8F80",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PaigePfleger",
+      "statuses_count": 6785,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5zuZQ7wcq1",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1243972525262082048,
+  "quoted_status_id_str": "1243972525262082048",
+  "quoted_status_permalink": {
+    "display": "twitter.com/PaigePfleger/s\u2026",
+    "expanded": "https://twitter.com/PaigePfleger/status/1243972525262082048",
+    "url": "https://t.co/pLpI4CSs9H"
+  },
+  "retweet_count": 16084,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75599771,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118116,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50294,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

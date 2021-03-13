@@ -1,0 +1,386 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 16 05:00:13 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @kayleighmcenany: Sleepy Joe is SO CONFUSED. Joe has...\n\n- Called the coronavirus \u201cSARS\u201d\n\n- Called the coronavirus the \u201cswine flu\u201d\n\n- Ca\u2026",
+  "geo": null,
+  "id": 1239416156802482176,
+  "id_str": "1239416156802482176",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5791,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 00:41:03 +0000 2020",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/nDKvztN6yf",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1239345448223113216/video/1",
+          "id": 1239344087100264448,
+          "id_str": "1239344087100264448",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETMI8VvWAAAaG89.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETMI8VvWAAAaG89.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1239345448223113216,
+          "source_status_id_str": "1239345448223113216",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "photo",
+          "url": "https://t.co/nDKvztN6yf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.donaldjtrump.com/"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "donaldjtrump.com",
+                      "expanded_url": "https://www.donaldjtrump.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mVHOxzYUNT"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 14,
+              "follow_request_sent": false,
+              "followers_count": 525828,
+              "following": false,
+              "friends_count": 201,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1108472017144201216,
+              "id_str": "1108472017144201216",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1800,
+              "location": "MAGA Country",
+              "name": "Trump War Room - Text TRUMP to 88022",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1565806661",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+              "profile_link_color": "ABB8C2",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TrumpWarRoom",
+              "statuses_count": 8141,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mVHOxzYUNT",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Joe Biden Makes 3 Mistakes in Less Than 13 Seconds"
+          },
+          "display_url": "pic.twitter.com/nDKvztN6yf",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1239345448223113216/video/1",
+          "id": 1239344087100264448,
+          "id_str": "1239344087100264448",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETMI8VvWAAAaG89.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETMI8VvWAAAaG89.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1239345448223113216,
+          "source_status_id_str": "1239345448223113216",
+          "source_user_id": 1108472017144201216,
+          "source_user_id_str": "1108472017144201216",
+          "type": "video",
+          "url": "https://t.co/nDKvztN6yf",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 12613,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1239344087100264448/vid/1280x720/CHPc4Zpf1WlrtYSR.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1239344087100264448/vid/640x360/VAZ8l_vbwZbud_BR.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1239344087100264448/pl/ijcT_V89zP-qsvu2.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1239344087100264448/vid/480x270/LLg2jsw2EyscGLiT.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15786,
+    "favorited": false,
+    "full_text": "Sleepy Joe is SO CONFUSED. Joe has...\n\n- Called the coronavirus \u201cSARS\u201d\n\n- Called the coronavirus the \u201cswine flu\u201d\n\n- Called the H1N1 virus the \"N1H1\"\n\n- Forgot the name of the Ebola virus, describing it as \u201cwhat happened in Africa\u201d\n\nJoe is SO LOST!\nhttps://t.co/nDKvztN6yf",
+    "geo": null,
+    "id": 1239350932606988292,
+    "id_str": "1239350932606988292",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5791,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 28 23:33:33 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Press Secretary for @realDonaldTrump 2020 Campaign. Fmr @GOP Spox. Harvard Law JD. Georgetown. Oxford. Previvor. Wife of @GilmartinSean. Phil. 4:6",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/New-American-R\u2026",
+              "expanded_url": "https://www.amazon.com/New-American-Revolution-Populist-Movement/dp/1501179683/ref=sr_1_1?ie=UTF8&qi",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NCyK14Aa4b"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13951,
+      "follow_request_sent": false,
+      "followers_count": 377820,
+      "following": false,
+      "friends_count": 2230,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 259001548,
+      "id_str": "259001548",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2353,
+      "location": "",
+      "name": "Kayleigh McEnany",
+      "notifications": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/259001548/1578692228",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1073411942260359169/HkXU8qsk_normal.jpg",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kayleighmcenany",
+      "statuses_count": 20248,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NCyK14Aa4b",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74042345,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49818,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

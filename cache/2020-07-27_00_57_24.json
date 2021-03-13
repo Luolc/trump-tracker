@@ -1,0 +1,515 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 00:57:24 +0000 2020",
+  "display_text_range": [
+    0,
+    126
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 232901331,
+        "id_str": "232901331",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Dan Bongino",
+        "screen_name": "dbongino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dbongino: ANTIFA is a fascist terror-group committed to bringing fascism to the United States by whatever means necessary.",
+  "geo": null,
+  "id": 1287552634698625027,
+  "id_str": "1287552634698625027",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1287334356533485568,
+  "quoted_status_id_str": "1287334356533485568",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mrandyngo/stat\u2026",
+    "expanded": "https://twitter.com/mrandyngo/status/1287334356533485568",
+    "url": "https://t.co/Rx6hck7bkl"
+  },
+  "retweet_count": 7588,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 26 18:48:16 +0000 2020",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/mrandyngo/stat\u2026",
+          "expanded_url": "https://twitter.com/mrandyngo/status/1287334356533485568",
+          "indices": [
+            113,
+            136
+          ],
+          "url": "https://t.co/Rx6hck7bkl"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16968,
+    "favorited": false,
+    "full_text": "ANTIFA is a fascist terror-group committed to bringing fascism to the United States by whatever means necessary. https://t.co/Rx6hck7bkl",
+    "geo": null,
+    "id": 1287459740117880832,
+    "id_str": "1287459740117880832",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jul 26 10:30:02 +0000 2020",
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              130,
+              144
+            ],
+            "text": "PortlandRiots"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/WTojfVoae6",
+            "expanded_url": "https://twitter.com/1misanthrophile/status/1287220401609691140/video/1",
+            "id": 1287220277475123200,
+            "id_str": "1287220277475123200",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287220277475123200/pu/img/-OWKPTmZDOaVVGFZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287220277475123200/pu/img/-OWKPTmZDOaVVGFZ.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1287220401609691140,
+            "source_status_id_str": "1287220401609691140",
+            "source_user_id": 947140415588724737,
+            "source_user_id_str": "947140415588724737",
+            "type": "photo",
+            "url": "https://t.co/WTojfVoae6"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Dec 30 16:20:46 +0000 2017",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Leftist veteran, street historian and folklorist in PDX. Videos and protest livetweetings with @defendPDX. She/hers. $misanthrophile on c/v but no pressure!",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/channel/UCWrc9\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCWrc90Z-Y9y347apLfbdnyw",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/AncFgSk67f"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 19036,
+                "follow_request_sent": false,
+                "followers_count": 5893,
+                "following": false,
+                "friends_count": 1312,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 947140415588724737,
+                "id_str": "947140415588724737",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 103,
+                "location": "Oregon, USA",
+                "name": "Laura Jedeed (Misanthrophile)",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/947140415588724737/1591671134",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1286743854486413312/5af5T26d_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286743854486413312/5af5T26d_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "1misanthrophile",
+                "statuses_count": 4044,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/AncFgSk67f",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/WTojfVoae6",
+            "expanded_url": "https://twitter.com/1misanthrophile/status/1287220401609691140/video/1",
+            "id": 1287220277475123200,
+            "id_str": "1287220277475123200",
+            "indices": [
+              145,
+              168
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287220277475123200/pu/img/-OWKPTmZDOaVVGFZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287220277475123200/pu/img/-OWKPTmZDOaVVGFZ.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1287220401609691140,
+            "source_status_id_str": "1287220401609691140",
+            "source_user_id": 947140415588724737,
+            "source_user_id_str": "947140415588724737",
+            "type": "video",
+            "url": "https://t.co/WTojfVoae6",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 3867,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287220277475123200/pu/vid/1280x720/0gp03ND5BED6FQjm.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1287220277475123200/pu/pl/0aKQxRnrrNCxvwEa.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287220277475123200/pu/vid/480x270/_llIgL3WBF3Hj6Nu.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1287220277475123200/pu/vid/640x360/kjAdVaNIQIQCYzGp.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 6570,
+      "favorited": false,
+      "full_text": "A federal officer is hit in the face by a projectile from rioters. Far-left accounts and antifa have been celebrating this video. #PortlandRiots https://t.co/WTojfVoae6",
+      "geo": null,
+      "id": 1287334356533485568,
+      "id_str": "1287334356533485568",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4400,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                "indices": [
+                  76,
+                  99
+                ],
+                "url": "https://t.co/nHDpgWNnvX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngo.locals.com",
+                "expanded_url": "https://ngo.locals.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jPwMbP8CBz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 41755,
+        "follow_request_sent": false,
+        "followers_count": 525555,
+        "following": false,
+        "friends_count": 688,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2835451658,
+        "id_str": "2835451658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2326,
+        "location": "",
+        "name": "Andy Ng\u00f4",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_link_color": "AF7D5D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrAndyNgo",
+        "statuses_count": 14347,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jPwMbP8CBz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1287334356533485568,
+    "quoted_status_id_str": "1287334356533485568",
+    "quoted_status_permalink": {
+      "display": "twitter.com/mrandyngo/stat\u2026",
+      "expanded": "https://twitter.com/mrandyngo/status/1287334356533485568",
+      "url": "https://t.co/Rx6hck7bkl"
+    },
+    "retweet_count": 7588,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 01 17:50:03 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Me",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bongino.com",
+              "expanded_url": "http://www.bongino.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eNhMvTGdKP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 61050,
+      "follow_request_sent": false,
+      "followers_count": 2121024,
+      "following": false,
+      "friends_count": 724,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 232901331,
+      "id_str": "232901331",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5518,
+      "location": "Florida, USA",
+      "name": "Dan Bongino",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232901331/1548899037",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "dbongino",
+      "statuses_count": 66818,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eNhMvTGdKP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

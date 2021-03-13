@@ -1,0 +1,484 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 29 03:30:20 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1048784496,
+        "id_str": "1048784496",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Sen. Kevin Cramer",
+        "screen_name": "SenKevinCramer"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          30,
+          36
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          37,
+          53
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenKevinCramer: Thank you @POTUS @realDonaldTrump for signing the CARES Act right away and for your leadership throughout this entire p\u2026",
+  "geo": null,
+  "id": 1244104579769384960,
+  "id_str": "1244104579769384960",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1243637430483390470,
+  "quoted_status_id_str": "1243637430483390470",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1243637430483390470",
+    "url": "https://t.co/enaMJJl1oc"
+  },
+  "retweet_count": 3259,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 27 20:36:15 +0000 2020",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            252,
+            260
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LEgnZE5M1R",
+          "expanded_url": "https://twitter.com/SenKevinCramer/status/1243637981950496769/photo/1",
+          "id": 1243637956973408256,
+          "id_str": "1243637956973408256",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUJKIf6XsAAPyLW.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUJKIf6XsAAPyLW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LEgnZE5M1R"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1243637430483390470",
+          "indices": [
+            261,
+            284
+          ],
+          "url": "https://t.co/enaMJJl1oc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            10,
+            16
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            17,
+            33
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LEgnZE5M1R",
+          "expanded_url": "https://twitter.com/SenKevinCramer/status/1243637981950496769/photo/1",
+          "id": 1243637956973408256,
+          "id_str": "1243637956973408256",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUJKIf6XsAAPyLW.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUJKIf6XsAAPyLW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/LEgnZE5M1R",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EUJKIf6XsAAPyLW.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12920,
+    "favorited": false,
+    "full_text": "Thank you @POTUS @realDonaldTrump for signing the CARES Act right away and for your leadership throughout this entire process.\n\nI urge the Administration to implement this package as quickly as possible.\n\nThe lives of countless Americans depend on it. #COVID19 https://t.co/enaMJJl1oc https://t.co/LEgnZE5M1R",
+    "geo": null,
+    "id": 1243637981950496769,
+    "id_str": "1243637981950496769",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Mar 27 20:34:03 +0000 2020",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              266,
+              275
+            ],
+            "text": "CARESAct"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/senategop/stat\u2026",
+            "expanded_url": "https://twitter.com/senategop/status/1243613618186465280",
+            "indices": [
+              278,
+              301
+            ],
+            "url": "https://t.co/0WnTNFZPZD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 62863,
+      "favorited": false,
+      "full_text": "I just signed the CARES Act, the single biggest economic relief package in American History \u2013 twice as large as any relief bill ever enacted. At $2.2 Trillion Dollars, this bill will deliver urgently-needed relief for our nation\u2019s families, workers, and businesses. #CARESAct\ud83c\uddfa\ud83c\uddf8 https://t.co/0WnTNFZPZD",
+      "geo": null,
+      "id": 1243637430483390470,
+      "id_str": "1243637430483390470",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1243613618186465280,
+      "quoted_status_id_str": "1243613618186465280",
+      "quoted_status_permalink": {
+        "display": "twitter.com/senategop/stat\u2026",
+        "expanded": "https://twitter.com/senategop/status/1243613618186465280",
+        "url": "https://t.co/0WnTNFZPZD"
+      },
+      "retweet_count": 17357,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 75420914,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 117963,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 50249,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1243637430483390470,
+    "quoted_status_id_str": "1243637430483390470",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1243637430483390470",
+      "url": "https://t.co/enaMJJl1oc"
+    },
+    "retweet_count": 3259,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the great people of North Dakota in the United States Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cramer.senate.gov",
+              "expanded_url": "http://cramer.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/M4l7PNHhUi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 161,
+      "follow_request_sent": false,
+      "followers_count": 25566,
+      "following": false,
+      "friends_count": 538,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1048784496,
+      "id_str": "1048784496",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 899,
+      "location": "",
+      "name": "Sen. Kevin Cramer",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenKevinCramer",
+      "statuses_count": 4803,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/M4l7PNHhUi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75420914,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117963,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 02 04:25:03 +0000 2020",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/senjohnbarrass\u2026",
+        "expanded_url": "https://twitter.com/senjohnbarrasso/status/1223262560155250688",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/5IVTZ2QY3r"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 16237,
+  "favorited": false,
+  "full_text": "Thank you John! https://t.co/5IVTZ2QY3r",
+  "geo": null,
+  "id": 1223824629472604162,
+  "id_str": "1223824629472604162",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 31 15:11:36 +0000 2020",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            73,
+            85
+          ],
+          "text": "impeachment"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/f7VXmjpDGB",
+          "expanded_url": "https://twitter.com/SenJohnBarrasso/status/1223262560155250688/video/1",
+          "features": {},
+          "id": 1223251705481125888,
+          "id_str": "1223251705481125888",
+          "indices": [
+            184,
+            207
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPnml1cWoAU2sTN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPnml1cWoAU2sTN.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/f7VXmjpDGB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            115,
+            131
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Senator Barrasso on FOX America's Newsroom with Sandra Smith"
+          },
+          "display_url": "pic.twitter.com/f7VXmjpDGB",
+          "expanded_url": "https://twitter.com/SenJohnBarrasso/status/1223262560155250688/video/1",
+          "features": {},
+          "id": 1223251705481125888,
+          "id_str": "1223251705481125888",
+          "indices": [
+            184,
+            207
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPnml1cWoAU2sTN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPnml1cWoAU2sTN.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/f7VXmjpDGB",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 319352,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1223251705481125888/vid/480x270/EuaxtZwtwJ0b5QYI.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1223251705481125888/pl/VK11QsCDgb4lg3Ls.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1223251705481125888/vid/640x360/v6aqLT3vkhBi9EY6.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1223251705481125888/vid/960x540/sH1WqtOTaSedHtO9.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2315,
+    "favorited": false,
+    "full_text": "The Democrats may try to throw a couple of Hail Mary passes, but the way #impeachment is going to end will be with @realDonaldTrump being acquitted \u2013 found not guilty \u2013 by the Senate. https://t.co/f7VXmjpDGB",
+    "geo": null,
+    "id": 1223262560155250688,
+    "id_str": "1223262560155250688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 696,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 13 14:49:08 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for the great state of Wyoming, @SenateGOP Chairman, and Chairman of @EPWGOP. https://t.co/bMw3qwlxRu",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/senjohnbarrass\u2026",
+              "expanded_url": "https://www.instagram.com/senjohnbarrasso/",
+              "indices": [
+                91,
+                114
+              ],
+              "url": "https://t.co/bMw3qwlxRu"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "barrasso.senate.gov",
+              "expanded_url": "http://barrasso.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/oAKWpUrAWS"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 132311,
+      "following": false,
+      "friends_count": 520,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 202206694,
+      "id_str": "202206694",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2311,
+      "location": "",
+      "name": "Sen. John Barrasso",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1143907394/twitter_profile_pic_normal.JPG",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnBarrasso",
+      "statuses_count": 4585,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/oAKWpUrAWS",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1223262560155250688,
+  "quoted_status_id_str": "1223262560155250688",
+  "quoted_status_permalink": {
+    "display": "twitter.com/senjohnbarrass\u2026",
+    "expanded": "https://twitter.com/senjohnbarrasso/status/1223262560155250688",
+    "url": "https://t.co/5IVTZ2QY3r"
+  },
+  "retweet_count": 3950,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

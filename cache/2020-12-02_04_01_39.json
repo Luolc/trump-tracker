@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Dec 02 04:01:39 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          25,
+          35
+        ],
+        "text": "Wisconsin"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2575245955,
+        "id_str": "2575245955",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Andrew Havranek",
+        "screen_name": "Andrew_Havranek"
+      },
+      {
+        "id": 234896532,
+        "id_str": "234896532",
+        "indices": [
+          62,
+          71
+        ],
+        "name": "Governor Tony Evers",
+        "screen_name": "GovEvers"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          96,
+          112
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "indices": [
+          115,
+          125
+        ],
+        "name": "Team Trump",
+        "screen_name": "TeamTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Andrew_Havranek: The #Wisconsin Supreme Court has ordered @GovEvers to respond to President @realDonaldTrump / @TeamTrump's lawsuit fil\u2026",
+  "geo": null,
+  "id": 1333984649056546816,
+  "id_str": "1333984649056546816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13677,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 01 21:18:09 +0000 2020",
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            4,
+            14
+          ],
+          "text": "Wisconsin"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NHDdFQHN9u",
+          "expanded_url": "https://twitter.com/Andrew_Havranek/status/1333883106001039360/photo/1",
+          "id": 1333883099084689409,
+          "id_str": "1333883099084689409",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/EoLnnITXEAEtmkw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EoLnnITXEAEtmkw.jpg",
+          "sizes": {
+            "large": {
+              "h": 1702,
+              "resize": "fit",
+              "w": 1088
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 767
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 435
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NHDdFQHN9u"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "spectrumnews1.com/wi/milwaukee/n\u2026",
+          "expanded_url": "https://spectrumnews1.com/wi/milwaukee/news/2020/12/01/trump-files-lawsuit-after-wisconsin-recount-confirms-biden-win",
+          "indices": [
+            229,
+            252
+          ],
+          "url": "https://t.co/KxrvZw0JX1"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 234896532,
+          "id_str": "234896532",
+          "indices": [
+            41,
+            50
+          ],
+          "name": "Governor Tony Evers",
+          "screen_name": "GovEvers"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            75,
+            91
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 729676086632656900,
+          "id_str": "729676086632656900",
+          "indices": [
+            94,
+            104
+          ],
+          "name": "Team Trump",
+          "screen_name": "TeamTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NHDdFQHN9u",
+          "expanded_url": "https://twitter.com/Andrew_Havranek/status/1333883106001039360/photo/1",
+          "id": 1333883099084689409,
+          "id_str": "1333883099084689409",
+          "indices": [
+            253,
+            276
+          ],
+          "media_url": "http://pbs.twimg.com/media/EoLnnITXEAEtmkw.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EoLnnITXEAEtmkw.jpg",
+          "sizes": {
+            "large": {
+              "h": 1702,
+              "resize": "fit",
+              "w": 1088
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 767
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 435
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NHDdFQHN9u"
+        }
+      ]
+    },
+    "favorite_count": 42266,
+    "favorited": false,
+    "full_text": "The #Wisconsin Supreme Court has ordered @GovEvers to respond to President @realDonaldTrump / @TeamTrump's lawsuit filed this morning, claiming abuse of absentee voting and illegal activity that affected roughly 220,000 ballots. https://t.co/KxrvZw0JX1 https://t.co/NHDdFQHN9u",
+    "geo": null,
+    "id": 1333883106001039360,
+    "id_str": "1333883106001039360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13677,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jun 18 17:40:41 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Reporter @SpectrumNews1WI \u2022 Formerly @KYTV/@KSPRNews @WDTV5News \u2022 \u03a3\u039d @DUQEdu \u2022 @DUQMobile Alum \u2022 Penguins/Pirates/Steelers fan",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "spectrumnews1.com/wi/milwaukee",
+              "expanded_url": "https://spectrumnews1.com/wi/milwaukee",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BNneRtAxSl"
+            }
+          ]
+        }
+      },
+      "favourites_count": 34270,
+      "follow_request_sent": false,
+      "followers_count": 1809,
+      "following": false,
+      "friends_count": 2409,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2575245955,
+      "id_str": "2575245955",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 35,
+      "location": "Milwaukee, WI",
+      "name": "Andrew Havranek",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2575245955/1589419696",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1324862608583888896/orxYMnJY_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324862608583888896/orxYMnJY_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Andrew_Havranek",
+      "statuses_count": 40667,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BNneRtAxSl",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88792021,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125552,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58868,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

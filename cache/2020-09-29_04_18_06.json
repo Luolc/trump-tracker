@@ -1,0 +1,340 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 04:18:06 +0000 2020",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15275864,
+        "id_str": "15275864",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Sally Goldenberg",
+        "screen_name": "SallyGold"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SallyGold: \u201cAt this point, the BOE does not know how many voters may be affected or how it will remedy the problem.\u201d",
+  "geo": null,
+  "id": 1310795967965343745,
+  "id_str": "1310795967965343745",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1310703327211126787,
+  "quoted_status_id_str": "1310703327211126787",
+  "quoted_status_permalink": {
+    "display": "twitter.com/brigidbergin/s\u2026",
+    "expanded": "https://twitter.com/brigidbergin/status/1310703327211126787",
+    "url": "https://t.co/vXvvvGcGIv"
+  },
+  "retweet_count": 5926,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 02:02:52 +0000 2020",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/brigidbergin/s\u2026",
+          "expanded_url": "https://twitter.com/brigidbergin/status/1310703327211126787",
+          "indices": [
+            106,
+            129
+          ],
+          "url": "https://t.co/vXvvvGcGIv"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13048,
+    "favorited": false,
+    "full_text": "\u201cAt this point, the BOE does not know how many voters may be affected or how it will remedy the problem.\u201d https://t.co/vXvvvGcGIv",
+    "geo": null,
+    "id": 1310761933797314560,
+    "id_str": "1310761933797314560",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Sep 28 22:09:59 +0000 2020",
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "gothamist.com/news/brooklyn-\u2026",
+            "expanded_url": "https://gothamist.com/news/brooklyn-voters-receive-absentee-ballot-envelopes-wrong-voter-names-and-addresses?utm_medium=social&utm_source=twitter&utm_campaign=shared_twitter",
+            "indices": [
+              92,
+              115
+            ],
+            "url": "https://t.co/r0VkDhb1kD"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 810424,
+            "id_str": "810424",
+            "indices": [
+              120,
+              130
+            ],
+            "name": "Gothamist",
+            "screen_name": "Gothamist"
+          }
+        ]
+      },
+      "favorite_count": 823,
+      "favorited": false,
+      "full_text": "NEW: Brooklyn Voters Receive Absentee Ballot Envelopes With Wrong Voter Names And Addresses https://t.co/r0VkDhb1kD via @gothamist",
+      "geo": null,
+      "id": 1310703327211126787,
+      "id_str": "1310703327211126787",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 776,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Jan 06 20:06:33 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "City Hall and politics reporter @WNYC.  RT's aren't endorsements. bbergin@wnyc[dot]org",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wnyc.org/people/brigid-\u2026",
+                "expanded_url": "http://www.wnyc.org/people/brigid-bergin/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/GleunnZyeG"
+              }
+            ]
+          }
+        },
+        "favourites_count": 22055,
+        "follow_request_sent": false,
+        "followers_count": 12106,
+        "following": false,
+        "friends_count": 3768,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11915822,
+        "id_str": "11915822",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 396,
+        "location": "New York City",
+        "name": "Brigid Bergin",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11915822/1590765979",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/656113883690610688/t0PkBhTI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/656113883690610688/t0PkBhTI_normal.jpg",
+        "profile_link_color": "990000",
+        "profile_sidebar_border_color": "DFDFDF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "brigidbergin",
+        "statuses_count": 19854,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/GleunnZyeG",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1310703327211126787,
+    "quoted_status_id_str": "1310703327211126787",
+    "quoted_status_permalink": {
+      "display": "twitter.com/brigidbergin/s\u2026",
+      "expanded": "https://twitter.com/brigidbergin/status/1310703327211126787",
+      "url": "https://t.co/vXvvvGcGIv"
+    },
+    "retweet_count": 5926,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 30 03:43:44 +0000 2008",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "City Hall bureau chief at POLITICO New York. DM w/ ideas/tips/questions.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "politico.com/states/",
+              "expanded_url": "https://www.politico.com/states/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iHh6lOxCgK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11725,
+      "follow_request_sent": false,
+      "followers_count": 19701,
+      "following": false,
+      "friends_count": 2547,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 15275864,
+      "id_str": "15275864",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 540,
+      "location": "Brooklyn",
+      "name": "Sally Goldenberg",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15275864/1583502015",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186054355125985281/RdHPB31q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186054355125985281/RdHPB31q_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SallyGold",
+      "statuses_count": 38480,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iHh6lOxCgK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

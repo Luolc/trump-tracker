@@ -1,0 +1,578 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 12 14:38:17 +0000 2020",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/k7aiiQTYTd",
+        "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1314255990997626880/video/1",
+        "id": 1314250181714550785,
+        "id_str": "1314250181714550785",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1314255990997626880,
+        "source_status_id_str": "1314255990997626880",
+        "source_user_id": 16989178,
+        "source_user_id_str": "16989178",
+        "type": "photo",
+        "url": "https://t.co/k7aiiQTYTd"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 850036892,
+        "id_str": "850036892",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Project Veritas",
+        "screen_name": "Project_Veritas"
+      },
+      {
+        "id": 18208354,
+        "id_str": "18208354",
+        "indices": [
+          45,
+          54
+        ],
+        "name": "Joe Rogan",
+        "screen_name": "joerogan"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Oct 27 00:38:24 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Guerrilla Journalist. @Project_Veritas On the Inside veritastips@protonmail.com or send us an encrypted Signal message at 914-653-3110.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "projectveritas.com/donate",
+                    "expanded_url": "https://projectveritas.com/donate",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/QqrV2z68s0"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 2445,
+            "follow_request_sent": false,
+            "followers_count": 769566,
+            "following": false,
+            "friends_count": 1312,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 16989178,
+            "id_str": "16989178",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4660,
+            "location": "New York",
+            "name": "James O'Keefe",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/16989178/1594062563",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "JamesOKeefeIII",
+            "statuses_count": 16235,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/QqrV2z68s0",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/k7aiiQTYTd",
+        "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1314255990997626880/video/1",
+        "id": 1314250181714550785,
+        "id_str": "1314250181714550785",
+        "indices": [
+          55,
+          78
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1314255990997626880,
+        "source_status_id_str": "1314255990997626880",
+        "source_user_id": 16989178,
+        "source_user_id_str": "16989178",
+        "type": "video",
+        "url": "https://t.co/k7aiiQTYTd",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 119500,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/1280x720/iviOC4lWO3XavPpR.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/640x360/HxxCD4OMFlxGlg4o.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/pl/uq9cKpWECqP0XL-U.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/480x270/2DipvWI0q-ze9iBI.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Project_Veritas: We are 7-0 in lawsuits! @joerogan https://t.co/k7aiiQTYTd",
+  "geo": null,
+  "id": 1315663084791435264,
+  "id_str": "1315663084791435264",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7787,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 10 16:23:06 +0000 2020",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/k7aiiQTYTd",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1314255990997626880/video/1",
+          "id": 1314250181714550785,
+          "id_str": "1314250181714550785",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1314255990997626880,
+          "source_status_id_str": "1314255990997626880",
+          "source_user_id": 16989178,
+          "source_user_id_str": "16989178",
+          "type": "photo",
+          "url": "https://t.co/k7aiiQTYTd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18208354,
+          "id_str": "18208354",
+          "indices": [
+            24,
+            33
+          ],
+          "name": "Joe Rogan",
+          "screen_name": "joerogan"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Oct 27 00:38:24 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Guerrilla Journalist. @Project_Veritas On the Inside veritastips@protonmail.com or send us an encrypted Signal message at 914-653-3110.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "projectveritas.com/donate",
+                      "expanded_url": "https://projectveritas.com/donate",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/QqrV2z68s0"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 2445,
+              "follow_request_sent": false,
+              "followers_count": 769566,
+              "following": false,
+              "friends_count": 1312,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 16989178,
+              "id_str": "16989178",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 4660,
+              "location": "New York",
+              "name": "James O'Keefe",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16989178/1594062563",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "JamesOKeefeIII",
+              "statuses_count": 16235,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/QqrV2z68s0",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/k7aiiQTYTd",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1314255990997626880/video/1",
+          "id": 1314250181714550785,
+          "id_str": "1314250181714550785",
+          "indices": [
+            34,
+            57
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1314250181714550785/pu/img/cvy9623bzyJ1qINO.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1314255990997626880,
+          "source_status_id_str": "1314255990997626880",
+          "source_user_id": 16989178,
+          "source_user_id_str": "16989178",
+          "type": "video",
+          "url": "https://t.co/k7aiiQTYTd",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 119500,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/1280x720/iviOC4lWO3XavPpR.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/640x360/HxxCD4OMFlxGlg4o.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/pl/uq9cKpWECqP0XL-U.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1314250181714550785/pu/vid/480x270/2DipvWI0q-ze9iBI.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20991,
+    "favorited": false,
+    "full_text": "We are 7-0 in lawsuits! @joerogan https://t.co/k7aiiQTYTd",
+    "geo": null,
+    "id": 1314964686954262528,
+    "id_str": "1314964686954262528",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7787,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 27 22:08:18 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sign up for our dedicated distribution list on our website. Send us tips/become an insider. Secure contact: VeritasTips@protonmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "projectveritas.com",
+              "expanded_url": "http://projectveritas.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vbnIR2ok0T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2050,
+      "follow_request_sent": false,
+      "followers_count": 647775,
+      "following": false,
+      "friends_count": 861,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 850036892,
+      "id_str": "850036892",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2447,
+      "location": "In a bunker, Greater NYC",
+      "name": "Project Veritas",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/850036892/1594062623",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974369108321095680/T0_h7cu7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974369108321095680/T0_h7cu7_normal.jpg",
+      "profile_link_color": "AF965E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Project_Veritas",
+      "statuses_count": 8892,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vbnIR2ok0T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

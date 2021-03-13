@@ -1,0 +1,322 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 12 00:41:09 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19739126,
+        "id_str": "19739126",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kevin McCarthy",
+        "screen_name": "GOPLeader"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPLeader: The Paycheck Protection Program has been so successful for America\u2019s small businesses that it is projected to run out of mon\u2026",
+  "geo": null,
+  "id": 1249135432157335552,
+  "id_str": "1249135432157335552",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7265,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 10 17:04:48 +0000 2020",
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6voXPRY1pD",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1248658201899393024/video/1",
+          "id": 1248371826838786048,
+          "id_str": "1248371826838786048",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1248371826838786048/img/3GunNyeHp_Yzc9yz.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248371826838786048/img/3GunNyeHp_Yzc9yz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/6voXPRY1pD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Democrats Are Playing Politics"
+          },
+          "display_url": "pic.twitter.com/6voXPRY1pD",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1248658201899393024/video/1",
+          "id": 1248371826838786048,
+          "id_str": "1248371826838786048",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1248371826838786048/img/3GunNyeHp_Yzc9yz.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1248371826838786048/img/3GunNyeHp_Yzc9yz.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/6voXPRY1pD",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 42918,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248371826838786048/vid/320x320/gYVL3zVOjy2IowGy.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248371826838786048/vid/480x480/nLgNYNN8_qKH009l.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1248371826838786048/pl/MkS-f8zwLB5ik9I0.m3u8?tag=13"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248371826838786048/vid/720x720/Ae4uIN7Owqv9p-fR.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18695,
+    "favorited": false,
+    "full_text": "The Paycheck Protection Program has been so successful for America\u2019s small businesses that it is projected to run out of money in a matter of DAYS. Millions more could lose their jobs and their livelihood.\n\nDemocrats don\u2019t care. https://t.co/6voXPRY1pD",
+    "geo": null,
+    "id": 1248658201899393024,
+    "id_str": "1248658201899393024",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7265,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.\nhttps://t.co/ZqWsqD6L0T",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/repkevinmccart\u2026",
+              "expanded_url": "https://www.instagram.com/repkevinmccarthy/",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/ZqWsqD6L0T"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "republicanleader.gov",
+              "expanded_url": "http://republicanleader.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eB1lud6Yi3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1868,
+      "follow_request_sent": false,
+      "followers_count": 766069,
+      "following": false,
+      "friends_count": 1394,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19739126,
+      "id_str": "19739126",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4850,
+      "location": "Bakersfield, CA",
+      "name": "Kevin McCarthy",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1582230846",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_link_color": "0A2644",
+      "profile_sidebar_border_color": "FF0000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "122C73",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPLeader",
+      "statuses_count": 13097,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eB1lud6Yi3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76761506,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119109,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50614,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

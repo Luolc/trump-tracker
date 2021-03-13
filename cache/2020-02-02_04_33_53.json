@@ -1,0 +1,413 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 02 04:33:53 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          91,
+          97
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 816683274076614656,
+        "id_str": "816683274076614656",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "John Kennedy",
+        "screen_name": "SenJohnKennedy"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          43,
+          59
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenJohnKennedy: Promise kept!\n \nToday, @realDonaldTrump officially signed the historic #USMCA deal into law.\n \nThis trade deal is a mas\u2026",
+  "geo": null,
+  "id": 1223826849043767296,
+  "id_str": "1223826849043767296",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1854,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 29 22:32:58 +0000 2020",
+    "display_text_range": [
+      0,
+      171
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            71,
+            77
+          ],
+          "text": "USMCA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/icRKhltoMZ",
+          "expanded_url": "https://twitter.com/SenJohnKennedy/status/1222648859597443074/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 380,
+                  "y": 5
+                }
+              ]
+            }
+          },
+          "id": 1222648853922492416,
+          "id_str": "1222648853922492416",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPe4p58WsAAoGLX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPe4p58WsAAoGLX.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/icRKhltoMZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            23,
+            39
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/icRKhltoMZ",
+          "expanded_url": "https://twitter.com/SenJohnKennedy/status/1222648859597443074/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 174,
+                  "w": 174,
+                  "x": 672,
+                  "y": 10
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 98,
+                  "w": 98,
+                  "x": 380,
+                  "y": 5
+                }
+              ]
+            }
+          },
+          "id": 1222648853922492416,
+          "id_str": "1222648853922492416",
+          "indices": [
+            172,
+            195
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPe4p58WsAAoGLX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPe4p58WsAAoGLX.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/icRKhltoMZ"
+        }
+      ]
+    },
+    "favorite_count": 6481,
+    "favorited": false,
+    "full_text": "Promise kept!\n \nToday, @realDonaldTrump officially signed the historic #USMCA deal into law.\n \nThis trade deal is a massive win for Louisiana farmers and small businesses. https://t.co/icRKhltoMZ",
+    "geo": null,
+    "id": 1222648859597443074,
+    "id_str": "1222648859597443074",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1854,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 04 16:30:40 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The official Twitter page for U.S. Senator John N. Kennedy (R-La.) https://t.co/4ceoNzx1Ck",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/SenatorJohnKen\u2026",
+              "expanded_url": "https://www.facebook.com/SenatorJohnKennedy/",
+              "indices": [
+                67,
+                90
+              ],
+              "url": "https://t.co/4ceoNzx1Ck"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "kennedy.senate.gov",
+              "expanded_url": "https://www.kennedy.senate.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/idGDfTIv0R"
+            }
+          ]
+        }
+      },
+      "favourites_count": 715,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 108574,
+      "following": false,
+      "friends_count": 1337,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 816683274076614656,
+      "id_str": "816683274076614656",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1177,
+      "location": "Louisiana",
+      "name": "John Kennedy",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/816683274076614656/1567188858",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/831592195320840192/GXfc24bb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/831592195320840192/GXfc24bb_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnKennedy",
+      "statuses_count": 1925,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/idGDfTIv0R",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

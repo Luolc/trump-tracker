@@ -1,0 +1,458 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 05:01:13 +0000 2020",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19400611,
+        "id_str": "19400611",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Charles V Payne",
+        "screen_name": "cvpayne"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @cvpayne: Take a listen to my Fox Radio interview...",
+  "geo": null,
+  "id": 1284352501286875142,
+  "id_str": "1284352501286875142",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1284141133954719744,
+  "quoted_status_id_str": "1284141133954719744",
+  "quoted_status_permalink": {
+    "display": "twitter.com/foxnewsradio/s\u2026",
+    "expanded": "https://twitter.com/foxnewsradio/status/1284141133954719744",
+    "url": "https://t.co/goV0V534id"
+  },
+  "retweet_count": 1930,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 17 19:03:58 +0000 2020",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/foxnewsradio/s\u2026",
+          "expanded_url": "https://twitter.com/foxnewsradio/status/1284141133954719744",
+          "indices": [
+            43,
+            66
+          ],
+          "url": "https://t.co/goV0V534id"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 6420,
+    "favorited": false,
+    "full_text": "Take a listen to my Fox Radio interview... https://t.co/goV0V534id",
+    "geo": null,
+    "id": 1284202199279517701,
+    "id_str": "1284202199279517701",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 17 15:01:19 +0000 2020",
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2KnLC0KliB",
+            "expanded_url": "https://twitter.com/foxnewsradio/status/1284141133954719744/video/1",
+            "id": 1284140461322534912,
+            "id_str": "1284140461322534912",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284140461322534912/pu/img/wIzdxFNeD6D-ZpN5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284140461322534912/pu/img/wIzdxFNeD6D-ZpN5.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2KnLC0KliB"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "ow.ly/HeuO50AB3Jr",
+            "expanded_url": "http://ow.ly/HeuO50AB3Jr",
+            "indices": [
+              155,
+              178
+            ],
+            "url": "https://t.co/yEbeKNDCtO"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 56413858,
+            "id_str": "56413858",
+            "indices": [
+              1,
+              13
+            ],
+            "name": "FOX Business",
+            "screen_name": "FoxBusiness"
+          },
+          {
+            "id": 19400611,
+            "id_str": "19400611",
+            "indices": [
+              15,
+              23
+            ],
+            "name": "Charles V Payne",
+            "screen_name": "cvpayne"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/2KnLC0KliB",
+            "expanded_url": "https://twitter.com/foxnewsradio/status/1284141133954719744/video/1",
+            "id": 1284140461322534912,
+            "id_str": "1284140461322534912",
+            "indices": [
+              179,
+              202
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284140461322534912/pu/img/wIzdxFNeD6D-ZpN5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284140461322534912/pu/img/wIzdxFNeD6D-ZpN5.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2KnLC0KliB",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 32295,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284140461322534912/pu/vid/480x480/GMKNWCCiRckmpFjs.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1284140461322534912/pu/pl/zMds4Nbp2z-Dh-dm.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284140461322534912/pu/vid/320x320/sTL2OXTpSvMJUwyv.mp4?tag=10"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284140461322534912/pu/vid/720x720/4UzGR2UBeq5C8Xmv.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 217,
+      "favorited": false,
+      "full_text": ".@FoxBusiness' @cvpayne says America's economic recovery is 'remarkable' considering all the challenges we have faced!\n\nListen to the full interview here:\nhttps://t.co/yEbeKNDCtO https://t.co/2KnLC0KliB",
+      "geo": null,
+      "id": 1284141133954719744,
+      "id_str": "1284141133954719744",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 84,
+      "retweeted": false,
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Dec 28 21:33:23 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The power of FOX News on the Radio!",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxnewsradio.com",
+                "expanded_url": "http://www.foxnewsradio.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/HRq0UZwTpj"
+              }
+            ]
+          }
+        },
+        "favourites_count": 205,
+        "follow_request_sent": false,
+        "followers_count": 162985,
+        "following": false,
+        "friends_count": 294,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 11611052,
+        "id_str": "11611052",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3301,
+        "location": "FOX News Channel",
+        "name": "FOX News Radio",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/11611052/1509483861",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925468541666525185/GMZaXFic_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925468541666525185/GMZaXFic_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "foxnewsradio",
+        "statuses_count": 95460,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/HRq0UZwTpj",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1284141133954719744,
+    "quoted_status_id_str": "1284141133954719744",
+    "quoted_status_permalink": {
+      "display": "twitter.com/foxnewsradio/s\u2026",
+      "expanded": "https://twitter.com/foxnewsradio/status/1284141133954719744",
+      "url": "https://t.co/goV0V534id"
+    },
+    "retweet_count": 1930,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 23 16:21:40 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Trying to make sense of this world while becoming the man my mother raised- I give a damn, love my family and country...and making people $$$$",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wstreet.com",
+              "expanded_url": "http://www.wstreet.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/hxcYA9YVjH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10906,
+      "follow_request_sent": false,
+      "followers_count": 525270,
+      "following": false,
+      "friends_count": 17691,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 19400611,
+      "id_str": "19400611",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2166,
+      "location": "New Jersey & New York",
+      "name": "Charles V Payne",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/469167577231413249/M94UBjHn_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/469167577231413249/M94UBjHn_normal.jpeg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "cvpayne",
+      "statuses_count": 92826,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/hxcYA9YVjH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

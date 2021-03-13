@@ -1,0 +1,317 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 23 17:54:01 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          27,
+          43
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Yesterday @realDonaldTrump granted Duke Tanner clemency after 16 years in prison.\n\nDuke was sentenced to life in prison fo\u2026",
+  "geo": null,
+  "id": 1319698607851868160,
+  "id_str": "1319698607851868160",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 45854,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 22 19:23:25 +0000 2020",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/M0TDT8n5eE",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1319358716987277312/video/1",
+          "id": 1319358633013092353,
+          "id_str": "1319358633013092353",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319358633013092353/pu/img/QBDS4Ux3ujBL7Gfr.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319358633013092353/pu/img/QBDS4Ux3ujBL7Gfr.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/M0TDT8n5eE"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/M0TDT8n5eE",
+          "expanded_url": "https://twitter.com/IvankaTrump/status/1319358716987277312/video/1",
+          "id": 1319358633013092353,
+          "id_str": "1319358633013092353",
+          "indices": [
+            273,
+            296
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319358633013092353/pu/img/QBDS4Ux3ujBL7Gfr.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319358633013092353/pu/img/QBDS4Ux3ujBL7Gfr.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/M0TDT8n5eE",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 45392,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319358633013092353/pu/vid/360x640/kI-Pxh8hXrEumb6s.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1319358633013092353/pu/pl/TEKafe_w86pTe2RO.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319358633013092353/pu/vid/720x1280/V4xzBsgPpK4Hl3-q.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319358633013092353/pu/vid/320x568/f7h184X-2R25chQT.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 148252,
+    "favorited": false,
+    "full_text": "Yesterday @realDonaldTrump granted Duke Tanner clemency after 16 years in prison.\n\nDuke was sentenced to life in prison for a 1st time, non-violent crime because of Joe Biden\u2019s 1994 crime bill.\n\nWe pray that you will do much good with your second chance Duke! \n\nGod Bless! https://t.co/M0TDT8n5eE",
+    "geo": null,
+    "id": 1319358716987277312,
+    "id_str": "1319358716987277312",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 45854,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3704,
+      "follow_request_sent": false,
+      "followers_count": 9708275,
+      "following": false,
+      "friends_count": 1514,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 22765,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 17805,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87358958,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121612,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57485,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

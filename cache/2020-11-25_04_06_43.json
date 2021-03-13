@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 25 04:06:43 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      },
+      {
+        "id": 586707638,
+        "id_str": "586707638",
+        "indices": [
+          29,
+          43
+        ],
+        "name": "Sidney Powell \ud83c\uddfa\ud83c\uddf8\u2b50\u2b50\u2b50",
+        "screen_name": "SidneyPowell1"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouDobbs: BREAKING NEWS: @SidneyPowell1 says her lawsuit in Georgia could be filed as soon as tomorrow and says there\u2019s no way there wa\u2026",
+  "geo": null,
+  "id": 1331449211381026823,
+  "id_str": "1331449211381026823",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 25080,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 24 22:37:22 +0000 2020",
+    "display_text_range": [
+      0,
+      193
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            167,
+            172
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            173,
+            186
+          ],
+          "text": "AmericaFirst"
+        },
+        {
+          "indices": [
+            187,
+            193
+          ],
+          "text": "Dobbs"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/buB5UDwZ9u",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1331366325629968386/video/1",
+          "id": 1331363841289162752,
+          "id_str": "1331363841289162752",
+          "indices": [
+            194,
+            217
+          ],
+          "media_url": "http://pbs.twimg.com/media/Enn2GcTXEAEsCD9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Enn2GcTXEAEsCD9.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/buB5UDwZ9u"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 586707638,
+          "id_str": "586707638",
+          "indices": [
+            15,
+            29
+          ],
+          "name": "Sidney Powell \ud83c\uddfa\ud83c\uddf8\u2b50\u2b50\u2b50",
+          "screen_name": "SidneyPowell1"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/buB5UDwZ9u",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1331366325629968386/video/1",
+          "id": 1331363841289162752,
+          "id_str": "1331363841289162752",
+          "indices": [
+            194,
+            217
+          ],
+          "media_url": "http://pbs.twimg.com/media/Enn2GcTXEAEsCD9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Enn2GcTXEAEsCD9.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/buB5UDwZ9u",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 423190,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1331363841289162752/pl/ZmBs0kzRuLK2NbUO.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1331363841289162752/vid/480x270/Q-wgWOW-04tXKBPC.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1331363841289162752/vid/1280x720/6hwr6OSnKvD2eJXH.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1331363841289162752/vid/640x360/6VkBE_goI3En582L.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 70412,
+    "favorited": false,
+    "full_text": "BREAKING NEWS: @SidneyPowell1 says her lawsuit in Georgia could be filed as soon as tomorrow and says there\u2019s no way there was anything but widespread election fraud. #MAGA #AmericaFirst #Dobbs https://t.co/buB5UDwZ9u",
+    "geo": null,
+    "id": 1331366325629968386,
+    "id_str": "1331366325629968386",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 25080,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 5, 7 & 10 PM/ET",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LouDobbsShop.com",
+              "expanded_url": "http://LouDobbsShop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/U8KSlGdsBY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 18073,
+      "follow_request_sent": false,
+      "followers_count": 2311411,
+      "following": false,
+      "friends_count": 2098,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5915,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1600895848",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 36316,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/U8KSlGdsBY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88885433,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125316,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58672,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

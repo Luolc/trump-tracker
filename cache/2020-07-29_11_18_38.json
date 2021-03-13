@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 29 11:18:38 +0000 2020",
+  "display_text_range": [
+    0,
+    45
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/freebeacon/sta\u2026",
+        "expanded_url": "https://twitter.com/freebeacon/status/1288225829764378627",
+        "indices": [
+          46,
+          69
+        ],
+        "url": "https://t.co/ktRw2pJUFa"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 61446,
+  "favorited": false,
+  "full_text": "Vote these people out. They are CRAZY!  #2020 https://t.co/ktRw2pJUFa",
+  "geo": null,
+  "id": 1288433749156388864,
+  "id_str": "1288433749156388864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 28 21:32:26 +0000 2020",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/5JP8CtaSLF",
+          "expanded_url": "https://twitter.com/FreeBeacon/status/1288225829764378627/video/1",
+          "id": 1288225744636784641,
+          "id_str": "1288225744636784641",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288225744636784641/pu/img/6g-LK93tJJg98hv3.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288225744636784641/pu/img/6g-LK93tJJg98hv3.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/5JP8CtaSLF"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "freebeacon.com/democrats/demo\u2026",
+          "expanded_url": "https://freebeacon.com/democrats/democrats-reclaim-their-time-during-barr-hearing/",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/lKJ3a5qaOW"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 56701775,
+          "id_str": "56701775",
+          "indices": [
+            94,
+            104
+          ],
+          "name": "David Rutz",
+          "screen_name": "DavidRutz"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/5JP8CtaSLF",
+          "expanded_url": "https://twitter.com/FreeBeacon/status/1288225829764378627/video/1",
+          "id": 1288225744636784641,
+          "id_str": "1288225744636784641",
+          "indices": [
+            105,
+            128
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1288225744636784641/pu/img/6g-LK93tJJg98hv3.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1288225744636784641/pu/img/6g-LK93tJJg98hv3.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/5JP8CtaSLF",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 65816,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1288225744636784641/pu/pl/iRGR0pYcu4zUbB21.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288225744636784641/pu/vid/640x360/lcV3MuXVi9OKbLK-.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288225744636784641/pu/vid/480x270/Nbsi8ezA9W9wOxtE.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1288225744636784641/pu/vid/1280x720/38AKG7GcSInCJYHT.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9029,
+    "favorited": false,
+    "full_text": "SUPERCUT: Democrats reclaim their time during Bill Barr hearing\n\nhttps://t.co/lKJ3a5qaOW\n\nVia @DavidRutz https://t.co/5JP8CtaSLF",
+    "geo": null,
+    "id": 1288225829764378627,
+    "id_str": "1288225829764378627",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4571,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 05 13:54:57 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News about freedom. https://t.co/CxHKcNeFBF",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/FreeBeacon",
+              "expanded_url": "https://www.facebook.com/FreeBeacon",
+              "indices": [
+                20,
+                43
+              ],
+              "url": "https://t.co/CxHKcNeFBF"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "FreeBeacon.com",
+              "expanded_url": "http://FreeBeacon.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gUiXGLJeif"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4071,
+      "follow_request_sent": false,
+      "followers_count": 119314,
+      "following": false,
+      "friends_count": 3974,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 455764741,
+      "id_str": "455764741",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2256,
+      "location": "United States",
+      "name": "Free Beacon",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/455764741/1516650741",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/955529012545294337/WKcvd8IW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/955529012545294337/WKcvd8IW_normal.jpg",
+      "profile_link_color": "EB3301",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E6E6E6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FreeBeacon",
+      "statuses_count": 144626,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/gUiXGLJeif",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1288225829764378627,
+  "quoted_status_id_str": "1288225829764378627",
+  "quoted_status_permalink": {
+    "display": "twitter.com/freebeacon/sta\u2026",
+    "expanded": "https://twitter.com/freebeacon/status/1288225829764378627",
+    "url": "https://t.co/ktRw2pJUFa"
+  },
+  "retweet_count": 20109,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84321489,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117224,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54070,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

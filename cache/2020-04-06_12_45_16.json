@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 06 12:45:16 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 252608121,
+        "id_str": "252608121",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Yaneer Bar-Yam",
+        "screen_name": "yaneerbaryam"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @yaneerbaryam: BREAKING: Coronavirus Outbreak. Good news on multiple fronts\n\nUS today now at 23,373, yesterday at this time was 30,571.\u2026",
+  "geo": null,
+  "id": 1247143336370151424,
+  "id_str": "1247143336370151424",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2670,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 05 22:51:33 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PWphaLFI2I",
+          "expanded_url": "https://twitter.com/yaneerbaryam/status/1246933522025193473/photo/1",
+          "id": 1246931759037546496,
+          "id_str": "1246931759037546496",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/EU391AyWAAAselc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EU391AyWAAAselc.jpg",
+          "sizes": {
+            "large": {
+              "h": 1191,
+              "resize": "fit",
+              "w": 867
+            },
+            "medium": {
+              "h": 1191,
+              "resize": "fit",
+              "w": 867
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 495
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PWphaLFI2I"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PWphaLFI2I",
+          "expanded_url": "https://twitter.com/yaneerbaryam/status/1246933522025193473/photo/1",
+          "id": 1246931759037546496,
+          "id_str": "1246931759037546496",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/EU391AyWAAAselc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EU391AyWAAAselc.jpg",
+          "sizes": {
+            "large": {
+              "h": 1191,
+              "resize": "fit",
+              "w": 867
+            },
+            "medium": {
+              "h": 1191,
+              "resize": "fit",
+              "w": 867
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 495
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PWphaLFI2I"
+        }
+      ]
+    },
+    "favorite_count": 7319,
+    "favorited": false,
+    "full_text": "BREAKING: Coronavirus Outbreak. Good news on multiple fronts\n\nUS today now at 23,373, yesterday at this time was 30,571. Also, over 5,000 new recovered yesterday\n\nItaly, Spain and Iran steadily decreasing over more than a week. Italy and Spain have fewest deaths in over a week https://t.co/PWphaLFI2I",
+    "geo": null,
+    "id": 1246933522025193473,
+    "id_str": "1246933522025193473",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2670,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 15 14:59:44 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Physicist studying social challenges including pandemics. Now focused on stopping the Coronavirus @NECSI @endCOVID19",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "endcoronavirus.org",
+              "expanded_url": "http://endcoronavirus.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7MQ5FwSzp6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2610,
+      "follow_request_sent": false,
+      "followers_count": 43846,
+      "following": false,
+      "friends_count": 416,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 252608121,
+      "id_str": "252608121",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1118,
+      "location": "",
+      "name": "Yaneer Bar-Yam",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/252608121/1450745460",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/679101365860196352/A0FJiBXE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/679101365860196352/A0FJiBXE_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "yaneerbaryam",
+      "statuses_count": 8741,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/7MQ5FwSzp6",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76087959,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118670,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

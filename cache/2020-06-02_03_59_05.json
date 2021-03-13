@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 03:59:05 +0000 2020",
+  "display_text_range": [
+    0,
+    107
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39110573,
+        "id_str": "39110573",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Hannah Castillo - Text TRUMP to 88022",
+        "screen_name": "thehannahjane"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          35,
+          51
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @thehannahjane: MY President \ud83c\uddfa\ud83c\uddf8 @realDonaldTrump knows that what our country needs right now is God \ud83d\ude4f\ud83c\udffc\u271d\ufe0f",
+  "geo": null,
+  "id": 1267667023766618113,
+  "id_str": "1267667023766618113",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1267593490650849282,
+  "quoted_status_id_str": "1267593490650849282",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kristinfisher/\u2026",
+    "expanded": "https://twitter.com/kristinfisher/status/1267593490650849282",
+    "url": "https://t.co/phAlqNSuzo"
+  },
+  "retweet_count": 9923,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 01 23:24:45 +0000 2020",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/kristinfisher/\u2026",
+          "expanded_url": "https://twitter.com/kristinfisher/status/1267593490650849282",
+          "indices": [
+            89,
+            112
+          ],
+          "url": "https://t.co/phAlqNSuzo"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            16,
+            32
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 42193,
+    "favorited": false,
+    "full_text": "MY President \ud83c\uddfa\ud83c\uddf8 @realDonaldTrump knows that what our country needs right now is God \ud83d\ude4f\ud83c\udffc\u271d\ufe0f https://t.co/phAlqNSuzo",
+    "geo": null,
+    "id": 1267597987959787521,
+    "id_str": "1267597987959787521",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jun 01 23:06:53 +0000 2020",
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XueoF2RC6z",
+            "expanded_url": "https://twitter.com/KristinFisher/status/1267593490650849282/video/1",
+            "id": 1267593434946289664,
+            "id_str": "1267593434946289664",
+            "indices": [
+              230,
+              253
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267593434946289664/pu/img/MQLMhJaVOXI-FF4E.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267593434946289664/pu/img/MQLMhJaVOXI-FF4E.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XueoF2RC6z"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/XueoF2RC6z",
+            "expanded_url": "https://twitter.com/KristinFisher/status/1267593490650849282/video/1",
+            "id": 1267593434946289664,
+            "id_str": "1267593434946289664",
+            "indices": [
+              230,
+              253
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267593434946289664/pu/img/MQLMhJaVOXI-FF4E.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267593434946289664/pu/img/MQLMhJaVOXI-FF4E.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/XueoF2RC6z",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 33713,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267593434946289664/pu/vid/720x1280/1EclOwuxu3NK3UGZ.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1267593434946289664/pu/pl/xU6KvzxLPgyZ8dHZ.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267593434946289664/pu/vid/360x640/jSTdAiXUi4Zzie-A.mp4?tag=10"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267593434946289664/pu/vid/320x568/5DEuhE8kHlPATP-B.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 143302,
+      "favorited": false,
+      "full_text": "I almost can\u2019t believe what I\u2019m seeing. POTUS just walked out the front door of the White House and into Lafayette Square - the epicenter of the DC protests - to visit historic St. John\u2019s Church, which was set on fire last night. https://t.co/XueoF2RC6z",
+      "geo": null,
+      "id": 1267593490650849282,
+      "id_str": "1267593490650849282",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 39694,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 17 20:03:50 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@FoxNews correspondent covering the White House and all things \ud83d\ude80 I\u2019m far more interesting on Insta",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1604,
+        "follow_request_sent": false,
+        "followers_count": 65447,
+        "following": false,
+        "friends_count": 528,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 16336098,
+        "id_str": "16336098",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 581,
+        "location": "Washington DC",
+        "name": "Kristin Fisher",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16336098/1397931181",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1153514748874493954/5UARAmIt_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153514748874493954/5UARAmIt_normal.jpg",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KristinFisher",
+        "statuses_count": 6661,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267593490650849282,
+    "quoted_status_id_str": "1267593490650849282",
+    "quoted_status_permalink": {
+      "display": "twitter.com/kristinfisher/\u2026",
+      "expanded": "https://twitter.com/kristinfisher/status/1267593490650849282",
+      "url": "https://t.co/phAlqNSuzo"
+    },
+    "retweet_count": 9923,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun May 10 20:59:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Coalitions Director for @realDonaldTrump 2020 Campaign | Wife, mom & mexican food enthusiast #MAGA #KAG",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "youaintblack.com",
+              "expanded_url": "http://youaintblack.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/7eFNIUK5qo"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2052,
+      "follow_request_sent": false,
+      "followers_count": 10014,
+      "following": false,
+      "friends_count": 1179,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39110573,
+      "id_str": "39110573",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 56,
+      "location": "USA",
+      "name": "Hannah Castillo - Text TRUMP to 88022",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39110573/1587955666",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1267471585767718914/UGc3ZFYk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1267471585767718914/UGc3ZFYk_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "thehannahjane",
+      "statuses_count": 1362,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/7eFNIUK5qo",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 20 13:09:28 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          84,
+          89
+        ],
+        "text": "ca26"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1302787190485708801,
+        "id_str": "1302787190485708801",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Mike O\u2019Bryan",
+        "screen_name": "Pilotmike787"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          18,
+          34
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 947178108108423168,
+        "id_str": "947178108108423168",
+        "indices": [
+          68,
+          83
+        ],
+        "name": "Ronda Kennedy",
+        "screen_name": "Ronda4Congress"
+      },
+      {
+        "id": 63335631,
+        "id_str": "63335631",
+        "indices": [
+          93,
+          103
+        ],
+        "name": "Joy Villa",
+        "screen_name": "Joy_Villa"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Pilotmike787: @realDonaldTrump in North Carolina last week with @Ronda4Congress #ca26 ,  @Joy_Villa, and 15K Patriotic Americans\ud83c\uddfa\ud83c\uddf8Aweso\u2026",
+  "geo": null,
+  "id": 1307668198783881216,
+  "id_str": "1307668198783881216",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1305869430778400769,
+  "quoted_status_id_str": "1305869430778400769",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sexcounseling/\u2026",
+    "expanded": "https://twitter.com/sexcounseling/status/1305869430778400769",
+    "url": "https://t.co/s9W9huCy18"
+  },
+  "retweet_count": 2347,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 15 14:32:51 +0000 2020",
+    "display_text_range": [
+      0,
+      210
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            71
+          ],
+          "text": "ca26"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9m30Fcsfg1",
+          "expanded_url": "https://twitter.com/Pilotmike787/status/1305877242422022144/video/1",
+          "id": 1305877162373730309,
+          "id_str": "1305877162373730309",
+          "indices": [
+            211,
+            234
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305877162373730309/pu/img/zEyG4AeZSUBSZu3_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305877162373730309/pu/img/zEyG4AeZSUBSZu3_.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/9m30Fcsfg1"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/sexcounseling/\u2026",
+          "expanded_url": "https://twitter.com/sexcounseling/status/1305869430778400769",
+          "indices": [
+            187,
+            210
+          ],
+          "url": "https://t.co/s9W9huCy18"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 947178108108423168,
+          "id_str": "947178108108423168",
+          "indices": [
+            50,
+            65
+          ],
+          "name": "Ronda Kennedy",
+          "screen_name": "Ronda4Congress"
+        },
+        {
+          "id": 63335631,
+          "id_str": "63335631",
+          "indices": [
+            75,
+            85
+          ],
+          "name": "Joy Villa",
+          "screen_name": "Joy_Villa"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/9m30Fcsfg1",
+          "expanded_url": "https://twitter.com/Pilotmike787/status/1305877242422022144/video/1",
+          "id": 1305877162373730309,
+          "id_str": "1305877162373730309",
+          "indices": [
+            211,
+            234
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305877162373730309/pu/img/zEyG4AeZSUBSZu3_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305877162373730309/pu/img/zEyG4AeZSUBSZu3_.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/9m30Fcsfg1",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 31395,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305877162373730309/pu/vid/360x640/YpY8pT9Kx6oyhMbk.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1305877162373730309/pu/pl/d8dKqcW74olG1bEY.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305877162373730309/pu/vid/320x568/T2u-Yy74ZI38g55k.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305877162373730309/pu/vid/720x1280/CNBhlTb2-NpQzGA5.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8628,
+    "favorited": false,
+    "full_text": "@realDonaldTrump in North Carolina last week with @Ronda4Congress #ca26 ,  @Joy_Villa, and 15K Patriotic Americans\ud83c\uddfa\ud83c\uddf8Awesome energy!! The President will win North Carolina!!\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/s9W9huCy18 https://t.co/9m30Fcsfg1",
+    "geo": null,
+    "id": 1305877242422022144,
+    "id_str": "1305877242422022144",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 15 14:01:48 +0000 2020",
+      "display_text_range": [
+        17,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 762,
+      "favorited": false,
+      "full_text": "@realDonaldTrump It looks like President Trump is leading in the polls in North  Carolina.",
+      "geo": null,
+      "id": 1305869430778400769,
+      "id_str": "1305869430778400769",
+      "in_reply_to_screen_name": "realDonaldTrump",
+      "in_reply_to_status_id": 1305866347197456385,
+      "in_reply_to_status_id_str": "1305866347197456385",
+      "in_reply_to_user_id": 25073877,
+      "in_reply_to_user_id_str": "25073877",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 183,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Oct 18 18:16:49 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wife, Mom, Author, Sexuality Counselor, Proud Patriot *Views are my own \nProudly retweeted by @realDonaldTrump  \nhttps://t.co/XmzNIkt8Qa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/DawnMichael/\u2026",
+                "expanded_url": "https://www.youtube.com/c/DawnMichael/videos",
+                "indices": [
+                  113,
+                  136
+                ],
+                "url": "https://t.co/XmzNIkt8Qa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thehappyspouse.com",
+                "expanded_url": "http://www.thehappyspouse.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GRBnYqBHrB"
+              }
+            ]
+          }
+        },
+        "favourites_count": 58894,
+        "follow_request_sent": false,
+        "followers_count": 97143,
+        "following": false,
+        "friends_count": 14471,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 204444440,
+        "id_str": "204444440",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 310,
+        "location": "California",
+        "name": "Dawn Michael, PhD\ud83d\udc97",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204444440/1596579188",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1304083455450386434/5Dnt_xrb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304083455450386434/5Dnt_xrb_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "SexCounseling",
+        "statuses_count": 58913,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GRBnYqBHrB",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1305869430778400769,
+    "quoted_status_id_str": "1305869430778400769",
+    "quoted_status_permalink": {
+      "display": "twitter.com/sexcounseling/\u2026",
+      "expanded": "https://twitter.com/sexcounseling/status/1305869430778400769",
+      "url": "https://t.co/s9W9huCy18"
+    },
+    "retweet_count": 2347,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Sep 07 01:54:25 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Campaign Manager 4 @Ronda4Congress. Airline pilot flying the B-787 Dreamliner. Father of 3 amazing young men. USAF F-4 fighter pilot back in the day. Go Irish\ud83c\udf40",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 15,
+      "follow_request_sent": false,
+      "followers_count": 100,
+      "following": false,
+      "friends_count": 35,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1302787190485708801,
+      "id_str": "1302787190485708801",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "",
+      "name": "Mike O\u2019Bryan",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1302787190485708801/1599692028",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1307398092644204544/xokYDavG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307398092644204544/xokYDavG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Pilotmike787",
+      "statuses_count": 53,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86136466,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600567374",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56126,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

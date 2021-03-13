@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 09 10:59:12 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 40604613,
+        "id_str": "40604613",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Curtis Houck",
+        "screen_name": "CurtisHouck"
+      },
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          24,
+          36
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      },
+      {
+        "id": 18646108,
+        "id_str": "18646108",
+        "indices": [
+          41,
+          51
+        ],
+        "name": "Bret Baier",
+        "screen_name": "BretBaier"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CurtisHouck: Video: @MZHemingway and @BretBaier just WRECKED the liberal media narrative about Russia throwing '16 to Trump. Baier: \"So\u2026",
+  "geo": null,
+  "id": 1236969780986499078,
+  "id_str": "1236969780986499078",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10453,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 04 23:54:58 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eSnamBemn0",
+          "expanded_url": "https://twitter.com/CurtisHouck/status/1235353072890548224/video/1",
+          "id": 1235353004854870016,
+          "id_str": "1235353004854870016",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235353004854870016/pu/img/av1bJMrXb0zsM3Ex.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235353004854870016/pu/img/av1bJMrXb0zsM3Ex.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eSnamBemn0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18005085,
+          "id_str": "18005085",
+          "indices": [
+            7,
+            19
+          ],
+          "name": "Mollie",
+          "screen_name": "MZHemingway"
+        },
+        {
+          "id": 18646108,
+          "id_str": "18646108",
+          "indices": [
+            24,
+            34
+          ],
+          "name": "Bret Baier",
+          "screen_name": "BretBaier"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/eSnamBemn0",
+          "expanded_url": "https://twitter.com/CurtisHouck/status/1235353072890548224/video/1",
+          "id": 1235353004854870016,
+          "id_str": "1235353004854870016",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235353004854870016/pu/img/av1bJMrXb0zsM3Ex.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235353004854870016/pu/img/av1bJMrXb0zsM3Ex.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/eSnamBemn0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 99600,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235353004854870016/pu/vid/480x270/frlqxEsM5b_F7_8Y.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235353004854870016/pu/vid/960x540/WLSS0ww_FARNI-Km.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1235353004854870016/pu/pl/bFWKF-R8wAq7F3i0.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235353004854870016/pu/vid/640x360/KR3hABWvaODLGWOV.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29084,
+    "favorited": false,
+    "full_text": "Video: @MZHemingway and @BretBaier just WRECKED the liberal media narrative about Russia throwing '16 to Trump. Baier: \"So Russia influenced the election with $200,000, $300,000 in Facebook ads and Michael Bloomberg couldn't get more than 50 delegates with $5 --- $600 million?\" https://t.co/eSnamBemn0",
+    "geo": null,
+    "id": 1235353072890548224,
+    "id_str": "1235353072890548224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10453,
+    "retweeted": false,
+    "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun May 17 04:05:24 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Managing Editor @NewsBusters, Proud @penn_state '14/Manheim Township '10 grad via @LancasterCounty. @ViennaPres. Fan of #Caps #Nats @nascar \u271d\ufe0f. Views = mine",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "newsbusters.org/author/curtis-\u2026",
+              "expanded_url": "http://newsbusters.org/author/curtis-houck",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KG55gJjdJa"
+            }
+          ]
+        }
+      },
+      "favourites_count": 52645,
+      "follow_request_sent": false,
+      "followers_count": 15772,
+      "following": false,
+      "friends_count": 1890,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 40604613,
+      "id_str": "40604613",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 248,
+      "location": "Northern VA",
+      "name": "Curtis Houck",
+      "notifications": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40604613/1462938804",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/968176849212919808/8e7LFKFe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/968176849212919808/8e7LFKFe_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "C6E2EE",
+      "profile_sidebar_fill_color": "DAECF4",
+      "profile_text_color": "663B12",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CurtisHouck",
+      "statuses_count": 80400,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KG55gJjdJa",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73848461,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

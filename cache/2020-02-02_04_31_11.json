@@ -1,0 +1,414 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 02 04:31:11 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 7270292,
+        "id_str": "7270292",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Sen. Jim Inhofe",
+        "screen_name": "JimInhofe"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JimInhofe: After over 50 hours of testimony, questions and debate, I voted today to move to the next phase of the impeachment process.\u2026",
+  "geo": null,
+  "id": 1223826173433610241,
+  "id_str": "1223826173433610241",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1930,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 01 00:01:06 +0000 2020",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ex3tezvqGP",
+          "expanded_url": "https://twitter.com/JimInhofe/status/1223395815256883202/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 129,
+                  "w": 129,
+                  "x": 561,
+                  "y": 535
+                },
+                {
+                  "h": 233,
+                  "w": 233,
+                  "x": 393,
+                  "y": 129
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 329,
+                  "y": 313
+                },
+                {
+                  "h": 137,
+                  "w": 137,
+                  "x": 230,
+                  "y": 76
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 317,
+                  "w": 317,
+                  "x": 1372,
+                  "y": 1308
+                },
+                {
+                  "h": 571,
+                  "w": 571,
+                  "x": 961,
+                  "y": 317
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 186,
+                  "y": 177
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 130,
+                  "y": 43
+                }
+              ]
+            }
+          },
+          "id": 1223395796177096704,
+          "id_str": "1223395796177096704",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPpf_qrXkAAWB7v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPpf_qrXkAAWB7v.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ex3tezvqGP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ex3tezvqGP",
+          "expanded_url": "https://twitter.com/JimInhofe/status/1223395815256883202/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 129,
+                  "w": 129,
+                  "x": 561,
+                  "y": 535
+                },
+                {
+                  "h": 233,
+                  "w": 233,
+                  "x": 393,
+                  "y": 129
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 329,
+                  "y": 313
+                },
+                {
+                  "h": 137,
+                  "w": 137,
+                  "x": 230,
+                  "y": 76
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 317,
+                  "w": 317,
+                  "x": 1372,
+                  "y": 1308
+                },
+                {
+                  "h": 571,
+                  "w": 571,
+                  "x": 961,
+                  "y": 317
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 186,
+                  "y": 177
+                },
+                {
+                  "h": 77,
+                  "w": 77,
+                  "x": 130,
+                  "y": 43
+                }
+              ]
+            }
+          },
+          "id": 1223395796177096704,
+          "id_str": "1223395796177096704",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPpf_qrXkAAWB7v.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPpf_qrXkAAWB7v.jpg",
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ex3tezvqGP"
+        }
+      ]
+    },
+    "favorite_count": 6852,
+    "favorited": false,
+    "full_text": "After over 50 hours of testimony, questions and debate, I voted today to move to the next phase of the impeachment process. My full statement. \u2b07\ufe0f https://t.co/ex3tezvqGP",
+    "geo": null,
+    "id": 1223395815256883202,
+    "id_str": "1223395815256883202",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1930,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 05 14:39:13 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the great state of Oklahoma.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Inhofe.senate.gov",
+              "expanded_url": "http://www.Inhofe.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/MsjJPG2F5l"
+            }
+          ]
+        }
+      },
+      "favourites_count": 95,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 61725,
+      "following": false,
+      "friends_count": 352,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 7270292,
+      "id_str": "7270292",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2247,
+      "location": "Oklahoma",
+      "name": "Sen. Jim Inhofe",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7270292/1579116092",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1217527245390172160/zLp9qtnN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217527245390172160/zLp9qtnN_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JimInhofe",
+      "statuses_count": 2498,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/MsjJPG2F5l",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

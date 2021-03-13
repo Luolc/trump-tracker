@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 03:41:29 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2750127259,
+        "id_str": "2750127259",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Lee Zeldin",
+        "screen_name": "RepLeeZeldin"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepLeeZeldin: The rioters aren\u2019t listening, they have no respect, and they aren\u2019t slowing down on their own. These are criminals and ma\u2026",
+  "geo": null,
+  "id": 1267662594527170562,
+  "id_str": "1267662594527170562",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9199,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 31 23:59:53 +0000 2020",
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fulJ0PuSse",
+          "expanded_url": "https://twitter.com/PatrolRpd/status/1267202275895803904/video/1",
+          "id": 1267202234640719872,
+          "id_str": "1267202234640719872",
+          "indices": [
+            247,
+            270
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267202234640719872/pu/img/UmFrxHLaCgS891S8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267202234640719872/pu/img/UmFrxHLaCgS891S8.jpg",
+          "sizes": {
+            "large": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "medium": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "small": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1267202275895803904,
+          "source_status_id_str": "1267202275895803904",
+          "source_user_id": 1219049479019663361,
+          "source_user_id_str": "1219049479019663361",
+          "type": "photo",
+          "url": "https://t.co/fulJ0PuSse"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jan 20 00:10:46 +0000 2020",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "The official Twitter account of Patrol Section Investigations for the Rochester Police Department. Not monitored 24/7 - use 911 or 311 for police assistance.",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 2,
+              "follow_request_sent": false,
+              "followers_count": 3955,
+              "following": false,
+              "friends_count": 64,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 1219049479019663361,
+              "id_str": "1219049479019663361",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 12,
+              "location": "",
+              "name": "Patrol_Investigations_RPD",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1219049479019663361/1579480800",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1231819940954615808/tgp_1qwA_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231819940954615808/tgp_1qwA_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "PatrolRpd",
+              "statuses_count": 139,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/fulJ0PuSse",
+          "expanded_url": "https://twitter.com/PatrolRpd/status/1267202275895803904/video/1",
+          "id": 1267202234640719872,
+          "id_str": "1267202234640719872",
+          "indices": [
+            247,
+            270
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267202234640719872/pu/img/UmFrxHLaCgS891S8.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267202234640719872/pu/img/UmFrxHLaCgS891S8.jpg",
+          "sizes": {
+            "large": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "medium": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "small": {
+              "h": 568,
+              "resize": "fit",
+              "w": 320
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1267202275895803904,
+          "source_status_id_str": "1267202275895803904",
+          "source_user_id": 1219049479019663361,
+          "source_user_id_str": "1219049479019663361",
+          "type": "video",
+          "url": "https://t.co/fulJ0PuSse",
+          "video_info": {
+            "aspect_ratio": [
+              40,
+              71
+            ],
+            "duration_millis": 43872,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1267202234640719872/pu/pl/JLRk2rNEHhzWte9b.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1267202234640719872/pu/vid/320x568/2uVlAIk7EdBBgkm_.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23276,
+    "favorited": false,
+    "full_text": "The rioters aren\u2019t listening, they have no respect, and they aren\u2019t slowing down on their own. These are criminals and many are violent.\n\nNational Guard, law enforcement, Mayors, community leaders, and others need to shut this all down right now.\nhttps://t.co/fulJ0PuSse",
+    "geo": null,
+    "id": 1267244439141056516,
+    "id_str": "1267244439141056516",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9199,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 20 19:25:47 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proudly representing New York's First Congressional District. Ranking Member of @HouseForeignGOP Subcommittee on Oversight & Investigations.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "zeldin.house.gov",
+              "expanded_url": "http://zeldin.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Kj9kXazM0U"
+            }
+          ]
+        }
+      },
+      "favourites_count": 33,
+      "follow_request_sent": false,
+      "followers_count": 278065,
+      "following": false,
+      "friends_count": 1962,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2750127259,
+      "id_str": "2750127259",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1360,
+      "location": "",
+      "name": "Lee Zeldin",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2750127259/1522445343",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/866759502867161088/ZGcdQunZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepLeeZeldin",
+      "statuses_count": 3611,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Kj9kXazM0U",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

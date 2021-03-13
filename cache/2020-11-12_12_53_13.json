@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 12 12:53:13 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1397501864,
+        "id_str": "1397501864",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "David Perdue",
+        "screen_name": "Perduesenate"
+      },
+      {
+        "id": 343041182,
+        "id_str": "343041182",
+        "indices": [
+          19,
+          31
+        ],
+        "name": "Tom Cotton",
+        "screen_name": "TomCottonAR"
+      },
+      {
+        "id": 29495695,
+        "id_str": "29495695",
+        "indices": [
+          109,
+          119
+        ],
+        "name": "Kelly Loeffler",
+        "screen_name": "KLoeffler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Perduesenate: .@TomCottonAR is exactly right. The future of our country is on the line!\n\nChip in to help @Kloeffler and I make sure the\u2026",
+  "geo": null,
+  "id": 1326870664247185410,
+  "id_str": "1326870664247185410",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7025,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 10 01:35:08 +0000 2020",
+    "display_text_range": [
+      0,
+      194
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            181,
+            187
+          ],
+          "text": "GAsen"
+        },
+        {
+          "indices": [
+            188,
+            194
+          ],
+          "text": "gapol"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2wLFIGsTOi",
+          "expanded_url": "https://twitter.com/Perduesenate/status/1325975246596345857/video/1",
+          "id": 1325975064903348226,
+          "id_str": "1325975064903348226",
+          "indices": [
+            195,
+            218
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1325975064903348226/img/NW21I30_IokAVXae.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1325975064903348226/img/NW21I30_IokAVXae.jpg",
+          "sizes": {
+            "large": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "medium": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2wLFIGsTOi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 343041182,
+          "id_str": "343041182",
+          "indices": [
+            1,
+            13
+          ],
+          "name": "Tom Cotton",
+          "screen_name": "TomCottonAR"
+        },
+        {
+          "id": 29495695,
+          "id_str": "29495695",
+          "indices": [
+            91,
+            101
+          ],
+          "name": "Kelly Loeffler",
+          "screen_name": "KLoeffler"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://secure.winred.com/georgians-for-kelly/perdue-for-senate-defend-the-majority"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/2wLFIGsTOi",
+          "expanded_url": "https://twitter.com/Perduesenate/status/1325975246596345857/video/1",
+          "id": 1325975064903348226,
+          "id_str": "1325975064903348226",
+          "indices": [
+            195,
+            218
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1325975064903348226/img/NW21I30_IokAVXae.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1325975064903348226/img/NW21I30_IokAVXae.jpg",
+          "sizes": {
+            "large": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "medium": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "small": {
+              "h": 356,
+              "resize": "fit",
+              "w": 634
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/2wLFIGsTOi",
+          "video_info": {
+            "aspect_ratio": [
+              317,
+              178
+            ],
+            "duration_millis": 38202,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1325975064903348226/vid/480x270/OacpXUVA2iw_mwpI.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1325975064903348226/pl/X_PouwxXaQtwCWnv.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1325975064903348226/vid/634x356/uP3IkEm__iOJCEqe.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27960,
+    "favorited": false,
+    "full_text": ".@TomCottonAR is exactly right. The future of our country is on the line!\n\nChip in to help @Kloeffler and I make sure the road to socialism NEVER runs through the state of Georgia! #GAsen #gapol https://t.co/2wLFIGsTOi",
+    "geo": null,
+    "id": 1325975246596345857,
+    "id_str": "1325975246596345857",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7025,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 02 15:43:16 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Conservative #outsider working to change Washington",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "perduesenate.com",
+              "expanded_url": "https://perduesenate.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/49qXwkQHqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 284,
+      "follow_request_sent": false,
+      "followers_count": 40563,
+      "following": false,
+      "friends_count": 1401,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1397501864,
+      "id_str": "1397501864",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 563,
+      "location": "Georgia, USA",
+      "name": "David Perdue",
+      "notifications": false,
+      "profile_background_color": "114768",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1397501864/1412775495",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/448525540337541120/melSxHLk_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/448525540337541120/melSxHLk_normal.png",
+      "profile_link_color": "1090C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Perduesenate",
+      "statuses_count": 3818,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/49qXwkQHqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

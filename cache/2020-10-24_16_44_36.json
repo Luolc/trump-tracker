@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Oct 24 16:44:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          30,
+          46
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Yesterday @realDonaldTrump granted Duke Tanner clemency after 16 years in prison\n\nHe was sentenced to LIFE in prison fo\u2026",
+  "geo": null,
+  "id": 1320043525602508802,
+  "id_str": "1320043525602508802",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 35824,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 23 12:31:28 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Z9p5Vioc8i",
+          "expanded_url": "https://twitter.com/alexbruesewitz/status/1319338985144111107/video/1",
+          "id": 1319338295806038016,
+          "id_str": "1319338295806038016",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319338295806038016/pu/img/xE-4OqNCBStUjNep.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319338295806038016/pu/img/xE-4OqNCBStUjNep.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1319338985144111107,
+          "source_status_id_str": "1319338985144111107",
+          "source_user_id": 499154896,
+          "source_user_id_str": "499154896",
+          "type": "photo",
+          "url": "https://t.co/Z9p5Vioc8i"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue Feb 21 20:46:09 +0000 2012",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "CEO of @XStrategiesDC | Advisor to Conservative Politicians, Public Figures, and Organizations",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "xstrats.com",
+                      "expanded_url": "http://xstrats.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/OcvZbwOI8q"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 40371,
+              "follow_request_sent": false,
+              "followers_count": 63631,
+              "following": false,
+              "friends_count": 828,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 499154896,
+              "id_str": "499154896",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 298,
+              "location": "Washington, DC/Palm Beach, FL",
+              "name": "Alex Bruesewitz",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/499154896/1522208339",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1319632086349828096/YGG7yGoi_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319632086349828096/YGG7yGoi_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "alexbruesewitz",
+              "statuses_count": 7749,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/OcvZbwOI8q",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/Z9p5Vioc8i",
+          "expanded_url": "https://twitter.com/alexbruesewitz/status/1319338985144111107/video/1",
+          "id": 1319338295806038016,
+          "id_str": "1319338295806038016",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1319338295806038016/pu/img/xE-4OqNCBStUjNep.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1319338295806038016/pu/img/xE-4OqNCBStUjNep.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1319338985144111107,
+          "source_status_id_str": "1319338985144111107",
+          "source_user_id": 499154896,
+          "source_user_id_str": "499154896",
+          "type": "video",
+          "url": "https://t.co/Z9p5Vioc8i",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 69768,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319338295806038016/pu/vid/360x640/N9mDLWk4ydPEPEy1.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1319338295806038016/pu/pl/pnA4YhecXcjnQHcI.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319338295806038016/pu/vid/320x568/WA73zEmpildacKuH.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1319338295806038016/pu/vid/720x1280/XvgdEKAk6_DI5u2n.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 92365,
+    "favorited": false,
+    "full_text": "Yesterday @realDonaldTrump granted Duke Tanner clemency after 16 years in prison\n\nHe was sentenced to LIFE in prison for a FIRST time, NON VIOLENT crime because of Joe Biden\u2019s crime bill\n\nGood luck with your SECOND CHANCE\n\nLet\u2019s make this message go viral! https://t.co/Z9p5Vioc8i",
+    "geo": null,
+    "id": 1319617436984004609,
+    "id_str": "1319617436984004609",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 35824,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonJr.com",
+              "expanded_url": "http://DonJr.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mqxNHnqCbK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19231,
+      "follow_request_sent": false,
+      "followers_count": 5903042,
+      "following": false,
+      "friends_count": 1483,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14188,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1598660870",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 39477,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mqxNHnqCbK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 11:43:40 +0000 2020",
+  "display_text_range": [
+    0,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1197579807166324736,
+        "id_str": "1197579807166324736",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "PollWatch",
+        "screen_name": "PollWatch2020"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PollWatch2020: Interesting",
+  "geo": null,
+  "id": 1300036460230434816,
+  "id_str": "1300036460230434816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1299405821017755649,
+  "quoted_status_id_str": "1299405821017755649",
+  "quoted_status_permalink": {
+    "display": "twitter.com/slobzilla/stat\u2026",
+    "expanded": "https://twitter.com/slobzilla/status/1299405821017755649",
+    "url": "https://t.co/8m00T2RZvF"
+  },
+  "retweet_count": 1529,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 28 18:29:15 +0000 2020",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/slobzilla/stat\u2026",
+          "expanded_url": "https://twitter.com/slobzilla/status/1299405821017755649",
+          "indices": [
+            12,
+            35
+          ],
+          "url": "https://t.co/8m00T2RZvF"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 5648,
+    "favorited": false,
+    "full_text": "Interesting https://t.co/8m00T2RZvF",
+    "geo": null,
+    "id": 1299413754715803648,
+    "id_str": "1299413754715803648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Aug 28 17:57:44 +0000 2020",
+      "display_text_range": [
+        233,
+        513
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1199120225515560961,
+            "id_str": "1199120225515560961",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "CMac \ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "CarolB201464"
+          },
+          {
+            "id": 3107324712,
+            "id_str": "3107324712",
+            "indices": [
+              14,
+              30
+            ],
+            "name": "\u2744\ufe0f\u2744\ufe0fCheryl\u2744\ufe0f\u2744\ufe0f",
+            "screen_name": "SeabreezeCheryl"
+          },
+          {
+            "id": 68599584,
+            "id_str": "68599584",
+            "indices": [
+              31,
+              44
+            ],
+            "name": "Robert C. Cahaly",
+            "screen_name": "RobertCahaly"
+          },
+          {
+            "id": 39078695,
+            "id_str": "39078695",
+            "indices": [
+              45,
+              61
+            ],
+            "name": "The Trafalgar Group",
+            "screen_name": "trafalgar_group"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              62,
+              78
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 939091,
+            "id_str": "939091",
+            "indices": [
+              79,
+              88
+            ],
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+          },
+          {
+            "id": 1176367702543413248,
+            "id_str": "1176367702543413248",
+            "indices": [
+              89,
+              105
+            ],
+            "name": "Jo Jorgensen",
+            "screen_name": "Jorgensen4POTUS"
+          },
+          {
+            "id": 92176455,
+            "id_str": "92176455",
+            "indices": [
+              106,
+              117
+            ],
+            "name": "Kyle Olson \ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "kyleolson4"
+          },
+          {
+            "id": 1197579807166324736,
+            "id_str": "1197579807166324736",
+            "indices": [
+              118,
+              132
+            ],
+            "name": "PollWatch",
+            "screen_name": "PollWatch2020"
+          },
+          {
+            "id": 4432916014,
+            "id_str": "4432916014",
+            "indices": [
+              133,
+              149
+            ],
+            "name": "Political Polls",
+            "screen_name": "PpollingNumbers"
+          },
+          {
+            "id": 1903105045,
+            "id_str": "1903105045",
+            "indices": [
+              150,
+              165
+            ],
+            "name": "Political Polls",
+            "screen_name": "Politics_Polls"
+          },
+          {
+            "id": 14529929,
+            "id_str": "14529929",
+            "indices": [
+              166,
+              177
+            ],
+            "name": "Jake Tapper",
+            "screen_name": "jaketapper"
+          },
+          {
+            "id": 8795772,
+            "id_str": "8795772",
+            "indices": [
+              178,
+              184
+            ],
+            "name": "Detroit Free Press",
+            "screen_name": "freep"
+          },
+          {
+            "id": 22948692,
+            "id_str": "22948692",
+            "indices": [
+              185,
+              196
+            ],
+            "name": "Local 4 WDIV Detroit",
+            "screen_name": "Local4News"
+          },
+          {
+            "id": 16543775,
+            "id_str": "16543775",
+            "indices": [
+              197,
+              209
+            ],
+            "name": "The Detroit News",
+            "screen_name": "detroitnews"
+          },
+          {
+            "id": 31746745,
+            "id_str": "31746745",
+            "indices": [
+              210,
+              219
+            ],
+            "name": "FOX 2 Detroit",
+            "screen_name": "FOX2News"
+          },
+          {
+            "id": 19778050,
+            "id_str": "19778050",
+            "indices": [
+              220,
+              232
+            ],
+            "name": "WXYZ Detroit",
+            "screen_name": "wxyzdetroit"
+          },
+          {
+            "id": 722793491059769344,
+            "id_str": "722793491059769344",
+            "indices": [
+              473,
+              477
+            ],
+            "name": "Democratic Party",
+            "screen_name": "DNC"
+          }
+        ]
+      },
+      "favorite_count": 825,
+      "favorited": false,
+      "full_text": "@CarolB201464 @SeabreezeCheryl @RobertCahaly @trafalgar_group @realDonaldTrump @JoeBiden @Jorgensen4POTUS @kyleolson4 @PollWatch2020 @PpollingNumbers @Politics_Polls @jaketapper @freep @Local4News @detroitnews @FOX2News @wxyzdetroit I\u2019m very familiar with a Big 3 factory and in 2016 predicted Trump would take Michigan based on the blue collar UAW workers I was talking to. \n\nThere are only more Trump supporters here, now, and they\u2019re even a little less timid about it.\n\n@DNC suffers demoralizing defeat in 2020",
+      "geo": null,
+      "id": 1299405821017755649,
+      "id_str": "1299405821017755649",
+      "in_reply_to_screen_name": "CarolB201464",
+      "in_reply_to_status_id": 1299404027004936194,
+      "in_reply_to_status_id_str": "1299404027004936194",
+      "in_reply_to_user_id": 1199120225515560961,
+      "in_reply_to_user_id_str": "1199120225515560961",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 296,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 24 07:37:32 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "libertarian admirer of Great Lakes",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 47829,
+        "follow_request_sent": false,
+        "followers_count": 1633,
+        "following": false,
+        "friends_count": 1979,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 2091441,
+        "id_str": "2091441",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Detroit, MI",
+        "name": "Dennis Dockery",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091441/1590197933",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/919597557/DSCF0292_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/919597557/DSCF0292_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "slobzilla",
+        "statuses_count": 24889,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1299405821017755649,
+    "quoted_status_id_str": "1299405821017755649",
+    "quoted_status_permalink": {
+      "display": "twitter.com/slobzilla/stat\u2026",
+      "expanded": "https://twitter.com/slobzilla/status/1299405821017755649",
+      "url": "https://t.co/8m00T2RZvF"
+    },
+    "retweet_count": 1529,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 21 18:17:42 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Following the 2020 elections closely.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2316,
+      "follow_request_sent": false,
+      "followers_count": 14795,
+      "following": false,
+      "friends_count": 263,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1197579807166324736,
+      "id_str": "1197579807166324736",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 81,
+      "location": "",
+      "name": "PollWatch",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1197583721953513472/ty-4V2xG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1197583721953513472/ty-4V2xG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PollWatch2020",
+      "statuses_count": 3397,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

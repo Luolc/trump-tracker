@@ -1,0 +1,324 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 10 04:31:56 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 54885400,
+        "id_str": "54885400",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "U.S. Navy",
+        "screen_name": "USNavy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USNavy: Superheroes exist in real life, for we walk among them! \n\nShout out to all the dedicated health professionals and Sailors acros\u2026",
+  "geo": null,
+  "id": 1248468735041527809,
+  "id_str": "1248468735041527809",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3741,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 07 18:14:05 +0000 2020",
+    "display_text_range": [
+      0,
+      256
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            173,
+            181
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            241,
+            256
+          ],
+          "text": "WorldHealthDay"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/H0STwc0pUg",
+          "expanded_url": "https://twitter.com/USNavy/status/1247588471881060353/video/1",
+          "id": 1247588334358192129,
+          "id_str": "1247588334358192129",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVBTGHiX0AAhRAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVBTGHiX0AAhRAU.jpg",
+          "sizes": {
+            "large": {
+              "h": 839,
+              "resize": "fit",
+              "w": 1490
+            },
+            "medium": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H0STwc0pUg"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/H0STwc0pUg",
+          "expanded_url": "https://twitter.com/USNavy/status/1247588471881060353/video/1",
+          "id": 1247588334358192129,
+          "id_str": "1247588334358192129",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVBTGHiX0AAhRAU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVBTGHiX0AAhRAU.jpg",
+          "sizes": {
+            "large": {
+              "h": 839,
+              "resize": "fit",
+              "w": 1490
+            },
+            "medium": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/H0STwc0pUg",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 59040,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247588334358192129/pu/vid/480x270/3QaQqIecHwZd2Qyf.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247588334358192129/pu/vid/1280x720/QTZofKOnxhEoHCPM.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1247588334358192129/pu/vid/640x360/x5xcB2Shus5TpHZ4.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1247588334358192129/pu/pl/AzPKAgvgmX3nCvGv.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12545,
+    "favorited": false,
+    "full_text": "Superheroes exist in real life, for we walk among them! \n\nShout out to all the dedicated health professionals and Sailors across the world who are on the front lines of the #COVID19 response. We are more thankful for you than words can say. #WorldHealthDay https://t.co/H0STwc0pUg",
+    "geo": null,
+    "id": 1247588471881060353,
+    "id_str": "1247588471881060353",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3741,
+    "retweeted": false,
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navy.mil",
+              "expanded_url": "http://www.navy.mil",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NprZCggT1X"
+            }
+          ]
+        }
+      },
+      "favourites_count": 764,
+      "follow_request_sent": false,
+      "followers_count": 1342419,
+      "following": false,
+      "friends_count": 1209,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 54885400,
+      "id_str": "54885400",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7715,
+      "location": "The 7 seas!",
+      "name": "U.S. Navy",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1586177739",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1211685747851431937/vsQ3433k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211685747851431937/vsQ3433k_normal.jpg",
+      "profile_link_color": "2C4D59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USNavy",
+      "statuses_count": 28842,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NprZCggT1X",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76533287,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118980,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50571,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

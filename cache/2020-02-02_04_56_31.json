@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 02 04:56:31 +0000 2020",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: Thx!",
+  "geo": null,
+  "id": 1223832546406010880,
+  "id_str": "1223832546406010880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quoted_status_id": 1223700141384916994,
+  "quoted_status_id_str": "1223700141384916994",
+  "quoted_status_permalink": {
+    "display": "twitter.com/lukemaciastx/s\u2026",
+    "expanded": "https://twitter.com/lukemaciastx/status/1223700141384916994",
+    "url": "https://t.co/wUhTyaPWhJ"
+  },
+  "retweet_count": 2085,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 02 04:37:27 +0000 2020",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/lukemaciastx/s\u2026",
+          "expanded_url": "https://twitter.com/lukemaciastx/status/1223700141384916994",
+          "indices": [
+            5,
+            28
+          ],
+          "url": "https://t.co/wUhTyaPWhJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 8626,
+    "favorited": false,
+    "full_text": "Thx! https://t.co/wUhTyaPWhJ",
+    "geo": null,
+    "id": 1223827749116227584,
+    "id_str": "1223827749116227584",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Feb 01 20:10:23 +0000 2020",
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "podcasts.apple.com/us/podcast/ver\u2026",
+            "expanded_url": "https://podcasts.apple.com/us/podcast/verdict-with-ted-cruz/id1495601614#episodeGuid=287f7112-44b3-11ea-8de2-475567a66727",
+            "indices": [
+              84,
+              107
+            ],
+            "url": "https://t.co/iyiN7mihjm"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 390,
+      "favorited": false,
+      "full_text": "One of the best podcasts you\u2019ll listen to and today\u2019s episode was the best so far.  https://t.co/iyiN7mihjm",
+      "geo": null,
+      "id": 1223700141384916994,
+      "id_str": "1223700141384916994",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 161,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": true,
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 30 18:52:44 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Jesus Christ Saves. Political consultant and motivated conservative activist. I love my family.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lukemacias.com",
+                "expanded_url": "https://lukemacias.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/7GlXk2YLjo"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2592,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 1780,
+        "following": false,
+        "friends_count": 120,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19781543,
+        "id_str": "19781543",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 43,
+        "location": "New Braunfels, TX",
+        "name": "Luke Macias",
+        "notifications": false,
+        "profile_background_color": "990100",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19781543/1563160889",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1150605914254299136/3ve-aKIV_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1150605914254299136/3ve-aKIV_normal.png",
+        "profile_link_color": "990100",
+        "profile_sidebar_border_color": "730507",
+        "profile_sidebar_fill_color": "FAF9EA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "lukemaciastx",
+        "statuses_count": 3410,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/7GlXk2YLjo",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1223700141384916994,
+    "quoted_status_id_str": "1223700141384916994",
+    "quoted_status_permalink": {
+      "display": "twitter.com/lukemaciastx/s\u2026",
+      "expanded": "https://twitter.com/lukemaciastx/status/1223700141384916994",
+      "url": "https://t.co/wUhTyaPWhJ"
+    },
+    "retweet_count": 2085,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tedcruz.org",
+              "expanded_url": "http://www.tedcruz.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dJ4Q3979gw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1424,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 3555941,
+      "following": false,
+      "friends_count": 6321,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12405,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 25692,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dJ4Q3979gw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

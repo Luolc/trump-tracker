@@ -1,0 +1,514 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 18 03:39:42 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          32,
+          36
+        ],
+        "text": "NIH"
+      },
+      {
+        "indices": [
+          49,
+          57
+        ],
+        "text": "COVID19"
+      },
+      {
+        "indices": [
+          118,
+          130
+        ],
+        "text": "coronavirus"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 124237063,
+        "id_str": "124237063",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Francis S. Collins",
+        "screen_name": "NIHDirector"
+      },
+      {
+        "id": 106895787,
+        "id_str": "106895787",
+        "indices": [
+          65,
+          74
+        ],
+        "name": "NLM",
+        "screen_name": "nlm_news"
+      },
+      {
+        "id": 835178526093488133,
+        "id_str": "835178526093488133",
+        "indices": [
+          91,
+          98
+        ],
+        "name": "White House OSTP",
+        "screen_name": "WHOSTP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NIHDirector: As part of the #NIH response to #COVID19, NIH\u2019s @nlm_news is working with @WHOSTP and others to make #coronavirus-related\u2026",
+  "geo": null,
+  "id": 1240120668043317250,
+  "id_str": "1240120668043317250",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1239633705041309696,
+  "quoted_status_id_str": "1239633705041309696",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WHOSTP/status/\u2026",
+    "expanded": "https://twitter.com/WHOSTP/status/1239633705041309696",
+    "url": "https://t.co/Vhn4wvjpDR"
+  },
+  "retweet_count": 1472,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 00:35:18 +0000 2020",
+    "display_text_range": [
+      0,
+      193
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            15,
+            19
+          ],
+          "text": "NIH"
+        },
+        {
+          "indices": [
+            32,
+            40
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            101,
+            113
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2WgPUzC",
+          "expanded_url": "https://bit.ly/2WgPUzC",
+          "indices": [
+            170,
+            193
+          ],
+          "url": "https://t.co/8w3oN7cK5Z"
+        },
+        {
+          "display_url": "twitter.com/WHOSTP/status/\u2026",
+          "expanded_url": "https://twitter.com/WHOSTP/status/1239633705041309696",
+          "indices": [
+            194,
+            217
+          ],
+          "url": "https://t.co/Vhn4wvjpDR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 106895787,
+          "id_str": "106895787",
+          "indices": [
+            48,
+            57
+          ],
+          "name": "NLM",
+          "screen_name": "nlm_news"
+        },
+        {
+          "id": 835178526093488133,
+          "id_str": "835178526093488133",
+          "indices": [
+            74,
+            81
+          ],
+          "name": "White House OSTP",
+          "screen_name": "WHOSTP"
+        }
+      ]
+    },
+    "favorite_count": 4649,
+    "favorited": false,
+    "full_text": "As part of the #NIH response to #COVID19, NIH\u2019s @nlm_news is working with @WHOSTP and others to make #coronavirus-related data available to the widest possible audience. https://t.co/8w3oN7cK5Z https://t.co/Vhn4wvjpDR",
+    "geo": null,
+    "id": 1239711877262766080,
+    "id_str": "1239711877262766080",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Mar 16 19:24:41 +0000 2020",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "whitehouse.gov/briefings-stat\u2026",
+            "expanded_url": "https://www.whitehouse.gov/briefings-statements/call-action-tech-community-new-machine-readable-covid-19-dataset/",
+            "indices": [
+              256,
+              279
+            ],
+            "url": "https://t.co/7iHDSBQM0C"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1191740721465905152,
+            "id_str": "1191740721465905152",
+            "indices": [
+              7,
+              13
+            ],
+            "name": "Michael Kratsios",
+            "screen_name": "USCTO"
+          },
+          {
+            "id": 3442793834,
+            "id_str": "3442793834",
+            "indices": [
+              29,
+              38
+            ],
+            "name": "Allen Institute for AI",
+            "screen_name": "allen_ai"
+          },
+          {
+            "id": 824677949924192258,
+            "id_str": "824677949924192258",
+            "indices": [
+              40,
+              55
+            ],
+            "name": "Chan Zuckerberg Initiative",
+            "screen_name": "ChanZuckerberg"
+          },
+          {
+            "id": 1124414849331662850,
+            "id_str": "1124414849331662850",
+            "indices": [
+              57,
+              72
+            ],
+            "name": "Center for Security and Emerging Technology",
+            "screen_name": "CSETGeorgetown"
+          },
+          {
+            "id": 74286565,
+            "id_str": "74286565",
+            "indices": [
+              74,
+              84
+            ],
+            "name": "Microsoft",
+            "screen_name": "Microsoft"
+          },
+          {
+            "id": 106895787,
+            "id_str": "106895787",
+            "indices": [
+              86,
+              95
+            ],
+            "name": "NLM",
+            "screen_name": "nlm_news"
+          },
+          {
+            "id": 80422885,
+            "id_str": "80422885",
+            "indices": [
+              103,
+              110
+            ],
+            "name": "Kaggle",
+            "screen_name": "kaggle"
+          }
+        ]
+      },
+      "favorite_count": 735,
+      "favorited": false,
+      "full_text": "Today, @USCTO announced with @allen_ai, @chanzuckerberg, @CSETgeorgetown, @microsoft, @nlm_news, &amp; @kaggle the most extensive machine-readable dataset of coronavirus scholarly literature to date.\n \nWe issue a call to action to the Nation's AI experts. https://t.co/7iHDSBQM0C",
+      "geo": null,
+      "id": 1239633705041309696,
+      "id_str": "1239633705041309696",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 349,
+      "retweeted": false,
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 24 17:24:12 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Office of Science and Technology Policy | Tweets may be archived: https://t.co/ALEV9E9onn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "WH.gov/privacy",
+                "expanded_url": "http://WH.gov/privacy",
+                "indices": [
+                  66,
+                  89
+                ],
+                "url": "https://t.co/ALEV9E9onn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/ostp",
+                "expanded_url": "http://whitehouse.gov/ostp",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/slVy2pWDry"
+              }
+            ]
+          }
+        },
+        "favourites_count": 206,
+        "follow_request_sent": false,
+        "followers_count": 10978,
+        "following": false,
+        "friends_count": 226,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 835178526093488133,
+        "id_str": "835178526093488133",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 199,
+        "location": "Washington, DC",
+        "name": "White House OSTP",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/835178526093488133/1581030161",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/837732330387079169/WuG6nPUg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/837732330387079169/WuG6nPUg_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WHOSTP",
+        "statuses_count": 1139,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/slVy2pWDry",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1239633705041309696,
+    "quoted_status_id_str": "1239633705041309696",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WHOSTP/status/\u2026",
+      "expanded": "https://twitter.com/WHOSTP/status/1239633705041309696",
+      "url": "https://t.co/Vhn4wvjpDR"
+    },
+    "retweet_count": 1472,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 18 18:32:15 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of Francis S. Collins, M.D., Ph.D., NIH Director.  NIH\u2026Turning Discovery Into Health \u00ae. Privacy Policy: https://t.co/QTI46zY00q",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2jQa5Rk",
+              "expanded_url": "http://bit.ly/2jQa5Rk",
+              "indices": [
+                129,
+                152
+              ],
+              "url": "https://t.co/QTI46zY00q"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nih.gov/about/director/",
+              "expanded_url": "http://www.nih.gov/about/director/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/chM4AXez5s"
+            }
+          ]
+        }
+      },
+      "favourites_count": 113,
+      "follow_request_sent": false,
+      "followers_count": 122976,
+      "following": false,
+      "friends_count": 127,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 124237063,
+      "id_str": "124237063",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1945,
+      "location": "Bethesda, Maryland, USA",
+      "name": "Francis S. Collins",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/124237063/1354810851",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2590532094/jtzrhzqy12ffo09ln2z8_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2590532094/jtzrhzqy12ffo09ln2z8_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NIHDirector",
+      "statuses_count": 3153,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/chM4AXez5s",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74284645,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49890,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

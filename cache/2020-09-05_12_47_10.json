@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Sep 05 12:47:10 +0000 2020",
+  "display_text_range": [
+    0,
+    13
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/stillgray/stat\u2026",
+        "expanded_url": "https://twitter.com/stillgray/status/1301165741509545986",
+        "indices": [
+          14,
+          37
+        ],
+        "url": "https://t.co/7Z2wxA6K13"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 40226,
+  "favorited": false,
+  "full_text": "Not any more! https://t.co/7Z2wxA6K13",
+  "geo": null,
+  "id": 1302226767655174144,
+  "id_str": "1302226767655174144",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 02 14:31:01 +0000 2020",
+    "display_text_range": [
+      0,
+      184
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3DCunberU1",
+          "expanded_url": "https://twitter.com/realchrisrufo/status/1300984639108968449/video/1",
+          "id": 1300984031077527554,
+          "id_str": "1300984031077527554",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1300984031077527554/img/qncVj7JM9renjj7_.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300984031077527554/img/qncVj7JM9renjj7_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1088
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1088
+            },
+            "small": {
+              "h": 450,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1300984639108968449,
+          "source_status_id_str": "1300984639108968449",
+          "source_user_id": 3066800573,
+          "source_user_id_str": "3066800573",
+          "type": "photo",
+          "url": "https://t.co/3DCunberU1"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue Mar 03 02:27:17 +0000 2015",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Director, @DiscoveryCWPM \u2022 Contributing editor, @CityJournal \u2022 Visiting fellow, @Heritage \u2022 Watch my new film for free: https://t.co/9MUHqHSWxD.",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "americalostfilm.com/premiere",
+                      "expanded_url": "http://americalostfilm.com/premiere",
+                      "indices": [
+                        120,
+                        143
+                      ],
+                      "url": "https://t.co/9MUHqHSWxD"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "christopherrufo.com/support",
+                      "expanded_url": "http://christopherrufo.com/support",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/iUf3W7bEyz"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 9793,
+              "follow_request_sent": false,
+              "followers_count": 65679,
+              "following": false,
+              "friends_count": 774,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 3066800573,
+              "id_str": "3066800573",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 440,
+              "location": "Pacific Northwest ",
+              "name": "Christopher F. Rufo",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3066800573/1597715967",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1300578768038191104/NO4B1jUb_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300578768038191104/NO4B1jUb_normal.jpg",
+              "profile_link_color": "875651",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "realchrisrufo",
+              "statuses_count": 3082,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/iUf3W7bEyz",
+              "utc_offset": null,
+              "verified": false
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/3DCunberU1",
+          "expanded_url": "https://twitter.com/realchrisrufo/status/1300984639108968449/video/1",
+          "id": 1300984031077527554,
+          "id_str": "1300984031077527554",
+          "indices": [
+            161,
+            184
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1300984031077527554/img/qncVj7JM9renjj7_.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1300984031077527554/img/qncVj7JM9renjj7_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1088
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1088
+            },
+            "small": {
+              "h": 450,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1300984639108968449,
+          "source_status_id_str": "1300984639108968449",
+          "source_user_id": 3066800573,
+          "source_user_id_str": "3066800573",
+          "type": "video",
+          "url": "https://t.co/3DCunberU1",
+          "video_info": {
+            "aspect_ratio": [
+              68,
+              45
+            ],
+            "duration_millis": 378200,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1300984031077527554/pl/vWPgPVbYwvCRrnO8.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1300984031077527554/vid/544x360/cY2SF78-T_qzNHyD.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1300984031077527554/vid/408x270/bvzDE0VGhZNzQnCb.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1300984031077527554/vid/1088x720/7yQnWMF26wD3npcc.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4662,
+    "favorited": false,
+    "full_text": "Critical race theory is the greatest threat to western civilization and it\u2019s made its way into the US federal government, the military, and the justice system.  https://t.co/3DCunberU1",
+    "geo": null,
+    "id": 1301165741509545986,
+    "id_str": "1301165741509545986",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2149,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 03 01:44:04 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Remember David Dorn.\n\nManaging Editor of @HumanEvents \nYT: https://t.co/iin0Tb6Spj\nIG: https://t.co/0Cv3rnfUJm",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "youtube.com/hypebreak",
+              "expanded_url": "http://youtube.com/hypebreak",
+              "indices": [
+                59,
+                82
+              ],
+              "url": "https://t.co/iin0Tb6Spj"
+            },
+            {
+              "display_url": "instagram.com/stillgray",
+              "expanded_url": "http://instagram.com/stillgray",
+              "indices": [
+                87,
+                110
+              ],
+              "url": "https://t.co/0Cv3rnfUJm"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "humanevents.com",
+              "expanded_url": "https://www.humanevents.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CgTokdj1Sn"
+            }
+          ]
+        }
+      },
+      "favourites_count": 142857,
+      "follow_request_sent": false,
+      "followers_count": 239954,
+      "following": false,
+      "friends_count": 1737,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 16106584,
+      "id_str": "16106584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1974,
+      "location": "",
+      "name": "Ian Miles Cheong",
+      "notifications": false,
+      "profile_background_color": "1B1926",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1591392104",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1259781578428841984/AZzuBdC__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259781578428841984/AZzuBdC__normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E8DBC1",
+      "profile_text_color": "395E85",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "stillgray",
+      "statuses_count": 305585,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CgTokdj1Sn",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1301165741509545986,
+  "quoted_status_id_str": "1301165741509545986",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stillgray/stat\u2026",
+    "expanded": "https://twitter.com/stillgray/status/1301165741509545986",
+    "url": "https://t.co/7Z2wxA6K13"
+  },
+  "retweet_count": 12158,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85764251,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119088,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55409,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

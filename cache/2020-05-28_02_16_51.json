@@ -1,0 +1,359 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu May 28 02:16:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20394822,
+        "id_str": "20394822",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Mike Davis",
+        "screen_name": "mrddmia"
+      },
+      {
+        "id": 2868353169,
+        "id_str": "2868353169",
+        "indices": [
+          53,
+          69
+        ],
+        "name": "Mark Brnovich",
+        "screen_name": "GeneralBrnovich"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mrddmia: Cheers to the Arizona Attorney General (@GeneralBrnovich) for stepping up and protecting Arizonans from trillion-dollar monopo\u2026",
+  "geo": null,
+  "id": 1265829357127446534,
+  "id_str": "1265829357127446534",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1265767410470211584,
+  "quoted_status_id_str": "1265767410470211584",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tonyromm/statu\u2026",
+    "expanded": "https://twitter.com/tonyromm/status/1265767410470211584",
+    "url": "https://t.co/QmtXbuOhS5"
+  },
+  "retweet_count": 5779,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 27 22:59:47 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/tonyromm/statu\u2026",
+          "expanded_url": "https://twitter.com/tonyromm/status/1265767410470211584",
+          "indices": [
+            281,
+            304
+          ],
+          "url": "https://t.co/QmtXbuOhS5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2868353169,
+          "id_str": "2868353169",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Mark Brnovich",
+          "screen_name": "GeneralBrnovich"
+        },
+        {
+          "id": 20536157,
+          "id_str": "20536157",
+          "indices": [
+            131,
+            138
+          ],
+          "name": "Google",
+          "screen_name": "Google"
+        }
+      ]
+    },
+    "favorite_count": 16735,
+    "favorited": false,
+    "full_text": "Cheers to the Arizona Attorney General (@GeneralBrnovich) for stepping up and protecting Arizonans from trillion-dollar monopolist @Google\u2019s rampant privacy violations.\n\nWith so many DC Swamp Creatures captured by Big Tech, our state AGs \u2014 on a bipartisan basis \u2014 are stepping up. https://t.co/QmtXbuOhS5",
+    "geo": null,
+    "id": 1265779762414235648,
+    "id_str": "1265779762414235648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed May 27 22:10:42 +0000 2020",
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "washingtonpost.com/technology/202\u2026",
+            "expanded_url": "https://www.washingtonpost.com/technology/2020/05/27/google-android-privacy-lawsuit/",
+            "indices": [
+              249,
+              272
+            ],
+            "url": "https://t.co/NvmtGtkuDA"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 3149,
+      "favorited": false,
+      "full_text": "SCOOP: Arizona sues Google, alleging it violated privacy and improperly tracked location data even when users had turned off the setting. Attorney General Brnovich says Google relied on \"misleading ways to obtain information and use it for profit\"\n\nhttps://t.co/NvmtGtkuDA",
+      "geo": null,
+      "id": 1265767410470211584,
+      "id_str": "1265767410470211584",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1964,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 30 07:00:03 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Senior tech policy reporter @washingtonpost. Contributor @msnbc. Unapologetic Philly stan. tony.romm[at]washpost/protonmail dot com. DM for Signal",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "washingtonpost.com/people/tony-ro\u2026",
+                "expanded_url": "https://www.washingtonpost.com/people/tony-romm/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/Tnv7LvB7My"
+              }
+            ]
+          }
+        },
+        "favourites_count": 23014,
+        "follow_request_sent": false,
+        "followers_count": 26980,
+        "following": false,
+        "friends_count": 5188,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 14597239,
+        "id_str": "14597239",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1304,
+        "location": "Washington, DC",
+        "name": "Tony Romm",
+        "notifications": false,
+        "profile_background_color": "9C999E",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14597239/1366659393",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1204053227454513154/xTa5rdim_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1204053227454513154/xTa5rdim_normal.jpg",
+        "profile_link_color": "C435CC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TonyRomm",
+        "statuses_count": 2220,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/Tnv7LvB7My",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1265767410470211584,
+    "quoted_status_id_str": "1265767410470211584",
+    "quoted_status_permalink": {
+      "display": "twitter.com/tonyromm/statu\u2026",
+      "expanded": "https://twitter.com/tonyromm/status/1265767410470211584",
+      "url": "https://t.co/QmtXbuOhS5"
+    },
+    "retweet_count": 5779,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 08 21:37:33 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@Article3Project (A3P) & @The_IAP; Fmr. Chief Counsel for Nominations to @senjudiciary Chairman @ChuckGrassley; Fmr. Law Clerk to Justice Gorsuch (@GorsuchBook)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "article3project.org",
+              "expanded_url": "http://www.article3project.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dr0MO8MNFQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 27562,
+      "follow_request_sent": false,
+      "followers_count": 16867,
+      "following": false,
+      "friends_count": 15690,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 20394822,
+      "id_str": "20394822",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 108,
+      "location": "Washington, DC",
+      "name": "Mike Davis",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149386244465541120/hE1zcaeo_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149386244465541120/hE1zcaeo_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "mrddmia",
+      "statuses_count": 8500,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dr0MO8MNFQ",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80404735,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113805,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52110,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

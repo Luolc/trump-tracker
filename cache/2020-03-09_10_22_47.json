@@ -1,0 +1,479 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 09 10:22:47 +0000 2020",
+  "display_text_range": [
+    0,
+    82
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          68,
+          76
+        ],
+        "text": "KAG2020"
+      },
+      {
+        "indices": [
+          77,
+          82
+        ],
+        "text": "MAGA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25101996,
+        "id_str": "25101996",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Kimberly Guilfoyle",
+        "screen_name": "kimguilfoyle"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          49,
+          65
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @kimguilfoyle: Best President ever! Thank you @realDonaldTrump \ud83c\uddfa\ud83c\uddf8#KAG2020 #MAGA",
+  "geo": null,
+  "id": 1236960618177069056,
+  "id_str": "1236960618177069056",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1219439427488866305,
+  "quoted_status_id_str": "1219439427488866305",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/1219439427488866305",
+    "url": "https://t.co/dlDBgYDsgO"
+  },
+  "retweet_count": 8813,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 21 13:29:39 +0000 2020",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            50,
+            58
+          ],
+          "text": "KAG2020"
+        },
+        {
+          "indices": [
+            59,
+            64
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1219439427488866305",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/dlDBgYDsgO"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            31,
+            47
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 26564,
+    "favorited": false,
+    "full_text": "Best President ever! Thank you @realDonaldTrump \ud83c\uddfa\ud83c\uddf8#KAG2020 #MAGA https://t.co/dlDBgYDsgO",
+    "geo": null,
+    "id": 1219613027877691392,
+    "id_str": "1219613027877691392",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jan 21 01:59:50 +0000 2020",
+      "display_text_range": [
+        0,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YBMOBurdHQ",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1219439427488866305/video/1",
+            "id": 1219438761995456512,
+            "id_str": "1219438761995456512",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219438761995456512/pu/img/vjzedzXqT3VI9UVW.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219438761995456512/pu/img/vjzedzXqT3VI9UVW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/YBMOBurdHQ"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/YBMOBurdHQ",
+            "expanded_url": "https://twitter.com/realDonaldTrump/status/1219439427488866305/video/1",
+            "id": 1219438761995456512,
+            "id_str": "1219438761995456512",
+            "indices": [
+              25,
+              48
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1219438761995456512/pu/img/vjzedzXqT3VI9UVW.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1219438761995456512/pu/img/vjzedzXqT3VI9UVW.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/YBMOBurdHQ",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 84842,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1219438761995456512/pu/vid/480x270/2f2rwxfvDGFSrjRi.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1219438761995456512/pu/pl/zr8iH3VAiSLtJ3fk.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1219438761995456512/pu/vid/1280x720/3KwQQ9YptX9fEsLJ.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1219438761995456512/pu/vid/640x360/zlixjPIwdCIKylX2.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 136640,
+      "favorited": false,
+      "full_text": "THE BEST IS YET TO COME! https://t.co/YBMOBurdHQ",
+      "geo": null,
+      "id": 1219439427488866305,
+      "id_str": "1219439427488866305",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 42836,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 73848461,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 116259,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 49770,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1219439427488866305,
+    "quoted_status_id_str": "1219439427488866305",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/1219439427488866305",
+      "url": "https://t.co/dlDBgYDsgO"
+    },
+    "retweet_count": 8813,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 16:33:40 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mother, Sister, Patriot, Proud American. National Chair of Trump Victory Finance Committee 2020 and Senior Advisor to @TeamTrump \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "http://donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/O5S0tGtvtj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11189,
+      "follow_request_sent": false,
+      "followers_count": 1676464,
+      "following": false,
+      "friends_count": 2833,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 25101996,
+      "id_str": "25101996",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5103,
+      "location": "New York",
+      "name": "Kimberly Guilfoyle",
+      "notifications": false,
+      "profile_background_color": "0D2331",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25101996/1546550656",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1123034914297909250/wqsqJZhW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1123034914297909250/wqsqJZhW_normal.jpg",
+      "profile_link_color": "CB0036",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "kimguilfoyle",
+      "statuses_count": 7791,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/O5S0tGtvtj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73848461,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 00:34:28 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 35039490,
+        "id_str": "35039490",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Mark Dice",
+        "screen_name": "MarkDice"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MarkDice: This is why Trump is sending in Federal troops \u2014 this is a Federal Court House the state of Oregon is refusing to protect in\u2026",
+  "geo": null,
+  "id": 1287546865823682563,
+  "id_str": "1287546865823682563",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8499,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 26 18:34:02 +0000 2020",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FpPqW5oNoD",
+          "expanded_url": "https://twitter.com/livesmattershow/status/1287300892258000898/video/1",
+          "id": 1287300755326513153,
+          "id_str": "1287300755326513153",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1287300892258000898,
+          "source_status_id_str": "1287300892258000898",
+          "source_user_id": 1022693675250249729,
+          "source_user_id_str": "1022693675250249729",
+          "type": "photo",
+          "url": "https://t.co/FpPqW5oNoD"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Jul 27 04:02:27 +0000 2018",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Host, Reporter, Producer of the hit web show \u201cLives Matter\u201c \u2022 Subscribe now\ud83d\udc47\ud83c\udffb",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/livesmatter",
+                      "expanded_url": "http://youtube.com/livesmatter",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/G62puSzwnd"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 19,
+              "follow_request_sent": false,
+              "followers_count": 21827,
+              "following": false,
+              "friends_count": 86,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 1022693675250249729,
+              "id_str": "1022693675250249729",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 94,
+              "location": "Los Angeles, CA",
+              "name": "Drew Hernandez",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022693675250249729/1573030185",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "livesmattershow",
+              "statuses_count": 590,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/G62puSzwnd",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/FpPqW5oNoD",
+          "expanded_url": "https://twitter.com/livesmattershow/status/1287300892258000898/video/1",
+          "id": 1287300755326513153,
+          "id_str": "1287300755326513153",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1287300755326513153/pu/img/TzDDRLAZvYS4495j.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1287300892258000898,
+          "source_status_id_str": "1287300892258000898",
+          "source_user_id": 1022693675250249729,
+          "source_user_id_str": "1022693675250249729",
+          "type": "video",
+          "url": "https://t.co/FpPqW5oNoD",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 37535,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/480x270/3LK-SSYTXWpihJq5.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/640x360/j2I_jyUXiPOI8puL.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/vid/1280x720/UsLnrFE861VR6sPn.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1287300755326513153/pu/pl/GmvtgfFqF_Drk6UX.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20108,
+    "favorited": false,
+    "full_text": "This is why Trump is sending in Federal troops \u2014 this is a Federal Court House the state of Oregon is refusing to protect in Portland. https://t.co/FpPqW5oNoD",
+    "geo": null,
+    "id": 1287456159507464192,
+    "id_str": "1287456159507464192",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8499,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Apr 24 21:02:52 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Media Analyst. Bestselling author of \"The Liberal Media Industrial Complex.\"  Check out my YouTube channel (link below) & I'll see ya there!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "YouTube.com/MarkDice",
+              "expanded_url": "http://YouTube.com/MarkDice",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jCpbNU2RAc"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23445,
+      "follow_request_sent": false,
+      "followers_count": 674945,
+      "following": false,
+      "friends_count": 346,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 35039490,
+      "id_str": "35039490",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3205,
+      "location": "MAGA Country",
+      "name": "Mark Dice",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/35039490/1541232536",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1270615393086763010/sx7mm3Ei_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270615393086763010/sx7mm3Ei_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MarkDice",
+      "statuses_count": 6915,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/jCpbNU2RAc",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

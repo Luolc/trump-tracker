@@ -1,0 +1,299 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 08 20:22:21 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "dlvr.it/RnDX1c",
+        "expanded_url": "http://dlvr.it/RnDX1c",
+        "indices": [
+          103,
+          126
+        ],
+        "url": "https://t.co/02NMyVWcO9"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 4081106480,
+        "id_str": "4081106480",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "The Daily Wire",
+        "screen_name": "realDailyWire"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDailyWire: BREAKING: Texas Files Lawsuit Against 4 States At Supreme Court Over Election Rules https://t.co/02NMyVWcO9 https://t.co\u2026",
+  "geo": null,
+  "id": 1336405778723467265,
+  "id_str": "1336405778723467265",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7296,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Dec 08 14:39:03 +0000 2020",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bPkYgaRda1",
+          "expanded_url": "https://twitter.com/realDailyWire/status/1336319382843080704/photo/1",
+          "id": 1336319380838182913,
+          "id_str": "1336319380838182913",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EouPZZFUcAEXaAY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EouPZZFUcAEXaAY.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bPkYgaRda1"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "dlvr.it/RnDX1c",
+          "expanded_url": "http://dlvr.it/RnDX1c",
+          "indices": [
+            84,
+            107
+          ],
+          "url": "https://t.co/02NMyVWcO9"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bPkYgaRda1",
+          "expanded_url": "https://twitter.com/realDailyWire/status/1336319382843080704/photo/1",
+          "id": 1336319380838182913,
+          "id_str": "1336319380838182913",
+          "indices": [
+            108,
+            131
+          ],
+          "media_url": "http://pbs.twimg.com/media/EouPZZFUcAEXaAY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EouPZZFUcAEXaAY.jpg",
+          "sizes": {
+            "large": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bPkYgaRda1"
+        }
+      ]
+    },
+    "favorite_count": 45893,
+    "favorited": false,
+    "full_text": "BREAKING: Texas Files Lawsuit Against 4 States At Supreme Court Over Election Rules https://t.co/02NMyVWcO9 https://t.co/bPkYgaRda1",
+    "geo": null,
+    "id": 1336319382843080704,
+    "id_str": "1336319382843080704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7296,
+    "retweeted": false,
+    "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Oct 31 15:42:25 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter feed of The Daily Wire. Support@DailyWire.com for assistance.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "utm.io/uscm",
+              "expanded_url": "https://utm.io/uscm",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/U0hWl3dzjQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10731,
+      "follow_request_sent": false,
+      "followers_count": 560754,
+      "following": false,
+      "friends_count": 3411,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 4081106480,
+      "id_str": "4081106480",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2647,
+      "location": "Nashville, USA",
+      "name": "The Daily Wire",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4081106480/1583050444",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1050885601778528256/MyEPKgfM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050885601778528256/MyEPKgfM_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDailyWire",
+      "statuses_count": 131651,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/U0hWl3dzjQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88686972,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125757,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59060,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

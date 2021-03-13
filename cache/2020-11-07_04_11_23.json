@@ -1,0 +1,405 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 07 04:11:23 +0000 2020",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Jim_Jordan: First win for election integrity!",
+  "geo": null,
+  "id": 1324927403811024896,
+  "id_str": "1324927403811024896",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1324875631453212678,
+  "quoted_status_id_str": "1324875631453212678",
+  "quoted_status_permalink": {
+    "display": "twitter.com/KimberlyRobins\u2026",
+    "expanded": "https://twitter.com/KimberlyRobinsn/status/1324875631453212678",
+    "url": "https://t.co/4ounIrcG2y"
+  },
+  "retweet_count": 32421,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 07 01:11:58 +0000 2020",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/KimberlyRobins\u2026",
+          "expanded_url": "https://twitter.com/KimberlyRobinsn/status/1324875631453212678",
+          "indices": [
+            34,
+            57
+          ],
+          "url": "https://t.co/4ounIrcG2y"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 127685,
+    "favorited": false,
+    "full_text": "First win for election integrity! https://t.co/4ounIrcG2y",
+    "geo": null,
+    "id": 1324882249997758464,
+    "id_str": "1324882249997758464",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Nov 07 00:45:40 +0000 2020",
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              7
+            ],
+            "text": "SCOTUS"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ias570QMbf",
+            "expanded_url": "https://twitter.com/KimberlyRobinsn/status/1324875631453212678/photo/1",
+            "id": 1324875625291784193,
+            "id_str": "1324875625291784193",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmLnXJkXIAEdJGm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmLnXJkXIAEdJGm.jpg",
+            "sizes": {
+              "large": {
+                "h": 1178,
+                "resize": "fit",
+                "w": 749
+              },
+              "medium": {
+                "h": 1178,
+                "resize": "fit",
+                "w": 749
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 432
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ias570QMbf"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Ias570QMbf",
+            "expanded_url": "https://twitter.com/KimberlyRobinsn/status/1324875631453212678/photo/1",
+            "id": 1324875625291784193,
+            "id_str": "1324875625291784193",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmLnXJkXIAEdJGm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmLnXJkXIAEdJGm.jpg",
+            "sizes": {
+              "large": {
+                "h": 1178,
+                "resize": "fit",
+                "w": 749
+              },
+              "medium": {
+                "h": 1178,
+                "resize": "fit",
+                "w": 749
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 432
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Ias570QMbf"
+          }
+        ]
+      },
+      "favorite_count": 12520,
+      "favorited": false,
+      "full_text": "#SCOTUS orders county boards in Pennsylvania to segregate mail-in ballots received after 8 pm on Election Day. https://t.co/Ias570QMbf",
+      "geo": null,
+      "id": 1324875631453212678,
+      "id_str": "1324875631453212678",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5110,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Oct 26 20:32:46 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Supreme Court reporter for @blaw. Mom, runner... nerd. RT \u2260 endorsement. Co-host of #CasesPod. #SCOTUS",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "podcasts.apple.com/us/podcast/cas\u2026",
+                "expanded_url": "https://podcasts.apple.com/us/podcast/cases-and-controversies/id1142321960",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/fb0IEQGmGA"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5978,
+        "follow_request_sent": false,
+        "followers_count": 21314,
+        "following": false,
+        "friends_count": 578,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 906734342,
+        "id_str": "906734342",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 572,
+        "location": "Washington DC",
+        "name": "Kimberly Robinson",
+        "notifications": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/906734342/1404239341",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1202001946791612416/UhPn--0H_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202001946791612416/UhPn--0H_normal.jpg",
+        "profile_link_color": "89C9FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KimberlyRobinsn",
+        "statuses_count": 16109,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/fb0IEQGmGA",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1324875631453212678,
+    "quoted_status_id_str": "1324875631453212678",
+    "quoted_status_permalink": {
+      "display": "twitter.com/KimberlyRobins\u2026",
+      "expanded": "https://twitter.com/KimberlyRobinsn/status/1324875631453212678",
+      "url": "https://t.co/4ounIrcG2y"
+    },
+    "retweet_count": 32421,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proudly serving Ohio's beautiful Fourth District. Ranking Member on @JudiciaryGOP. Fighting to #DoWhatWeSaid",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jordan.house.gov",
+              "expanded_url": "http://jordan.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wd2j7YpRZm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2413,
+      "follow_request_sent": false,
+      "followers_count": 1837125,
+      "following": false,
+      "friends_count": 4002,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18166778,
+      "id_str": "18166778",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6141,
+      "location": "Washington, D.C. ",
+      "name": "Rep. Jim Jordan",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_link_color": "4F90DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BA0D1F",
+      "profile_text_color": "01050D",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Jim_Jordan",
+      "statuses_count": 4523,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wd2j7YpRZm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88929070,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124548,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58233,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

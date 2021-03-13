@@ -1,0 +1,377 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 14 11:35:13 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          113,
+          125
+        ],
+        "text": "PhonyKamala"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 76438819,
+        "id_str": "76438819",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Deneen Borelli",
+        "screen_name": "deneenborelli"
+      },
+      {
+        "id": 30354991,
+        "id_str": "30354991",
+        "indices": [
+          48,
+          61
+        ],
+        "name": "Kamala Harris",
+        "screen_name": "KamalaHarris"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @deneenborelli: Seriously? You are shameless @KamalaHarris clearly you will do anything for power. Roll tape. #PhonyKamala #HypocriteHar\u2026",
+  "geo": null,
+  "id": 1294236127164014592,
+  "id_str": "1294236127164014592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3369,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 13 01:11:44 +0000 2020",
+    "display_text_range": [
+      0,
+      178
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            94,
+            106
+          ],
+          "text": "PhonyKamala"
+        },
+        {
+          "indices": [
+            107,
+            123
+          ],
+          "text": "HypocriteHarris"
+        },
+        {
+          "indices": [
+            124,
+            140
+          ],
+          "text": "NoBidenNoHarris"
+        },
+        {
+          "indices": [
+            158,
+            178
+          ],
+          "text": "BlackVoicesforTrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DmvjJvHreC",
+          "expanded_url": "https://twitter.com/deneenborelli/status/1293716837956497410/video/1",
+          "id": 1293716790372073472,
+          "id_str": "1293716790372073472",
+          "indices": [
+            179,
+            202
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293716790372073472/pu/img/dLtdi5KHxT2Iwnou.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293716790372073472/pu/img/dLtdi5KHxT2Iwnou.jpg",
+          "sizes": {
+            "large": {
+              "h": 618,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 618,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 389,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DmvjJvHreC"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 30354991,
+          "id_str": "30354991",
+          "indices": [
+            29,
+            42
+          ],
+          "name": "Kamala Harris",
+          "screen_name": "KamalaHarris"
+        },
+        {
+          "id": 1218623947434024960,
+          "id_str": "1218623947434024960",
+          "indices": [
+            141,
+            157
+          ],
+          "name": "Black Voices for Trump",
+          "screen_name": "BlackVoices4DJT"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/DmvjJvHreC",
+          "expanded_url": "https://twitter.com/deneenborelli/status/1293716837956497410/video/1",
+          "id": 1293716790372073472,
+          "id_str": "1293716790372073472",
+          "indices": [
+            179,
+            202
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1293716790372073472/pu/img/dLtdi5KHxT2Iwnou.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1293716790372073472/pu/img/dLtdi5KHxT2Iwnou.jpg",
+          "sizes": {
+            "large": {
+              "h": 618,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 618,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 389,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/DmvjJvHreC",
+          "video_info": {
+            "aspect_ratio": [
+              180,
+              103
+            ],
+            "duration_millis": 21328,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1293716790372073472/pu/vid/470x270/YjSQtFht3cRwE5nl.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1293716790372073472/pu/pl/uiw4VnAS-Qh-3jwf.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1293716790372073472/pu/vid/628x360/q_BFjqYQy_K-HA7i.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1293716790372073472/pu/vid/1080x618/edvDWohpJIXssB8D.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6655,
+    "favorited": false,
+    "full_text": "Seriously? You are shameless @KamalaHarris clearly you will do anything for power. Roll tape. #PhonyKamala #HypocriteHarris #NoBidenNoHarris @BlackVoices4DJT #BlackVoicesforTrump https://t.co/DmvjJvHreC",
+    "geo": null,
+    "id": 1293716837956497410,
+    "id_str": "1293716837956497410",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3369,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Sep 22 20:23:27 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Author of Blacklash, Fox News Contributor, @clouthub Exec Advisor. Always been Proud of my Country. RTs \u2260 endorsements.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "deneenborelli.com",
+              "expanded_url": "http://www.deneenborelli.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BBrzJDzWYt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 44324,
+      "follow_request_sent": false,
+      "followers_count": 130005,
+      "following": false,
+      "friends_count": 3229,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 76438819,
+      "id_str": "76438819",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1041,
+      "location": "New York",
+      "name": "Deneen Borelli",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/76438819/1438532345",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/453713945900376064/79zv8bPr_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/453713945900376064/79zv8bPr_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "deneenborelli",
+      "statuses_count": 91177,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BBrzJDzWYt",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85146932,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118051,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54515,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

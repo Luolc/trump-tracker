@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 25 00:46:57 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 232901331,
+        "id_str": "232901331",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Dan Bongino",
+        "screen_name": "dbongino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dbongino: THIS \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb",
+  "geo": null,
+  "id": 1320164913910788099,
+  "id_str": "1320164913910788099",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1320143959671382016,
+  "quoted_status_id_str": "1320143959671382016",
+  "quoted_status_permalink": {
+    "display": "twitter.com/elilake/status\u2026",
+    "expanded": "https://twitter.com/elilake/status/1320143959671382016",
+    "url": "https://t.co/PDpc4WzpeV"
+  },
+  "retweet_count": 11159,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 00:37:24 +0000 2020",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/elilake/status\u2026",
+          "expanded_url": "https://twitter.com/elilake/status/1320143959671382016",
+          "indices": [
+            10,
+            33
+          ],
+          "url": "https://t.co/PDpc4WzpeV"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 46478,
+    "favorited": false,
+    "full_text": "THIS \ud83d\udc47\ud83c\udffb\ud83d\udc47\ud83c\udffb https://t.co/PDpc4WzpeV",
+    "geo": null,
+    "id": 1320162510474006529,
+    "id_str": "1320162510474006529",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 24 23:23:41 +0000 2020",
+      "display_text_range": [
+        0,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 17469289,
+            "id_str": "17469289",
+            "indices": [
+              21,
+              28
+            ],
+            "name": "New York Post",
+            "screen_name": "nypost"
+          }
+        ]
+      },
+      "favorite_count": 27209,
+      "favorited": false,
+      "full_text": "It\u2019s an outrage that @nypost is still locked. And it\u2019s a disgrace that more journalists are not outraged by this.",
+      "geo": null,
+      "id": 1320143959671382016,
+      "id_str": "1320143959671382016",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 8679,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 22 19:32:29 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Columnist for @Bopinion. Washington",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bloomberg.com/opinion/author\u2026",
+                "expanded_url": "https://www.bloomberg.com/opinion/authors/ASD1bG3hdiI/eli-lake",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/lHbPQmqUL3"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4584,
+        "follow_request_sent": false,
+        "followers_count": 92947,
+        "following": false,
+        "friends_count": 5014,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 34371118,
+        "id_str": "34371118",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2291,
+        "location": "District of Columbia",
+        "name": "Eli Lake",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/593082000065503232/u2Yn5ftO_normal.png",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "EliLake",
+        "statuses_count": 50097,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/lHbPQmqUL3",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1320143959671382016,
+    "quoted_status_id_str": "1320143959671382016",
+    "quoted_status_permalink": {
+      "display": "twitter.com/elilake/status\u2026",
+      "expanded": "https://twitter.com/elilake/status/1320143959671382016",
+      "url": "https://t.co/PDpc4WzpeV"
+    },
+    "retweet_count": 11159,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 01 17:50:03 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Me",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bongino.com",
+              "expanded_url": "http://www.bongino.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eNhMvTGdKP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 62718,
+      "follow_request_sent": false,
+      "followers_count": 2576102,
+      "following": false,
+      "friends_count": 793,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 232901331,
+      "id_str": "232901331",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6591,
+      "location": "Florida, USA",
+      "name": "Dan Bongino",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232901331/1548899037",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1085298427662077952/G7pyO36A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "dbongino",
+      "statuses_count": 71380,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eNhMvTGdKP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 21 15:42:52 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 42700240,
+        "id_str": "42700240",
+        "indices": [
+          3,
+          9
+        ],
+        "name": "Radio Free Europe/Radio Liberty",
+        "screen_name": "RFERL"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RFERL: A week-long \"reduction in violence\" between the Taliban and U.S. and Afghan security forces will begin at midnight local time. h\u2026",
+  "geo": null,
+  "id": 1230880575013044224,
+  "id_str": "1230880575013044224",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3233,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 21 11:00:52 +0000 2020",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MbfEdbcO6I",
+          "expanded_url": "https://twitter.com/RFERL/status/1230809608995950592/photo/1",
+          "id": 1230809607368585216,
+          "id_str": "1230809607368585216",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERS20RlXsAAY7WJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERS20RlXsAAY7WJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MbfEdbcO6I"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "ow.ly/89rX50ysgkh",
+          "expanded_url": "http://ow.ly/89rX50ysgkh",
+          "indices": [
+            127,
+            150
+          ],
+          "url": "https://t.co/RIk8X6b1zJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MbfEdbcO6I",
+          "expanded_url": "https://twitter.com/RFERL/status/1230809608995950592/photo/1",
+          "id": 1230809607368585216,
+          "id_str": "1230809607368585216",
+          "indices": [
+            151,
+            174
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERS20RlXsAAY7WJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERS20RlXsAAY7WJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MbfEdbcO6I"
+        }
+      ]
+    },
+    "favorite_count": 10282,
+    "favorited": false,
+    "full_text": "A week-long \"reduction in violence\" between the Taliban and U.S. and Afghan security forces will begin at midnight local time. https://t.co/RIk8X6b1zJ https://t.co/MbfEdbcO6I",
+    "geo": null,
+    "id": 1230809608995950592,
+    "id_str": "1230809608995950592",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3233,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 26 19:37:23 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Radio Free Europe/Radio Liberty provides first-hand coverage from Russia, Ukraine, E. Europe, Balkans, Caucasus, AfPak & ME.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rferl.org",
+              "expanded_url": "http://www.rferl.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/EkR0M7Gctf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 219,
+      "follow_request_sent": false,
+      "followers_count": 89054,
+      "following": false,
+      "friends_count": 1040,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 42700240,
+      "id_str": "42700240",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2848,
+      "location": "Washington, Prague, & more",
+      "name": "Radio Free Europe/Radio Liberty",
+      "notifications": false,
+      "profile_background_color": "1B1B1B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/42700240/1574176235",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/378800000404369978/89d4049297491dd4c063cf071da47404_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000404369978/89d4049297491dd4c063cf071da47404_normal.png",
+      "profile_link_color": "EA6903",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RFERL",
+      "statuses_count": 72536,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/EkR0M7Gctf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72798320,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114977,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49221,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 08 19:13:57 +0000 2020",
+  "display_text_range": [
+    0,
+    118
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/mnwvdl/status/\u2026",
+        "expanded_url": "https://twitter.com/mnwvdl/status/1226120872135712768",
+        "indices": [
+          119,
+          142
+        ],
+        "url": "https://t.co/t8ptYMCYHf"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 127280,
+  "favorited": false,
+  "full_text": "More Fake News. This was photoshopped, obviously, but the wind was strong and the hair looks good? Anything to demean! https://t.co/t8ptYMCYHf",
+  "geo": null,
+  "id": 1226222654019035142,
+  "id_str": "1226222654019035142",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 08 12:29:30 +0000 2020",
+    "display_text_range": [
+      0,
+      89
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            32,
+            38
+          ],
+          "text": "trump"
+        },
+        {
+          "indices": [
+            63,
+            77
+          ],
+          "text": "toomuchmakeup"
+        },
+        {
+          "indices": [
+            78,
+            89
+          ],
+          "text": "orangeface"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VSLts6GPd4",
+          "expanded_url": "https://twitter.com/MNWvdL/status/1226120872135712768/photo/1",
+          "id": 1226120867681329153,
+          "id_str": "1226120867681329153",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQQObtHW4AEQT-T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQQObtHW4AEQT-T.jpg",
+          "sizes": {
+            "large": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VSLts6GPd4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            39,
+            45
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            46,
+            62
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VSLts6GPd4",
+          "expanded_url": "https://twitter.com/MNWvdL/status/1226120872135712768/photo/1",
+          "id": 1226120867681329153,
+          "id_str": "1226120867681329153",
+          "indices": [
+            90,
+            113
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQQObtHW4AEQT-T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQQObtHW4AEQT-T.jpg",
+          "sizes": {
+            "large": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 324,
+              "resize": "fit",
+              "w": 576
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VSLts6GPd4"
+        }
+      ]
+    },
+    "favorite_count": 14491,
+    "favorited": false,
+    "full_text": "OMG America, your president! \ud83c\uddfa\ud83c\uddf8 #trump @POTUS @realDonaldTrump #toomuchmakeup #orangeface https://t.co/VSLts6GPd4",
+    "geo": null,
+    "id": 1226120872135712768,
+    "id_str": "1226120872135712768",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2642,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Feb 20 23:00:11 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father, Friend, Surfer, Reader, Curious Person, Motorcycle Rider, DutchDane, World Citizen, European \ud83c\uddf3\ud83c\uddf1\ud83c\udde9\ud83c\uddf0\ud83c\uddea\ud83c\uddfaMy opinions ventilated are my own!",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 742,
+      "follow_request_sent": false,
+      "followers_count": 792,
+      "following": false,
+      "friends_count": 129,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 498331261,
+      "id_str": "498331261",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 32,
+      "location": "Europe",
+      "name": "Maarten vd Linden",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/498331261/1489749053",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/917510536010575872/WIWcvt6T_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/917510536010575872/WIWcvt6T_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MNWvdL",
+      "statuses_count": 2129,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1226120872135712768,
+  "quoted_status_id_str": "1226120872135712768",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mnwvdl/status/\u2026",
+    "expanded": "https://twitter.com/mnwvdl/status/1226120872135712768",
+    "url": "https://t.co/t8ptYMCYHf"
+  },
+  "retweet_count": 22630,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72334195,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48847,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

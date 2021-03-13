@@ -1,0 +1,494 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 03:49:28 +0000 2020",
+  "display_text_range": [
+    0,
+    105
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2853461537,
+        "id_str": "2853461537",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Scott Adams",
+        "screen_name": "ScottAdamsSays"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ScottAdamsSays: You might want to adjust your presidential bets after seeing this. I think it\u2019s over.",
+  "geo": null,
+  "id": 1289770262783619073,
+  "id_str": "1289770262783619073",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1289325807278514176,
+  "quoted_status_id_str": "1289325807278514176",
+  "quoted_status_permalink": {
+    "display": "twitter.com/autistlvsmatte\u2026",
+    "expanded": "https://twitter.com/autistlvsmatter/status/1289325807278514176",
+    "url": "https://t.co/1vcPYWcTnf"
+  },
+  "retweet_count": 7714,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 31 23:41:35 +0000 2020",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/autistlvsmatte\u2026",
+          "expanded_url": "https://twitter.com/autistlvsmatter/status/1289325807278514176",
+          "indices": [
+            86,
+            109
+          ],
+          "url": "https://t.co/1vcPYWcTnf"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20326,
+    "favorited": false,
+    "full_text": "You might want to adjust your presidential bets after seeing this. I think it\u2019s over. https://t.co/1vcPYWcTnf",
+    "geo": null,
+    "id": 1289345495102455808,
+    "id_str": "1289345495102455808",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 31 22:23:21 +0000 2020",
+      "display_text_range": [
+        0,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/omWMWHvrqb",
+            "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1289236481618219008/video/1",
+            "id": 1289235948631478272,
+            "id_str": "1289235948631478272",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289235948631478272/pu/img/z9k-uwqd-wmc2Hz5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289235948631478272/pu/img/z9k-uwqd-wmc2Hz5.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1289236481618219008,
+            "source_status_id_str": "1289236481618219008",
+            "source_user_id": 23232204,
+            "source_user_id_str": "23232204",
+            "type": "photo",
+            "url": "https://t.co/omWMWHvrqb"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Mar 07 20:42:24 +0000 2009",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "New York Times national political reporter, Ex-@NYTMetro @POLITICO, @NationalJournal and @latimes. SF Giants fan. shane.goldmacher@nytimes.com",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "nytimes.com",
+                        "expanded_url": "http://www.nytimes.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/UmqCI5AhUx"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 193,
+                "follow_request_sent": false,
+                "followers_count": 61505,
+                "following": false,
+                "friends_count": 3146,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 23232204,
+                "id_str": "23232204",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 1981,
+                "location": "New York, NY",
+                "name": "Shane Goldmacher",
+                "notifications": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/23232204/1499714939",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "ShaneGoldmacher",
+                "statuses_count": 55256,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/UmqCI5AhUx",
+                "utc_offset": null,
+                "verified": true
+              }
+            },
+            "display_url": "pic.twitter.com/omWMWHvrqb",
+            "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1289236481618219008/video/1",
+            "id": 1289235948631478272,
+            "id_str": "1289235948631478272",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289235948631478272/pu/img/z9k-uwqd-wmc2Hz5.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289235948631478272/pu/img/z9k-uwqd-wmc2Hz5.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1289236481618219008,
+            "source_status_id_str": "1289236481618219008",
+            "source_user_id": 23232204,
+            "source_user_id_str": "23232204",
+            "type": "video",
+            "url": "https://t.co/omWMWHvrqb",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 30030,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1289235948631478272/pu/pl/PGZEzFKIRCiTcIRF.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1289235948631478272/pu/vid/1280x720/372Rfi3jpspFdv6_.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1289235948631478272/pu/vid/640x360/cz-CHFG6M-ki2cqH.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1289235948631478272/pu/vid/480x270/2nfCnB38dhw7BYU2.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 6066,
+      "favorited": false,
+      "full_text": "This is amazing https://t.co/omWMWHvrqb",
+      "geo": null,
+      "id": 1289325807278514176,
+      "id_str": "1289325807278514176",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2772,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 02 18:36:18 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "I\u2019m just here, floating in the pool, occasionally offering Centre-Right commentary.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 4119,
+        "follow_request_sent": false,
+        "followers_count": 6008,
+        "following": false,
+        "friends_count": 803,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1212804795624378369,
+        "id_str": "1212804795624378369",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 25,
+        "location": "Los Feliz",
+        "name": "Ben Br@ddock",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212804795624378369/1593402151",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1266752375185977348/ULeIOPI3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266752375185977348/ULeIOPI3_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AutistLvsMatter",
+        "statuses_count": 2616,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1289325807278514176,
+    "quoted_status_id_str": "1289325807278514176",
+    "quoted_status_permalink": {
+      "display": "twitter.com/autistlvsmatte\u2026",
+      "expanded": "https://twitter.com/autistlvsmatter/status/1289325807278514176",
+      "url": "https://t.co/1vcPYWcTnf"
+    },
+    "retweet_count": 7714,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 31 17:15:36 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "You might enjoy my more provocative content because it is on Locals at: https://t.co/3ZNbPqcs4h",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2Ygv2tf",
+              "expanded_url": "http://bit.ly/2Ygv2tf",
+              "indices": [
+                72,
+                95
+              ],
+              "url": "https://t.co/3ZNbPqcs4h"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dilbert.com",
+              "expanded_url": "https://dilbert.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/N9C7uaRQUX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 63475,
+      "follow_request_sent": false,
+      "followers_count": 521413,
+      "following": false,
+      "friends_count": 1422,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2853461537,
+      "id_str": "2853461537",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4174,
+      "location": "Pleasanton CA",
+      "name": "Scott Adams",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2853461537/1596216926",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1259614511859765248/uxqTchXo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259614511859765248/uxqTchXo_normal.jpg",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ScottAdamsSays",
+      "statuses_count": 71295,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/N9C7uaRQUX",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

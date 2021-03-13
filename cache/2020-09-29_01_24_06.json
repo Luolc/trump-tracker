@@ -1,0 +1,299 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 01:24:06 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19739126,
+        "id_str": "19739126",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kevin McCarthy",
+        "screen_name": "GOPLeader"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          107,
+          123
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPLeader: Republicans will rebuild the greatest economy in history. We've done it once with President @realdonaldTrump\u2014and we will do\u2026",
+  "geo": null,
+  "id": 1310752178580140032,
+  "id_str": "1310752178580140032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6736,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 00:36:34 +0000 2020",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YUHubHGJRf",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1310740216483905536/photo/1",
+          "id": 1308815392626954240,
+          "id_str": "1308815392626954240",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/EinYqkoX0AA6mL6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EinYqkoX0AA6mL6.jpg",
+          "sizes": {
+            "large": {
+              "h": 1000,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 1000,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YUHubHGJRf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            92,
+            108
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YUHubHGJRf",
+          "expanded_url": "https://twitter.com/GOPLeader/status/1310740216483905536/photo/1",
+          "id": 1308815392626954240,
+          "id_str": "1308815392626954240",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/EinYqkoX0AA6mL6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EinYqkoX0AA6mL6.jpg",
+          "sizes": {
+            "large": {
+              "h": 1000,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 1000,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YUHubHGJRf"
+        }
+      ]
+    },
+    "favorite_count": 26641,
+    "favorited": false,
+    "full_text": "Republicans will rebuild the greatest economy in history. We've done it once with President @realdonaldTrump\u2014and we will do it again. https://t.co/YUHubHGJRf",
+    "geo": null,
+    "id": 1310740216483905536,
+    "id_str": "1310740216483905536",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6736,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 29 22:28:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Leader and Representative of California's 23rd District in the House of Representatives.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "commitmenttoamerica.com",
+              "expanded_url": "http://commitmenttoamerica.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JyoaR3z3Zi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1909,
+      "follow_request_sent": false,
+      "followers_count": 990464,
+      "following": false,
+      "friends_count": 1397,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19739126,
+      "id_str": "19739126",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5270,
+      "location": "Bakersfield, CA",
+      "name": "Kevin McCarthy",
+      "notifications": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19739126/1582230846",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144683452064833536/fZbuxrtg_normal.png",
+      "profile_link_color": "0A2644",
+      "profile_sidebar_border_color": "FF0000",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "122C73",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GOPLeader",
+      "statuses_count": 14564,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JyoaR3z3Zi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

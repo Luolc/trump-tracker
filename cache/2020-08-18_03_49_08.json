@@ -1,0 +1,328 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Aug 18 03:49:08 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MZHemingway: NPR, which was a co-conspirator in the Russia collusion hoax, redefines Clinesmith pleading guilty to falsifying evidence\u2026",
+  "geo": null,
+  "id": 1295568384499875842,
+  "id_str": "1295568384499875842",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1294305582061694976,
+  "quoted_status_id_str": "1294305582061694976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/NPR/status/129\u2026",
+    "expanded": "https://twitter.com/NPR/status/1294305582061694976",
+    "url": "https://t.co/m0Y0zqFC8A"
+  },
+  "retweet_count": 14707,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Aug 14 19:37:41 +0000 2020",
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/NPR/status/129\u2026",
+          "expanded_url": "https://twitter.com/NPR/status/1294305582061694976",
+          "indices": [
+            253,
+            276
+          ],
+          "url": "https://t.co/m0Y0zqFC8A"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 33081,
+    "favorited": false,
+    "full_text": "NPR, which was a co-conspirator in the Russia collusion hoax, redefines Clinesmith pleading guilty to falsifying evidence against Trump affiliate Carter Page as something \"related to information-gathering.\" Our media are completely and utterly corrupt. https://t.co/m0Y0zqFC8A",
+    "geo": null,
+    "id": 1294357547223322624,
+    "id_str": "1294357547223322624",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Aug 14 16:11:12 +0000 2020",
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 4760,
+      "favorited": false,
+      "full_text": "Just in: FBI lawyer Kevin Clinesmith plans to plead guilty to charges related to information-gathering involving the Trump campaign and Russia four years ago, according to his lawyer. It's the first criminal charges associated with how the Russian investigation was conducted.",
+      "geo": null,
+      "id": 1294305582061694976,
+      "id_str": "1294305582061694976",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 1830,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Apr 22 05:10:15 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News. Arts & Life. Music & more. This is NPR.\n\n\ud83d\udd75\ufe0f Securely send us news tips: https://t.co/LPkf6Tsozm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "securedrop.npr.org",
+                "expanded_url": "http://securedrop.npr.org",
+                "indices": [
+                  78,
+                  101
+                ],
+                "url": "https://t.co/LPkf6Tsozm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "npr.org",
+                "expanded_url": "http://www.npr.org",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/SoL86ga4RI"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2534,
+        "follow_request_sent": false,
+        "followers_count": 8339095,
+        "following": false,
+        "friends_count": 69703,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 5392522,
+        "id_str": "5392522",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 66373,
+        "location": "",
+        "name": "NPR",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/5392522/1575653448",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208165423109292032/_oEEIsvx_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "NPR",
+        "statuses_count": 203609,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/SoL86ga4RI",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1294305582061694976,
+    "quoted_status_id_str": "1294305582061694976",
+    "quoted_status_permalink": {
+      "display": "twitter.com/NPR/status/129\u2026",
+      "expanded": "https://twitter.com/NPR/status/1294305582061694976",
+      "url": "https://t.co/m0Y0zqFC8A"
+    },
+    "retweet_count": 14707,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 09 22:44:12 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senior Editor, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/gp/product/162\u2026",
+              "expanded_url": "https://www.amazon.com/gp/product/1621579832/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeAS",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JDWGFiqY5h"
+            }
+          ]
+        }
+      },
+      "favourites_count": 18117,
+      "follow_request_sent": false,
+      "followers_count": 566776,
+      "following": false,
+      "friends_count": 1364,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18005085,
+      "id_str": "18005085",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3703,
+      "location": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+      "name": "Mollie",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18005085/1563563189",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MZHemingway",
+      "statuses_count": 100182,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JDWGFiqY5h",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85439348,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118456,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54801,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

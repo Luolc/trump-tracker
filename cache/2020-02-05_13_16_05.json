@@ -1,0 +1,524 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 05 13:16:05 +0000 2020",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          38,
+          52
+        ],
+        "text": "PelosiTantrum"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 61298849,
+        "id_str": "61298849",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Elizabeth Anne Middleton",
+        "screen_name": "PIANORAMA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PIANORAMA: Uncouth is too polite.\n#PelosiTantrum",
+  "geo": null,
+  "id": 1225045430100250630,
+  "id_str": "1225045430100250630",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1224901405946916864,
+  "quoted_status_id_str": "1224901405946916864",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ChrisLoesch/st\u2026",
+    "expanded": "https://twitter.com/ChrisLoesch/status/1224901405946916864",
+    "url": "https://t.co/pyEL5iQyia"
+  },
+  "retweet_count": 9938,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 05 04:53:16 +0000 2020",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            23,
+            37
+          ],
+          "text": "PelosiTantrum"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ChrisLoesch/st\u2026",
+          "expanded_url": "https://twitter.com/ChrisLoesch/status/1224901405946916864",
+          "indices": [
+            38,
+            61
+          ],
+          "url": "https://t.co/pyEL5iQyia"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 39025,
+    "favorited": false,
+    "full_text": "Uncouth is too polite.\n#PelosiTantrum https://t.co/pyEL5iQyia",
+    "geo": null,
+    "id": 1224918890846642176,
+    "id_str": "1224918890846642176",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Feb 05 03:43:47 +0000 2020",
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QIyEkUpvTh",
+            "expanded_url": "https://twitter.com/ForAmerica/status/1224897701021671424/video/1",
+            "id": 1224897626639949826,
+            "id_str": "1224897626639949826",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224897626639949826/pu/img/Xnc2ZWBvLRUd--_z.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224897626639949826/pu/img/Xnc2ZWBvLRUd--_z.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1224897701021671424,
+            "source_status_id_str": "1224897701021671424",
+            "source_user_id": 190905427,
+            "source_user_id_str": "190905427",
+            "type": "photo",
+            "url": "https://t.co/QIyEkUpvTh"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 15764644,
+            "id_str": "15764644",
+            "indices": [
+              86,
+              100
+            ],
+            "name": "Nancy Pelosi",
+            "screen_name": "SpeakerPelosi"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Sep 15 03:37:38 +0000 2010",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Making freedom go viral, one click at a time. President: @DavidBozell",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "ForAmerica.org",
+                        "expanded_url": "http://www.ForAmerica.org",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/eNqseG9D3i"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 8957,
+                "follow_request_sent": false,
+                "followers_count": 144838,
+                "following": false,
+                "friends_count": 579,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 190905427,
+                "id_str": "190905427",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 1710,
+                "location": "United States",
+                "name": "ForAmerica",
+                "notifications": false,
+                "profile_background_color": "DD2E44",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/190905427/1513790754",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/753997028233850880/PuDdKGw__normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "ForAmerica",
+                "statuses_count": 36724,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/eNqseG9D3i",
+                "utc_offset": null,
+                "verified": true
+              }
+            },
+            "display_url": "pic.twitter.com/QIyEkUpvTh",
+            "expanded_url": "https://twitter.com/ForAmerica/status/1224897701021671424/video/1",
+            "id": 1224897626639949826,
+            "id_str": "1224897626639949826",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224897626639949826/pu/img/Xnc2ZWBvLRUd--_z.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224897626639949826/pu/img/Xnc2ZWBvLRUd--_z.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1224897701021671424,
+            "source_status_id_str": "1224897701021671424",
+            "source_user_id": 190905427,
+            "source_user_id_str": "190905427",
+            "type": "video",
+            "url": "https://t.co/QIyEkUpvTh",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 13481,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1224897626639949826/pu/pl/pTO1IrW1utuz4drr.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224897626639949826/pu/vid/480x270/VRywf2wAFxGIv307.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224897626639949826/pu/vid/640x360/sGxM4iEu2IQuk0t4.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1224897626639949826/pu/vid/1280x720/B4YC1kxf1oGoVR8s.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 9242,
+      "favorited": false,
+      "full_text": "She might as well have torn up the Democrat\u2019s chance next election. \n\nShe is uncouth! @SpeakerPelosi should be censured! Her constant faces and talking under her breath are beneath the office. Terrible. \n\nhttps://t.co/QIyEkUpvTh",
+      "geo": null,
+      "id": 1224901405946916864,
+      "id_str": "1224901405946916864",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2967,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Feb 13 17:20:43 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "A man devoted to Jesus, his wife, his children, his family, his friends, his freedom and his country. It/that.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "danaradio.com",
+                "expanded_url": "http://www.danaradio.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/CU0cG6PAEB"
+              }
+            ]
+          }
+        },
+        "favourites_count": 277272,
+        "follow_request_sent": false,
+        "followers_count": 148223,
+        "following": false,
+        "friends_count": 8069,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 491461409,
+        "id_str": "491461409",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1353,
+        "location": "Texas",
+        "name": "Chris Loesch",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/491461409/1571362116",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1039187573707616263/yie-N0Hy_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039187573707616263/yie-N0Hy_normal.jpg",
+        "profile_link_color": "2FC2EF",
+        "profile_sidebar_border_color": "181A1E",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ChrisLoesch",
+        "statuses_count": 233737,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CU0cG6PAEB",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1224901405946916864,
+    "quoted_status_id_str": "1224901405946916864",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ChrisLoesch/st\u2026",
+      "expanded": "https://twitter.com/ChrisLoesch/status/1224901405946916864",
+      "url": "https://t.co/pyEL5iQyia"
+    },
+    "retweet_count": 9938,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 29 21:20:02 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I create visual piano music for your soul's eyes in a series of acoustic piano recordings called PIANORAMA. Question everything.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pianoramamusic.com",
+              "expanded_url": "http://www.pianoramamusic.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/2mMZIjePoA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 34876,
+      "follow_request_sent": false,
+      "followers_count": 2641,
+      "following": false,
+      "friends_count": 2492,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 61298849,
+      "id_str": "61298849",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 82,
+      "location": "Santa Barbara, CA",
+      "name": "Elizabeth Anne Middleton",
+      "notifications": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/61298849/1533347207",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1025559230399430656/nj1MAl1p_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025559230399430656/nj1MAl1p_normal.jpg",
+      "profile_link_color": "DB4621",
+      "profile_sidebar_border_color": "273738",
+      "profile_sidebar_fill_color": "D1C1DE",
+      "profile_text_color": "1A171A",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PIANORAMA",
+      "statuses_count": 58219,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/2mMZIjePoA",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}
