@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 14 05:25:34 +0000 2020",
+  "display_text_range": [
+    0,
+    95
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2852597261,
+        "id_str": "2852597261",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Julie Kelly \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "julie_kelly2"
+      },
+      {
+        "id": 229141520,
+        "id_str": "229141520",
+        "indices": [
+          83,
+          95
+        ],
+        "name": "Steve Cortes",
+        "screen_name": "CortesSteve"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @julie_kelly2: One of the hardest working happy warriors out there is my friend @CortesSteve",
+  "geo": null,
+  "id": 1327482785263652864,
+  "id_str": "1327482785263652864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1326300733998764033,
+  "quoted_status_id_str": "1326300733998764033",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cortessteve/st\u2026",
+    "expanded": "https://twitter.com/cortessteve/status/1326300733998764033",
+    "url": "https://t.co/BaECDpVMVF"
+  },
+  "retweet_count": 13186,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 11 02:49:52 +0000 2020",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cortessteve/st\u2026",
+          "expanded_url": "https://twitter.com/cortessteve/status/1326300733998764033",
+          "indices": [
+            78,
+            101
+          ],
+          "url": "https://t.co/BaECDpVMVF"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 229141520,
+          "id_str": "229141520",
+          "indices": [
+            65,
+            77
+          ],
+          "name": "Steve Cortes",
+          "screen_name": "CortesSteve"
+        }
+      ]
+    },
+    "favorite_count": 52209,
+    "favorited": false,
+    "full_text": "One of the hardest working happy warriors out there is my friend @CortesSteve https://t.co/BaECDpVMVF",
+    "geo": null,
+    "id": 1326356442052497415,
+    "id_str": "1326356442052497415",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Nov 10 23:08:31 +0000 2020",
+      "display_text_range": [
+        0,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/H3jm2jEZdB",
+            "expanded_url": "https://twitter.com/CortesSteve/status/1326300733998764033/video/1",
+            "id": 1326300624816926722,
+            "id_str": "1326300624816926722",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326300624816926722/pu/img/6wvBKwTKDojx3Ipi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326300624816926722/pu/img/6wvBKwTKDojx3Ipi.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/H3jm2jEZdB"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/H3jm2jEZdB",
+            "expanded_url": "https://twitter.com/CortesSteve/status/1326300733998764033/video/1",
+            "id": 1326300624816926722,
+            "id_str": "1326300624816926722",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1326300624816926722/pu/img/6wvBKwTKDojx3Ipi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1326300624816926722/pu/img/6wvBKwTKDojx3Ipi.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/H3jm2jEZdB",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 94440,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1326300624816926722/pu/vid/480x270/6u1C__OrUdStbemL.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1326300624816926722/pu/vid/1280x720/ucPr-rfaGTUoUk08.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1326300624816926722/pu/pl/HQ79LcxSzf8ouLUb.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1326300624816926722/pu/vid/640x360/rXe16h1uz1q7ulDK.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 22056,
+      "favorited": false,
+      "full_text": "The statistical case against a Biden win\n\nPart 4 of 4: Absence of Mail-In Ballot Vetting https://t.co/H3jm2jEZdB",
+      "geo": null,
+      "id": 1326300733998764033,
+      "id_str": "1326300733998764033",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9109,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Dec 21 16:51:15 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trump 2020 Campaign Senior Advisor for Strategy. Voice of the Deplorables. Happy warrior. Hispanic. Born for a storm.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 909,
+        "follow_request_sent": false,
+        "followers_count": 160632,
+        "following": false,
+        "friends_count": 596,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 229141520,
+        "id_str": "229141520",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 975,
+        "location": "\u201cMAGA Country\u201d",
+        "name": "Steve Cortes",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/229141520/1528479443",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/591297971213496321/Fo10EOo4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/591297971213496321/Fo10EOo4_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "CortesSteve",
+        "statuses_count": 31288,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1326300733998764033,
+    "quoted_status_id_str": "1326300733998764033",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cortessteve/st\u2026",
+      "expanded": "https://twitter.com/cortessteve/status/1326300733998764033",
+      "url": "https://t.co/BaECDpVMVF"
+    },
+    "retweet_count": 13186,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Oct 31 00:17:55 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Say the things you truly feel not the words of one who kneels\u2014Sinatra sorta. Senior contributor for @theamgreatness",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amgreatness.com/author/julie-k\u2026",
+              "expanded_url": "https://amgreatness.com/author/julie-kelly/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EPjJTGkdD1"
+            }
+          ]
+        }
+      },
+      "favourites_count": 100336,
+      "follow_request_sent": false,
+      "followers_count": 65077,
+      "following": false,
+      "friends_count": 980,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2852597261,
+      "id_str": "2852597261",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 560,
+      "location": "Orland Park IL",
+      "name": "Julie Kelly \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2852597261/1571706235",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1280705613601832963/mEeSz70j_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1280705613601832963/mEeSz70j_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "julie_kelly2",
+      "statuses_count": 75885,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/EPjJTGkdD1",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

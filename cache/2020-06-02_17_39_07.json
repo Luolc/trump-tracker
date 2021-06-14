@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 17:39:07 +0000 2020",
+  "display_text_range": [
+    0,
+    64
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/dineshdsouza/s\u2026",
+        "expanded_url": "https://twitter.com/dineshdsouza/status/1267757853252567040",
+        "indices": [
+          65,
+          88
+        ],
+        "url": "https://t.co/N0cuVpqK8E"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 91882544,
+        "id_str": "91882544",
+        "indices": [
+          28,
+          41
+        ],
+        "name": "Dinesh D'Souza",
+        "screen_name": "DineshDSouza"
+      }
+    ]
+  },
+  "favorite_count": 63614,
+  "favorited": false,
+  "full_text": "Great new book out today by @DineshDSouza \u2014 get your copy today! https://t.co/N0cuVpqK8E",
+  "geo": null,
+  "id": 1267873393275219972,
+  "id_str": "1267873393275219972",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 10:00:00 +0000 2020",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            41
+          ],
+          "text": "UnitedStatesofSocialism"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SDjiSup4Bq",
+          "expanded_url": "https://twitter.com/DineshDSouza/status/1267757853252567040/photo/1",
+          "id": 1267638629175660544,
+          "id_str": "1267638629175660544",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZeOnfOUEAA2p73.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZeOnfOUEAA2p73.jpg",
+          "sizes": {
+            "large": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1600
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SDjiSup4Bq"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "dineshdsouza.com/socialism",
+          "expanded_url": "http://dineshdsouza.com/socialism",
+          "indices": [
+            239,
+            262
+          ],
+          "url": "https://t.co/1geWy5Tk6v"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            177,
+            193
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SDjiSup4Bq",
+          "expanded_url": "https://twitter.com/DineshDSouza/status/1267757853252567040/photo/1",
+          "id": 1267638629175660544,
+          "id_str": "1267638629175660544",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZeOnfOUEAA2p73.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZeOnfOUEAA2p73.jpg",
+          "sizes": {
+            "large": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1600
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SDjiSup4Bq"
+        }
+      ]
+    },
+    "favorite_count": 5392,
+    "favorited": false,
+    "full_text": "\u203c\ufe0f OUT TODAY \u203c\ufe0f\n\n#UnitedStatesofSocialism decisively refutes the new \"identity socialism\" and makes the case for the most effective leader in the battle to prevent it\u2014President @realDonaldTrump.\n\nGet your copy of my new book, out today \ud83d\udc49\ud83c\udffb https://t.co/1geWy5Tk6v https://t.co/SDjiSup4Bq",
+    "geo": null,
+    "id": 1267757853252567040,
+    "id_str": "1267757853252567040",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2120,
+    "retweeted": false,
+    "source": "<a href=\"https://ads-api.twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 22 22:32:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Who is behind modern-day socialism, why is it evil, and how can we stop it? \"United States of Socialism\" is available now!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dineshdsouza.com/socialism",
+              "expanded_url": "http://dineshdsouza.com/socialism",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CtWBfTFJmi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 652,
+      "follow_request_sent": false,
+      "followers_count": 1537247,
+      "following": false,
+      "friends_count": 5837,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 91882544,
+      "id_str": "91882544",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6081,
+      "location": "United States",
+      "name": "Dinesh D'Souza",
+      "notifications": false,
+      "profile_background_color": "252929",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/91882544/1591067450",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/890967538292711424/8puyFbiI_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DineshDSouza",
+      "statuses_count": 51965,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CtWBfTFJmi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1267757853252567040,
+  "quoted_status_id_str": "1267757853252567040",
+  "quoted_status_permalink": {
+    "display": "twitter.com/dineshdsouza/s\u2026",
+    "expanded": "https://twitter.com/dineshdsouza/status/1267757853252567040",
+    "url": "https://t.co/N0cuVpqK8E"
+  },
+  "retweet_count": 17077,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81759360,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114811,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

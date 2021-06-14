@@ -1,0 +1,560 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 03:18:30 +0000 2020",
+  "display_text_range": [
+    0,
+    95
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/MrAndyNgo/stat\u2026",
+        "expanded_url": "https://twitter.com/MrAndyNgo/status/1267091647042473985?s=20",
+        "indices": [
+          72,
+          95
+        ],
+        "url": "https://t.co/x3qEDsYIhA"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1128663473699692544,
+        "id_str": "1128663473699692544",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "David",
+        "screen_name": "DaveofCO"
+      },
+      {
+        "id": 23232204,
+        "id_str": "23232204",
+        "indices": [
+          14,
+          30
+        ],
+        "name": "Shane Goldmacher",
+        "screen_name": "ShaneGoldmacher"
+      },
+      {
+        "id": 124043968,
+        "id_str": "124043968",
+        "indices": [
+          31,
+          39
+        ],
+        "name": "Jonathan Fisk",
+        "screen_name": "RevFisk"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DaveofCO: @ShaneGoldmacher @RevFisk donate blue if you like this! \n\nhttps://t.co/x3qEDsYIhA",
+  "geo": null,
+  "id": 1267656812712558595,
+  "id_str": "1267656812712558595",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1267091647042473985,
+  "quoted_status_id_str": "1267091647042473985",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MrAndyNgo/stat\u2026",
+    "expanded": "https://twitter.com/MrAndyNgo/status/1267091647042473985?s=20",
+    "url": "https://t.co/x3qEDsYIhA"
+  },
+  "retweet_count": 4142,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 03:06:29 +0000 2020",
+    "display_text_range": [
+      26,
+      81
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MrAndyNgo/stat\u2026",
+          "expanded_url": "https://twitter.com/MrAndyNgo/status/1267091647042473985?s=20",
+          "indices": [
+            58,
+            81
+          ],
+          "url": "https://t.co/x3qEDsYIhA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 23232204,
+          "id_str": "23232204",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Shane Goldmacher",
+          "screen_name": "ShaneGoldmacher"
+        },
+        {
+          "id": 124043968,
+          "id_str": "124043968",
+          "indices": [
+            17,
+            25
+          ],
+          "name": "Jonathan Fisk",
+          "screen_name": "RevFisk"
+        }
+      ]
+    },
+    "favorite_count": 9796,
+    "favorited": false,
+    "full_text": "@ShaneGoldmacher @RevFisk donate blue if you like this! \n\nhttps://t.co/x3qEDsYIhA",
+    "geo": null,
+    "id": 1267653787432321025,
+    "id_str": "1267653787432321025",
+    "in_reply_to_screen_name": "ShaneGoldmacher",
+    "in_reply_to_status_id": 1267625342598029313,
+    "in_reply_to_status_id_str": "1267625342598029313",
+    "in_reply_to_user_id": 23232204,
+    "in_reply_to_user_id_str": "23232204",
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun May 31 13:52:44 +0000 2020",
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              214,
+              221
+            ],
+            "text": "Antifa"
+          },
+          {
+            "indices": [
+              222,
+              239
+            ],
+            "text": "BlackLivesMatter"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xqKTYT5tPl",
+            "expanded_url": "https://twitter.com/FarleyMedia/status/1267017421350506496/video/1",
+            "id": 1267015914500710400,
+            "id_str": "1267015914500710400",
+            "indices": [
+              240,
+              263
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267015914500710400/pu/img/OxJ7VhepeJYooKSA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267015914500710400/pu/img/OxJ7VhepeJYooKSA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1267017421350506496,
+            "source_status_id_str": "1267017421350506496",
+            "source_user_id": 58528678,
+            "source_user_id_str": "58528678",
+            "type": "photo",
+            "url": "https://t.co/xqKTYT5tPl"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jul 20 17:14:26 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Act Accordingly \u2022\u00a0bfarley88@gmail.com (503) 208-6475",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/c/BrandonFarley",
+                        "expanded_url": "http://youtube.com/c/BrandonFarley",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/gsB2Fzssvf"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 1776,
+                "follow_request_sent": false,
+                "followers_count": 949,
+                "following": false,
+                "friends_count": 159,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 58528678,
+                "id_str": "58528678",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 10,
+                "location": "Portland, OR",
+                "name": "Brandon Farley",
+                "notifications": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/58528678/1589199985",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251863500441317382/tEDHzziy_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251863500441317382/tEDHzziy_normal.jpg",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "A3A3A3",
+                "profile_sidebar_fill_color": "FAFAFA",
+                "profile_text_color": "595C5A",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "FarleyMedia",
+                "statuses_count": 3228,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/gsB2Fzssvf",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/xqKTYT5tPl",
+            "expanded_url": "https://twitter.com/FarleyMedia/status/1267017421350506496/video/1",
+            "id": 1267015914500710400,
+            "id_str": "1267015914500710400",
+            "indices": [
+              240,
+              263
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1267015914500710400/pu/img/OxJ7VhepeJYooKSA.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1267015914500710400/pu/img/OxJ7VhepeJYooKSA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1267017421350506496,
+            "source_status_id_str": "1267017421350506496",
+            "source_user_id": 58528678,
+            "source_user_id_str": "58528678",
+            "type": "video",
+            "url": "https://t.co/xqKTYT5tPl",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 139958,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267015914500710400/pu/vid/1280x720/rCOMaHR8HM3Pu_Dd.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267015914500710400/pu/vid/640x360/E-Z1R7HiVX7vdcqk.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1267015914500710400/pu/vid/480x270/tuN2h-eKZAD0Hadf.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1267015914500710400/pu/pl/LT2YMlXBcY5gI4ur.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 25271,
+      "favorited": false,
+      "full_text": "Portland: A man tried to help  the man carrying a US flag who was getting beaten on the ground at yesterday\u2019s antifa/BLM riot. They chased him away and kicked him in the face when he was unconscious on the ground: #Antifa #BlackLivesMatter https://t.co/xqKTYT5tPl",
+      "geo": null,
+      "id": 1267091647042473985,
+      "id_str": "1267091647042473985",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 17442,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                "indices": [
+                  76,
+                  99
+                ],
+                "url": "https://t.co/nHDpgWNnvX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngo.locals.com",
+                "expanded_url": "https://ngo.locals.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jPwMbP8CBz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 39746,
+        "follow_request_sent": false,
+        "followers_count": 386981,
+        "following": false,
+        "friends_count": 636,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2835451658,
+        "id_str": "2835451658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1701,
+        "location": "",
+        "name": "Andy Ng\u00f4",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_link_color": "AF7D5D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrAndyNgo",
+        "statuses_count": 12258,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jPwMbP8CBz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267091647042473985,
+    "quoted_status_id_str": "1267091647042473985",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MrAndyNgo/stat\u2026",
+      "expanded": "https://twitter.com/MrAndyNgo/status/1267091647042473985?s=20",
+      "url": "https://t.co/x3qEDsYIhA"
+    },
+    "retweet_count": 4142,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 15 14:08:36 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Saved by Jesus. Family man. Oil man.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 44357,
+      "follow_request_sent": false,
+      "followers_count": 554,
+      "following": false,
+      "friends_count": 77,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1128663473699692544,
+      "id_str": "1128663473699692544",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": "",
+      "name": "David",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1128665568305750016/VuAaGqzA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1128665568305750016/VuAaGqzA_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DaveofCO",
+      "statuses_count": 12937,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

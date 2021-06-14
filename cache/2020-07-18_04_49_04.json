@@ -1,0 +1,529 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:49:04 +0000 2020",
+  "display_text_range": [
+    0,
+    81
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          34,
+          48
+        ],
+        "text": "WomenforTrump"
+      },
+      {
+        "indices": [
+          49,
+          62
+        ],
+        "text": "MomsforTrump"
+      },
+      {
+        "indices": [
+          63,
+          81
+        ],
+        "text": "CatholicsforTrump"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21220612,
+        "id_str": "21220612",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ashley Hayek - Text EMPOWER to 88022",
+        "screen_name": "ashleyhayek"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ashleyhayek: This mama knows. #WomenforTrump #MomsforTrump #CatholicsforTrump",
+  "geo": null,
+  "id": 1284349446248071168,
+  "id_str": "1284349446248071168",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1283951482878951425,
+  "quoted_status_id_str": "1283951482878951425",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cathponeill/st\u2026",
+    "expanded": "https://twitter.com/cathponeill/status/1283951482878951425",
+    "url": "https://t.co/iRJT0F9RQR"
+  },
+  "retweet_count": 2400,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 17 13:15:14 +0000 2020",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            31
+          ],
+          "text": "WomenforTrump"
+        },
+        {
+          "indices": [
+            32,
+            45
+          ],
+          "text": "MomsforTrump"
+        },
+        {
+          "indices": [
+            46,
+            64
+          ],
+          "text": "CatholicsforTrump"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cathponeill/st\u2026",
+          "expanded_url": "https://twitter.com/cathponeill/status/1283951482878951425",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/iRJT0F9RQR"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 8051,
+    "favorited": false,
+    "full_text": "This mama knows. #WomenforTrump #MomsforTrump #CatholicsforTrump https://t.co/iRJT0F9RQR",
+    "geo": null,
+    "id": 1284114436874293250,
+    "id_str": "1284114436874293250",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 17 02:27:42 +0000 2020",
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              180,
+              195
+            ],
+            "text": "BorderSecurity"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/2FU5kChYg2",
+            "expanded_url": "https://twitter.com/cathponeill/status/1283951482878951425/video/1",
+            "id": 1283951427409326080,
+            "id_str": "1283951427409326080",
+            "indices": [
+              196,
+              219
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283951427409326080/pu/img/r7qBB14VXUbHmZYG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283951427409326080/pu/img/r7qBB14VXUbHmZYG.jpg",
+            "sizes": {
+              "large": {
+                "h": 406,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 406,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/2FU5kChYg2"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 75541946,
+            "id_str": "75541946",
+            "indices": [
+              23,
+              36
+            ],
+            "name": "Lara Trump",
+            "screen_name": "LaraLeaTrump"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              163,
+              179
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/2FU5kChYg2",
+            "expanded_url": "https://twitter.com/cathponeill/status/1283951482878951425/video/1",
+            "id": 1283951427409326080,
+            "id_str": "1283951427409326080",
+            "indices": [
+              196,
+              219
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283951427409326080/pu/img/r7qBB14VXUbHmZYG.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283951427409326080/pu/img/r7qBB14VXUbHmZYG.jpg",
+            "sizes": {
+              "large": {
+                "h": 406,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 406,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/2FU5kChYg2",
+            "video_info": {
+              "aspect_ratio": [
+                360,
+                203
+              ],
+              "duration_millis": 55155,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1283951427409326080/pu/pl/H4YPrp7O40SLJNo4.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1283951427409326080/pu/vid/478x270/qYIAns8TD-rgdEqw.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1283951427409326080/pu/vid/720x406/sqxNE-c6k6LUmRTd.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1132,
+      "favorited": false,
+      "full_text": "A special message from @LaraLeaTrump \u2014 \u201cPresident Donald J. Trump\u2019s tough stance on border security prevents vulnerable women and children from being trafficked.\u201d\n@realDonaldTrump #BorderSecurity https://t.co/2FU5kChYg2",
+      "geo": null,
+      "id": 1283951482878951425,
+      "id_str": "1283951482878951425",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 452,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Dec 22 18:28:06 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Catholic, Conservative, Floridian \ud83c\udf4a, proud sister to 5\u2014 fighting to keep commies out from under your bed. Executive Director, Catholics for Trump.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catholics.donaldjtrump.com",
+                "expanded_url": "http://catholics.donaldjtrump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/GR59mMCgma"
+              }
+            ]
+          }
+        },
+        "favourites_count": 939,
+        "follow_request_sent": false,
+        "followers_count": 2299,
+        "following": false,
+        "friends_count": 548,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 1076544925574090754,
+        "id_str": "1076544925574090754",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 9,
+        "location": "Washington, DC",
+        "name": "Catharine O\u2019Neill",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076544925574090754/1593575000",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278168042791452679/zjm81lVk_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278168042791452679/zjm81lVk_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cathponeill",
+        "statuses_count": 260,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/GR59mMCgma",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1283951482878951425,
+    "quoted_status_id_str": "1283951482878951425",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cathponeill/st\u2026",
+      "expanded": "https://twitter.com/cathponeill/status/1283951482878951425",
+      "url": "https://t.co/iRJT0F9RQR"
+    },
+    "retweet_count": 2400,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 17:59:48 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Proud Marine Wife \ud83d\udc8fMomma\ud83d\udc69\ud83c\udffc\ud83d\udc71\ud83c\udffb\u200d\u2640\ufe0f\ud83d\udc66\ud83c\udffc\ud83d\udc67\ud83c\udffc\ud83d\udc36\ud83d\udc36 @realdonaldtrump Campaign",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "women.donaldjtrump.com",
+              "expanded_url": "http://women.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UwE21sZqr6"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5103,
+      "follow_request_sent": false,
+      "followers_count": 7017,
+      "following": false,
+      "friends_count": 640,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21220612,
+      "id_str": "21220612",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 42,
+      "location": "Washington, DC",
+      "name": "Ashley Hayek - Text EMPOWER to 88022",
+      "notifications": false,
+      "profile_background_color": "EDE9EC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21220612/1580408849",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017629756299202561/8KiWZsc2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017629756299202561/8KiWZsc2_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ashleyhayek",
+      "statuses_count": 3372,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UwE21sZqr6",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

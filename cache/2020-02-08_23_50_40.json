@@ -1,0 +1,488 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 08 23:50:40 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17685258,
+        "id_str": "17685258",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Brad Parscale - Text TRUMP to 88022",
+        "screen_name": "parscale"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          54,
+          70
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @parscale: We are not just going for black voters, @realDonaldTrump is delivering results to the community:\n\n\u2705 School Choice\n\n\u2705 HBCU Gra\u2026",
+  "geo": null,
+  "id": 1226292290039296000,
+  "id_str": "1226292290039296000",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1224919296352096258,
+  "quoted_status_id_str": "1224919296352096258",
+  "quoted_status_permalink": {
+    "display": "twitter.com/vanjones68/sta\u2026",
+    "expanded": "https://twitter.com/vanjones68/status/1224919296352096258",
+    "url": "https://t.co/ZVsIx7G2T6"
+  },
+  "retweet_count": 7373,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 08 18:31:53 +0000 2020",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/vanjones68/sta\u2026",
+          "expanded_url": "https://twitter.com/vanjones68/status/1224919296352096258",
+          "indices": [
+            199,
+            222
+          ],
+          "url": "https://t.co/ZVsIx7G2T6"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 21654,
+    "favorited": false,
+    "full_text": "We are not just going for black voters, @realDonaldTrump is delivering results to the community:\n\n\u2705 School Choice\n\n\u2705 HBCU Grants\n\n\u2705 Criminal Justice Reform\n\n\u2705 Record Low Unemployment\n\n\u2705 Rising Wages https://t.co/ZVsIx7G2T6",
+    "geo": null,
+    "id": 1226212068858224640,
+    "id_str": "1226212068858224640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Feb 05 04:54:52 +0000 2020",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              20,
+              31
+            ],
+            "text": "IowaCaucus"
+          },
+          {
+            "indices": [
+              68,
+              73
+            ],
+            "text": "SOTU"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/bgBFms9jtN",
+            "expanded_url": "https://twitter.com/VanJones68/status/1224919296352096258/video/1",
+            "id": 1224917861858250759,
+            "id_str": "1224917861858250759",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP_KCKUXkAE3urA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EP_KCKUXkAE3urA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/bgBFms9jtN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 759251,
+            "id_str": "759251",
+            "indices": [
+              275,
+              279
+            ],
+            "name": "CNN",
+            "screen_name": "CNN"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Wake Up"
+            },
+            "display_url": "pic.twitter.com/bgBFms9jtN",
+            "expanded_url": "https://twitter.com/VanJones68/status/1224919296352096258/video/1",
+            "id": 1224917861858250759,
+            "id_str": "1224917861858250759",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/media/EP_KCKUXkAE3urA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EP_KCKUXkAE3urA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/bgBFms9jtN",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 137270,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224917861858250759/vid/1280x720/tY9R9NsjOZcy7dTx.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1224917861858250759/pl/PwUlUTjB4SLQAfIz.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224917861858250759/vid/480x270/ztcqvMx-ps3OAUOW.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1224917861858250759/vid/640x360/tFKOa--BgIrOCReu.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 10789,
+      "favorited": false,
+      "full_text": "WAKE UP, folks. The #IowaCaucus was a debacle, followed by a strong #SOTU speech laying out Trump's strategy to win \u2013 which includes going for Black voters. This was a warning shot from the Trump campaign to liberals, and we need to take this VERY seriously in order to win. @CNN https://t.co/bgBFms9jtN",
+      "geo": null,
+      "id": 1224919296352096258,
+      "id_str": "1224919296352096258",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 3080,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 10 12:59:58 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "DAD // CEO: @REFORM // @CNN PODCAST \u201cIncarceration Inc.\u201d // FOUNDER: @thedreamcorps, @greenforall, etc. // AUTHOR: Beyond The Messy Truth https://t.co/4iWXyNbkZQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/2yEt338",
+                "expanded_url": "http://amzn.to/2yEt338",
+                "indices": [
+                  138,
+                  161
+                ],
+                "url": "https://t.co/4iWXyNbkZQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reformalliance.com",
+                "expanded_url": "http://reformalliance.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/RpJoxA42E2"
+              }
+            ]
+          }
+        },
+        "favourites_count": 25306,
+        "follow_request_sent": false,
+        "followers_count": 845518,
+        "following": false,
+        "friends_count": 10272,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 131497030,
+        "id_str": "131497030",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 8275,
+        "location": "United States",
+        "name": "Van Jones",
+        "notifications": false,
+        "profile_background_color": "352726",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/131497030/1580753556",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1158972442515267584/15eAHO-m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1158972442515267584/15eAHO-m_normal.jpg",
+        "profile_link_color": "D02B55",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "0AAD3E",
+        "profile_text_color": "3E4415",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VanJones68",
+        "statuses_count": 37279,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RpJoxA42E2",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1224919296352096258,
+    "quoted_status_id_str": "1224919296352096258",
+    "quoted_status_permalink": {
+      "display": "twitter.com/vanjones68/sta\u2026",
+      "expanded": "https://twitter.com/vanjones68/status/1224919296352096258",
+      "url": "https://t.co/ZVsIx7G2T6"
+    },
+    "retweet_count": 7373,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 27 18:47:32 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Campaign Manager for @realdonaldtrump 2020 Presidential Campaign. Proud to work for America\u2019s best POTUS and help to Keep America Great!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com/get-involved/",
+              "expanded_url": "http://www.donaldjtrump.com/get-involved/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/tCuRLgA6VU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 891,
+      "follow_request_sent": false,
+      "followers_count": 510525,
+      "following": false,
+      "friends_count": 465,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 17685258,
+      "id_str": "17685258",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2739,
+      "location": "Washington, DC",
+      "name": "Brad Parscale - Text TRUMP to 88022",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1566352630",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_link_color": "AB2316",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "parscale",
+      "statuses_count": 4699,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/tCuRLgA6VU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72334195,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114397,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48847,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 14 18:49:00 +0000 2020",
+  "display_text_range": [
+    0,
+    11
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/dannydougherty\u2026",
+        "expanded_url": "https://twitter.com/dannydougherty/status/1293893519069896705",
+        "indices": [
+          12,
+          35
+        ],
+        "url": "https://t.co/eMTwXslvQX"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 33984,
+  "favorited": false,
+  "full_text": "Great News! https://t.co/eMTwXslvQX",
+  "geo": null,
+  "id": 1294345293824106496,
+  "id_str": "1294345293824106496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 13 12:53:48 +0000 2020",
+    "display_text_range": [
+      0,
+      197
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iFBTYP5yIs",
+          "expanded_url": "https://twitter.com/DannyDougherty/status/1293893519069896705/photo/1",
+          "id": 1293892913303347200,
+          "id_str": "1293892913303347200",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfTUv9LXYAAytL2.png",
+          "media_url_https": "https://pbs.twimg.com/media/EfTUv9LXYAAytL2.png",
+          "sizes": {
+            "large": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "medium": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "small": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iFBTYP5yIs"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iFBTYP5yIs",
+          "expanded_url": "https://twitter.com/DannyDougherty/status/1293893519069896705/photo/1",
+          "id": 1293892913303347200,
+          "id_str": "1293892913303347200",
+          "indices": [
+            198,
+            221
+          ],
+          "media_url": "http://pbs.twimg.com/media/EfTUv9LXYAAytL2.png",
+          "media_url_https": "https://pbs.twimg.com/media/EfTUv9LXYAAytL2.png",
+          "sizes": {
+            "large": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "medium": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "small": {
+              "h": 252,
+              "resize": "fit",
+              "w": 379
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iFBTYP5yIs"
+        }
+      ]
+    },
+    "favorite_count": 1305,
+    "favorited": false,
+    "full_text": "Just a few weeks ago, it had looked like new claims for unemployment benefits may have stalled out around 1.4M, but now we've seen fewer than a million claims for the first time in almost 5 months. https://t.co/iFBTYP5yIs",
+    "geo": null,
+    "id": 1293893519069896705,
+    "id_str": "1293893519069896705",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 522,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 25 20:24:06 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Graphics reporter in DC, currently @WSJ \u2013 come for the insightful graphics stay for the dad puns & bad comic books tweets. Officially a mask stan acct. (He/Him)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "graphics.wsj.com",
+              "expanded_url": "https://graphics.wsj.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CljMZVkO1J"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3285,
+      "follow_request_sent": false,
+      "followers_count": 699,
+      "following": false,
+      "friends_count": 369,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 6325812,
+      "id_str": "6325812",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 57,
+      "location": "Washington, DC",
+      "name": "Danny Dougherty",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/6325812/1569259280",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1284547691565977601/umirV8Fi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284547691565977601/umirV8Fi_normal.jpg",
+      "profile_link_color": "B77C19",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DannyDougherty",
+      "statuses_count": 4545,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CljMZVkO1J",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1293893519069896705,
+  "quoted_status_id_str": "1293893519069896705",
+  "quoted_status_permalink": {
+    "display": "twitter.com/dannydougherty\u2026",
+    "expanded": "https://twitter.com/dannydougherty/status/1293893519069896705",
+    "url": "https://t.co/eMTwXslvQX"
+  },
+  "retweet_count": 9185,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85189316,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118090,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54567,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 23 12:46:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52544275,
+        "id_str": "52544275",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Ivanka Trump",
+        "screen_name": "IvankaTrump"
+      },
+      {
+        "id": 39820738,
+        "id_str": "39820738",
+        "indices": [
+          27,
+          38
+        ],
+        "name": "Walmart Inc.",
+        "screen_name": "WalmartInc"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IvankaTrump: Thank you @WalmartInc for taking extraordinary measures to support American workers. You are a shining example of American\u2026",
+  "geo": null,
+  "id": 1242070326827257858,
+  "id_str": "1242070326827257858",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1240799786883862531,
+  "quoted_status_id_str": "1240799786883862531",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WalmartInc/sta\u2026",
+    "expanded": "https://twitter.com/WalmartInc/status/1240799786883862531",
+    "url": "https://t.co/o4FFtxTndK"
+  },
+  "retweet_count": 3464,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 20 01:54:46 +0000 2020",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            148
+          ],
+          "text": "TogetherApart"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WalmartInc/sta\u2026",
+          "expanded_url": "https://twitter.com/WalmartInc/status/1240799786883862531",
+          "indices": [
+            149,
+            172
+          ],
+          "url": "https://t.co/o4FFtxTndK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 39820738,
+          "id_str": "39820738",
+          "indices": [
+            10,
+            21
+          ],
+          "name": "Walmart Inc.",
+          "screen_name": "WalmartInc"
+        }
+      ]
+    },
+    "favorite_count": 16590,
+    "favorited": false,
+    "full_text": "Thank you @WalmartInc for taking extraordinary measures to support American workers. You are a shining example of American Greatness. #TogetherApart https://t.co/o4FFtxTndK",
+    "geo": null,
+    "id": 1240819036226752512,
+    "id_str": "1240819036226752512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Mar 20 00:38:16 +0000 2020",
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TCYyibpDDU",
+            "expanded_url": "https://twitter.com/WalmartInc/status/1240799786883862531/photo/1",
+            "id": 1240799674929463297,
+            "id_str": "1240799674929463297",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETg0uvWXQAEbMo_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETg0uvWXQAEbMo_.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TCYyibpDDU"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3dcfXOl",
+            "expanded_url": "https://bit.ly/3dcfXOl",
+            "indices": [
+              254,
+              277
+            ],
+            "url": "https://t.co/Xdw0F8TkwR"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/TCYyibpDDU",
+            "expanded_url": "https://twitter.com/WalmartInc/status/1240799786883862531/photo/1",
+            "id": 1240799674929463297,
+            "id_str": "1240799674929463297",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/ETg0uvWXQAEbMo_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ETg0uvWXQAEbMo_.jpg",
+            "sizes": {
+              "large": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/TCYyibpDDU"
+          }
+        ]
+      },
+      "favorite_count": 1890,
+      "favorited": false,
+      "full_text": "Our associates are our heroes. To say thank you, we're providing nearly $550M through special bonuses and advanced quarterly bonus payouts to hourly store, club and supply chain associates. We're also hiring! We plan to add 150,000 jobs. Read more here: https://t.co/Xdw0F8TkwR https://t.co/TCYyibpDDU",
+      "geo": null,
+      "id": 1240799786883862531,
+      "id_str": "1240799786883862531",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 693,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed May 13 20:03:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News, innovation and sparks of inspiration from Walmart and its family of brands.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "corporate.walmart.com",
+                "expanded_url": "https://corporate.walmart.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/vHA75kqTUk"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1539,
+        "follow_request_sent": false,
+        "followers_count": 47206,
+        "following": false,
+        "friends_count": 1197,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 39820738,
+        "id_str": "39820738",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 545,
+        "location": "Bentonville, Arkansas",
+        "name": "Walmart Inc.",
+        "notifications": false,
+        "profile_background_color": "01359B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39820738/1579907306",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1042808723075358720/fUXNMtWw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1042808723075358720/fUXNMtWw_normal.jpg",
+        "profile_link_color": "1B74CE",
+        "profile_sidebar_border_color": "738696",
+        "profile_sidebar_fill_color": "FDBB2C",
+        "profile_text_color": "FFFFFF",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WalmartInc",
+        "statuses_count": 9019,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vHA75kqTUk",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1240799786883862531,
+    "quoted_status_id_str": "1240799786883862531",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WalmartInc/sta\u2026",
+      "expanded": "https://twitter.com/WalmartInc/status/1240799786883862531",
+      "url": "https://t.co/o4FFtxTndK"
+    },
+    "retweet_count": 3464,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 30 22:32:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother, sister, daughter. Advisor to POTUS on job creation + economic empowerment, workforce development & entrepreneurship. Personal Pg. Views are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2898,
+      "follow_request_sent": false,
+      "followers_count": 8172173,
+      "following": false,
+      "friends_count": 1431,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 52544275,
+      "id_str": "52544275",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 22363,
+      "location": "Washington, DC",
+      "name": "Ivanka Trump",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52544275/1482433261",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1054179226100908032/i5ZXfFdE_normal.jpg",
+      "profile_link_color": "FF6872",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IvankaTrump",
+      "statuses_count": 16755,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74842210,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117395,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50101,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

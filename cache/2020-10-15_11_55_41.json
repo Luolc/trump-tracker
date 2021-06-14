@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 11:55:41 +0000 2020",
+  "display_text_range": [
+    0,
+    75
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 10774652,
+        "id_str": "10774652",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "TheBlaze",
+        "screen_name": "theblaze"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @theblaze: If you thought part one was good, you need to see part TWO! \ud83d\udea8",
+  "geo": null,
+  "id": 1316709328204824577,
+  "id_str": "1316709328204824577",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1316386352439734281,
+  "quoted_status_id_str": "1316386352439734281",
+  "quoted_status_permalink": {
+    "display": "twitter.com/scrowder/statu\u2026",
+    "expanded": "https://twitter.com/scrowder/status/1316386352439734281",
+    "url": "https://t.co/qTzuHwRWY2"
+  },
+  "retweet_count": 2371,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 14:33:14 +0000 2020",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/scrowder/statu\u2026",
+          "expanded_url": "https://twitter.com/scrowder/status/1316386352439734281",
+          "indices": [
+            62,
+            85
+          ],
+          "url": "https://t.co/qTzuHwRWY2"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 7281,
+    "favorited": false,
+    "full_text": "If you thought part one was good, you need to see part TWO! \ud83d\udea8 https://t.co/qTzuHwRWY2",
+    "geo": null,
+    "id": 1316386586796462082,
+    "id_str": "1316386586796462082",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Oct 14 14:32:18 +0000 2020",
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PMKD9DPmLa",
+            "expanded_url": "https://twitter.com/scrowder/status/1316386352439734281/photo/1",
+            "id": 1316386344638218240,
+            "id_str": "1316386344638218240",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkS-Z-tWAAA6mt4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkS-Z-tWAAA6mt4.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PMKD9DPmLa"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=hOGw8r\u2026",
+            "expanded_url": "https://www.youtube.com/watch?v=hOGw8rczdvo",
+            "indices": [
+              68,
+              91
+            ],
+            "url": "https://t.co/izrjLzfm2i"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PMKD9DPmLa",
+            "expanded_url": "https://twitter.com/scrowder/status/1316386352439734281/photo/1",
+            "id": 1316386344638218240,
+            "id_str": "1316386344638218240",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/EkS-Z-tWAAA6mt4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EkS-Z-tWAAA6mt4.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PMKD9DPmLa"
+          }
+        ]
+      },
+      "favorite_count": 1115,
+      "favorited": false,
+      "full_text": "HERE WE GO!\n\nConfirm Amy Coney Barrett, Change My Mind... PART TWO!\nhttps://t.co/izrjLzfm2i https://t.co/PMKD9DPmLa",
+      "geo": null,
+      "id": 1316386352439734281,
+      "id_str": "1316386352439734281",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 293,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jan 16 23:00:21 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "https://t.co/91mcSUahXm for all you need to know. Join #MugClub. \nInstagram: louderwithcrowder",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Youtube.com/StevenCrowder",
+                "expanded_url": "http://Youtube.com/StevenCrowder",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/91mcSUahXm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Youtube.com/StevenCrowder",
+                "expanded_url": "http://Youtube.com/StevenCrowder",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/91mcSUahXm"
+              }
+            ]
+          }
+        },
+        "favourites_count": 994,
+        "follow_request_sent": false,
+        "followers_count": 1206085,
+        "following": false,
+        "friends_count": 2752,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 19091173,
+        "id_str": "19091173",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5219,
+        "location": "Ghostlike",
+        "name": "Steven Crowder",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19091173/1598387085",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305553352407871495/_fdGVlFe_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305553352407871495/_fdGVlFe_normal.png",
+        "profile_link_color": "A1A1A1",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "100B2B",
+        "profile_text_color": "878585",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "scrowder",
+        "statuses_count": 58774,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/91mcSUahXm",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1316386352439734281,
+    "quoted_status_id_str": "1316386352439734281",
+    "quoted_status_permalink": {
+      "display": "twitter.com/scrowder/statu\u2026",
+      "expanded": "https://twitter.com/scrowder/status/1316386352439734281",
+      "url": "https://t.co/qTzuHwRWY2"
+    },
+    "retweet_count": 2371,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 01 22:23:57 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and entertainment for people who love America",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theblaze.com",
+              "expanded_url": "https://www.theblaze.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ZNQk8Vwbfj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4662,
+      "follow_request_sent": false,
+      "followers_count": 761009,
+      "following": false,
+      "friends_count": 695,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 10774652,
+      "id_str": "10774652",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6986,
+      "location": "Dallas, TX",
+      "name": "TheBlaze",
+      "notifications": false,
+      "profile_background_color": "E91E24",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10774652/1543810955",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1069445516579102721/G5Un5uKM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1069445516579102721/G5Un5uKM_normal.jpg",
+      "profile_link_color": "E91E24",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "theblaze",
+      "statuses_count": 125133,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ZNQk8Vwbfj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

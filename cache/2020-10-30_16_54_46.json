@@ -1,0 +1,520 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 30 16:54:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      },
+      {
+        "id": 314616452,
+        "id_str": "314616452",
+        "indices": [
+          22,
+          32
+        ],
+        "name": "Fort Bragg",
+        "screen_name": "FtBraggNC"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          94,
+          100
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          101,
+          117
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @FLOTUS: Thank you @FtBraggNC for hosting another impressive visit to your base yesterday! @POTUS @realDonaldTrump and I are grateful to\u2026",
+  "geo": null,
+  "id": 1322220412047036416,
+  "id_str": "1322220412047036416",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1118164527462400002,
+  "quoted_status_id_str": "1118164527462400002",
+  "quoted_status_permalink": {
+    "display": "twitter.com/flotus/status/\u2026",
+    "expanded": "https://twitter.com/flotus/status/1118164527462400002",
+    "url": "https://t.co/EvAMiWDeoA"
+  },
+  "retweet_count": 13509,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 30 16:06:56 +0000 2020",
+    "display_text_range": [
+      0,
+      269
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/flotus/status/\u2026",
+          "expanded_url": "https://twitter.com/flotus/status/1118164527462400002",
+          "indices": [
+            270,
+            293
+          ],
+          "url": "https://t.co/EvAMiWDeoA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 314616452,
+          "id_str": "314616452",
+          "indices": [
+            10,
+            20
+          ],
+          "name": "Fort Bragg",
+          "screen_name": "FtBraggNC"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            82,
+            88
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            89,
+            105
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 68259,
+    "favorited": false,
+    "full_text": "Thank you @FtBraggNC for hosting another impressive visit to your base yesterday! @POTUS @realDonaldTrump and I are grateful to the men &amp; women of the United States military &amp; for the sacrifices they make in order to serve our country. May God bless our troops! https://t.co/EvAMiWDeoA",
+    "geo": null,
+    "id": 1322208372419186690,
+    "id_str": "1322208372419186690",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Apr 16 14:49:32 +0000 2019",
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZgWXJ2vzmA",
+            "expanded_url": "https://twitter.com/FLOTUS/status/1118164527462400002/video/1",
+            "id": 1118164122548490240,
+            "id_str": "1118164122548490240",
+            "indices": [
+              270,
+              293
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118164122548490240/pu/img/qkRsGsPF4vejaKg3.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118164122548490240/pu/img/qkRsGsPF4vejaKg3.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZgWXJ2vzmA"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 314616452,
+            "id_str": "314616452",
+            "indices": [
+              79,
+              89
+            ],
+            "name": "Fort Bragg",
+            "screen_name": "FtBraggNC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/ZgWXJ2vzmA",
+            "expanded_url": "https://twitter.com/FLOTUS/status/1118164527462400002/video/1",
+            "id": 1118164122548490240,
+            "id_str": "1118164122548490240",
+            "indices": [
+              270,
+              293
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1118164122548490240/pu/img/qkRsGsPF4vejaKg3.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1118164122548490240/pu/img/qkRsGsPF4vejaKg3.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/ZgWXJ2vzmA",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 46125,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1118164122548490240/pu/pl/Elo3NYpP7LU1LMQz.m3u8?tag=8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118164122548490240/pu/vid/640x360/sQxA0alcYEmuQ9dP.mp4?tag=8"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118164122548490240/pu/vid/1280x720/Ly7lniu33EdICdJr.mp4?tag=8"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1118164122548490240/pu/vid/320x180/cBC_02mWdr066lbO.mp4?tag=8"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 65044,
+      "favorited": false,
+      "full_text": "I am always so impressed by the capabilities of our Armed Forces. Thank you to @FtBraggNC for yesterday\u2019s wonderful visit. God Bless all of our men &amp; women who are forward deployed &amp; the families &amp; military children who sacrifice on behalf of our nation. \ud83c\uddfa\ud83c\uddf8 https://t.co/ZgWXJ2vzmA",
+      "geo": null,
+      "id": 1118164527462400002,
+      "id_str": "1118164527462400002",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12346,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wh.gov/privacy",
+                "expanded_url": "http://wh.gov/privacy",
+                "indices": [
+                  95,
+                  118
+                ],
+                "url": "https://t.co/eVVzoBb3Zr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BeBest.gov",
+                "expanded_url": "http://www.BeBest.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/9zG6ZvKVLm"
+              }
+            ]
+          }
+        },
+        "favourites_count": 0,
+        "follow_request_sent": false,
+        "followers_count": 15624777,
+        "following": false,
+        "friends_count": 8,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 10591,
+        "location": "Washington, D.C.",
+        "name": "Melania Trump",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "FLOTUS",
+        "statuses_count": 1274,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/9zG6ZvKVLm",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1118164527462400002,
+    "quoted_status_id_str": "1118164527462400002",
+    "quoted_status_permalink": {
+      "display": "twitter.com/flotus/status/\u2026",
+      "expanded": "https://twitter.com/flotus/status/1118164527462400002",
+      "url": "https://t.co/EvAMiWDeoA"
+    },
+    "retweet_count": 13509,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 17:43:50 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This account is run by the Office of First Lady Melania Trump. Tweets may be archived. More at https://t.co/eVVzoBb3Zr",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                95,
+                118
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BeBest.gov",
+              "expanded_url": "http://www.BeBest.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9zG6ZvKVLm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 15624777,
+      "following": false,
+      "friends_count": 8,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818876014390603776,
+      "id_str": "818876014390603776",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10591,
+      "location": "Washington, D.C.",
+      "name": "Melania Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818876014390603776/1484852402",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/848946510918295557/RmsOl1zv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "FLOTUS",
+      "statuses_count": 1274,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9zG6ZvKVLm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87371116,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121847,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57907,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

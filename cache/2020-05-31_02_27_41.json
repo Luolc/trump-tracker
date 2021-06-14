@@ -1,0 +1,477 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 31 02:27:41 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22203756,
+        "id_str": "22203756",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Mike Pence",
+        "screen_name": "Mike_Pence"
+      },
+      {
+        "id": 822127086194348032,
+        "id_str": "822127086194348032",
+        "indices": [
+          23,
+          34
+        ],
+        "name": "Second Lady Karen Pence",
+        "screen_name": "SecondLady"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          76,
+          92
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 275710913,
+        "id_str": "275710913",
+        "indices": [
+          104,
+          115
+        ],
+        "name": "Col. Doug Hurley",
+        "screen_name": "Astro_Doug"
+      },
+      {
+        "id": 2543629379,
+        "id_str": "2543629379",
+        "indices": [
+          120,
+          133
+        ],
+        "name": "Bob Behnken",
+        "screen_name": "AstroBehnken"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Mike_Pence: Today, @SecondLady and I had the honor of joining President @realDonaldTrump to witness @Astro_Doug and @AstroBehnken compl\u2026",
+  "geo": null,
+  "id": 1266919246426189830,
+  "id_str": "1266919246426189830",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7309,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 30 23:44:58 +0000 2020",
+    "display_text_range": [
+      0,
+      273
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ktDl9J2uhc",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1266878297813577728/photo/1",
+          "id": 1266878243614810115,
+          "id_str": "1266878243614810115",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZTbDORU4AM80w5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZTbDORU4AM80w5.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ktDl9J2uhc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822127086194348032,
+          "id_str": "822127086194348032",
+          "indices": [
+            7,
+            18
+          ],
+          "name": "Second Lady Karen Pence",
+          "screen_name": "SecondLady"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            60,
+            76
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 275710913,
+          "id_str": "275710913",
+          "indices": [
+            88,
+            99
+          ],
+          "name": "Col. Doug Hurley",
+          "screen_name": "Astro_Doug"
+        },
+        {
+          "id": 2543629379,
+          "id_str": "2543629379",
+          "indices": [
+            104,
+            117
+          ],
+          "name": "Bob Behnken",
+          "screen_name": "AstroBehnken"
+        },
+        {
+          "id": 16580226,
+          "id_str": "16580226",
+          "indices": [
+            192,
+            204
+          ],
+          "name": "NASA's Kennedy Space Center",
+          "screen_name": "NASAKennedy"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ktDl9J2uhc",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1266878297813577728/photo/1",
+          "id": 1266878243614810115,
+          "id_str": "1266878243614810115",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZTbDORU4AM80w5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZTbDORU4AM80w5.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ktDl9J2uhc"
+        },
+        {
+          "display_url": "pic.twitter.com/ktDl9J2uhc",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1266878297813577728/photo/1",
+          "id": 1266878243627364353,
+          "id_str": "1266878243627364353",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZTbDOUUcAEG_wX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZTbDOUUcAEG_wX.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ktDl9J2uhc"
+        },
+        {
+          "display_url": "pic.twitter.com/ktDl9J2uhc",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1266878297813577728/photo/1",
+          "id": 1266878243623153665,
+          "id_str": "1266878243623153665",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZTbDOTUMAEdg2G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZTbDOTUMAEdg2G.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ktDl9J2uhc"
+        },
+        {
+          "display_url": "pic.twitter.com/ktDl9J2uhc",
+          "expanded_url": "https://twitter.com/Mike_Pence/status/1266878297813577728/photo/1",
+          "id": 1266878243610583040,
+          "id_str": "1266878243610583040",
+          "indices": [
+            274,
+            297
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZTbDOQUYAAAn17.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZTbDOQUYAAAn17.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ktDl9J2uhc"
+        }
+      ]
+    },
+    "favorite_count": 35353,
+    "favorited": false,
+    "full_text": "Today, @SecondLady and I had the honor of joining President @realDonaldTrump to witness @Astro_Doug and @AstroBehnken complete a historic launch of from American soil on an American rocket at @NASAKennedy! This is the beginning of a new era of American leadership in space! https://t.co/ktDl9J2uhc",
+    "geo": null,
+    "id": 1266878297813577728,
+    "id_str": "1266878297813577728",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7309,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 23:04:51 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Vice President of the United States",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 730,
+      "follow_request_sent": false,
+      "followers_count": 4779361,
+      "following": false,
+      "friends_count": 41,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 22203756,
+      "id_str": "22203756",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9143,
+      "location": "",
+      "name": "Mike Pence",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22203756/1589918424",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141422399268761600/k6fHhBbh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "002248",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Mike_Pence",
+      "statuses_count": 9273,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80868356,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114201,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52188,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

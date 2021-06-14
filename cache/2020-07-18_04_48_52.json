@@ -1,0 +1,450 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:48:52 +0000 2020",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 902604620043780096,
+        "id_str": "902604620043780096",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Sandra Benitez - Text VAMOS to 88022",
+        "screen_name": "_Sbenitez"
+      },
+      {
+        "id": 2371169329,
+        "id_str": "2371169329",
+        "indices": [
+          23,
+          34
+        ],
+        "name": "Fabio A. Andrade \u201cUribista\u201d",
+        "screen_name": "FabioASays"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @_Sbenitez: Gracias @FabioASays \ud83c\uddfa\ud83c\uddf8!",
+  "geo": null,
+  "id": 1284349394184220672,
+  "id_str": "1284349394184220672",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "es",
+  "place": null,
+  "quoted_status_id": 1284197620005642243,
+  "quoted_status_id_str": "1284197620005642243",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cpereirafl/sta\u2026",
+    "expanded": "https://twitter.com/cpereirafl/status/1284197620005642243",
+    "url": "https://t.co/TEAnNMgcIc"
+  },
+  "retweet_count": 2391,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 18 01:17:23 +0000 2020",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cpereirafl/sta\u2026",
+          "expanded_url": "https://twitter.com/cpereirafl/status/1284197620005642243",
+          "indices": [
+            24,
+            47
+          ],
+          "url": "https://t.co/TEAnNMgcIc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 2371169329,
+          "id_str": "2371169329",
+          "indices": [
+            8,
+            19
+          ],
+          "name": "Fabio A. Andrade \u201cUribista\u201d",
+          "screen_name": "FabioASays"
+        }
+      ]
+    },
+    "favorite_count": 7532,
+    "favorited": false,
+    "full_text": "Gracias @FabioASays \ud83c\uddfa\ud83c\uddf8! https://t.co/TEAnNMgcIc",
+    "geo": null,
+    "id": 1284296173285707777,
+    "id_str": "1284296173285707777",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "es",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 17 18:45:46 +0000 2020",
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              264,
+              268
+            ],
+            "text": "MAG"
+          },
+          {
+            "indices": [
+              269,
+              279
+            ],
+            "text": "LeadRight"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BEwbOktYtF",
+            "expanded_url": "https://twitter.com/cpereirafl/status/1284197620005642243/video/1",
+            "id": 1284197507648630785,
+            "id_str": "1284197507648630785",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284197507648630785/pu/img/8HV9Vf-KG70F8x7M.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284197507648630785/pu/img/8HV9Vf-KG70F8x7M.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BEwbOktYtF"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/BEwbOktYtF",
+            "expanded_url": "https://twitter.com/cpereirafl/status/1284197620005642243/video/1",
+            "id": 1284197507648630785,
+            "id_str": "1284197507648630785",
+            "indices": [
+              280,
+              303
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1284197507648630785/pu/img/8HV9Vf-KG70F8x7M.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1284197507648630785/pu/img/8HV9Vf-KG70F8x7M.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/BEwbOktYtF",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 39293,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1284197507648630785/pu/pl/gTaqND8H2bWuKm7k.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284197507648630785/pu/vid/640x360/amGnctBICVCvxN2B.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284197507648630785/pu/vid/1280x720/AhfEsk8ZnL4XT03N.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1284197507648630785/pu/vid/480x270/kZZSNyFn_MMpm28h.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 859,
+      "favorited": false,
+      "full_text": "Latinos for Trump -Broward Fl , Maga Meet-Ups every Thursday at 7:00 pm 147 Weston Rd Weston Fl 33326 , let\u2019s do a phone bank ,door knocking , Voter Registration  , Latinos for Trump de Broward necesitamos activarnos por campa\u00f1a  de Reelccion del Presidente Trump #MAG #LeadRight https://t.co/BEwbOktYtF",
+      "geo": null,
+      "id": 1284197620005642243,
+      "id_str": "1284197620005642243",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 434,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 07 00:37:23 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Regional  Engagement  Coordinator  - Republican  National  Committee - I believe in family ,faith and free enterprise  . #LeadRight #KAG.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 240,
+        "follow_request_sent": false,
+        "followers_count": 513,
+        "following": false,
+        "friends_count": 355,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 517048056,
+        "id_str": "517048056",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5,
+        "location": "Florida, USA",
+        "name": "Carlos Pereira Trejo",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517048056/1508959148",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1271473191559532544/scamiAiG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271473191559532544/scamiAiG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cpereirafl",
+        "statuses_count": 2400,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1284197620005642243,
+    "quoted_status_id_str": "1284197620005642243",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cpereirafl/sta\u2026",
+      "expanded": "https://twitter.com/cpereirafl/status/1284197620005642243",
+      "url": "https://t.co/TEAnNMgcIc"
+    },
+    "retweet_count": 2391,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 29 18:51:25 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Director of Latinos for Trump at @RealDonaldTrump 2020 Campaign \ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\uddfb",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Latinos.DonaldJTrump.com",
+              "expanded_url": "http://Latinos.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/U9ey7hri8d"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8475,
+      "follow_request_sent": false,
+      "followers_count": 4182,
+      "following": false,
+      "friends_count": 1231,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 902604620043780096,
+      "id_str": "902604620043780096",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 16,
+      "location": "Washington, DC",
+      "name": "Sandra Benitez - Text VAMOS to 88022",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1254164397758578690/Bz3nLcGl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254164397758578690/Bz3nLcGl_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "_Sbenitez",
+      "statuses_count": 2021,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/U9ey7hri8d",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 11:54:41 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 850036892,
+        "id_str": "850036892",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Project Veritas",
+        "screen_name": "Project_Veritas"
+      },
+      {
+        "id": 263269829,
+        "id_str": "263269829",
+        "indices": [
+          113,
+          126
+        ],
+        "name": "Colorado Dems",
+        "screen_name": "coloradodems"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Project_Veritas: He wouldn\u2019t happen to mean illegally harvesting/paying cash for absentee ballots would he?  @coloradodems https://t.co\u2026",
+  "geo": null,
+  "id": 1316709074952769536,
+  "id_str": "1316709074952769536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5553,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 20:19:30 +0000 2020",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/BGyAN0OOLs",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1316472580933550082/video/1",
+          "id": 1316472507222896641,
+          "id_str": "1316472507222896641",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316472507222896641/pu/img/X645q7I2H5LWrX_Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316472507222896641/pu/img/X645q7I2H5LWrX_Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1316472580933550082,
+          "source_status_id_str": "1316472580933550082",
+          "source_user_id": 16989178,
+          "source_user_id_str": "16989178",
+          "type": "photo",
+          "url": "https://t.co/BGyAN0OOLs"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 263269829,
+          "id_str": "263269829",
+          "indices": [
+            92,
+            105
+          ],
+          "name": "Colorado Dems",
+          "screen_name": "coloradodems"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Oct 27 00:38:24 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Guerrilla Journalist. @Project_Veritas On the Inside veritastips@protonmail.com or send us an encrypted Signal message at 914-653-3110.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "projectveritas.com/donate",
+                      "expanded_url": "https://projectveritas.com/donate",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/QqrV2z68s0"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 2486,
+              "follow_request_sent": false,
+              "followers_count": 775922,
+              "following": false,
+              "friends_count": 1312,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 16989178,
+              "id_str": "16989178",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 4665,
+              "location": "New York",
+              "name": "James O'Keefe",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/16989178/1594062563",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303410639264772099/ie5JieKC_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "JamesOKeefeIII",
+              "statuses_count": 16390,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/QqrV2z68s0",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/BGyAN0OOLs",
+          "expanded_url": "https://twitter.com/JamesOKeefeIII/status/1316472580933550082/video/1",
+          "id": 1316472507222896641,
+          "id_str": "1316472507222896641",
+          "indices": [
+            106,
+            129
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316472507222896641/pu/img/X645q7I2H5LWrX_Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316472507222896641/pu/img/X645q7I2H5LWrX_Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1316472580933550082,
+          "source_status_id_str": "1316472580933550082",
+          "source_user_id": 16989178,
+          "source_user_id_str": "16989178",
+          "type": "video",
+          "url": "https://t.co/BGyAN0OOLs",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 14973,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1316472507222896641/pu/vid/320x568/d3sfWd74mivtfinB.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1316472507222896641/pu/vid/360x640/BWiGDfci10PfPKDM.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1316472507222896641/pu/pl/WpakJo6RLWRfRZwl.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1316472507222896641/pu/vid/720x1280/OjRlMO3srqAKXXpd.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10709,
+    "favorited": false,
+    "full_text": "He wouldn\u2019t happen to mean illegally harvesting/paying cash for absentee ballots would he?  @coloradodems https://t.co/BGyAN0OOLs",
+    "geo": null,
+    "id": 1316473730424602626,
+    "id_str": "1316473730424602626",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5553,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 27 22:08:18 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sign up for our dedicated distribution list on our website. Send us tips/become an insider. Secure contact: VeritasTips@protonmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "projectveritas.com",
+              "expanded_url": "http://projectveritas.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/vbnIR2ok0T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2070,
+      "follow_request_sent": false,
+      "followers_count": 655944,
+      "following": false,
+      "friends_count": 864,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 850036892,
+      "id_str": "850036892",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2458,
+      "location": "In a bunker, Greater NYC",
+      "name": "Project Veritas",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/850036892/1594062623",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/974369108321095680/T0_h7cu7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/974369108321095680/T0_h7cu7_normal.jpg",
+      "profile_link_color": "AF965E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Project_Veritas",
+      "statuses_count": 8965,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/vbnIR2ok0T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

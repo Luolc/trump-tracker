@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 16 01:48:18 +0000 2020",
+  "display_text_range": [
+    0,
+    22
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 778763106289758208,
+        "id_str": "778763106289758208",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Jenna Ellis",
+        "screen_name": "JennaEllisEsq"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JennaEllisEsq: \ud83d\udc40\ud83d\udc40\ud83d\udc40",
+  "geo": null,
+  "id": 1306047225689186304,
+  "id_str": "1306047225689186304",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quoted_status_id": 1305706786884902912,
+  "quoted_status_id_str": "1305706786884902912",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trumpwarroom/s\u2026",
+    "expanded": "https://twitter.com/trumpwarroom/status/1305706786884902912",
+    "url": "https://t.co/aohRWaFilS"
+  },
+  "retweet_count": 10897,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 15 03:27:22 +0000 2020",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/trumpwarroom/s\u2026",
+          "expanded_url": "https://twitter.com/trumpwarroom/status/1305706786884902912",
+          "indices": [
+            4,
+            27
+          ],
+          "url": "https://t.co/aohRWaFilS"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 31458,
+    "favorited": false,
+    "full_text": "\ud83d\udc40\ud83d\udc40\ud83d\udc40 https://t.co/aohRWaFilS",
+    "geo": null,
+    "id": 1305709769991303169,
+    "id_str": "1305709769991303169",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 15 03:15:31 +0000 2020",
+      "display_text_range": [
+        0,
+        84
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/XdqyU4Kh6S",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1305706786884902912/video/1",
+            "id": 1305705816427823104,
+            "id_str": "1305705816427823104",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1305705816427823104/img/gzV77v2EMb4mSm9h.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1305705816427823104/img/gzV77v2EMb4mSm9h.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XdqyU4Kh6S"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Kamala Harris talks of \"Harris Administration\" if Joe Biden is elected"
+            },
+            "display_url": "pic.twitter.com/XdqyU4Kh6S",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1305706786884902912/video/1",
+            "id": 1305705816427823104,
+            "id_str": "1305705816427823104",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1305705816427823104/img/gzV77v2EMb4mSm9h.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1305705816427823104/img/gzV77v2EMb4mSm9h.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/XdqyU4Kh6S",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 4105,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1305705816427823104/vid/480x270/DQrwDBnX41q5kiTW.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1305705816427823104/vid/1280x720/kiG69RBG7q7PpHEW.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1305705816427823104/vid/640x360/6JL_DoPC87dwqTi_.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1305705816427823104/pl/ljB6QIr_aC5uG3Dm.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 20519,
+      "favorited": false,
+      "full_text": "Kamala Harris lets the truth slip: \"a Harris Administration together with Joe Biden\" https://t.co/XdqyU4Kh6S",
+      "geo": null,
+      "id": 1305706786884902912,
+      "id_str": "1305706786884902912",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 10092,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 74,
+        "follow_request_sent": false,
+        "followers_count": 831517,
+        "following": false,
+        "friends_count": 269,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2457,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text TRUMP to 88022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 21733,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1305706786884902912,
+    "quoted_status_id_str": "1305706786884902912",
+    "quoted_status_permalink": {
+      "display": "twitter.com/trumpwarroom/s\u2026",
+      "expanded": "https://twitter.com/trumpwarroom/status/1305706786884902912",
+      "url": "https://t.co/aohRWaFilS"
+    },
+    "retweet_count": 10897,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 22 01:09:28 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Constitutional Law Attorney. Senior Legal Adviser @TeamTrump and Counsel to @realDonaldTrump. Senior Fellow @Falkirk_Center. Special Counsel @ThomasMoreSoc.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "http://www.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XjVAWvUQuR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 21077,
+      "follow_request_sent": false,
+      "followers_count": 254979,
+      "following": false,
+      "friends_count": 1266,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 778763106289758208,
+      "id_str": "778763106289758208",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 981,
+      "location": "Washington, DC",
+      "name": "Jenna Ellis",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/778763106289758208/1589341033",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1260413760440852481/shkjK_kv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260413760440852481/shkjK_kv_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JennaEllisEsq",
+      "statuses_count": 22779,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XjVAWvUQuR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86042865,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119683,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600202078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56013,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 10:12:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 223970563,
+        "id_str": "223970563",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Neil Cavuto",
+        "screen_name": "TeamCavuto"
+      },
+      {
+        "id": 816683274076614656,
+        "id_str": "816683274076614656",
+        "indices": [
+          17,
+          32
+        ],
+        "name": "John Kennedy",
+        "screen_name": "SenJohnKennedy"
+      },
+      {
+        "id": 19400611,
+        "id_str": "19400611",
+        "indices": [
+          47,
+          55
+        ],
+        "name": "Charles V Payne",
+        "screen_name": "cvpayne"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TeamCavuto: .@SenJohnKennedy to guest host @cvpayne: Our economy is going to take a short-term hit from the COVID-19 outbreak, but I do\u2026",
+  "geo": null,
+  "id": 1241669084791615488,
+  "id_str": "1241669084791615488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1067,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 10 20:43:49 +0000 2020",
+    "display_text_range": [
+      0,
+      153
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vYMFQL4HDT",
+          "expanded_url": "https://twitter.com/TeamCavuto/status/1237479291639738368/video/1",
+          "id": 1237478150814289920,
+          "id_str": "1237478150814289920",
+          "indices": [
+            154,
+            177
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1237478150814289920/img/bdfEMxG1ZRs9Vy0I.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237478150814289920/img/bdfEMxG1ZRs9Vy0I.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vYMFQL4HDT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 816683274076614656,
+          "id_str": "816683274076614656",
+          "indices": [
+            1,
+            16
+          ],
+          "name": "John Kennedy",
+          "screen_name": "SenJohnKennedy"
+        },
+        {
+          "id": 19400611,
+          "id_str": "19400611",
+          "indices": [
+            31,
+            39
+          ],
+          "name": "Charles V Payne",
+          "screen_name": "cvpayne"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/vYMFQL4HDT",
+          "expanded_url": "https://twitter.com/TeamCavuto/status/1237479291639738368/video/1",
+          "id": 1237478150814289920,
+          "id_str": "1237478150814289920",
+          "indices": [
+            154,
+            177
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1237478150814289920/img/bdfEMxG1ZRs9Vy0I.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1237478150814289920/img/bdfEMxG1ZRs9Vy0I.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/vYMFQL4HDT",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 98132,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1237478150814289920/vid/640x360/uclVZjBXhlmz0Xrh.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1237478150814289920/vid/1280x720/XyQkIIKHQrosa0E1.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1237478150814289920/vid/480x270/sHHA3KlPJ5htOTHV.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1237478150814289920/pl/LQhUOm7J1DaCsH09.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3485,
+    "favorited": false,
+    "full_text": ".@SenJohnKennedy to guest host @cvpayne: Our economy is going to take a short-term hit from the COVID-19 outbreak, but I don't think it will be long-term https://t.co/vYMFQL4HDT",
+    "geo": null,
+    "id": 1237479291639738368,
+    "id_str": "1237479291639738368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1067,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 07 20:30:01 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Official Twitter Account for all things Neil Cavuto, handled by his staff. Catch Neil: M-F 12PM - 2PM ET @FoxBusiness, M-F 4PM ET &\nSat 10AM ET @FoxNews",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/TeamCavuto/",
+              "expanded_url": "https://www.facebook.com/TeamCavuto/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HGcLXVW04g"
+            }
+          ]
+        }
+      },
+      "favourites_count": 76,
+      "follow_request_sent": false,
+      "followers_count": 640792,
+      "following": false,
+      "friends_count": 199,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 223970563,
+      "id_str": "223970563",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3694,
+      "location": "New York, NY",
+      "name": "Neil Cavuto",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/223970563/1516045777",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/493073555685273601/7qDvqpkU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/493073555685273601/7qDvqpkU_normal.jpeg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TeamCavuto",
+      "statuses_count": 10966,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/HGcLXVW04g",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 12:05:26 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 221162525,
+        "id_str": "221162525",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senator Pat Toomey",
+        "screen_name": "SenToomey"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenToomey: I am very grateful to all of those on the frontlines battling against the COVID-19 pandemic. To the doctors, nurses, hospita\u2026",
+  "geo": null,
+  "id": 1268876582552305666,
+  "id_str": "1268876582552305666",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1428,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 17 19:17:06 +0000 2020",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qLEUA1s4t0",
+          "expanded_url": "https://twitter.com/SenToomey/status/1251228208218988549/video/1",
+          "id": 1251225901263716355,
+          "id_str": "1251225901263716355",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV0_mS0X0AE0Ij-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV0_mS0X0AE0Ij-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qLEUA1s4t0"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/qLEUA1s4t0",
+          "expanded_url": "https://twitter.com/SenToomey/status/1251228208218988549/video/1",
+          "id": 1251225901263716355,
+          "id_str": "1251225901263716355",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/EV0_mS0X0AE0Ij-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EV0_mS0X0AE0Ij-.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/qLEUA1s4t0",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 63000,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1251225901263716355/vid/480x270/dDAmz1fyZp5yfsIl.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1251225901263716355/pl/VL1b4SjmQyMmviaH.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1251225901263716355/vid/1280x720/UfFE3osKrc1DQfbp.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1251225901263716355/vid/640x360/ZCY7uHhVD9lE7yS6.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5495,
+    "favorited": false,
+    "full_text": "I am very grateful to all of those on the frontlines battling against the COVID-19 pandemic. To the doctors, nurses, hospitals, emergency responders, and nursing home workers doing so much every day for so many: you are heroes and every Pennsylvanian thanks you. https://t.co/qLEUA1s4t0",
+    "geo": null,
+    "id": 1251228208218988549,
+    "id_str": "1251228208218988549",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1428,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 29 22:32:09 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account for Pat Toomey. Husband. Father. U.S. Senator for Pennsylvania.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "toomey.senate.gov",
+              "expanded_url": "http://toomey.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/7dKjJ0xolY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 255,
+      "follow_request_sent": false,
+      "followers_count": 142094,
+      "following": false,
+      "friends_count": 1035,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 221162525,
+      "id_str": "221162525",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2727,
+      "location": "",
+      "name": "Senator Pat Toomey",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221162525/1434047453",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/574930402214727683/gDu5VqMP_normal.jpeg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "999999",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenToomey",
+      "statuses_count": 5053,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/7dKjJ0xolY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

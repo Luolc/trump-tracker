@@ -1,0 +1,302 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 29 13:09:39 +0000 2020",
+  "display_text_range": [
+    0,
+    102
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/maxwelltani/st\u2026",
+        "expanded_url": "https://twitter.com/maxwelltani/status/1255161727706116096",
+        "indices": [
+          103,
+          126
+        ],
+        "url": "https://t.co/3aUKA4826K"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          36,
+          44
+        ],
+        "name": "The New York Times",
+        "screen_name": "nytimes"
+      },
+      {
+        "id": 2467791,
+        "id_str": "2467791",
+        "indices": [
+          51,
+          66
+        ],
+        "name": "The Washington Post",
+        "screen_name": "washingtonpost"
+      }
+    ]
+  },
+  "favorite_count": 7163,
+  "favorited": false,
+  "full_text": "At least they admit it. The Failing @nytimes &amp; @washingtonpost never correct their Fake Reporting! https://t.co/3aUKA4826K",
+  "geo": null,
+  "id": 1255484391364665351,
+  "id_str": "1255484391364665351",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Apr 28 15:47:30 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qA422JcQop",
+          "expanded_url": "https://twitter.com/maxwelltani/status/1255161727706116096/photo/1",
+          "id": 1255160812865572864,
+          "id_str": "1255160812865572864",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWs6G_LX0AASEBz.png",
+          "media_url_https": "https://pbs.twimg.com/media/EWs6G_LX0AASEBz.png",
+          "sizes": {
+            "large": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "medium": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "small": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qA422JcQop"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "politico.com/news/2020/04/2\u2026",
+          "expanded_url": "https://www.politico.com/news/2020/04/27/politicos-reporting-on-president-trump-and-the-bank-of-china-214107",
+          "indices": [
+            254,
+            277
+          ],
+          "url": "https://t.co/9BFz14JIY7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qA422JcQop",
+          "expanded_url": "https://twitter.com/maxwelltani/status/1255161727706116096/photo/1",
+          "id": 1255160812865572864,
+          "id_str": "1255160812865572864",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWs6G_LX0AASEBz.png",
+          "media_url_https": "https://pbs.twimg.com/media/EWs6G_LX0AASEBz.png",
+          "sizes": {
+            "large": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "medium": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "small": {
+              "h": 547,
+              "resize": "fit",
+              "w": 363
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qA422JcQop"
+        }
+      ]
+    },
+    "favorite_count": 870,
+    "favorited": false,
+    "full_text": "Politico posted a lengthy editor's note explaining errors in a story published last week saying Trump owes millions to the bank of China. EIC Matt Kaminski also sent this note to staff today acknowledging \"we got the premise of our original story wrong\" https://t.co/9BFz14JIY7 https://t.co/qA422JcQop",
+    "geo": null,
+    "id": 1255161727706116096,
+    "id_str": "1255161727706116096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 446,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 10 02:27:04 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "media reporter @thedailybeast maxwell.tani@thedailybeast.com",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 45730,
+      "follow_request_sent": false,
+      "followers_count": 27813,
+      "following": false,
+      "friends_count": 3458,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 2381386813,
+      "id_str": "2381386813",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 642,
+      "location": "New York",
+      "name": "Max Tani",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1166006020017180672/UBz-ze85_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166006020017180672/UBz-ze85_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "maxwelltani",
+      "statuses_count": 13385,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1255161727706116096,
+  "quoted_status_id_str": "1255161727706116096",
+  "quoted_status_permalink": {
+    "display": "twitter.com/maxwelltani/st\u2026",
+    "expanded": "https://twitter.com/maxwelltani/status/1255161727706116096",
+    "url": "https://t.co/3aUKA4826K"
+  },
+  "retweet_count": 2248,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 78926224,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120470,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51039,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

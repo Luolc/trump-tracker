@@ -1,0 +1,453 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:29:43 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 29126313,
+        "id_str": "29126313",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Tyler Norris",
+        "screen_name": "TXTylerNorris"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TXTylerNorris: Mayor who wishes to defund police urges citizens who supposedly hate the police to police the police by calling the poli\u2026",
+  "geo": null,
+  "id": 1286277310501593092,
+  "id_str": "1286277310501593092",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1286052240940302338,
+  "quoted_status_id_str": "1286052240940302338",
+  "quoted_status_permalink": {
+    "display": "twitter.com/breaking911/st\u2026",
+    "expanded": "https://twitter.com/breaking911/status/1286052240940302338",
+    "url": "https://t.co/9PXFy5T29j"
+  },
+  "retweet_count": 8182,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 22 23:14:14 +0000 2020",
+    "display_text_range": [
+      0,
+      208
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/breaking911/st\u2026",
+          "expanded_url": "https://twitter.com/breaking911/status/1286052240940302338",
+          "indices": [
+            209,
+            232
+          ],
+          "url": "https://t.co/9PXFy5T29j"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18960,
+    "favorited": false,
+    "full_text": "Mayor who wishes to defund police urges citizens who supposedly hate the police to police the police by calling the police on the police who have to police the city because she won\u2019t let the police police it. https://t.co/9PXFy5T29j",
+    "geo": null,
+    "id": 1286077122956660737,
+    "id_str": "1286077122956660737",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -96.977527,
+              32.620678
+            ],
+            [
+              -96.54598,
+              32.620678
+            ],
+            [
+              -96.54598,
+              33.019039
+            ],
+            [
+              -96.977527,
+              33.019039
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Dallas, TX",
+      "id": "18810aa5b43e76c7",
+      "name": "Dallas",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 22 21:35:22 +0000 2020",
+      "display_text_range": [
+        0,
+        233
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/99xxAsd6BP",
+            "expanded_url": "https://twitter.com/Breaking911/status/1286052240940302338/video/1",
+            "id": 1286052174108209155,
+            "id_str": "1286052174108209155",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286052174108209155/pu/img/wI-i0MfhkI-6di74.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286052174108209155/pu/img/wI-i0MfhkI-6di74.jpg",
+            "sizes": {
+              "large": {
+                "h": 432,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 432,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/99xxAsd6BP"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/99xxAsd6BP",
+            "expanded_url": "https://twitter.com/Breaking911/status/1286052240940302338/video/1",
+            "id": 1286052174108209155,
+            "id_str": "1286052174108209155",
+            "indices": [
+              234,
+              257
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286052174108209155/pu/img/wI-i0MfhkI-6di74.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286052174108209155/pu/img/wI-i0MfhkI-6di74.jpg",
+            "sizes": {
+              "large": {
+                "h": 432,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 432,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/99xxAsd6BP",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 27733,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286052174108209155/pu/vid/768x432/GR43sAS-gPDlJGw4.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1286052174108209155/pu/pl/WE-_c_qhs9yi-zz5.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286052174108209155/pu/vid/480x270/_1X8DiECz8n_8dJw.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2617,
+      "favorited": false,
+      "full_text": "Chicago Mayor tells citizens to call 911 on federal agents if they \"see something that doesn't look right\"\n\n\"If we see any steps out of line...with DHS or Border Patrol, we are not going to hesitate to take the President to court...\" https://t.co/99xxAsd6BP",
+      "geo": null,
+      "id": 1286052240940302338,
+      "id_str": "1286052240940302338",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1276,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 16:36:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking News, Trending Stories & Everything The Mainstream Media Won\u2019t Report | Turn on notifications & visit https://t.co/RWBI1f2gDw to stay updated",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  111,
+                  134
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 757689,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 375721095,
+        "id_str": "375721095",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4917,
+        "location": "Nashville",
+        "name": "Breaking911",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375721095/1496844300",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Breaking911",
+        "statuses_count": 125,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RWBI1f2gDw",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1286052240940302338,
+    "quoted_status_id_str": "1286052240940302338",
+    "quoted_status_permalink": {
+      "display": "twitter.com/breaking911/st\u2026",
+      "expanded": "https://twitter.com/breaking911/status/1286052240940302338",
+      "url": "https://t.co/9PXFy5T29j"
+    },
+    "retweet_count": 8182,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 06 02:32:56 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "6x #txlege, Cruz 2012, 2016, 2018 Alum. Bitter, bitter clinger. Less \u2260 Fewer.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6325,
+      "follow_request_sent": false,
+      "followers_count": 4012,
+      "following": false,
+      "friends_count": 993,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 29126313,
+      "id_str": "29126313",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 82,
+      "location": "Austin, Texas",
+      "name": "Tyler Norris",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29126313/1464323281",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/943612091201495040/9viAIXCM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/943612091201495040/9viAIXCM_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TXTylerNorris",
+      "statuses_count": 15353,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

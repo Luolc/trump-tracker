@@ -1,0 +1,509 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 22 01:17:21 +0000 2020",
+  "display_text_range": [
+    0,
+    128
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/RTpapzaE9h",
+        "expanded_url": "https://twitter.com/USNavy/status/1263216405379514368/video/1",
+        "id": 1263216304758145025,
+        "id_str": "1263216304758145025",
+        "indices": [
+          105,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1263216405379514368,
+        "source_status_id_str": "1263216405379514368",
+        "source_user_id": 54885400,
+        "source_user_id_str": "54885400",
+        "type": "photo",
+        "url": "https://t.co/RTpapzaE9h"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 54885400,
+        "id_str": "54885400",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "U.S. Navy",
+        "screen_name": "USNavy"
+      },
+      {
+        "id": 89539134,
+        "id_str": "89539134",
+        "indices": [
+          50,
+          61
+        ],
+        "name": "Blue Angels",
+        "screen_name": "BlueAngels"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "navy.mil",
+                    "expanded_url": "http://www.navy.mil",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/NprZCggT1X"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 788,
+            "follow_request_sent": false,
+            "followers_count": 1390927,
+            "following": false,
+            "friends_count": 1210,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 54885400,
+            "id_str": "54885400",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 7345,
+            "location": "The 7 seas!",
+            "name": "U.S. Navy",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1589153173",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1252266129327865856/EWAW3dla_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252266129327865856/EWAW3dla_normal.jpg",
+            "profile_link_color": "2C4D59",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "USNavy",
+            "statuses_count": 29273,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/NprZCggT1X",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/RTpapzaE9h",
+        "expanded_url": "https://twitter.com/USNavy/status/1263216405379514368/video/1",
+        "id": 1263216304758145025,
+        "id_str": "1263216304758145025",
+        "indices": [
+          105,
+          128
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1263216405379514368,
+        "source_status_id_str": "1263216405379514368",
+        "source_user_id": 54885400,
+        "source_user_id_str": "54885400",
+        "type": "video",
+        "url": "https://t.co/RTpapzaE9h",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 30464,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/pl/sZK79h7RKPXY-ZQu.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/480x270/zgiGv0pDvzWYLGTl.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/1280x720/2u6OmKzQxdcnmFy5.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/640x360/Lf6T56OWgtMXcLtp.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USNavy: Take a look inside the cockpit of the @BlueAngels as they zoom over the USS Harry S. Truman! https://t.co/RTpapzaE9h",
+  "geo": null,
+  "id": 1263640058218807298,
+  "id_str": "1263640058218807298",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8064,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed May 20 21:13:55 +0000 2020",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/RTpapzaE9h",
+          "expanded_url": "https://twitter.com/USNavy/status/1263216405379514368/video/1",
+          "id": 1263216304758145025,
+          "id_str": "1263216304758145025",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/RTpapzaE9h"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 89539134,
+          "id_str": "89539134",
+          "indices": [
+            38,
+            49
+          ],
+          "name": "Blue Angels",
+          "screen_name": "BlueAngels"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/RTpapzaE9h",
+          "expanded_url": "https://twitter.com/USNavy/status/1263216405379514368/video/1",
+          "id": 1263216304758145025,
+          "id_str": "1263216304758145025",
+          "indices": [
+            93,
+            116
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263216304758145025/pu/img/iUZuVWiRFOPS3tHU.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/RTpapzaE9h",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30464,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/pl/sZK79h7RKPXY-ZQu.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/480x270/zgiGv0pDvzWYLGTl.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/1280x720/2u6OmKzQxdcnmFy5.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1263216304758145025/pu/vid/640x360/Lf6T56OWgtMXcLtp.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27994,
+    "favorited": false,
+    "full_text": "Take a look inside the cockpit of the @BlueAngels as they zoom over the USS Harry S. Truman! https://t.co/RTpapzaE9h",
+    "geo": null,
+    "id": 1263216405379514368,
+    "id_str": "1263216405379514368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8064,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 08 12:51:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the #USNavy. (Following, RTs and links \u2260 endorsement)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navy.mil",
+              "expanded_url": "http://www.navy.mil",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NprZCggT1X"
+            }
+          ]
+        }
+      },
+      "favourites_count": 788,
+      "follow_request_sent": false,
+      "followers_count": 1390927,
+      "following": false,
+      "friends_count": 1210,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 54885400,
+      "id_str": "54885400",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7345,
+      "location": "The 7 seas!",
+      "name": "U.S. Navy",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/54885400/1589153173",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1252266129327865856/EWAW3dla_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1252266129327865856/EWAW3dla_normal.jpg",
+      "profile_link_color": "2C4D59",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USNavy",
+      "statuses_count": 29273,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NprZCggT1X",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80132231,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113499,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51869,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

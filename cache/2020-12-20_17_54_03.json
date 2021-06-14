@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 20 17:54:03 +0000 2020",
+  "display_text_range": [
+    0,
+    63
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/eQifzggidI",
+        "expanded_url": "https://twitter.com/LawrenceSellin/status/1339162498499428353/video/1",
+        "id": 1339162101613355016,
+        "id_str": "1339162101613355016",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1339162498499428353,
+        "source_status_id_str": "1339162498499428353",
+        "source_user_id": 761597234530152450,
+        "source_user_id_str": "761597234530152450",
+        "type": "photo",
+        "url": "https://t.co/eQifzggidI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2873829677,
+        "id_str": "2873829677",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "President-Elect Maria Sederholm",
+        "screen_name": "Wordofbeak"
+      },
+      {
+        "id": 177927463,
+        "id_str": "177927463",
+        "indices": [
+          16,
+          24
+        ],
+        "name": "Michigan Department of State",
+        "screen_name": "MichSoS"
+      },
+      {
+        "id": 19211550,
+        "id_str": "19211550",
+        "indices": [
+          25,
+          39
+        ],
+        "name": "Jim Hoft",
+        "screen_name": "gatewaypundit"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Aug 05 16:18:25 +0000 2016",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "International IT and pharmaceutical industries, medical research, retired US Army Reserve Colonel, veteran of Afghanistan and Iraq",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 2,
+            "follow_request_sent": false,
+            "followers_count": 61166,
+            "following": false,
+            "friends_count": 0,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 761597234530152450,
+            "id_str": "761597234530152450",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 181,
+            "location": "",
+            "name": "Lawrence Sellin",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/928962567321595904/41pkt790_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/928962567321595904/41pkt790_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LawrenceSellin",
+            "statuses_count": 444,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/eQifzggidI",
+        "expanded_url": "https://twitter.com/LawrenceSellin/status/1339162498499428353/video/1",
+        "id": 1339162101613355016,
+        "id_str": "1339162101613355016",
+        "indices": [
+          40,
+          63
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1339162498499428353,
+        "source_status_id_str": "1339162498499428353",
+        "source_user_id": 761597234530152450,
+        "source_user_id_str": "761597234530152450",
+        "type": "video",
+        "url": "https://t.co/eQifzggidI",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 51633,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/640x360/cEfIeFlpMq9AepO7.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/1280x720/91Pu7PhZX8XeRwta.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/480x270/FrYoFlUzKe81aP_I.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/pl/Yq-_Jty_7g5bHchQ.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Wordofbeak: @MichSoS @gatewaypundit https://t.co/eQifzggidI",
+  "geo": null,
+  "id": 1340717113380618242,
+  "id_str": "1340717113380618242",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 18379,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Dec 20 14:13:16 +0000 2020",
+    "display_text_range": [
+      24,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eQifzggidI",
+          "expanded_url": "https://twitter.com/LawrenceSellin/status/1339162498499428353/video/1",
+          "id": 1339162101613355016,
+          "id_str": "1339162101613355016",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1339162498499428353,
+          "source_status_id_str": "1339162498499428353",
+          "source_user_id": 761597234530152450,
+          "source_user_id_str": "761597234530152450",
+          "type": "photo",
+          "url": "https://t.co/eQifzggidI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 177927463,
+          "id_str": "177927463",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "Michigan Department of State",
+          "screen_name": "MichSoS"
+        },
+        {
+          "id": 19211550,
+          "id_str": "19211550",
+          "indices": [
+            9,
+            23
+          ],
+          "name": "Jim Hoft",
+          "screen_name": "gatewaypundit"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Aug 05 16:18:25 +0000 2016",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "International IT and pharmaceutical industries, medical research, retired US Army Reserve Colonel, veteran of Afghanistan and Iraq",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 2,
+              "follow_request_sent": false,
+              "followers_count": 61166,
+              "following": false,
+              "friends_count": 0,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 761597234530152450,
+              "id_str": "761597234530152450",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 181,
+              "location": "",
+              "name": "Lawrence Sellin",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_image_url": "http://pbs.twimg.com/profile_images/928962567321595904/41pkt790_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/928962567321595904/41pkt790_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "LawrenceSellin",
+              "statuses_count": 444,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/eQifzggidI",
+          "expanded_url": "https://twitter.com/LawrenceSellin/status/1339162498499428353/video/1",
+          "id": 1339162101613355016,
+          "id_str": "1339162101613355016",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339162101613355016/pu/img/9aFcPNfQYZQEAsP5.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1339162498499428353,
+          "source_status_id_str": "1339162498499428353",
+          "source_user_id": 761597234530152450,
+          "source_user_id_str": "761597234530152450",
+          "type": "video",
+          "url": "https://t.co/eQifzggidI",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 51633,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/640x360/cEfIeFlpMq9AepO7.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/1280x720/91Pu7PhZX8XeRwta.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/vid/480x270/FrYoFlUzKe81aP_I.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1339162101613355016/pu/pl/Yq-_Jty_7g5bHchQ.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 48677,
+    "favorited": false,
+    "full_text": "@MichSoS @gatewaypundit https://t.co/eQifzggidI",
+    "geo": null,
+    "id": 1340661548914765824,
+    "id_str": "1340661548914765824",
+    "in_reply_to_screen_name": "MichSoS",
+    "in_reply_to_status_id": 1340081158302928897,
+    "in_reply_to_status_id_str": "1340081158302928897",
+    "in_reply_to_user_id": 177927463,
+    "in_reply_to_user_id_str": "177927463",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18379,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 12 15:07:47 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "\"Don\u2019t walk in front of me\u2026 I may not follow. Don\u2019t walk behind me\u2026 I may not lead. Walk beside me\u2026 just be my friend\" - Albert Camus",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 180851,
+      "follow_request_sent": false,
+      "followers_count": 5224,
+      "following": false,
+      "friends_count": 3298,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2873829677,
+      "id_str": "2873829677",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 28,
+      "location": "",
+      "name": "President-Elect Maria Sederholm",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2873829677/1533051614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1176084918516047873/6BuAxsJw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176084918516047873/6BuAxsJw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Wordofbeak",
+      "statuses_count": 98081,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88586874,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125992,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59300,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

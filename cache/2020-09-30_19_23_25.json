@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 30 19:23:25 +0000 2020",
+  "display_text_range": [
+    0,
+    103
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/johnkartch/sta\u2026",
+        "expanded_url": "https://twitter.com/johnkartch/status/1300620269489393672",
+        "indices": [
+          80,
+          103
+        ],
+        "url": "https://t.co/8b8xIoIKQV"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 16045956,
+        "id_str": "16045956",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Grover Norquist",
+        "screen_name": "GroverNorquist"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GroverNorquist: Video: Yes, Biden will ban fracking.\nHe admits it on camera https://t.co/8b8xIoIKQV",
+  "geo": null,
+  "id": 1311386184862461952,
+  "id_str": "1311386184862461952",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1300620269489393672,
+  "quoted_status_id_str": "1300620269489393672",
+  "quoted_status_permalink": {
+    "display": "twitter.com/johnkartch/sta\u2026",
+    "expanded": "https://twitter.com/johnkartch/status/1300620269489393672",
+    "url": "https://t.co/8b8xIoIKQV"
+  },
+  "retweet_count": 11904,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 10:49:36 +0000 2020",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/johnkartch/sta\u2026",
+          "expanded_url": "https://twitter.com/johnkartch/status/1300620269489393672",
+          "indices": [
+            60,
+            83
+          ],
+          "url": "https://t.co/8b8xIoIKQV"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 26190,
+    "favorited": false,
+    "full_text": "Video: Yes, Biden will ban fracking.\nHe admits it on camera https://t.co/8b8xIoIKQV",
+    "geo": null,
+    "id": 1311256880346550273,
+    "id_str": "1311256880346550273",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Sep 01 02:23:31 +0000 2020",
+      "display_text_range": [
+        0,
+        29
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/KBLHnJidRr",
+            "expanded_url": "https://twitter.com/johnkartch/status/1300620269489393672/video/1",
+            "id": 1300620082444460033,
+            "id_str": "1300620082444460033",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300620082444460033/pu/img/bvO46QAR-t9Zc24X.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300620082444460033/pu/img/bvO46QAR-t9Zc24X.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/KBLHnJidRr"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/KBLHnJidRr",
+            "expanded_url": "https://twitter.com/johnkartch/status/1300620269489393672/video/1",
+            "id": 1300620082444460033,
+            "id_str": "1300620082444460033",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1300620082444460033/pu/img/bvO46QAR-t9Zc24X.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1300620082444460033/pu/img/bvO46QAR-t9Zc24X.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/KBLHnJidRr",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 57424,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300620082444460033/pu/vid/640x360/RfJqDproPWvE1LLn.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300620082444460033/pu/vid/1280x720/1_abJP9BAT36zDDH.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1300620082444460033/pu/pl/O6yUHQUWXHzTlypB.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1300620082444460033/pu/vid/480x270/bBbm3sfTCwg5iBAp.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4547,
+      "favorited": false,
+      "full_text": "Yes, Biden will ban fracking: https://t.co/KBLHnJidRr",
+      "geo": null,
+      "id": 1300620269489393672,
+      "id_str": "1300620269489393672",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2640,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 15 20:22:23 +0000 2008",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Tracking all of Biden's tax hikes at https://t.co/mb7LLEakQC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "atr.org/HighTaxJoe",
+                "expanded_url": "http://www.atr.org/HighTaxJoe",
+                "indices": [
+                  37,
+                  60
+                ],
+                "url": "https://t.co/mb7LLEakQC"
+              }
+            ]
+          }
+        },
+        "favourites_count": 69,
+        "follow_request_sent": false,
+        "followers_count": 3021,
+        "following": false,
+        "friends_count": 1717,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 16793287,
+        "id_str": "16793287",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 80,
+        "location": "",
+        "name": "John Kartch",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16793287/1601496526",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/421651810865393665/jqdZe-q9_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/421651810865393665/jqdZe-q9_normal.jpeg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "johnkartch",
+        "statuses_count": 9013,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1300620269489393672,
+    "quoted_status_id_str": "1300620269489393672",
+    "quoted_status_permalink": {
+      "display": "twitter.com/johnkartch/sta\u2026",
+      "expanded": "https://twitter.com/johnkartch/status/1300620269489393672",
+      "url": "https://t.co/8b8xIoIKQV"
+    },
+    "retweet_count": 11904,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 29 19:03:25 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President, Americans for Tax Reform. Husband. Father of two young ladies.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "atr.org",
+              "expanded_url": "http://www.atr.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ytVyqGzkLj"
+            }
+          ]
+        }
+      },
+      "favourites_count": 719,
+      "follow_request_sent": false,
+      "followers_count": 75178,
+      "following": false,
+      "friends_count": 1956,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 16045956,
+      "id_str": "16045956",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1944,
+      "location": "Washington D.C. ",
+      "name": "Grover Norquist",
+      "notifications": false,
+      "profile_background_color": "D1D1D3",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16045956/1520930180",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/59118411/NEWINGTONphotography3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/59118411/NEWINGTONphotography3_normal.jpg",
+      "profile_link_color": "FF0000",
+      "profile_sidebar_border_color": "787878",
+      "profile_sidebar_fill_color": "000032",
+      "profile_text_color": "787878",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GroverNorquist",
+      "statuses_count": 43130,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ytVyqGzkLj",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86455431,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120153,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56564,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

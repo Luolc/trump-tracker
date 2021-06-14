@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 11:51:15 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          40,
+          46
+        ],
+        "text": "cyber"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1096059529,
+        "id_str": "1096059529",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Jim Risch",
+        "screen_name": "SenatorRisch"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorRisch: Our nation needs more #cyber professionals. Congratulations to the three teams of coders from Skyline HS, Centennial HS,\u2026",
+  "geo": null,
+  "id": 1268873012947935239,
+  "id_str": "1268873012947935239",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1267833613464158208,
+  "quoted_status_id_str": "1267833613464158208",
+  "quoted_status_permalink": {
+    "display": "twitter.com/INL/status/126\u2026",
+    "expanded": "https://twitter.com/INL/status/1267833613464158208",
+    "url": "https://t.co/PFfeQ88uOH"
+  },
+  "retweet_count": 1596,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 14:52:31 +0000 2020",
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            28
+          ],
+          "text": "cyber"
+        },
+        {
+          "indices": [
+            220,
+            232
+          ],
+          "text": "WomenInSTEM"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/INL/status/126\u2026",
+          "expanded_url": "https://twitter.com/INL/status/1267833613464158208",
+          "indices": [
+            233,
+            256
+          ],
+          "url": "https://t.co/PFfeQ88uOH"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 6134,
+    "favorited": false,
+    "full_text": "Our nation needs more #cyber professionals. Congratulations to the three teams of coders from Skyline HS, Centennial HS, and Meridian Technical Charter HS who placed in the Top 30 at the Girls Go CyberStart competition! #WomenInSTEM https://t.co/PFfeQ88uOH",
+    "geo": null,
+    "id": 1268193852906749957,
+    "id_str": "1268193852906749957",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jun 02 15:01:03 +0000 2020",
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              16,
+              22
+            ],
+            "text": "Idaho"
+          },
+          {
+            "indices": [
+              125,
+              139
+            ],
+            "text": "cybersecurity"
+          },
+          {
+            "indices": [
+              140,
+              147
+            ],
+            "text": "coding"
+          },
+          {
+            "indices": [
+              148,
+              160
+            ],
+            "text": "womeninSTEM"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7Wyl8QKcK7",
+            "expanded_url": "https://twitter.com/INL/status/1267833613464158208/photo/1",
+            "id": 1267833538503512065,
+            "id_str": "1267833538503512065",
+            "indices": [
+              192,
+              215
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZg_4tDUEAE00hF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZg_4tDUEAE00hF.jpg",
+            "sizes": {
+              "large": {
+                "h": 960,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7Wyl8QKcK7"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "postregister.com/news/education\u2026",
+            "expanded_url": "https://www.postregister.com/news/education/skyline-girls-make-top-30-in-national-coding-contest/article_ae544be8-6988-5005-91e0-0ea0a5ee88d5.html",
+            "indices": [
+              100,
+              123
+            ],
+            "url": "https://t.co/N94E0OkKKH"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 950726233796562944,
+            "id_str": "950726233796562944",
+            "indices": [
+              161,
+              174
+            ],
+            "name": "Girls Go CyberStart",
+            "screen_name": "GGCyberStart"
+          },
+          {
+            "id": 2986015669,
+            "id_str": "2986015669",
+            "indices": [
+              175,
+              191
+            ],
+            "name": "Post Register",
+            "screen_name": "ThePostRegister"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7Wyl8QKcK7",
+            "expanded_url": "https://twitter.com/INL/status/1267833613464158208/photo/1",
+            "id": 1267833538503512065,
+            "id_str": "1267833538503512065",
+            "indices": [
+              192,
+              215
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZg_4tDUEAE00hF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZg_4tDUEAE00hF.jpg",
+            "sizes": {
+              "large": {
+                "h": 960,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7Wyl8QKcK7"
+          }
+        ]
+      },
+      "favorite_count": 68,
+      "favorited": false,
+      "full_text": "Congrats to the #Idaho high schools that competed in the national Girls Go CyberStart competition!\n\nhttps://t.co/N94E0OkKKH\n\n#cybersecurity #coding #womeninSTEM @GGCyberStart @ThePostRegister https://t.co/7Wyl8QKcK7",
+      "geo": null,
+      "id": 1267833613464158208,
+      "id_str": "1267833613464158208",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 34,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 23 15:53:26 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The nation's nuclear energy research laboratory. (RTs are not endorsements)",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inl.gov",
+                "expanded_url": "http://www.inl.gov",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/PKlBdqGyPw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5201,
+        "follow_request_sent": false,
+        "followers_count": 22947,
+        "following": false,
+        "friends_count": 1497,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 16929108,
+        "id_str": "16929108",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 722,
+        "location": "Idaho Falls, ID",
+        "name": "Idaho National Lab",
+        "notifications": false,
+        "profile_background_color": "ABB8C2",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16929108/1518729055",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1090393889704497152/jPoZdhuD_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090393889704497152/jPoZdhuD_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "005B97",
+        "profile_sidebar_fill_color": "E7EFF4",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "INL",
+        "statuses_count": 11207,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/PKlBdqGyPw",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267833613464158208,
+    "quoted_status_id_str": "1267833613464158208",
+    "quoted_status_permalink": {
+      "display": "twitter.com/INL/status/126\u2026",
+      "expanded": "https://twitter.com/INL/status/1267833613464158208",
+      "url": "https://t.co/PFfeQ88uOH"
+    },
+    "retweet_count": 1596,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 16 18:58:23 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for Idaho",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "risch.senate.gov",
+              "expanded_url": "http://risch.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QMGG1eEAGz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 399,
+      "follow_request_sent": false,
+      "followers_count": 98160,
+      "following": false,
+      "friends_count": 321,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1096059529,
+      "id_str": "1096059529",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1598,
+      "location": "Boise",
+      "name": "Jim Risch",
+      "notifications": false,
+      "profile_background_color": "1717EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096059529/1587994038",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+      "profile_link_color": "C71414",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorRisch",
+      "statuses_count": 2100,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QMGG1eEAGz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

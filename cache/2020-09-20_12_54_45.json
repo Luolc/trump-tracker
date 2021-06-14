@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 20 12:54:45 +0000 2020",
+  "display_text_range": [
+    0,
+    64
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/therecount/sta\u2026",
+        "expanded_url": "https://twitter.com/therecount/status/1305890820659216384",
+        "indices": [
+          65,
+          88
+        ],
+        "url": "https://t.co/ml7zONzYVb"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 26644,
+  "favorited": false,
+  "full_text": "Jim, to late to take it back. Stay with the truth, no pandering! https://t.co/ml7zONzYVb",
+  "geo": null,
+  "id": 1307664492982132739,
+  "id_str": "1307664492982132739",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 15 15:26:48 +0000 2020",
+    "display_text_range": [
+      0,
+      201
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4k2Cw5WL0d",
+          "expanded_url": "https://twitter.com/therecount/status/1305890820659216384/video/1",
+          "id": 1305890638009954304,
+          "id_str": "1305890638009954304",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eh_fZNHXYAAcjNQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eh_fZNHXYAAcjNQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/4k2Cw5WL0d"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Jim Cramer Calls Speaker Pelosi \"Crazy Nancy\""
+          },
+          "display_url": "pic.twitter.com/4k2Cw5WL0d",
+          "expanded_url": "https://twitter.com/therecount/status/1305890820659216384/video/1",
+          "id": 1305890638009954304,
+          "id_str": "1305890638009954304",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eh_fZNHXYAAcjNQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eh_fZNHXYAAcjNQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/4k2Cw5WL0d",
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              5
+            ],
+            "duration_millis": 18400,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305890638009954304/vid/576x360/QSOJOFailGr0OJur.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305890638009954304/vid/1152x720/tJpr3mM2pFISzS8N.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305890638009954304/vid/432x270/DdlMZ84eCPJl0t0G.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1305890638009954304/pl/g6PPsZK2jZL_UGD_.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 39319,
+    "favorited": false,
+    "full_text": "Jim Cramer: \u201cWhat deal can we have, Crazy Nancy? I\u2019m sorry, that was the president. I have such reverence for the office. I would never use that term ...\u201d\n\nPelosi: \u201cBut you just did. But you just did.\u201d https://t.co/4k2Cw5WL0d",
+    "geo": null,
+    "id": 1305890820659216384,
+    "id_str": "1305890820659216384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12782,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 21 16:04:27 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "We watch the news all day so you don\u2019t have to.\n\nFollow The Recount, download our app & subscribe to our newsletter.\n\n\ud83d\udce9 info@therecount.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "therecount.com",
+              "expanded_url": "https://therecount.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bJMHwOnW8M"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7343,
+      "follow_request_sent": false,
+      "followers_count": 253818,
+      "following": false,
+      "friends_count": 633,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1087380412089987077,
+      "id_str": "1087380412089987077",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1108,
+      "location": "New York, NY",
+      "name": "The Recount",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087380412089987077/1600093670",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1155905677094731777/19WoFsvO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "therecount",
+      "statuses_count": 7926,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bJMHwOnW8M",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1305890820659216384,
+  "quoted_status_id_str": "1305890820659216384",
+  "quoted_status_permalink": {
+    "display": "twitter.com/therecount/sta\u2026",
+    "expanded": "https://twitter.com/therecount/status/1305890820659216384",
+    "url": "https://t.co/ml7zONzYVb"
+  },
+  "retweet_count": 6285,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86136466,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600567374",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56126,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

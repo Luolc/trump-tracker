@@ -1,0 +1,302 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 20 04:43:20 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          44,
+          52
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 13218102,
+        "id_str": "13218102",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Senator John Cornyn",
+        "screen_name": "JohnCornyn"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JohnCornyn: Do you know the symptoms of #COVID19? Difficulty breathing, persistent pain or pressure in the chest, confusion, bluish lip\u2026",
+  "geo": null,
+  "id": 1240861459053248512,
+  "id_str": "1240861459053248512",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1823,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 17:19:04 +0000 2020",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            28,
+            36
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fXxi6dXFLb",
+          "expanded_url": "https://twitter.com/JohnCornyn/status/1239964479544156161/photo/1",
+          "id": 1239964473961500673,
+          "id_str": "1239964473961500673",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETU9HpSUUAEzav6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETU9HpSUUAEzav6.jpg",
+          "sizes": {
+            "large": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fXxi6dXFLb"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "cdc.gov/coronavirus/20\u2026",
+          "expanded_url": "https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html",
+          "indices": [
+            253,
+            276
+          ],
+          "url": "https://t.co/XDuQj6AizN"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 146569971,
+          "id_str": "146569971",
+          "indices": [
+            154,
+            161
+          ],
+          "name": "CDC",
+          "screen_name": "CDCgov"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fXxi6dXFLb",
+          "expanded_url": "https://twitter.com/JohnCornyn/status/1239964479544156161/photo/1",
+          "id": 1239964473961500673,
+          "id_str": "1239964473961500673",
+          "indices": [
+            277,
+            300
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETU9HpSUUAEzav6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETU9HpSUUAEzav6.jpg",
+          "sizes": {
+            "large": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 600,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/fXxi6dXFLb"
+        }
+      ]
+    },
+    "favorite_count": 4055,
+    "favorited": false,
+    "full_text": "Do you know the symptoms of #COVID19? Difficulty breathing, persistent pain or pressure in the chest, confusion, bluish lips or face, fever, &amp; cough. @CDCgov has a full list of symptoms and you should call your doctor if you are experiencing these. https://t.co/XDuQj6AizN https://t.co/fXxi6dXFLb",
+    "geo": null,
+    "id": 1239964479544156161,
+    "id_str": "1239964479544156161",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1823,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 07 19:52:55 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mainly news I find interesting, pics, and opinions. Honored to represent the great state of Texas in the US Senate. RTs =/= endorsements",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 85,
+      "follow_request_sent": false,
+      "followers_count": 262324,
+      "following": false,
+      "friends_count": 11852,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 13218102,
+      "id_str": "13218102",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5527,
+      "location": "Austin, Texas",
+      "name": "Senator John Cornyn",
+      "notifications": false,
+      "profile_background_color": "71829E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13218102/1584541403",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1196081472509227008/SKoValQ9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196081472509227008/SKoValQ9_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "002D62",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "002D62",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JohnCornyn",
+      "statuses_count": 35083,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74480233,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117011,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49969,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

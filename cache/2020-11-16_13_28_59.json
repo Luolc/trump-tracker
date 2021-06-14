@@ -1,0 +1,504 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 16 13:28:59 +0000 2020",
+  "display_text_range": [
+    0,
+    112
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          71,
+          88
+        ],
+        "text": "MillionMAGAMarch"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/ajE6l8QgjU",
+        "expanded_url": "https://twitter.com/AndrewPollackFL/status/1327771648385232897/video/1",
+        "id": 1327771591955116033,
+        "id_str": "1327771591955116033",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327771648385232897,
+        "source_status_id_str": "1327771648385232897",
+        "source_user_id": 983766825610694656,
+        "source_user_id_str": "983766825610694656",
+        "type": "photo",
+        "url": "https://t.co/ajE6l8QgjU"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 983766825610694656,
+        "id_str": "983766825610694656",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Andrew Pollack",
+        "screen_name": "AndrewPollackFL"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Apr 10 18:01:03 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Official Account of Andrew Pollack | Father of Meadow, @PollackHunter and @HuckPollack | Author of \"Why Meadow Died\"",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "schoolsafetygrant.org",
+                    "expanded_url": "http://schoolsafetygrant.org",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/XzEoW1eXsy"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 5334,
+            "follow_request_sent": false,
+            "followers_count": 251085,
+            "following": false,
+            "friends_count": 526,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 983766825610694656,
+            "id_str": "983766825610694656",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 455,
+            "location": "United States",
+            "name": "Andrew Pollack",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/983766825610694656/1523384042",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/998212492726681602/87xIwho0_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/998212492726681602/87xIwho0_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AndrewPollackFL",
+            "statuses_count": 4857,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/XzEoW1eXsy",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/ajE6l8QgjU",
+        "expanded_url": "https://twitter.com/AndrewPollackFL/status/1327771648385232897/video/1",
+        "id": 1327771591955116033,
+        "id_str": "1327771591955116033",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+        "sizes": {
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 675
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327771648385232897,
+        "source_status_id_str": "1327771648385232897",
+        "source_user_id": 983766825610694656,
+        "source_user_id_str": "983766825610694656",
+        "type": "video",
+        "url": "https://t.co/ajE6l8QgjU",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 11800,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/320x568/X5PF1Hwz_FoeIks6.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/720x1280/DIZ2eKaKoLrsPEVA.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/360x640/7Dm3QxGSj4g7UgoS.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/pl/WxSuIVqV-bAohB_A.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AndrewPollackFL: Would you ever hear Biden supporters saying this? #MillionMAGAMarch https://t.co/ajE6l8QgjU",
+  "geo": null,
+  "id": 1328329217910726659,
+  "id_str": "1328329217910726659",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 4779,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 15 00:33:24 +0000 2020",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            50,
+            67
+          ],
+          "text": "MillionMAGAMarch"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ajE6l8QgjU",
+          "expanded_url": "https://twitter.com/AndrewPollackFL/status/1327771648385232897/video/1",
+          "id": 1327771591955116033,
+          "id_str": "1327771591955116033",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ajE6l8QgjU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ajE6l8QgjU",
+          "expanded_url": "https://twitter.com/AndrewPollackFL/status/1327771648385232897/video/1",
+          "id": 1327771591955116033,
+          "id_str": "1327771591955116033",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327771591955116033/pu/img/d13SR7kAadSda6Ti.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ajE6l8QgjU",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 11800,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/320x568/X5PF1Hwz_FoeIks6.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/720x1280/DIZ2eKaKoLrsPEVA.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/vid/360x640/7Dm3QxGSj4g7UgoS.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1327771591955116033/pu/pl/WxSuIVqV-bAohB_A.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 16355,
+    "favorited": false,
+    "full_text": "Would you ever hear Biden supporters saying this? #MillionMAGAMarch https://t.co/ajE6l8QgjU",
+    "geo": null,
+    "id": 1327771648385232897,
+    "id_str": "1327771648385232897",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4779,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 10 18:01:03 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official Account of Andrew Pollack | Father of Meadow, @PollackHunter and @HuckPollack | Author of \"Why Meadow Died\"",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "schoolsafetygrant.org",
+              "expanded_url": "http://schoolsafetygrant.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XzEoW1eXsy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5334,
+      "follow_request_sent": false,
+      "followers_count": 251085,
+      "following": false,
+      "friends_count": 526,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 983766825610694656,
+      "id_str": "983766825610694656",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 455,
+      "location": "United States",
+      "name": "Andrew Pollack",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/983766825610694656/1523384042",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/998212492726681602/87xIwho0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/998212492726681602/87xIwho0_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AndrewPollackFL",
+      "statuses_count": 4857,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XzEoW1eXsy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88955435,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124912,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58480,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

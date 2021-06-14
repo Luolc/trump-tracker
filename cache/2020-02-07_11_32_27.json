@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 07 11:32:27 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78523300,
+        "id_str": "78523300",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "James Woods",
+        "screen_name": "RealJamesWoods"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealJamesWoods: I\u2019ve tried so hard this past year to live without the wealth of knowledge available on Twitter, but this kind of blazin\u2026",
+  "geo": null,
+  "id": 1225744125846327308,
+  "id_str": "1225744125846327308",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 39044,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 03:32:31 +0000 2020",
+    "display_text_range": [
+      0,
+      211
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            172,
+            187
+          ],
+          "text": "AOCStillAMoron"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kB0oDXmArB",
+          "expanded_url": "https://twitter.com/realDailyWire/status/1225526569239752717/video/1",
+          "id": 1225526510943121421,
+          "id_str": "1225526510943121421",
+          "indices": [
+            188,
+            211
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225526510943121421/pu/img/UZEJwnI6PvEBg3qC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225526510943121421/pu/img/UZEJwnI6PvEBg3qC.jpg",
+          "sizes": {
+            "large": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "medium": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "small": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1225526569239752717,
+          "source_status_id_str": "1225526569239752717",
+          "source_user_id": 4081106480,
+          "source_user_id_str": "4081106480",
+          "type": "photo",
+          "url": "https://t.co/kB0oDXmArB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Oct 31 15:42:25 +0000 2015",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Official Twitter feed of The Daily Wire. Support@DailyWire.com for assistance.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "dailywire.com",
+                      "expanded_url": "http://www.dailywire.com/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/xXNB0f3lRx"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 10060,
+              "follow_request_sent": false,
+              "followers_count": 377430,
+              "following": false,
+              "friends_count": 3700,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 4081106480,
+              "id_str": "4081106480",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2242,
+              "location": "California, USA",
+              "name": "The Daily Wire",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/4081106480/1502467736",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1050885601778528256/MyEPKgfM_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1050885601778528256/MyEPKgfM_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "realDailyWire",
+              "statuses_count": 111364,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/xXNB0f3lRx",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/kB0oDXmArB",
+          "expanded_url": "https://twitter.com/realDailyWire/status/1225526569239752717/video/1",
+          "id": 1225526510943121421,
+          "id_str": "1225526510943121421",
+          "indices": [
+            188,
+            211
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225526510943121421/pu/img/UZEJwnI6PvEBg3qC.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225526510943121421/pu/img/UZEJwnI6PvEBg3qC.jpg",
+          "sizes": {
+            "large": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "medium": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "small": {
+              "h": 472,
+              "resize": "fit",
+              "w": 652
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1225526569239752717,
+          "source_status_id_str": "1225526569239752717",
+          "source_user_id": 4081106480,
+          "source_user_id_str": "4081106480",
+          "type": "video",
+          "url": "https://t.co/kB0oDXmArB",
+          "video_info": {
+            "aspect_ratio": [
+              163,
+              118
+            ],
+            "duration_millis": 21538,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1225526510943121421/pu/vid/652x472/BFBigAS8uaOB0JjS.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1225526510943121421/pu/vid/372x270/52UpSGzgJ7KdTYsT.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1225526510943121421/pu/pl/we9_oaU89M8PbyHT.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 156918,
+    "favorited": false,
+    "full_text": "I\u2019ve tried so hard this past year to live without the wealth of knowledge available on Twitter, but this kind of blazing insight can be found nowhere else, so... I\u2019m back! #AOCStillAMoron https://t.co/kB0oDXmArB",
+    "geo": null,
+    "id": 1225623348748546049,
+    "id_str": "1225623348748546049",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 39044,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 30 05:31:28 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#Socialism is a cancer. Every nation that has embraced it has inevitably rotted from within. Don\u2019t be fooled by nitwits. Nothing is \u201cfree.\u201d #GodBlessAmerica",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 7820,
+      "follow_request_sent": false,
+      "followers_count": 2183140,
+      "following": false,
+      "friends_count": 5007,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 78523300,
+      "id_str": "78523300",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8897,
+      "location": "",
+      "name": "James Woods",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78523300/1581096605",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealJamesWoods",
+      "statuses_count": 28512,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72296337,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114335,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48775,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

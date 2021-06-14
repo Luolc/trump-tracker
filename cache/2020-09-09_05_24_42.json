@@ -1,0 +1,435 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 09 05:24:42 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 35218566,
+        "id_str": "35218566",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Ari Fleischer",
+        "screen_name": "AriFleischer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AriFleischer: I hope the press digs into this.  Did Biden really have the answer to this Q pre-loaded into his teleprompter?  This is w\u2026",
+  "geo": null,
+  "id": 1303564970051895302,
+  "id_str": "1303564970051895302",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1303075086166097923,
+  "quoted_status_id_str": "1303075086166097923",
+  "quoted_status_permalink": {
+    "display": "twitter.com/trumpwarroom/s\u2026",
+    "expanded": "https://twitter.com/trumpwarroom/status/1303075086166097923",
+    "url": "https://t.co/X3v94q5t89"
+  },
+  "retweet_count": 13267,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 08 23:14:23 +0000 2020",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/trumpwarroom/s\u2026",
+          "expanded_url": "https://twitter.com/trumpwarroom/status/1303075086166097923",
+          "indices": [
+            170,
+            193
+          ],
+          "url": "https://t.co/X3v94q5t89"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 33393,
+    "favorited": false,
+    "full_text": "I hope the press digs into this.  Did Biden really have the answer to this Q pre-loaded into his teleprompter?  This is why we have the press: to dig in and get answers. https://t.co/X3v94q5t89",
+    "geo": null,
+    "id": 1303471776454893568,
+    "id_str": "1303471776454893568",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Sep 07 20:58:05 +0000 2020",
+      "display_text_range": [
+        0,
+        179
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zYlMbfd2mA",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1303075086166097923/video/1",
+            "id": 1303074283980304384,
+            "id_str": "1303074283980304384",
+            "indices": [
+              180,
+              203
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhVzXxLX0AIouxA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhVzXxLX0AIouxA.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zYlMbfd2mA"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Joe Biden relies on teleprompter to answer question: \"move it up here\""
+            },
+            "display_url": "pic.twitter.com/zYlMbfd2mA",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1303075086166097923/video/1",
+            "id": 1303074283980304384,
+            "id_str": "1303074283980304384",
+            "indices": [
+              180,
+              203
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhVzXxLX0AIouxA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhVzXxLX0AIouxA.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/zYlMbfd2mA",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 20767,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303074283980304384/vid/480x270/IpdjJ0XuQXeq79fu.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1303074283980304384/pl/1c0H_XGM4cCBdDh6.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303074283980304384/vid/1280x720/oQtFaRqxdrXX0NN3.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1303074283980304384/vid/640x360/-43kyUzEjJnYd7CU.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 16727,
+      "favorited": false,
+      "full_text": "Joe Biden is relying on a teleprompter to answer questions: \"move it up here,\" he tells his staff.\n\nThere are long pauses between his words as he waits for the prompter to scroll. https://t.co/zYlMbfd2mA",
+      "geo": null,
+      "id": 1303075086166097923,
+      "id_str": "1303075086166097923",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 9004,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 76,
+        "follow_request_sent": false,
+        "followers_count": 815062,
+        "following": false,
+        "friends_count": 267,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2406,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text TRUMP to 88022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 21175,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1303075086166097923,
+    "quoted_status_id_str": "1303075086166097923",
+    "quoted_status_permalink": {
+      "display": "twitter.com/trumpwarroom/s\u2026",
+      "expanded": "https://twitter.com/trumpwarroom/status/1303075086166097923",
+      "url": "https://t.co/X3v94q5t89"
+    },
+    "retweet_count": 13267,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Apr 25 14:11:19 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Former WH Press Secretary. FOX News contributor. Yankees and Dolphins fan. \u201cAfleischer\u201d on Parler.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fleischercommunications.com",
+              "expanded_url": "http://www.fleischercommunications.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RANs9eL3zJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 402,
+      "follow_request_sent": false,
+      "followers_count": 399657,
+      "following": false,
+      "friends_count": 1555,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 35218566,
+      "id_str": "35218566",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3780,
+      "location": "",
+      "name": "Ari Fleischer",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/952602158943391744/du26VX8P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/952602158943391744/du26VX8P_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AriFleischer",
+      "statuses_count": 18051,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RANs9eL3zJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 10 15:49:38 +0000 2020",
+  "display_text_range": [
+    0,
+    84
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 499154896,
+        "id_str": "499154896",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Alex Bruesewitz",
+        "screen_name": "alexbruesewitz"
+      },
+      {
+        "id": 1029094268542099457,
+        "id_str": "1029094268542099457",
+        "indices": [
+          42,
+          54
+        ],
+        "name": "Lance Gooden",
+        "screen_name": "Lancegooden"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          67,
+          83
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alexbruesewitz: LEADERSHIP. Thank you @Lancegooden!\n\nFight for @realDonaldTrump!",
+  "geo": null,
+  "id": 1337061923058290688,
+  "id_str": "1337061923058290688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1336691820806496259,
+  "quoted_status_id_str": "1336691820806496259",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Lancegooden/st\u2026",
+    "expanded": "https://twitter.com/Lancegooden/status/1336691820806496259",
+    "url": "https://t.co/izmDTSL6BB"
+  },
+  "retweet_count": 8094,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 15:57:34 +0000 2020",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Lancegooden/st\u2026",
+          "expanded_url": "https://twitter.com/Lancegooden/status/1336691820806496259",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/izmDTSL6BB"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1029094268542099457,
+          "id_str": "1029094268542099457",
+          "indices": [
+            22,
+            34
+          ],
+          "name": "Lance Gooden",
+          "screen_name": "Lancegooden"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            47,
+            63
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 35970,
+    "favorited": false,
+    "full_text": "LEADERSHIP. Thank you @Lancegooden!\n\nFight for @realDonaldTrump! https://t.co/izmDTSL6BB",
+    "geo": null,
+    "id": 1336701531928883203,
+    "id_str": "1336701531928883203",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Dec 09 15:18:59 +0000 2020",
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Zk5Dxzk3fj",
+            "expanded_url": "https://twitter.com/Lancegooden/status/1336691820806496259/photo/1",
+            "id": 1336691816989667328,
+            "id_str": "1336691816989667328",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/EoziIB3XMAAlTxS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EoziIB3XMAAlTxS.jpg",
+            "sizes": {
+              "large": {
+                "h": 996,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 996,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 524
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Zk5Dxzk3fj"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              24,
+              40
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Zk5Dxzk3fj",
+            "expanded_url": "https://twitter.com/Lancegooden/status/1336691820806496259/photo/1",
+            "id": 1336691816989667328,
+            "id_str": "1336691816989667328",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/EoziIB3XMAAlTxS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EoziIB3XMAAlTxS.jpg",
+            "sizes": {
+              "large": {
+                "h": 996,
+                "resize": "fit",
+                "w": 768
+              },
+              "medium": {
+                "h": 996,
+                "resize": "fit",
+                "w": 768
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 524
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Zk5Dxzk3fj"
+          }
+        ]
+      },
+      "favorite_count": 16466,
+      "favorited": false,
+      "full_text": "Last week, I asked that @realDonaldTrump instruct the Attorney General to appoint a Special Counsel to investigate election irregularities.\n\nNow twenty-six Republican colleagues have joined me in calling for an independent investigation to restore faith in our elections!\n\n(1/3) https://t.co/Zk5Dxzk3fj",
+      "geo": null,
+      "id": 1336691820806496259,
+      "id_str": "1336691820806496259",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5258,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Aug 13 19:56:08 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Husband, Father, and U.S. Congressman for TX's 5th Congressional District.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lancegooden.com",
+                "expanded_url": "http://www.lancegooden.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/se9SXZNb3A"
+              }
+            ]
+          }
+        },
+        "favourites_count": 573,
+        "follow_request_sent": false,
+        "followers_count": 40992,
+        "following": false,
+        "friends_count": 1655,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1029094268542099457,
+        "id_str": "1029094268542099457",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 238,
+        "location": "Terrell, TX",
+        "name": "Lance Gooden",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029094268542099457/1607108266",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Lancegooden",
+        "statuses_count": 937,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/se9SXZNb3A",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1336691820806496259,
+    "quoted_status_id_str": "1336691820806496259",
+    "quoted_status_permalink": {
+      "display": "twitter.com/Lancegooden/st\u2026",
+      "expanded": "https://twitter.com/Lancegooden/status/1336691820806496259",
+      "url": "https://t.co/izmDTSL6BB"
+    },
+    "retweet_count": 8094,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 21 20:46:09 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Pro-Trump Activist | CEO of @XStrategiesDC | Advisor to Conservative Politicians, Public Figures, and Organizations",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "xstrats.com",
+              "expanded_url": "http://xstrats.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OcvZbwOI8q"
+            }
+          ]
+        }
+      },
+      "favourites_count": 41702,
+      "follow_request_sent": false,
+      "followers_count": 107757,
+      "following": false,
+      "friends_count": 941,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 499154896,
+      "id_str": "499154896",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 385,
+      "location": "WI | FL | DC",
+      "name": "Alex Bruesewitz",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/499154896/1607191633",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1319632086349828096/YGG7yGoi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319632086349828096/YGG7yGoi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "alexbruesewitz",
+      "statuses_count": 8948,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OcvZbwOI8q",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88640746,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125869,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59165,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

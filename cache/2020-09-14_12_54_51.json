@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 12:54:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21150492,
+        "id_str": "21150492",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Steve Milloy",
+        "screen_name": "JunkScience"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JunkScience: California has a long history of megadroughts that pre-date SUVs.\n\nPeople can either manage forests intelligently or natur\u2026",
+  "geo": null,
+  "id": 1305490193835634688,
+  "id_str": "1305490193835634688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2614,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 14:37:06 +0000 2020",
+    "display_text_range": [
+      0,
+      237
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Or1dAB5b92",
+          "expanded_url": "https://twitter.com/JunkScience/status/1305153536796299264/photo/1",
+          "id": 1305153472451547138,
+          "id_str": "1305153472451547138",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhzWKw7XkAIntyX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhzWKw7XkAIntyX.jpg",
+          "sizes": {
+            "large": {
+              "h": 664,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 519,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 294,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Or1dAB5b92"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "junkscience.com/2020/09/new-yo\u2026",
+          "expanded_url": "https://junkscience.com/2020/09/new-york-times-debunks-climate-caused-california-wildfires/#more-103155",
+          "indices": [
+            214,
+            237
+          ],
+          "url": "https://t.co/Qmoljoq1nx"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            154,
+            170
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 11347122,
+          "id_str": "11347122",
+          "indices": [
+            199,
+            211
+          ],
+          "name": "Gavin Newsom",
+          "screen_name": "GavinNewsom"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Or1dAB5b92",
+          "expanded_url": "https://twitter.com/JunkScience/status/1305153536796299264/photo/1",
+          "id": 1305153472451547138,
+          "id_str": "1305153472451547138",
+          "indices": [
+            238,
+            261
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhzWKw7XkAIntyX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhzWKw7XkAIntyX.jpg",
+          "sizes": {
+            "large": {
+              "h": 664,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 519,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 294,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Or1dAB5b92"
+        }
+      ]
+    },
+    "favorite_count": 6771,
+    "favorited": false,
+    "full_text": "California has a long history of megadroughts that pre-date SUVs.\n\nPeople can either manage forests intelligently or nature will do it indiscriminately.\n\n@realDonaldTrump should take that message to @GavinNewsom.\n\nhttps://t.co/Qmoljoq1nx https://t.co/Or1dAB5b92",
+    "geo": null,
+    "id": 1305153536796299264,
+    "id_str": "1305153536796299264",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2614,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 00:19:07 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "'Perhaps the most influential climate science contrarian' (Nature). Trump EPA transition. Biostat. Atty. FOX News contrib. Founder, https://t.co/18cFDFvc4w.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "JunkScience.com",
+              "expanded_url": "http://JunkScience.com",
+              "indices": [
+                132,
+                155
+              ],
+              "url": "https://t.co/18cFDFvc4w"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JunkScience.com",
+              "expanded_url": "http://JunkScience.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/18cFDFvc4w"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1061,
+      "follow_request_sent": false,
+      "followers_count": 32952,
+      "following": false,
+      "friends_count": 88,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 21150492,
+      "id_str": "21150492",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 751,
+      "location": "",
+      "name": "Steve Milloy",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21150492/1482706963",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/603530131563532291/MWMXWfmZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/603530131563532291/MWMXWfmZ_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JunkScience",
+      "statuses_count": 69488,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/18cFDFvc4w",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85958230,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119579,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1599936297",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55912,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

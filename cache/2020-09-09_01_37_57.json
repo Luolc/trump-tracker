@@ -1,0 +1,563 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 09 01:37:57 +0000 2020",
+  "display_text_range": [
+    0,
+    109
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/v3jvWFGgOS",
+        "expanded_url": "https://twitter.com/dannydeurbina/status/1303474407185186818/video/1",
+        "id": 1303474193355468802,
+        "id_str": "1303474193355468802",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1303474407185186818,
+        "source_status_id_str": "1303474407185186818",
+        "source_user_id": 1520204418,
+        "source_user_id_str": "1520204418",
+        "type": "photo",
+        "url": "https://t.co/v3jvWFGgOS"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15212187,
+        "id_str": "15212187",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Benny",
+        "screen_name": "bennyjohnson"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Jun 15 19:26:33 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "18 year old fighting for America \u2022 Pres @TPUSA Saint Thomas Aquinas High School FL- Largest HS Chapter- now campus banned \u2022 Catholic \u2022 Youth Politics \u2022 #MAGA",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "bit.ly/supportfreespe\u2026",
+                    "expanded_url": "http://bit.ly/supportfreespeech",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/f8DvMqbFNk"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 16994,
+            "follow_request_sent": false,
+            "followers_count": 5938,
+            "following": false,
+            "friends_count": 1149,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 1520204418,
+            "id_str": "1520204418",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6,
+            "location": "Chick-fil-a, MAGA Country \ud83c\uddfa\ud83c\uddf8",
+            "name": "Danny De Urbina",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520204418/1565211050",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1283979208369287168/fpzgl0iY_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283979208369287168/fpzgl0iY_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "dannydeurbina",
+            "statuses_count": 2340,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/f8DvMqbFNk",
+            "utc_offset": null,
+            "verified": false
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/v3jvWFGgOS",
+        "expanded_url": "https://twitter.com/dannydeurbina/status/1303474407185186818/video/1",
+        "id": 1303474193355468802,
+        "id_str": "1303474193355468802",
+        "indices": [
+          86,
+          109
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1303474407185186818,
+        "source_status_id_str": "1303474407185186818",
+        "source_user_id": 1520204418,
+        "source_user_id_str": "1520204418",
+        "type": "video",
+        "url": "https://t.co/v3jvWFGgOS",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 102157,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/1280x720/N94Ox_iBY3lwhtg_.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/640x360/4tFkUDo3T4VdFyOk.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/480x270/vg3D-ns1GGfT0c0r.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1303474193355468802/pl/K8O6055C2VmEMw_M.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @bennyjohnson: TRUMP: \u201cWe\u2019ve decided to call all our rallies peaceful protests.\u201d\n\n https://t.co/v3jvWFGgOS",
+  "geo": null,
+  "id": 1303507905501593600,
+  "id_str": "1303507905501593600",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 10823,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 08 23:28:16 +0000 2020",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/v3jvWFGgOS",
+          "expanded_url": "https://twitter.com/dannydeurbina/status/1303474407185186818/video/1",
+          "id": 1303474193355468802,
+          "id_str": "1303474193355468802",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1303474407185186818,
+          "source_status_id_str": "1303474407185186818",
+          "source_user_id": 1520204418,
+          "source_user_id_str": "1520204418",
+          "type": "photo",
+          "url": "https://t.co/v3jvWFGgOS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Jun 15 19:26:33 +0000 2013",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "18 year old fighting for America \u2022 Pres @TPUSA Saint Thomas Aquinas High School FL- Largest HS Chapter- now campus banned \u2022 Catholic \u2022 Youth Politics \u2022 #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "bit.ly/supportfreespe\u2026",
+                      "expanded_url": "http://bit.ly/supportfreespeech",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/f8DvMqbFNk"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 16994,
+              "follow_request_sent": false,
+              "followers_count": 5938,
+              "following": false,
+              "friends_count": 1149,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 1520204418,
+              "id_str": "1520204418",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 6,
+              "location": "Chick-fil-a, MAGA Country \ud83c\uddfa\ud83c\uddf8",
+              "name": "Danny De Urbina",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520204418/1565211050",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1283979208369287168/fpzgl0iY_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283979208369287168/fpzgl0iY_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "dannydeurbina",
+              "statuses_count": 2340,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/f8DvMqbFNk",
+              "utc_offset": null,
+              "verified": false
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/v3jvWFGgOS",
+          "expanded_url": "https://twitter.com/dannydeurbina/status/1303474407185186818/video/1",
+          "id": 1303474193355468802,
+          "id_str": "1303474193355468802",
+          "indices": [
+            68,
+            91
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1303474193355468802/img/j93AwOnNM9udLMSW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1303474407185186818,
+          "source_status_id_str": "1303474407185186818",
+          "source_user_id": 1520204418,
+          "source_user_id_str": "1520204418",
+          "type": "video",
+          "url": "https://t.co/v3jvWFGgOS",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 102157,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/1280x720/N94Ox_iBY3lwhtg_.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/640x360/4tFkUDo3T4VdFyOk.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1303474193355468802/vid/480x270/vg3D-ns1GGfT0c0r.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1303474193355468802/pl/K8O6055C2VmEMw_M.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 37216,
+    "favorited": false,
+    "full_text": "TRUMP: \u201cWe\u2019ve decided to call all our rallies peaceful protests.\u201d\n\n https://t.co/v3jvWFGgOS",
+    "geo": null,
+    "id": 1303475268867231744,
+    "id_str": "1303475268867231744",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10823,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 23 21:33:20 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Love my Family, God and Pipe Tobacco; not necessarily in that order. @tpusa Chief Creative Officer Benny@tpusa.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tpusa.com",
+              "expanded_url": "http://www.tpusa.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/8gi1LppSDA"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13792,
+      "follow_request_sent": false,
+      "followers_count": 345752,
+      "following": false,
+      "friends_count": 1770,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15212187,
+      "id_str": "15212187",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2176,
+      "location": "WashingtonDC/ New York City",
+      "name": "Benny",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15212187/1542303332",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1254597522116554754/UZu0Xp6A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254597522116554754/UZu0Xp6A_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bennyjohnson",
+      "statuses_count": 46941,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/8gi1LppSDA",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

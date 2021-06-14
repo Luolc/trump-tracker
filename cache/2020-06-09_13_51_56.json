@@ -1,0 +1,338 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 13:51:56 +0000 2020",
+  "display_text_range": [
+    0,
+    152
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/ryanafournier/\u2026",
+        "expanded_url": "https://twitter.com/ryanafournier/status/1270184062171385863",
+        "indices": [
+          153,
+          176
+        ],
+        "url": "https://t.co/Zt2otB94Px"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 749662181579485184,
+        "id_str": "749662181579485184",
+        "indices": [
+          26,
+          40
+        ],
+        "name": "Lacy Johnson",
+        "screen_name": "LacyJohnsonMN"
+      }
+    ]
+  },
+  "favorite_count": 142,
+  "favorited": false,
+  "full_text": "Minnesota needs DJT &amp; @LacyJohnsonMN NOW. When I insisted on the National Guard, things got better FAST. Enough with Omar, you\u2019ll have nothing left! https://t.co/Zt2otB94Px",
+  "geo": null,
+  "id": 1270352937575989249,
+  "id_str": "1270352937575989249",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 09 02:40:53 +0000 2020",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bABscE0TAS",
+          "expanded_url": "https://twitter.com/RyanAFournier/status/1270184062171385863/video/1",
+          "id": 1270183980248305664,
+          "id_str": "1270183980248305664",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270183980248305664/pu/img/EqhlW4WWKEJKpysH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270183980248305664/pu/img/EqhlW4WWKEJKpysH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/bABscE0TAS"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 749662181579485184,
+          "id_str": "749662181579485184",
+          "indices": [
+            155,
+            169
+          ],
+          "name": "Lacy Johnson",
+          "screen_name": "LacyJohnsonMN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/bABscE0TAS",
+          "expanded_url": "https://twitter.com/RyanAFournier/status/1270184062171385863/video/1",
+          "id": 1270183980248305664,
+          "id_str": "1270183980248305664",
+          "indices": [
+            249,
+            272
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270183980248305664/pu/img/EqhlW4WWKEJKpysH.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270183980248305664/pu/img/EqhlW4WWKEJKpysH.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 544
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/bABscE0TAS",
+          "video_info": {
+            "aspect_ratio": [
+              4,
+              5
+            ],
+            "duration_millis": 31830,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1270183980248305664/pu/pl/zIxXNJFSmkVUI2B0.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1270183980248305664/pu/vid/360x450/YhE6wtU4_Io1FMhg.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1270183980248305664/pu/vid/320x400/PoqTpZnm1w6VPfqo.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1270183980248305664/pu/vid/576x720/HoLa1Iu4RCRogMb5.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3171,
+    "favorited": false,
+    "full_text": "Please retweet. \n\nListen to this preview of what Minneapolis 911 system may sound like in the future. \n\nThis is what Ilhan Omar wants! \n\nBe sure to follow @LacyJohnsonMN who is fighting hard for the citizens of Minnesota 5th Congressional District. https://t.co/bABscE0TAS",
+    "geo": null,
+    "id": 1270184062171385863,
+    "id_str": "1270184062171385863",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2187,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 14 22:44:56 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Founder and Co-Chairman of @TrumpStudents / Turning Point Action / Ephesians 4:32 \ud83d\udce7 press@ryanfournier.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/ryanafournier",
+              "expanded_url": "http://instagram.com/ryanafournier",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/usg47s1iyY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 27992,
+      "follow_request_sent": false,
+      "followers_count": 917820,
+      "following": false,
+      "friends_count": 315138,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 166751745,
+      "id_str": "166751745",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2434,
+      "location": "Washington, DC & Raleigh, NC",
+      "name": "Ryan Fournier",
+      "notifications": false,
+      "profile_background_color": "303D5D",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/166751745/1580000339",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171465484450947076/0RgZ2Kac_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171465484450947076/0RgZ2Kac_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "C2C5D1",
+      "profile_text_color": "D4443F",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RyanAFournier",
+      "statuses_count": 13425,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/usg47s1iyY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1270184062171385863,
+  "quoted_status_id_str": "1270184062171385863",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ryanafournier/\u2026",
+    "expanded": "https://twitter.com/ryanafournier/status/1270184062171385863",
+    "url": "https://t.co/Zt2otB94Px"
+  },
+  "retweet_count": 50,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81974658,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115076,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52738,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

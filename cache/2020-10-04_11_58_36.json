@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 04 11:58:36 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1218623947434024960,
+        "id_str": "1218623947434024960",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Black Voices for Trump",
+        "screen_name": "BlackVoices4DJT"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          31,
+          47
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BlackVoices4DJT: President @realDonaldTrump's Platinum Plan is designed to bring opportunity, security, fairness and prosperity to Blac\u2026",
+  "geo": null,
+  "id": 1312723795845828608,
+  "id_str": "1312723795845828608",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10662,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Oct 03 19:35:09 +0000 2020",
+    "display_text_range": [
+      0,
+      168
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            154
+          ],
+          "text": "BlackVoicesforTrump"
+        },
+        {
+          "indices": [
+            155,
+            168
+          ],
+          "text": "PlatinumPlan"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Ih3xa9Pj0Y",
+          "expanded_url": "https://twitter.com/BlackVoices4DJT/status/1312476301849178114/video/1",
+          "id": 1312475261301030917,
+          "id_str": "1312475261301030917",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1312475261301030917/img/24aPOK7ezoCjs-Iw.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1312475261301030917/img/24aPOK7ezoCjs-Iw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Ih3xa9Pj0Y"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            10,
+            26
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Ih3xa9Pj0Y",
+          "expanded_url": "https://twitter.com/BlackVoices4DJT/status/1312476301849178114/video/1",
+          "id": 1312475261301030917,
+          "id_str": "1312475261301030917",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1312475261301030917/img/24aPOK7ezoCjs-Iw.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1312475261301030917/img/24aPOK7ezoCjs-Iw.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Ih3xa9Pj0Y",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 145178,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1312475261301030917/vid/480x270/W8ICoa3gsl0TLz4U.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1312475261301030917/pl/0Q8ePYon79ZAzBNd.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1312475261301030917/vid/1280x720/oJzPst4dvqLXKCSF.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1312475261301030917/vid/640x360/9GztfMU2O7jmqU1r.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31166,
+    "favorited": false,
+    "full_text": "President @realDonaldTrump's Platinum Plan is designed to bring opportunity, security, fairness and prosperity to Black communities!\n\n#BlackVoicesforTrump #PlatinumPlan https://t.co/Ih3xa9Pj0Y",
+    "geo": null,
+    "id": 1312476301849178114,
+    "id_str": "1312476301849178114",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10662,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 18 19:59:36 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The Official Black Voices Coalition of Donald J. Trump for President, Inc. Text WOKE to 88022 for updates!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "blackvoices.donaldjtrump.com",
+              "expanded_url": "http://blackvoices.donaldjtrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RTLihJThff"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1197,
+      "follow_request_sent": false,
+      "followers_count": 60031,
+      "following": false,
+      "friends_count": 114,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1218623947434024960,
+      "id_str": "1218623947434024960",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 154,
+      "location": "",
+      "name": "Black Voices for Trump",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1218627722156691456/Lz3YCRak_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218627722156691456/Lz3YCRak_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BlackVoices4DJT",
+      "statuses_count": 1412,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RTLihJThff",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86900970,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120662,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56624,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

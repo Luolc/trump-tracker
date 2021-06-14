@@ -1,0 +1,355 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 07 22:50:51 +0000 2020",
+  "display_text_range": [
+    0,
+    51
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/tvnewshq/statu\u2026",
+        "expanded_url": "https://twitter.com/tvnewshq/status/1303023417311068163",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/fqykkHxmx5"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 759251,
+        "id_str": "759251",
+        "indices": [
+          1,
+          5
+        ],
+        "name": "CNN",
+        "screen_name": "CNN"
+      }
+    ]
+  },
+  "favorite_count": 69939,
+  "favorited": false,
+  "full_text": ".@CNN IS FAKE NEWS, and all smart people know that! https://t.co/fqykkHxmx5",
+  "geo": null,
+  "id": 1303103464323649536,
+  "id_str": "1303103464323649536",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 07 17:32:46 +0000 2020",
+    "display_text_range": [
+      0,
+      177
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZBFBb93IkN",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1303023417311068163/photo/1",
+          "id": 1303023411279605761,
+          "id_str": "1303023411279605761",
+          "indices": [
+            178,
+            201
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhVE44tWsAER00q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhVE44tWsAER00q.jpg",
+          "sizes": {
+            "large": {
+              "h": 1166,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 387,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZBFBb93IkN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZBFBb93IkN",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1303023417311068163/photo/1",
+          "id": 1303023411279605761,
+          "id_str": "1303023411279605761",
+          "indices": [
+            178,
+            201
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhVE44tWsAER00q.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhVE44tWsAER00q.jpg",
+          "sizes": {
+            "large": {
+              "h": 1166,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 387,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZBFBb93IkN"
+        },
+        {
+          "display_url": "pic.twitter.com/ZBFBb93IkN",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1303023417311068163/photo/1",
+          "id": 1303023411271282689,
+          "id_str": "1303023411271282689",
+          "indices": [
+            178,
+            201
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhVE44rXsAEvdXB.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhVE44rXsAEvdXB.jpg",
+          "sizes": {
+            "large": {
+              "h": 1136,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 666,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 377,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZBFBb93IkN"
+        },
+        {
+          "display_url": "pic.twitter.com/ZBFBb93IkN",
+          "expanded_url": "https://twitter.com/TVNewsHQ/status/1303023417311068163/photo/1",
+          "id": 1303023411292254213,
+          "id_str": "1303023411292254213",
+          "indices": [
+            178,
+            201
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhVE44wXsAURRvg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhVE44wXsAURRvg.jpg",
+          "sizes": {
+            "large": {
+              "h": 1198,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 702,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 398,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZBFBb93IkN"
+        }
+      ]
+    },
+    "favorite_count": 4065,
+    "favorited": false,
+    "full_text": "Fox News and MSNBC are carrying President Trump\u2019s news conference live while CNN is in normal programming, despite previously covering Joe Biden\u2019s news conferences live in full. https://t.co/ZBFBb93IkN",
+    "geo": null,
+    "id": 1303023417311068163,
+    "id_str": "1303023417311068163",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1610,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 20 01:01:30 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "TV news, Cable news ratings and sharp opinion covering Fox News, MSNBC, CNN, Fox Business and CNBC. Retweeted by President Trump.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 7198,
+      "follow_request_sent": false,
+      "followers_count": 34847,
+      "following": false,
+      "friends_count": 5679,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 711356961107918849,
+      "id_str": "711356961107918849",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 291,
+      "location": "New York, NY",
+      "name": "TV News HQ",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/711356961107918849/1512168004",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287075404898017281/BgOq8jCx_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TVNewsHQ",
+      "statuses_count": 14949,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1303023417311068163,
+  "quoted_status_id_str": "1303023417311068163",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tvnewshq/statu\u2026",
+    "expanded": "https://twitter.com/tvnewshq/status/1303023417311068163",
+    "url": "https://t.co/fqykkHxmx5"
+  },
+  "retweet_count": 18308,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

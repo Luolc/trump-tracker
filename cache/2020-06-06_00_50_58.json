@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 06 00:50:58 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3530404094,
+        "id_str": "3530404094",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "David J Harris Jr",
+        "screen_name": "DavidJHarrisJr"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          114,
+          130
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DavidJHarrisJr: To all the celebrities posting memes connecting the cop that killed George Floyd to President @realDonaldTrump...\n\nStop\u2026",
+  "geo": null,
+  "id": 1269069236724477957,
+  "id_str": "1269069236724477957",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13132,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 28 02:28:32 +0000 2020",
+    "display_text_range": [
+      0,
+      151
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            139,
+            151
+          ],
+          "text": "georgefloyd"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MIDIOk9sJQ",
+          "expanded_url": "https://twitter.com/DavidJHarrisJr/status/1265832299569885184/video/1",
+          "id": 1265823727293366272,
+          "id_str": "1265823727293366272",
+          "indices": [
+            152,
+            175
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1265823727293366272/img/_G-R5OcCeK0of_zu.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1265823727293366272/img/_G-R5OcCeK0of_zu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MIDIOk9sJQ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            94,
+            110
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/MIDIOk9sJQ",
+          "expanded_url": "https://twitter.com/DavidJHarrisJr/status/1265832299569885184/video/1",
+          "id": 1265823727293366272,
+          "id_str": "1265823727293366272",
+          "indices": [
+            152,
+            175
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1265823727293366272/img/_G-R5OcCeK0of_zu.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1265823727293366272/img/_G-R5OcCeK0of_zu.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/MIDIOk9sJQ",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 397700,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1265823727293366272/vid/720x1280/LKclLO6ODSgL51bM.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1265823727293366272/vid/360x640/KIUpHQol7VVfU6ZA.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1265823727293366272/pl/mV3Wqpb8f0fpVokp.m3u8?tag=13"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1265823727293366272/vid/320x568/CW8bO-3Zas_c0arf.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30254,
+    "favorited": false,
+    "full_text": "To all the celebrities posting memes connecting the cop that killed George Floyd to President @realDonaldTrump...\n\nStop posting Fake News!\n#georgefloyd https://t.co/MIDIOk9sJQ",
+    "geo": null,
+    "id": 1265832299569885184,
+    "id_str": "1265832299569885184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13132,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Sep 11 20:34:46 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Husband. Father. Lover of God & Country. Speaker. Best Selling Author of - Why I Couldn\u2019t Stay Silent - Get it signed from my store!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "davidharrisjr.store",
+              "expanded_url": "https://davidharrisjr.store",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VS2JS8vbO7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 13566,
+      "follow_request_sent": false,
+      "followers_count": 432316,
+      "following": false,
+      "friends_count": 2282,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3530404094,
+      "id_str": "3530404094",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 829,
+      "location": "Texas, USA",
+      "name": "David J Harris Jr",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3530404094/1538623799",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1047949800463720448/D_WBZBlr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1047949800463720448/D_WBZBlr_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "DavidJHarrisJr",
+      "statuses_count": 18582,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VS2JS8vbO7",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

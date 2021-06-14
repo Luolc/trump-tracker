@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 09 15:07:10 +0000 2020",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/LANationalGuar\u2026",
+        "expanded_url": "https://twitter.com/LANationalGuard/status/1314288221652742147",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/kPbCSIs8BO"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 31310158,
+        "id_str": "31310158",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "National Guard",
+        "screen_name": "USNationalGuard"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @USNationalGuard: Always Ready, Always There! https://t.co/kPbCSIs8BO",
+  "geo": null,
+  "id": 1314583188409397249,
+  "id_str": "1314583188409397249",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1314288221652742147,
+  "quoted_status_id_str": "1314288221652742147",
+  "quoted_status_permalink": {
+    "display": "twitter.com/LANationalGuar\u2026",
+    "expanded": "https://twitter.com/LANationalGuard/status/1314288221652742147",
+    "url": "https://t.co/kPbCSIs8BO"
+  },
+  "retweet_count": 5480,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Oct 09 15:00:32 +0000 2020",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/LANationalGuar\u2026",
+          "expanded_url": "https://twitter.com/LANationalGuard/status/1314288221652742147",
+          "indices": [
+            28,
+            51
+          ],
+          "url": "https://t.co/kPbCSIs8BO"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20164,
+    "favorited": false,
+    "full_text": "Always Ready, Always There! https://t.co/kPbCSIs8BO",
+    "geo": null,
+    "id": 1314581518753378304,
+    "id_str": "1314581518753378304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 08 19:35:04 +0000 2020",
+      "display_text_range": [
+        0,
+        156
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              3,
+              18
+            ],
+            "text": "HurricaneDelta"
+          },
+          {
+            "indices": [
+              109,
+              128
+            ],
+            "text": "ProtectWhatMatters"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZaplAcbj56",
+            "expanded_url": "https://twitter.com/LANationalGuard/status/1314288221652742147/photo/1",
+            "id": 1314283932972613633,
+            "id_str": "1314283932972613633",
+            "indices": [
+              157,
+              180
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ej1GRg7WAAEarAA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ej1GRg7WAAEarAA.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZaplAcbj56"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ZaplAcbj56",
+            "expanded_url": "https://twitter.com/LANationalGuard/status/1314288221652742147/photo/1",
+            "id": 1314283932972613633,
+            "id_str": "1314283932972613633",
+            "indices": [
+              157,
+              180
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ej1GRg7WAAEarAA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ej1GRg7WAAEarAA.jpg",
+            "sizes": {
+              "large": {
+                "h": 1080,
+                "resize": "fit",
+                "w": 1920
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/ZaplAcbj56"
+          }
+        ]
+      },
+      "favorite_count": 474,
+      "favorited": false,
+      "full_text": "As #HurricaneDelta moves towards the Louisiana coast, strategically deploying assets and personnel is key to #ProtectWhatMatters, the citizens of Louisiana. https://t.co/ZaplAcbj56",
+      "geo": null,
+      "id": 1314288221652742147,
+      "id_str": "1314288221652742147",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 180,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 23 22:06:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Official tweets from The Louisiana National Guard and https://t.co/B3UkZ0m7Po :: Protect What Matters (Following does not=endorsement)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "GeauxGuard.la.gov",
+                "expanded_url": "http://GeauxGuard.la.gov",
+                "indices": [
+                  54,
+                  77
+                ],
+                "url": "https://t.co/B3UkZ0m7Po"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "geauxguard.la.gov",
+                "expanded_url": "http://www.geauxguard.la.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/RLlXbSD88l"
+              }
+            ]
+          }
+        },
+        "favourites_count": 984,
+        "follow_request_sent": false,
+        "followers_count": 9018,
+        "following": false,
+        "friends_count": 203,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 50118032,
+        "id_str": "50118032",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 271,
+        "location": "New Orleans",
+        "name": "LA National Guard",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50118032/1524545655",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/976457840243036160/7fPgodIu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/976457840243036160/7fPgodIu_normal.jpg",
+        "profile_link_color": "000000",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LANationalGuard",
+        "statuses_count": 1483,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RLlXbSD88l",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1314288221652742147,
+    "quoted_status_id_str": "1314288221652742147",
+    "quoted_status_permalink": {
+      "display": "twitter.com/LANationalGuar\u2026",
+      "expanded": "https://twitter.com/LANationalGuard/status/1314288221652742147",
+      "url": "https://t.co/kPbCSIs8BO"
+    },
+    "retweet_count": 5480,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 15 02:23:28 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official tweets from National Guard Bureau. National Guard: America's First Military Responders. (Following, RTs & links \u2260 endorsement.)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nationalguard.mil",
+              "expanded_url": "http://www.nationalguard.mil",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/jLZnyDy4hD"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1975,
+      "follow_request_sent": false,
+      "followers_count": 586629,
+      "following": false,
+      "friends_count": 709,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 31310158,
+      "id_str": "31310158",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3720,
+      "location": "54 states, territories and DC",
+      "name": "National Guard",
+      "notifications": false,
+      "profile_background_color": "003366",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/31310158/1577730466",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/392853927/NGB-Clr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/392853927/NGB-Clr_normal.jpg",
+      "profile_link_color": "173C8A",
+      "profile_sidebar_border_color": "0F0F52",
+      "profile_sidebar_fill_color": "D6D6D6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "USNationalGuard",
+      "statuses_count": 28695,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/jLZnyDy4hD",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87231807,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121290,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56880,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

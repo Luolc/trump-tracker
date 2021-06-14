@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 16 00:26:27 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      },
+      {
+        "id": 185889478,
+        "id_str": "185889478",
+        "indices": [
+          39,
+          53
+        ],
+        "name": "Robert C. O'Brien",
+        "screen_name": "robertcobrien"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          62,
+          68
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouDobbs: Presidential Peacemaker: @robertcobrien praises @POTUS for securing historic peace deals in the Middle East, calling him the\u2026",
+  "geo": null,
+  "id": 1306026628921917440,
+  "id_str": "1306026628921917440",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6127,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 15 22:05:09 +0000 2020",
+    "display_text_range": [
+      0,
+      185
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            159,
+            164
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            165,
+            178
+          ],
+          "text": "AmericaFirst"
+        },
+        {
+          "indices": [
+            179,
+            185
+          ],
+          "text": "Dobbs"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/u0CUk00rJe",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1305991069121810435/video/1",
+          "id": 1305977482680709121,
+          "id_str": "1305977482680709121",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eh_G65-XcAIcdUZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eh_G65-XcAIcdUZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/u0CUk00rJe"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 185889478,
+          "id_str": "185889478",
+          "indices": [
+            25,
+            39
+          ],
+          "name": "Robert C. O'Brien",
+          "screen_name": "robertcobrien"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            48,
+            54
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/u0CUk00rJe",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1305991069121810435/video/1",
+          "id": 1305977482680709121,
+          "id_str": "1305977482680709121",
+          "indices": [
+            186,
+            209
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eh_G65-XcAIcdUZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eh_G65-XcAIcdUZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/u0CUk00rJe",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 379513,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305977482680709121/vid/480x270/v4rUVuozQOSGmHFR.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305977482680709121/vid/640x360/7tihLZXfgRzSMEC9.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1305977482680709121/pl/X3TCYrrowvK6XbnD.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1305977482680709121/vid/1280x720/l24f9Cy7ZJPH2D7C.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 17730,
+    "favorited": false,
+    "full_text": "Presidential Peacemaker: @robertcobrien praises @POTUS for securing historic peace deals in the Middle East, calling him the \u2018greatest deal maker in history.\u2019 #MAGA #AmericaFirst #Dobbs https://t.co/u0CUk00rJe",
+    "geo": null,
+    "id": 1305991069121810435,
+    "id_str": "1305991069121810435",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6127,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 5, 7 & 10 pm Eastern https://t.co/Mqnxd3lgtA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/loudobbstonigh\u2026",
+              "expanded_url": "http://Instagram.com/loudobbstonight/",
+              "indices": [
+                62,
+                85
+              ],
+              "url": "https://t.co/Mqnxd3lgtA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thetrumpcentury.com",
+              "expanded_url": "http://thetrumpcentury.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/jphChsfK3r"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17058,
+      "follow_request_sent": false,
+      "followers_count": 2213530,
+      "following": false,
+      "friends_count": 2082,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5529,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1598294612",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1291061804982992896/FmNLrPOG_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 35427,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/jphChsfK3r",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86042865,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119683,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600202078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56013,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

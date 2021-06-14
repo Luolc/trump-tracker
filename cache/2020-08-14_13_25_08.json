@@ -1,0 +1,496 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 14 13:25:08 +0000 2020",
+  "display_text_range": [
+    0,
+    119
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          29,
+          39
+        ],
+        "text": "Trump2020"
+      },
+      {
+        "indices": [
+          40,
+          50
+        ],
+        "text": "LeadRight"
+      },
+      {
+        "indices": [
+          51,
+          71
+        ],
+        "text": "BlackVoicesForTrump"
+      },
+      {
+        "indices": [
+          72,
+          89
+        ],
+        "text": "BuckeyeBattalion"
+      },
+      {
+        "indices": [
+          90,
+          95
+        ],
+        "text": "MAGA"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/rN5t8jmHmT",
+        "expanded_url": "https://twitter.com/SPWTalessia/status/1294056941099065349/photo/1",
+        "id": 1294056930223194113,
+        "id_str": "1294056930223194113",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+        "sizes": {
+          "large": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "medium": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "small": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294056941099065349,
+        "source_status_id_str": "1294056941099065349",
+        "source_user_id": 1061584949206286337,
+        "source_user_id_str": "1061584949206286337",
+        "type": "photo",
+        "url": "https://t.co/rN5t8jmHmT"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1061584949206286337,
+        "id_str": "1061584949206286337",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Street Politics With Talessia",
+        "screen_name": "SPWTalessia"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/rN5t8jmHmT",
+        "expanded_url": "https://twitter.com/SPWTalessia/status/1294056941099065349/photo/1",
+        "id": 1294056930223194113,
+        "id_str": "1294056930223194113",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+        "sizes": {
+          "large": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "medium": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "small": {
+            "h": 240,
+            "resize": "fit",
+            "w": 302
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294056941099065349,
+        "source_status_id_str": "1294056941099065349",
+        "source_user_id": 1061584949206286337,
+        "source_user_id_str": "1061584949206286337",
+        "type": "animated_gif",
+        "url": "https://t.co/rN5t8jmHmT",
+        "video_info": {
+          "aspect_ratio": [
+            151,
+            120
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/EfVp6_0WAAEfKBf.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SPWTalessia: Crunch time #Trump2020 #LeadRight #BlackVoicesForTrump #BuckeyeBattalion #MAGA https://t.co/rN5t8jmHmT",
+  "geo": null,
+  "id": 1294263789043490817,
+  "id_str": "1294263789043490817",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 1288,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 13 23:43:11 +0000 2020",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            12,
+            22
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            23,
+            33
+          ],
+          "text": "LeadRight"
+        },
+        {
+          "indices": [
+            34,
+            54
+          ],
+          "text": "BlackVoicesForTrump"
+        },
+        {
+          "indices": [
+            55,
+            72
+          ],
+          "text": "BuckeyeBattalion"
+        },
+        {
+          "indices": [
+            73,
+            78
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rN5t8jmHmT",
+          "expanded_url": "https://twitter.com/SPWTalessia/status/1294056941099065349/photo/1",
+          "id": 1294056930223194113,
+          "id_str": "1294056930223194113",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+          "sizes": {
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rN5t8jmHmT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rN5t8jmHmT",
+          "expanded_url": "https://twitter.com/SPWTalessia/status/1294056941099065349/photo/1",
+          "id": 1294056930223194113,
+          "id_str": "1294056930223194113",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfVp6_0WAAEfKBf.jpg",
+          "sizes": {
+            "large": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "medium": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "small": {
+              "h": 240,
+              "resize": "fit",
+              "w": 302
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/rN5t8jmHmT",
+          "video_info": {
+            "aspect_ratio": [
+              151,
+              120
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EfVp6_0WAAEfKBf.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4984,
+    "favorited": false,
+    "full_text": "Crunch time #Trump2020 #LeadRight #BlackVoicesForTrump #BuckeyeBattalion #MAGA https://t.co/rN5t8jmHmT",
+    "geo": null,
+    "id": 1294056941099065349,
+    "id_str": "1294056941099065349",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -81.877771,
+              41.392684
+            ],
+            [
+              -81.5331634,
+              41.392684
+            ],
+            [
+              -81.5331634,
+              41.599195
+            ],
+            [
+              -81.877771,
+              41.599195
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Cleveland, OH",
+      "id": "0eb9676d24b211f1",
+      "name": "Cleveland",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/0eb9676d24b211f1.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1288,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 11 11:42:30 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This is my platform I run it how I want to run it \ud83d\ude12  \u201cMY VIEWS ARE MY OWN\u201d #Politics #Christian #NavyMom #Conservative  #MakeItMakeSense  #ISaidWhatISaid",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "streetpoliticswithtalessia.com",
+              "expanded_url": "https://www.streetpoliticswithtalessia.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/aSe48UmThe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5329,
+      "follow_request_sent": false,
+      "followers_count": 16886,
+      "following": false,
+      "friends_count": 925,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1061584949206286337,
+      "id_str": "1061584949206286337",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 26,
+      "location": "Cleveland, OH",
+      "name": "Street Politics With Talessia",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1061584949206286337/1560182593",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1154129683438592006/-C3QWGri_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1154129683438592006/-C3QWGri_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SPWTalessia",
+      "statuses_count": 20787,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/aSe48UmThe",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85146932,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118051,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54515,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

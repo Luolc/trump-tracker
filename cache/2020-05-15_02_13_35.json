@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 15 02:13:35 +0000 2020",
+  "display_text_range": [
+    0,
+    26
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/fogcitymidge/s\u2026",
+        "expanded_url": "https://twitter.com/fogcitymidge/status/1260997070678351873",
+        "indices": [
+          27,
+          50
+        ],
+        "url": "https://t.co/K789oTR0uM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 137547,
+  "favorited": false,
+  "full_text": "Thanks. You are very cool! https://t.co/K789oTR0uM",
+  "geo": null,
+  "id": 1261117493189529600,
+  "id_str": "1261117493189529600",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 18:15:04 +0000 2020",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/tDcrYkvw64",
+          "expanded_url": "https://twitter.com/FogCityMidge/status/1260997070678351873/video/1",
+          "id": 1260997001115623424,
+          "id_str": "1260997001115623424",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260997001115623424/pu/img/ef3J_bvW_NT2bYyb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260997001115623424/pu/img/ef3J_bvW_NT2bYyb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/tDcrYkvw64"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            118,
+            134
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/tDcrYkvw64",
+          "expanded_url": "https://twitter.com/FogCityMidge/status/1260997070678351873/video/1",
+          "id": 1260997001115623424,
+          "id_str": "1260997001115623424",
+          "indices": [
+            135,
+            158
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260997001115623424/pu/img/ef3J_bvW_NT2bYyb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260997001115623424/pu/img/ef3J_bvW_NT2bYyb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/tDcrYkvw64",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 35477,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1260997001115623424/pu/vid/640x360/Yl6K2mE9YfwLPl-r.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1260997001115623424/pu/vid/480x270/1Mx5OZ4ZqtyDIM1Q.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1260997001115623424/pu/vid/1280x720/Kjh2oPvuGtDbh5bV.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1260997001115623424/pu/pl/66AvDqtWaSHx7py9.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 64973,
+    "favorited": false,
+    "full_text": "\u201cI was told Trump was RACIST but let me get some EVIDENCE to debate Trump supporters!\u201d What happens next? MAGA! \ud83d\udd25\u2764\ufe0f\ud83c\uddfa\ud83c\uddf8 @realDonaldTrump https://t.co/tDcrYkvw64",
+    "geo": null,
+    "id": 1260997070678351873,
+    "id_str": "1260997070678351873",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22551,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 12 02:34:55 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\ud83c\uddfa\ud83c\uddf8 Pro Trump Patriot \ud83d\udd25Exposing Leftist Hypocrisy & Hate \ud83c\udfac Conservative Creator \ud83d\uddfa California Native",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linktr.ee/fogcitymidge",
+              "expanded_url": "https://linktr.ee/fogcitymidge",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L3sMHRiSUt"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11040,
+      "follow_request_sent": false,
+      "followers_count": 32165,
+      "following": false,
+      "friends_count": 2312,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 940409602155282432,
+      "id_str": "940409602155282432",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 88,
+      "location": "San Francisco, CA",
+      "name": "\ud83c\uddfa\ud83c\uddf8Maggie VandenBerghe \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/940409602155282432/1549065124",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1119086166815330306/JbcLDy1Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119086166815330306/JbcLDy1Y_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "FogCityMidge",
+      "statuses_count": 3276,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L3sMHRiSUt",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1260997070678351873,
+  "quoted_status_id_str": "1260997070678351873",
+  "quoted_status_permalink": {
+    "display": "twitter.com/fogcitymidge/s\u2026",
+    "expanded": "https://twitter.com/fogcitymidge/status/1260997070678351873",
+    "url": "https://t.co/K789oTR0uM"
+  },
+  "retweet_count": 34681,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

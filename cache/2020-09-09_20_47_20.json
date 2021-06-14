@@ -1,0 +1,291 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 09 20:47:20 +0000 2020",
+  "display_text_range": [
+    0,
+    268
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          222,
+          234
+        ],
+        "text": "ClementeDay"
+      },
+      {
+        "indices": [
+          235,
+          244
+        ],
+        "text": "Retire21"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/2Hd0ePPUM9",
+        "expanded_url": "https://twitter.com/MLBVault/status/1303751818288209920/video/1",
+        "id": 1303749453757767680,
+        "id_str": "1303749453757767680",
+        "indices": [
+          245,
+          268
+        ],
+        "media_url": "http://pbs.twimg.com/media/EhfbV04XsAUWsqc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EhfbV04XsAUWsqc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1303751818288209920,
+        "source_status_id_str": "1303751818288209920",
+        "source_user_id": 595667888,
+        "source_user_id_str": "595667888",
+        "type": "photo",
+        "url": "https://t.co/2Hd0ePPUM9"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu May 31 17:30:50 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\"Baseball was, is and always will be to me the best game in the world.\" - Babe Ruth",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/MLBClassics",
+                    "expanded_url": "http://youtube.com/MLBClassics",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/szbU1baj7Y"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 642,
+            "follow_request_sent": false,
+            "followers_count": 41503,
+            "following": false,
+            "friends_count": 143,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 595667888,
+            "id_str": "595667888",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 808,
+            "location": "",
+            "name": "MLB Vault",
+            "notifications": false,
+            "profile_background_color": "050505",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/595667888/1589848457",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1260295664472330240/37WRS_hD_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1260295664472330240/37WRS_hD_normal.jpg",
+            "profile_link_color": "A22626",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "MLBVault",
+            "statuses_count": 175,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/szbU1baj7Y",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": ""
+        },
+        "display_url": "pic.twitter.com/2Hd0ePPUM9",
+        "expanded_url": "https://twitter.com/MLBVault/status/1303751818288209920/video/1",
+        "id": 1303749453757767680,
+        "id_str": "1303749453757767680",
+        "indices": [
+          245,
+          268
+        ],
+        "media_url": "http://pbs.twimg.com/media/EhfbV04XsAUWsqc.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EhfbV04XsAUWsqc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "medium": {
+            "h": 720,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1303751818288209920,
+        "source_status_id_str": "1303751818288209920",
+        "source_user_id": 595667888,
+        "source_user_id_str": "595667888",
+        "type": "video",
+        "url": "https://t.co/2Hd0ePPUM9",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 26426,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303749453757767680/vid/480x480/kRjcngExK5PjRCSj.mp4?tag=13"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303749453757767680/vid/720x720/EmhD_Z0V0uLBNhyi.mp4?tag=13"
+            },
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1303749453757767680/vid/320x320/Qp1YZlJu1Rh8nKQC.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1303749453757767680/pl/JdumWghG_tl-eH4E.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 61207,
+  "favorited": false,
+  "full_text": "Today we join millions of baseball fans and Puerto Ricans in celebrating Roberto Clemente\u2019s life and his immense contributions to baseball and equality. He was one of my all-time favorite players \u2013 Roberto had everything! #ClementeDay #Retire21 https://t.co/2Hd0ePPUM9",
+  "geo": null,
+  "id": 1303797159230402560,
+  "id_str": "1303797159230402560",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 13846,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85855780,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119309,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55729,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

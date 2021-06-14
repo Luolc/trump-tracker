@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 16 04:22:47 +0000 2020",
+  "display_text_range": [
+    0,
+    65
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/kkNUwylyxF",
+        "expanded_url": "https://twitter.com/PatriciaAHenso1/status/1316133472872927233/photo/1",
+        "id": 1316133444792070145,
+        "id_str": "1316133444792070145",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+        "sizes": {
+          "large": {
+            "h": 766,
+            "resize": "fit",
+            "w": 639
+          },
+          "medium": {
+            "h": 766,
+            "resize": "fit",
+            "w": 639
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 567
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1316133472872927233,
+        "source_status_id_str": "1316133472872927233",
+        "source_user_id": 4445498741,
+        "source_user_id_str": "4445498741",
+        "type": "photo",
+        "url": "https://t.co/kkNUwylyxF"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4445498741,
+        "id_str": "4445498741",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Tricia Wingate",
+        "screen_name": "PatriciaAHenso1"
+      },
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          21,
+          33
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/kkNUwylyxF",
+        "expanded_url": "https://twitter.com/PatriciaAHenso1/status/1316133472872927233/photo/1",
+        "id": 1316133444792070145,
+        "id_str": "1316133444792070145",
+        "indices": [
+          42,
+          65
+        ],
+        "media_url": "http://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+        "sizes": {
+          "large": {
+            "h": 766,
+            "resize": "fit",
+            "w": 639
+          },
+          "medium": {
+            "h": 766,
+            "resize": "fit",
+            "w": 639
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 567
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1316133472872927233,
+        "source_status_id_str": "1316133472872927233",
+        "source_user_id": 4445498741,
+        "source_user_id_str": "4445498741",
+        "type": "photo",
+        "url": "https://t.co/kkNUwylyxF"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PatriciaAHenso1: @MZHemingway Comment https://t.co/kkNUwylyxF",
+  "geo": null,
+  "id": 1316957740011540481,
+  "id_str": "1316957740011540481",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "fr",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3258,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 21:47:27 +0000 2020",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kkNUwylyxF",
+          "expanded_url": "https://twitter.com/PatriciaAHenso1/status/1316133472872927233/photo/1",
+          "id": 1316133444792070145,
+          "id_str": "1316133444792070145",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+          "sizes": {
+            "large": {
+              "h": 766,
+              "resize": "fit",
+              "w": 639
+            },
+            "medium": {
+              "h": 766,
+              "resize": "fit",
+              "w": 639
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 567
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kkNUwylyxF"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18005085,
+          "id_str": "18005085",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Mollie",
+          "screen_name": "MZHemingway"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kkNUwylyxF",
+          "expanded_url": "https://twitter.com/PatriciaAHenso1/status/1316133472872927233/photo/1",
+          "id": 1316133444792070145,
+          "id_str": "1316133444792070145",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkPYZRXXsAE8vWW.jpg",
+          "sizes": {
+            "large": {
+              "h": 766,
+              "resize": "fit",
+              "w": 639
+            },
+            "medium": {
+              "h": 766,
+              "resize": "fit",
+              "w": 639
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 567
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kkNUwylyxF"
+        }
+      ]
+    },
+    "favorite_count": 11014,
+    "favorited": false,
+    "full_text": "@MZHemingway Comment https://t.co/kkNUwylyxF",
+    "geo": null,
+    "id": 1316133472872927233,
+    "id_str": "1316133472872927233",
+    "in_reply_to_screen_name": "MZHemingway",
+    "in_reply_to_status_id": 1316130052107653120,
+    "in_reply_to_status_id_str": "1316130052107653120",
+    "in_reply_to_user_id": 18005085,
+    "in_reply_to_user_id_str": "18005085",
+    "is_quote_status": false,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": true,
+    "retweet_count": 3258,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 11 06:13:39 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": ".Forever.Lover of #Christ, #FatherGod #HolySpirit.Critters, God's smile to us. U.S of #America,God's serious duty. #Israel #Life TRUMP #RIP Charlie",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 250217,
+      "follow_request_sent": false,
+      "followers_count": 9270,
+      "following": false,
+      "friends_count": 6838,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 4445498741,
+      "id_str": "4445498741",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 509,
+      "location": "Cabot, AR",
+      "name": "Tricia Wingate",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4445498741/1514314277",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1218426020048658434/pZCDJidl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1218426020048658434/pZCDJidl_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PatriciaAHenso1",
+      "statuses_count": 350651,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87275415,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57238,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

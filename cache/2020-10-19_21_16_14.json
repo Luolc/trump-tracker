@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 19 21:16:14 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1201670995435646976,
+        "id_str": "1201670995435646976",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Lauren Boebert for Congress (R-CO3)",
+        "screen_name": "laurenboebert"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @laurenboebert: Stop Democrats from stealing our votes for President and putting Colorado's water at risk.\n\nWe\u2019re fifteen days out from\u2026",
+  "geo": null,
+  "id": 1318299944608989188,
+  "id_str": "1318299944608989188",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11529,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 19 13:05:44 +0000 2020",
+    "display_text_range": [
+      0,
+      260
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/HsFmyQk0oI",
+          "expanded_url": "https://twitter.com/laurenboebert/status/1318176506665893888/video/1",
+          "id": 1318176422490505216,
+          "id_str": "1318176422490505216",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318176422490505216/pu/img/Xr_VhfqNEaEYmEgt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318176422490505216/pu/img/Xr_VhfqNEaEYmEgt.jpg",
+          "sizes": {
+            "large": {
+              "h": 494,
+              "resize": "fit",
+              "w": 886
+            },
+            "medium": {
+              "h": 494,
+              "resize": "fit",
+              "w": 886
+            },
+            "small": {
+              "h": 379,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/HsFmyQk0oI"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "secure.winred.com/lauren-boebert\u2026",
+          "expanded_url": "https://secure.winred.com/lauren-boebert-for-congress/win",
+          "indices": [
+            237,
+            260
+          ],
+          "url": "https://t.co/9mwZIIrH3x"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/HsFmyQk0oI",
+          "expanded_url": "https://twitter.com/laurenboebert/status/1318176506665893888/video/1",
+          "id": 1318176422490505216,
+          "id_str": "1318176422490505216",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1318176422490505216/pu/img/Xr_VhfqNEaEYmEgt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1318176422490505216/pu/img/Xr_VhfqNEaEYmEgt.jpg",
+          "sizes": {
+            "large": {
+              "h": 494,
+              "resize": "fit",
+              "w": 886
+            },
+            "medium": {
+              "h": 494,
+              "resize": "fit",
+              "w": 886
+            },
+            "small": {
+              "h": 379,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/HsFmyQk0oI",
+          "video_info": {
+            "aspect_ratio": [
+              443,
+              247
+            ],
+            "duration_millis": 29543,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1318176422490505216/pu/vid/644x360/ZzZL17wuNBwVK-kT.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1318176422490505216/pu/vid/886x494/crjrcDqd4lBz0fWA.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1318176422490505216/pu/vid/484x270/XUvqfynxCYQLhXTC.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1318176422490505216/pu/pl/50ytYNZmVQOQL0HM.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 32817,
+    "favorited": false,
+    "full_text": "Stop Democrats from stealing our votes for President and putting Colorado's water at risk.\n\nWe\u2019re fifteen days out from the election and it\u2019s critical I keep ads like this running on the air in this incredibly close race.\n\nDonate today: https://t.co/9mwZIIrH3x https://t.co/HsFmyQk0oI",
+    "geo": null,
+    "id": 1318176506665893888,
+    "id_str": "1318176506665893888",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11529,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 03 01:14:36 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Republican nominee for Congress in CO-03. Owner of @ShootersGrill. I\u2019m the mom who told Beto HELL NO you\u2019re not taking our guns! DONATE\ud83d\udc47\ud83c\udffc",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "secure.winred.com/lauren-boebert\u2026",
+              "expanded_url": "http://secure.winred.com/lauren-boebert-for-congress/win",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PQB0j3CPKE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2036,
+      "follow_request_sent": false,
+      "followers_count": 216533,
+      "following": false,
+      "friends_count": 1030,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1201670995435646976,
+      "id_str": "1201670995435646976",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 481,
+      "location": "Colorado, USA",
+      "name": "Lauren Boebert for Congress (R-CO3)",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201670995435646976/1591022610",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1285329918977617920/BkjtHkom_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1285329918977617920/BkjtHkom_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "laurenboebert",
+      "statuses_count": 2339,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PQB0j3CPKE",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87352350,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121594,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57455,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

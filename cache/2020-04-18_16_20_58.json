@@ -1,0 +1,356 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 18 16:20:58 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          79,
+          88
+        ],
+        "text": "smallbiz"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1017500185356853248,
+        "id_str": "1017500185356853248",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "U.S. Senator Bill Cassidy, M.D.",
+        "screen_name": "SenBillCassidy"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenBillCassidy: I\u2019m receiving text messages, phone calls &amp; emails from #smallbiz owners who wonder if more money will be put into the #\u2026",
+  "geo": null,
+  "id": 1251546272072433664,
+  "id_str": "1251546272072433664",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5669,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 23:41:18 +0000 2020",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            59,
+            68
+          ],
+          "text": "smallbiz"
+        },
+        {
+          "indices": [
+            122,
+            148
+          ],
+          "text": "PaycheckProtectionProgram"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rpAOh68Jcu",
+          "expanded_url": "https://twitter.com/SenBillCassidy/status/1250932311174021120/video/1",
+          "id": 1250931773879574529,
+          "id_str": "1250931773879574529",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1250931773879574529/img/x5cMEG8Dd8NGmKZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1250931773879574529/img/x5cMEG8Dd8NGmKZC.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rpAOh68Jcu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            201,
+            215
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        },
+        {
+          "id": 17494010,
+          "id_str": "17494010",
+          "indices": [
+            222,
+            233
+          ],
+          "name": "Chuck Schumer",
+          "screen_name": "SenSchumer"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/rpAOh68Jcu",
+          "expanded_url": "https://twitter.com/SenBillCassidy/status/1250932311174021120/video/1",
+          "id": 1250931773879574529,
+          "id_str": "1250931773879574529",
+          "indices": [
+            289,
+            312
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1250931773879574529/img/x5cMEG8Dd8NGmKZC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1250931773879574529/img/x5cMEG8Dd8NGmKZC.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rpAOh68Jcu",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 31930,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250931773879574529/vid/720x1280/Gr_NC3gQoU4ck2Bi.mp4?tag=13"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250931773879574529/vid/320x568/L7Z16PdHoj8zGulP.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1250931773879574529/pl/gnEc0inTiNegUEo4.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1250931773879574529/vid/360x640/sqC8c_LFLrqlM_Q8.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13603,
+    "favorited": false,
+    "full_text": "I\u2019m receiving text messages, phone calls &amp; emails from #smallbiz owners who wonder if more money will be put into the #PaycheckProtectionProgram. Republicans have been trying to do so for a week.\n\n@SpeakerPelosi &amp; @SenSchumer are holding it hostage, trying to get other priorities https://t.co/rpAOh68Jcu",
+    "geo": null,
+    "id": 1250932311174021120,
+    "id_str": "1250932311174021120",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5669,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 12 20:05:23 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Treated uninsured patients as a doctor in Louisiana\u2019s charity hospital system, now serving the people of my state in the US Senate. Proud LSU grad! #GeauxTigers",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cassidy.senate.gov",
+              "expanded_url": "http://www.cassidy.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yd6jxEbab5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 227,
+      "follow_request_sent": false,
+      "followers_count": 24609,
+      "following": false,
+      "friends_count": 1127,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1017500185356853248,
+      "id_str": "1017500185356853248",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 445,
+      "location": "Baton Rouge, LA",
+      "name": "U.S. Senator Bill Cassidy, M.D.",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1017500185356853248/1547826031",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1017836622145040386/DcP_lQSc_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenBillCassidy",
+      "statuses_count": 2092,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/yd6jxEbab5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

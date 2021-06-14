@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 13:02:08 +0000 2020",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: https://t.co/Wfqk54w0wV",
+  "geo": null,
+  "id": 1224679531606355968,
+  "id_str": "1224679531606355968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quoted_status_id": 1224035580067098626,
+  "quoted_status_id_str": "1224035580067098626",
+  "quoted_status_permalink": {
+    "display": "twitter.com/iowademocrats/\u2026",
+    "expanded": "https://twitter.com/iowademocrats/status/1224035580067098626",
+    "url": "https://t.co/XUK8B6OhT7"
+  },
+  "retweet_count": 7689,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 05:09:50 +0000 2020",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Wfqk54w0wV",
+          "expanded_url": "https://twitter.com/DanScavino/status/1224560674770247681/photo/1",
+          "id": 1224560669141413888,
+          "id_str": "1224560669141413888",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EP6DcMoWsAAFboZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EP6DcMoWsAAFboZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Wfqk54w0wV"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/iowademocrats/\u2026",
+          "expanded_url": "https://twitter.com/iowademocrats/status/1224035580067098626",
+          "indices": [
+            0,
+            23
+          ],
+          "url": "https://t.co/XUK8B6OhT7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Wfqk54w0wV",
+          "expanded_url": "https://twitter.com/DanScavino/status/1224560674770247681/photo/1",
+          "id": 1224560669141413888,
+          "id_str": "1224560669141413888",
+          "indices": [
+            24,
+            47
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EP6DcMoWsAAFboZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EP6DcMoWsAAFboZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 270,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/Wfqk54w0wV",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EP6DcMoWsAAFboZ.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24843,
+    "favorited": false,
+    "full_text": "https://t.co/XUK8B6OhT7 https://t.co/Wfqk54w0wV",
+    "geo": null,
+    "id": 1224560674770247681,
+    "id_str": "1224560674770247681",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Feb 02 18:23:18 +0000 2020",
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              254,
+              263
+            ],
+            "text": "IACaucus"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 235,
+      "favorited": false,
+      "full_text": "We are in the final stretch! Our team is hard at work making sure that Iowa voters have the correct information they need to make it to the caucuses tomorrow. \n\nIf you see something suspicious, email disinfo@iowademocrats.org and we will respond ASAP. \n\n#IACaucus",
+      "geo": null,
+      "id": 1224035580067098626,
+      "id_str": "1224035580067098626",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 109,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Feb 18 01:36:50 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "We're the Iowa Democratic Party. We #BelieveInIowa.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iowademocrats.org",
+                "expanded_url": "http://iowademocrats.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/4dPhRovtq9"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2504,
+        "follow_request_sent": false,
+        "followers_count": 25946,
+        "following": false,
+        "friends_count": 2365,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 21156659,
+        "id_str": "21156659",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 540,
+        "location": "The Great State of Iowa",
+        "name": "Iowa Democrats",
+        "notifications": false,
+        "profile_background_color": "005AAF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21156659/1539045273",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149741273064050688/qBB_M7ji_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149741273064050688/qBB_M7ji_normal.jpg",
+        "profile_link_color": "01B9FF",
+        "profile_sidebar_border_color": "D0D0C7",
+        "profile_sidebar_fill_color": "F2F2E9",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "iowademocrats",
+        "statuses_count": 21970,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4dPhRovtq9",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1224035580067098626,
+    "quoted_status_id_str": "1224035580067098626",
+    "quoted_status_permalink": {
+      "display": "twitter.com/iowademocrats/\u2026",
+      "expanded": "https://twitter.com/iowademocrats/status/1224035580067098626",
+      "url": "https://t.co/XUK8B6OhT7"
+    },
+    "retweet_count": 7689,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal account. Currently serving as Assistant to the President and Director of Social Media at the White House. For official announcements, go to @Scavino45.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2871,
+      "follow_request_sent": false,
+      "followers_count": 663608,
+      "following": false,
+      "friends_count": 837,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3753,
+      "location": "Washington, DC\u2708\ufe0fNew York",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1571389614",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1113590866009042944/J7GwR0cR_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10764,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 22 05:33:30 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          23,
+          36
+        ],
+        "text": "PrimaryWatch"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 5693842,
+        "id_str": "5693842",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "The Senate Majority",
+        "screen_name": "NRSC"
+      },
+      {
+        "id": 2448551130,
+        "id_str": "2448551130",
+        "indices": [
+          86,
+          102
+        ],
+        "name": "Erica D. Smith",
+        "screen_name": "EricaforUSSen20"
+      },
+      {
+        "id": 1872999342,
+        "id_str": "1872999342",
+        "indices": [
+          113,
+          126
+        ],
+        "name": "Chuck Schumer",
+        "screen_name": "chuckschumer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NRSC: Last week on #PrimaryWatch, we took a closer look at North Carolina - where @EricaforUSSen20 is giving @chuckschumer's guy @Calfo\u2026",
+  "geo": null,
+  "id": 1219855585715347456,
+  "id_str": "1219855585715347456",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1009,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jan 19 20:11:00 +0000 2020",
+    "display_text_range": [
+      0,
+      204
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            13,
+            26
+          ],
+          "text": "PrimaryWatch"
+        },
+        {
+          "indices": [
+            167,
+            173
+          ],
+          "text": "NCSen"
+        },
+        {
+          "indices": [
+            174,
+            180
+          ],
+          "text": "ncpol"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ezUT6NjnIv",
+          "expanded_url": "https://twitter.com/NRSC/status/1217898128369688576/video/1",
+          "features": {},
+          "id": 1217837545599438849,
+          "id_str": "1217837545599438849",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOahHgiW4AAnYVI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOahHgiW4AAnYVI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1217898128369688576,
+          "source_status_id_str": "1217898128369688576",
+          "source_user_id": 5693842,
+          "source_user_id_str": "5693842",
+          "type": "photo",
+          "url": "https://t.co/ezUT6NjnIv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2448551130,
+          "id_str": "2448551130",
+          "indices": [
+            76,
+            92
+          ],
+          "name": "Erica D. Smith",
+          "screen_name": "EricaforUSSen20"
+        },
+        {
+          "id": 1872999342,
+          "id_str": "1872999342",
+          "indices": [
+            103,
+            116
+          ],
+          "name": "Chuck Schumer",
+          "screen_name": "chuckschumer"
+        },
+        {
+          "id": 92397793,
+          "id_str": "92397793",
+          "indices": [
+            123,
+            132
+          ],
+          "name": "Cal Cunningham",
+          "screen_name": "CalforNC"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "can_media_tag": false,
+              "contributors_enabled": false,
+              "created_at": "Tue May 01 20:26:36 +0000 2007",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "NRSC.org",
+                      "expanded_url": "http://www.NRSC.org",
+                      "indices": [
+                        0,
+                        22
+                      ],
+                      "url": "http://t.co/mpfapNoOKr"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 56,
+              "follow_request_sent": false,
+              "followed_by": false,
+              "followers_count": 104604,
+              "following": false,
+              "friends_count": 3025,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 5693842,
+              "id_str": "5693842",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2143,
+              "location": "Washington, D.C.",
+              "name": "The Senate Majority",
+              "notifications": false,
+              "profile_background_color": "544F4F",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1547667062",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+              "profile_link_color": "D40404",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "DBDAC7",
+              "profile_text_color": "000000",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "NRSC",
+              "statuses_count": 29359,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "http://t.co/mpfapNoOKr",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/ezUT6NjnIv",
+          "expanded_url": "https://twitter.com/NRSC/status/1217898128369688576/video/1",
+          "features": {},
+          "id": 1217837545599438849,
+          "id_str": "1217837545599438849",
+          "indices": [
+            181,
+            204
+          ],
+          "media_url": "http://pbs.twimg.com/media/EOahHgiW4AAnYVI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EOahHgiW4AAnYVI.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1217898128369688576,
+          "source_status_id_str": "1217898128369688576",
+          "source_user_id": 5693842,
+          "source_user_id_str": "5693842",
+          "type": "video",
+          "url": "https://t.co/ezUT6NjnIv",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 160285,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1217837545599438849/pl/9WrewFmkOBguCefW.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217837545599438849/vid/1280x720/mL13lW9e6kK9RyNk.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217837545599438849/vid/640x360/XsHX_L1XRRetwXlv.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217837545599438849/vid/480x270/PDv3h1wKFSCLWF2h.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 2767,
+    "favorited": false,
+    "full_text": "Last week on #PrimaryWatch, we took a closer look at North Carolina - where @EricaforUSSen20 is giving @chuckschumer's guy @CalforNC a run for his money. Watch now \u2b07\ufe0f #NCSen #ncpol https://t.co/ezUT6NjnIv",
+    "geo": null,
+    "id": 1218989254010904576,
+    "id_str": "1218989254010904576",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1009,
+    "retweeted": false,
+    "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Tue May 01 20:26:36 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Republican Senatorial Committee (NRSC) \u2022 Dedicated to building a conservative Senate and keeping the #MajorityWorking. Follow us on Snapchat: 'thenrsc'",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "NRSC.org",
+              "expanded_url": "http://www.NRSC.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/mpfapNoOKr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 56,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 104604,
+      "following": false,
+      "friends_count": 3025,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 5693842,
+      "id_str": "5693842",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2143,
+      "location": "Washington, D.C.",
+      "name": "The Senate Majority",
+      "notifications": false,
+      "profile_background_color": "544F4F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5693842/1547667062",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879369003847876608/WB4QEn6q_normal.jpg",
+      "profile_link_color": "D40404",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DBDAC7",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NRSC",
+      "statuses_count": 29359,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/mpfapNoOKr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71382468,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113584,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48045,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

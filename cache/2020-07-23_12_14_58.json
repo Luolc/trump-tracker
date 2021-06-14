@@ -1,0 +1,526 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:14:58 +0000 2020",
+  "display_text_range": [
+    0,
+    106
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: The worst mayor in America seems to think his city isn\u2019t under the jurisdiction of America",
+  "geo": null,
+  "id": 1286273599213576192,
+  "id_str": "1286273599213576192",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1286166903145353218,
+  "quoted_status_id_str": "1286166903145353218",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cnn/status/128\u2026",
+    "expanded": "https://twitter.com/cnn/status/1286166903145353218",
+    "url": "https://t.co/l8QIwvHzTJ"
+  },
+  "retweet_count": 4490,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 05:12:56 +0000 2020",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cnn/status/128\u2026",
+          "expanded_url": "https://twitter.com/cnn/status/1286166903145353218",
+          "indices": [
+            91,
+            114
+          ],
+          "url": "https://t.co/l8QIwvHzTJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12769,
+    "favorited": false,
+    "full_text": "The worst mayor in America seems to think his city isn\u2019t under the jurisdiction of America https://t.co/l8QIwvHzTJ",
+    "geo": null,
+    "id": 1286167391584628737,
+    "id_str": "1286167391584628737",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Jul 23 05:11:00 +0000 2020",
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/u3f5mpIl2e",
+            "expanded_url": "https://twitter.com/CNN/status/1286166903145353218/video/1",
+            "id": 1286077022700294146,
+            "id_str": "1286077022700294146",
+            "indices": [
+              270,
+              293
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286077022700294146/img/FkNQqr-5iMknrl6x.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286077022700294146/img/FkNQqr-5iMknrl6x.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_user_id": 34310801,
+            "source_user_id_str": "34310801",
+            "type": "photo",
+            "url": "https://t.co/u3f5mpIl2e"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cnn.it/32JP1Tm",
+            "expanded_url": "http://cnn.it/32JP1Tm",
+            "indices": [
+              246,
+              269
+            ],
+            "url": "https://t.co/dKSs5HJ54Z"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Apr 22 16:01:45 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "From the staff of The #SitRoom w/ @WolfBlitzer. Tune in from 5-7pm ET weekdays on @CNN.",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "cnn.com/situationroom",
+                        "expanded_url": "http://cnn.com/situationroom",
+                        "indices": [
+                          0,
+                          22
+                        ],
+                        "url": "http://t.co/9Ohl84xOrq"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 1079,
+                "follow_request_sent": false,
+                "followers_count": 502330,
+                "following": false,
+                "friends_count": 921,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 34310801,
+                "id_str": "34310801",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 2580,
+                "location": "Washington ",
+                "name": "The Situation Room",
+                "notifications": false,
+                "profile_background_color": "ABB8C2",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/34310801/1478895946",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/626775966422016000/Lo6b0kNl_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/626775966422016000/Lo6b0kNl_normal.jpg",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "CNNSitRoom",
+                "statuses_count": 26854,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "http://t.co/9Ohl84xOrq",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/u3f5mpIl2e",
+            "expanded_url": "https://twitter.com/CNN/status/1286166903145353218/video/1",
+            "id": 1286077022700294146,
+            "id_str": "1286077022700294146",
+            "indices": [
+              270,
+              293
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286077022700294146/img/FkNQqr-5iMknrl6x.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286077022700294146/img/FkNQqr-5iMknrl6x.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_user_id": 34310801,
+            "source_user_id_str": "34310801",
+            "type": "video",
+            "url": "https://t.co/u3f5mpIl2e",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 398532,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286077022700294146/vid/480x270/V72tXWhmY6YdlSl-.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286077022700294146/vid/640x360/XcaFf10lpuO0Lu8G.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1286077022700294146/pl/y_7Ls0n8zQeMuUuT.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286077022700294146/vid/1280x720/777ELY_R12YMf27E.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 785,
+      "favorited": false,
+      "full_text": "Mayor Bill de Blasio says he will take legal action if the President dispatches federal forces to New York City. \n \n\"If the Trump administration tries to send federal law enforcement in, we will see them in court and we will beat them in court.\" https://t.co/dKSs5HJ54Z https://t.co/u3f5mpIl2e",
+      "geo": null,
+      "id": 1286166903145353218,
+      "id_str": "1286166903145353218",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 197,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Feb 09 00:35:02 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "It\u2019s our job to #GoThere & tell the most difficult stories. Join us! For more breaking news updates follow @CNNBRK & download our app https://t.co/UCHG9M367J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cnn.com/apps",
+                "expanded_url": "http://cnn.com/apps",
+                "indices": [
+                  134,
+                  157
+                ],
+                "url": "https://t.co/UCHG9M367J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "expanded_url": "http://www.cnn.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/IaghNW8Xm2"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1424,
+        "follow_request_sent": false,
+        "followers_count": 49193431,
+        "following": false,
+        "friends_count": 1109,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 759251,
+        "id_str": "759251",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 139969,
+        "location": "",
+        "name": "CNN",
+        "notifications": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/759251/1564637377",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278259160644227073/MfCyF7CG_normal.jpg",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "CNN",
+        "statuses_count": 310470,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/IaghNW8Xm2",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1286166903145353218,
+    "quoted_status_id_str": "1286166903145353218",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cnn/status/128\u2026",
+      "expanded": "https://twitter.com/cnn/status/1286166903145353218",
+      "url": "https://t.co/l8QIwvHzTJ"
+    },
+    "retweet_count": 4490,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show; Former CIA Analyst and NYPD Intel Division #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0fhttps://t.co/3beR3JwoYg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "https://apple.co/2lRor7y",
+              "indices": [
+                123,
+                146
+              ],
+              "url": "https://t.co/3beR3JwoYg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24868,
+      "follow_request_sent": false,
+      "followers_count": 426711,
+      "following": false,
+      "friends_count": 1528,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2537,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 2046,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

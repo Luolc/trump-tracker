@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 01 23:32:05 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1058807868,
+        "id_str": "1058807868",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Ron DeSantis",
+        "screen_name": "GovRonDeSantis"
+      },
+      {
+        "id": 558869342,
+        "id_str": "558869342",
+        "indices": [
+          64,
+          73
+        ],
+        "name": "Tampa General Hospital",
+        "screen_name": "TGHCares"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GovRonDeSantis: Thank you Dr. Lockwood and medical staff at @TGHCares for your contributions and perspective on Florida\u2018s fight against\u2026",
+  "geo": null,
+  "id": 1256365810345488384,
+  "id_str": "1256365810345488384",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3709,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 30 18:17:52 +0000 2020",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            120,
+            128
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/n1BnfTxacd",
+          "expanded_url": "https://twitter.com/GovRonDeSantis/status/1255924343995092994/video/1",
+          "id": 1255924287359406085,
+          "id_str": "1255924287359406085",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255924287359406085/pu/img/pV96-ElVDiFd2oUl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255924287359406085/pu/img/pV96-ElVDiFd2oUl.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/n1BnfTxacd"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 558869342,
+          "id_str": "558869342",
+          "indices": [
+            44,
+            53
+          ],
+          "name": "Tampa General Hospital",
+          "screen_name": "TGHCares"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/n1BnfTxacd",
+          "expanded_url": "https://twitter.com/GovRonDeSantis/status/1255924343995092994/video/1",
+          "id": 1255924287359406085,
+          "id_str": "1255924287359406085",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1255924287359406085/pu/img/pV96-ElVDiFd2oUl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1255924287359406085/pu/img/pV96-ElVDiFd2oUl.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/n1BnfTxacd",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 58058,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255924287359406085/pu/vid/480x480/LOp0fxC8CJqjVTg_.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255924287359406085/pu/vid/720x720/GiErK16_DYYrW0RT.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1255924287359406085/pu/pl/OHee2hvjcJlvfi5K.m3u8?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1255924287359406085/pu/vid/320x320/lQq_1kODVK0e3oIV.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12537,
+    "favorited": false,
+    "full_text": "Thank you Dr. Lockwood and medical staff at @TGHCares for your contributions and perspective on Florida\u2018s fight against #COVID19. https://t.co/n1BnfTxacd",
+    "geo": null,
+    "id": 1255924343995092994,
+    "id_str": "1255924343995092994",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3709,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 03 21:20:17 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "46th Governor of the great state of Florida.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 37,
+      "follow_request_sent": false,
+      "followers_count": 484815,
+      "following": false,
+      "friends_count": 1333,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1058807868,
+      "id_str": "1058807868",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2184,
+      "location": "",
+      "name": "Ron DeSantis",
+      "notifications": false,
+      "profile_background_color": "B31616",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1058807868/1560169684",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1138060146662354946/6jR-b4Yy_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1138060146662354946/6jR-b4Yy_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GovRonDeSantis",
+      "statuses_count": 3762,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79202260,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120685,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51150,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

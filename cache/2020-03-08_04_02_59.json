@@ -1,0 +1,676 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 08 04:02:59 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 1084924525232513025,
+        "id_str": "1084924525232513025",
+        "indices": [
+          31,
+          42
+        ],
+        "name": "Governor Bill Lee",
+        "screen_name": "GovBillLee"
+      },
+      {
+        "id": 1084890796648816641,
+        "id_str": "1084890796648816641",
+        "indices": [
+          47,
+          58
+        ],
+        "name": "Maria Lee",
+        "screen_name": "MariaLeeTN"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Thank you @GovBillLee and @MariaLeeTN. My Administration will always be there for the Great People of Tennessee. Toget\u2026",
+  "geo": null,
+  "id": 1236502647982735360,
+  "id_str": "1236502647982735360",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1236052152398876672,
+  "quoted_status_id_str": "1236052152398876672",
+  "quoted_status_permalink": {
+    "display": "twitter.com/MariaLeeTN/sta\u2026",
+    "expanded": "https://twitter.com/MariaLeeTN/status/1236052152398876672",
+    "url": "https://t.co/d5tJPEiEYf"
+  },
+  "retweet_count": 11791,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 07 03:45:41 +0000 2020",
+    "display_text_range": [
+      0,
+      163
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/SqvRzbw3TL",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1236135907201294336/video/1",
+          "id": 1236135804428333056,
+          "id_str": "1236135804428333056",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236135804428333056/pu/img/bHJAbAZMGTFjesMD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236135804428333056/pu/img/bHJAbAZMGTFjesMD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/SqvRzbw3TL"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/MariaLeeTN/sta\u2026",
+          "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672",
+          "indices": [
+            140,
+            163
+          ],
+          "url": "https://t.co/d5tJPEiEYf"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1084924525232513025,
+          "id_str": "1084924525232513025",
+          "indices": [
+            10,
+            21
+          ],
+          "name": "Governor Bill Lee",
+          "screen_name": "GovBillLee"
+        },
+        {
+          "id": 1084890796648816641,
+          "id_str": "1084890796648816641",
+          "indices": [
+            26,
+            37
+          ],
+          "name": "Maria Lee",
+          "screen_name": "MariaLeeTN"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/SqvRzbw3TL",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1236135907201294336/video/1",
+          "id": 1236135804428333056,
+          "id_str": "1236135804428333056",
+          "indices": [
+            164,
+            187
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1236135804428333056/pu/img/bHJAbAZMGTFjesMD.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1236135804428333056/pu/img/bHJAbAZMGTFjesMD.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/SqvRzbw3TL",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 44308,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1236135804428333056/pu/pl/syZ7mm_VKwiBfv3m.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236135804428333056/pu/vid/1280x720/3IOHaZn5W1k6wcXi.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236135804428333056/pu/vid/480x270/bIfIQimKL76jyp1h.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1236135804428333056/pu/vid/640x360/Nj9w7s37VdRYhNkP.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 48283,
+    "favorited": false,
+    "full_text": "Thank you @GovBillLee and @MariaLeeTN. My Administration will always be there for the Great People of Tennessee. Together, we will prevail! https://t.co/d5tJPEiEYf https://t.co/SqvRzbw3TL",
+    "geo": null,
+    "id": 1236135907201294336,
+    "id_str": "1236135907201294336",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Mar 06 22:12:52 +0000 2020",
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lddVZfrBFN",
+            "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672/photo/1",
+            "id": 1236052141346824199,
+            "id_str": "1236052141346824199",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESdW36jWoAc3Eb0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESdW36jWoAc3Eb0.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lddVZfrBFN"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 1084924525232513025,
+            "id_str": "1084924525232513025",
+            "indices": [
+              7,
+              18
+            ],
+            "name": "Governor Bill Lee",
+            "screen_name": "GovBillLee"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              74,
+              90
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/lddVZfrBFN",
+            "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672/photo/1",
+            "id": 1236052141346824199,
+            "id_str": "1236052141346824199",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESdW36jWoAc3Eb0.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESdW36jWoAc3Eb0.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lddVZfrBFN"
+          },
+          {
+            "display_url": "pic.twitter.com/lddVZfrBFN",
+            "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672/photo/1",
+            "id": 1236052141355282435,
+            "id_str": "1236052141355282435",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESdW36lXsAMuE4q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESdW36lXsAMuE4q.jpg",
+            "sizes": {
+              "large": {
+                "h": 282,
+                "resize": "fit",
+                "w": 422
+              },
+              "medium": {
+                "h": 282,
+                "resize": "fit",
+                "w": 422
+              },
+              "small": {
+                "h": 282,
+                "resize": "fit",
+                "w": 422
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lddVZfrBFN"
+          },
+          {
+            "display_url": "pic.twitter.com/lddVZfrBFN",
+            "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672/photo/1",
+            "id": 1236052141359407104,
+            "id_str": "1236052141359407104",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESdW36mWoAAKX6B.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESdW36mWoAAKX6B.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lddVZfrBFN"
+          },
+          {
+            "display_url": "pic.twitter.com/lddVZfrBFN",
+            "expanded_url": "https://twitter.com/MariaLeeTN/status/1236052152398876672/photo/1",
+            "id": 1236052141346865157,
+            "id_str": "1236052141346865157",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESdW36jXQAUjf1i.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESdW36jXQAUjf1i.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1080
+              },
+              "small": {
+                "h": 453,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/lddVZfrBFN"
+          }
+        ]
+      },
+      "favorite_count": 1856,
+      "favorited": false,
+      "full_text": "Today, @GovBillLee and I watched the spirits of Cookeville be uplifted by @realDonaldTrump\u2019s visit. Thank you for caring so deeply for the people of Tennessee. https://t.co/lddVZfrBFN",
+      "geo": null,
+      "id": 1236052152398876672,
+      "id_str": "1236052152398876672",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 599,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jan 14 19:11:37 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "First Lady of Tennessee | Wife of @GovBillLee",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tn.gov/firstlady",
+                "expanded_url": "http://www.tn.gov/firstlady",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/1j85699Wn7"
+              }
+            ]
+          }
+        },
+        "favourites_count": 68,
+        "follow_request_sent": false,
+        "followers_count": 2011,
+        "following": false,
+        "friends_count": 1,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1084890796648816641,
+        "id_str": "1084890796648816641",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 11,
+        "location": "",
+        "name": "Maria Lee",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084890796648816641/1558361684",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1102933926744608774/A9hF5vjO_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1102933926744608774/A9hF5vjO_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MariaLeeTN",
+        "statuses_count": 158,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/1j85699Wn7",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1236052152398876672,
+    "quoted_status_id_str": "1236052152398876672",
+    "quoted_status_permalink": {
+      "display": "twitter.com/MariaLeeTN/sta\u2026",
+      "expanded": "https://twitter.com/MariaLeeTN/status/1236052152398876672",
+      "url": "https://t.co/d5tJPEiEYf"
+    },
+    "retweet_count": 11791,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7,
+      "follow_request_sent": false,
+      "followers_count": 73484821,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 115714,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 49605,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73484821,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115714,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49605,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

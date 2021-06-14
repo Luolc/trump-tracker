@@ -1,0 +1,526 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 03 07:30:59 +0000 2020",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2471692340,
+        "id_str": "2471692340",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Dr.Darrell Scott",
+        "screen_name": "PastorDScott"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PastorDScott: VOTE TRUMP!!!!!!",
+  "geo": null,
+  "id": 1323528083995987968,
+  "id_str": "1323528083995987968",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "fr",
+  "place": null,
+  "quoted_status_id": 1323308323198873600,
+  "quoted_status_id_str": "1323308323198873600",
+  "quoted_status_permalink": {
+    "display": "twitter.com/bruce_levell/s\u2026",
+    "expanded": "https://twitter.com/bruce_levell/status/1323308323198873600",
+    "url": "https://t.co/Y9WpxFnuAA"
+  },
+  "retweet_count": 11018,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 02 19:54:51 +0000 2020",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/bruce_levell/s\u2026",
+          "expanded_url": "https://twitter.com/bruce_levell/status/1323308323198873600",
+          "indices": [
+            17,
+            40
+          ],
+          "url": "https://t.co/Y9WpxFnuAA"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 54868,
+    "favorited": false,
+    "full_text": "VOTE TRUMP!!!!!! https://t.co/Y9WpxFnuAA",
+    "geo": null,
+    "id": 1323352893190262787,
+    "id_str": "1323352893190262787",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Nov 02 16:57:44 +0000 2020",
+      "display_text_range": [
+        0,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/4wYlDUZtaU",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1323307208227102726/video/1",
+            "id": 1323306754231406592,
+            "id_str": "1323306754231406592",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1323306754231406592/img/Y6oS785T9mAUqL86.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323306754231406592/img/Y6oS785T9mAUqL86.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1323307208227102726,
+            "source_status_id_str": "1323307208227102726",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "photo",
+            "url": "https://t.co/4wYlDUZtaU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 2471692340,
+            "id_str": "2471692340",
+            "indices": [
+              0,
+              13
+            ],
+            "name": "Dr.Darrell Scott",
+            "screen_name": "PastorDScott"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "donaldjtrump.com",
+                        "expanded_url": "https://www.donaldjtrump.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/mVHOxzYUNT"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 100,
+                "follow_request_sent": false,
+                "followers_count": 1009552,
+                "following": false,
+                "friends_count": 287,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1108472017144201216,
+                "id_str": "1108472017144201216",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 3003,
+                "location": "MAGA Country",
+                "name": "Trump War Room - Text TRUMP to 88022",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TrumpWarRoom",
+                "statuses_count": 26466,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/mVHOxzYUNT",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": "Turnout for President Trump among Black Americans will high!"
+            },
+            "display_url": "pic.twitter.com/4wYlDUZtaU",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1323307208227102726/video/1",
+            "id": 1323306754231406592,
+            "id_str": "1323306754231406592",
+            "indices": [
+              16,
+              39
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1323306754231406592/img/Y6oS785T9mAUqL86.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1323306754231406592/img/Y6oS785T9mAUqL86.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1323307208227102726,
+            "source_status_id_str": "1323307208227102726",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "video",
+            "url": "https://t.co/4wYlDUZtaU",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 66233,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1323306754231406592/vid/1280x720/yXKucy2mIkYMlzzH.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1323306754231406592/pl/0gmz5eauUJViZcuL.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1323306754231406592/vid/480x270/698eAs6CfatPbjqP.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1323306754231406592/vid/640x360/myTBb7P0wdDFcNaB.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5077,
+      "favorited": false,
+      "full_text": "@PastorDScott \n https://t.co/4wYlDUZtaU",
+      "geo": null,
+      "id": 1323308323198873600,
+      "id_str": "1323308323198873600",
+      "in_reply_to_screen_name": "PastorDScott",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 2471692340,
+      "in_reply_to_user_id_str": "2471692340",
+      "is_quote_status": false,
+      "lang": "und",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1537,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Sep 20 19:12:02 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Longtime President Donald J Trump Advisor, Senior RNC Media Surrogate ,Former Ga Gwinnet GOP Chair https://t.co/E3cyfo7Ey8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtu.be/04xLmyAhGOk",
+                "expanded_url": "https://youtu.be/04xLmyAhGOk",
+                "indices": [
+                  99,
+                  122
+                ],
+                "url": "https://t.co/E3cyfo7Ey8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 10617,
+        "follow_request_sent": false,
+        "followers_count": 44103,
+        "following": false,
+        "friends_count": 1027,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1887528152,
+        "id_str": "1887528152",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 146,
+        "location": "",
+        "name": "Bruce LeVell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887528152/1452565237",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/994767004920963072/iQY13IFu_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/994767004920963072/iQY13IFu_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Bruce_LeVell",
+        "statuses_count": 3815,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1323308323198873600,
+    "quoted_status_id_str": "1323308323198873600",
+    "quoted_status_permalink": {
+      "display": "twitter.com/bruce_levell/s\u2026",
+      "expanded": "https://twitter.com/bruce_levell/status/1323308323198873600",
+      "url": "https://t.co/Y9WpxFnuAA"
+    },
+    "retweet_count": 11018,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 01 00:32:52 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Pastor, New Spirit Revival Center; CEO WCCD Radio; Ceo National Diversity Coalition for Trump; CEO Urban Revitalization Coalition; Presidential Transition Team",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nsrcministries.org",
+              "expanded_url": "http://nsrcministries.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/j7ZGBetHNe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 33810,
+      "follow_request_sent": false,
+      "followers_count": 200645,
+      "following": false,
+      "friends_count": 8515,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2471692340,
+      "id_str": "2471692340",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 639,
+      "location": "Ohio",
+      "name": "Dr.Darrell Scott",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2471692340/1588266587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1255711408249081857/IC7zWMTm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255711408249081857/IC7zWMTm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PastorDScott",
+      "statuses_count": 19291,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/j7ZGBetHNe",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87803909,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 123179,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58120,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

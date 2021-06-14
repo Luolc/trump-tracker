@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 08 21:13:59 +0000 2020",
+  "display_text_range": [
+    0,
+    64
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          59,
+          64
+        ],
+        "text": "MAGA"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jdanbishop/sta\u2026",
+        "expanded_url": "https://twitter.com/jdanbishop/status/1303374083170676736",
+        "indices": [
+          65,
+          88
+        ],
+        "url": "https://t.co/pf2feOSYX7"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 42836,
+  "favorited": false,
+  "full_text": "Just left Florida, see everyone tonight in North Carolina! #MAGA https://t.co/pf2feOSYX7",
+  "geo": null,
+  "id": 1303441474923749379,
+  "id_str": "1303441474923749379",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 08 16:46:11 +0000 2020",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            39,
+            42
+          ],
+          "text": "NC"
+        },
+        {
+          "indices": [
+            52,
+            65
+          ],
+          "text": "PromisesKept"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/etuWink5wK",
+          "expanded_url": "https://twitter.com/jdanbishop/status/1303374083170676736/photo/1",
+          "id": 1303374077042872320,
+          "id_str": "1303374077042872320",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhaD0UeX0AAlw9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhaD0UeX0AAlw9S.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/etuWink5wK"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            19,
+            35
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/etuWink5wK",
+          "expanded_url": "https://twitter.com/jdanbishop/status/1303374083170676736/photo/1",
+          "id": 1303374077042872320,
+          "id_str": "1303374077042872320",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhaD0UeX0AAlw9S.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhaD0UeX0AAlw9S.jpg",
+          "sizes": {
+            "large": {
+              "h": 1364,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 799,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/etuWink5wK"
+        }
+      ]
+    },
+    "favorite_count": 7397,
+    "favorited": false,
+    "full_text": "Excited to be with @realDonaldTrump in #NC tonight! #PromisesKept https://t.co/etuWink5wK",
+    "geo": null,
+    "id": 1303374083170676736,
+    "id_str": "1303374083170676736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1561,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 28 02:03:15 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Proud Representative of North Carolina\u2019s 9th congressional district fighting for America, freedom & the America First agenda. \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "votedanbishop.com",
+              "expanded_url": "http://www.votedanbishop.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PhDX5lvOpO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3684,
+      "follow_request_sent": false,
+      "followers_count": 16538,
+      "following": false,
+      "friends_count": 758,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1912799826,
+      "id_str": "1912799826",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 184,
+      "location": "Charlotte, NC",
+      "name": "Congressman Dan Bishop",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912799826/1413750839",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/849111620924190721/0VdFDpoK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/849111620924190721/0VdFDpoK_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jdanbishop",
+      "statuses_count": 2597,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PhDX5lvOpO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1303374083170676736,
+  "quoted_status_id_str": "1303374083170676736",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jdanbishop/sta\u2026",
+    "expanded": "https://twitter.com/jdanbishop/status/1303374083170676736",
+    "url": "https://t.co/pf2feOSYX7"
+  },
+  "retweet_count": 9192,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

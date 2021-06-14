@@ -1,0 +1,350 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Nov 18 20:23:17 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 103744112,
+        "id_str": "103744112",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Aric Nesbitt",
+        "screen_name": "aricnesbitt"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @aricnesbitt: This afternoon, I joined my colleagues in calling for a full, independent audit of the recent election prior to the certif\u2026",
+  "geo": null,
+  "id": 1329158254660898816,
+  "id_str": "1329158254660898816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 25531,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 16 21:37:01 +0000 2020",
+    "display_text_range": [
+      0,
+      267
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/H2EYwmKo6e",
+          "expanded_url": "https://twitter.com/aricnesbitt/status/1328452034450907138/photo/1",
+          "id": 1328451489543688192,
+          "id_str": "1328451489543688192",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em-bl1-XEAAeC4T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em-bl1-XEAAeC4T.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 526
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H2EYwmKo6e"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/H2EYwmKo6e",
+          "expanded_url": "https://twitter.com/aricnesbitt/status/1328452034450907138/photo/1",
+          "id": 1328451489543688192,
+          "id_str": "1328451489543688192",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em-bl1-XEAAeC4T.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em-bl1-XEAAeC4T.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 526
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H2EYwmKo6e"
+        },
+        {
+          "display_url": "pic.twitter.com/H2EYwmKo6e",
+          "expanded_url": "https://twitter.com/aricnesbitt/status/1328452034450907138/photo/1",
+          "id": 1328451489535307780,
+          "id_str": "1328451489535307780",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em-bl18XMAQCrb7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em-bl18XMAQCrb7.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 526
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H2EYwmKo6e"
+        },
+        {
+          "display_url": "pic.twitter.com/H2EYwmKo6e",
+          "expanded_url": "https://twitter.com/aricnesbitt/status/1328452034450907138/photo/1",
+          "id": 1328451489539497991,
+          "id_str": "1328451489539497991",
+          "indices": [
+            268,
+            291
+          ],
+          "media_url": "http://pbs.twimg.com/media/Em-bl19XIAcsPVQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Em-bl19XIAcsPVQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 792
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 526
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/H2EYwmKo6e"
+        }
+      ]
+    },
+    "favorite_count": 79351,
+    "favorited": false,
+    "full_text": "This afternoon, I joined my colleagues in calling for a full, independent audit of the recent election prior to the certification of results. We have seen a number of allegations that range from outright fraud, if true, to terrible mistakes that need to be corrected. https://t.co/H2EYwmKo6e",
+    "geo": null,
+    "id": 1328452034450907138,
+    "id_str": "1328452034450907138",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 25531,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 11 03:30:41 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senate President Pro Tempore @MISenate, proud @hillsdale grad, farm boy, & @PureMichigan lover. Husband to Trisha & father to Catherine.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "VoteNesbitt.com",
+              "expanded_url": "http://www.VoteNesbitt.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SEfYITRfim"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4147,
+      "follow_request_sent": false,
+      "followers_count": 8728,
+      "following": false,
+      "friends_count": 1845,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 103744112,
+      "id_str": "103744112",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 114,
+      "location": "Lawton, MI",
+      "name": "Aric Nesbitt",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/103744112/1604887468",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1327255146783502337/7Il-m5pA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1327255146783502337/7Il-m5pA_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "aricnesbitt",
+      "statuses_count": 7674,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/SEfYITRfim",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88934753,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125210,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58583,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

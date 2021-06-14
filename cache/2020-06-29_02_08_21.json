@@ -1,0 +1,465 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 29 02:08:21 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 299258737,
+        "id_str": "299258737",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Seb Rougemont",
+        "screen_name": "SebRougemont"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SebRougemont: \u201cThere are only a few real battleground states in the country. New Hampshire is one of those, and it's a place where we k\u2026",
+  "geo": null,
+  "id": 1277423629668700161,
+  "id_str": "1277423629668700161",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1277020167063711744,
+  "quoted_status_id_str": "1277020167063711744",
+  "quoted_status_permalink": {
+    "display": "twitter.com/wmur9/status/1\u2026",
+    "expanded": "https://twitter.com/wmur9/status/1277020167063711744",
+    "url": "https://t.co/1RwEtz4qj7"
+  },
+  "retweet_count": 4358,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 23:34:05 +0000 2020",
+    "display_text_range": [
+      0,
+      301
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            255,
+            266
+          ],
+          "text": "nhpolitics"
+        },
+        {
+          "indices": [
+            267,
+            277
+          ],
+          "text": "LeadRight"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vkOJjsB2kN",
+          "expanded_url": "https://twitter.com/SebRougemont/status/1277022419669127173/photo/1",
+          "id": 1277022414644359168,
+          "id_str": "1277022414644359168",
+          "indices": [
+            302,
+            325
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbjlHsMWsAAoC2g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbjlHsMWsAAoC2g.jpg",
+          "sizes": {
+            "large": {
+              "h": 946,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 554,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 314,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vkOJjsB2kN"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/wmur9/status/1\u2026",
+          "expanded_url": "https://twitter.com/wmur9/status/1277020167063711744",
+          "indices": [
+            278,
+            301
+          ],
+          "url": "https://t.co/1RwEtz4qj7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vkOJjsB2kN",
+          "expanded_url": "https://twitter.com/SebRougemont/status/1277022419669127173/photo/1",
+          "id": 1277022414644359168,
+          "id_str": "1277022414644359168",
+          "indices": [
+            302,
+            325
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbjlHsMWsAAoC2g.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbjlHsMWsAAoC2g.jpg",
+          "sizes": {
+            "large": {
+              "h": 946,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 554,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 314,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vkOJjsB2kN"
+        }
+      ]
+    },
+    "favorite_count": 14770,
+    "favorited": false,
+    "full_text": "\u201cThere are only a few real battleground states in the country. New Hampshire is one of those, and it's a place where we know the core principles of what Donald Trump has talked about \u2013 smaller government, lower taxes, less regulation, strong military.\u201d \n\n#nhpolitics #LeadRight https://t.co/1RwEtz4qj7 https://t.co/vkOJjsB2kN",
+    "geo": null,
+    "id": 1277022419669127173,
+    "id_str": "1277022419669127173",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -71.5127219,
+              42.8909187
+            ],
+            [
+              -71.3754393,
+              42.8909187
+            ],
+            [
+              -71.3754393,
+              43.0514794
+            ],
+            [
+              -71.5127219,
+              43.0514794
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manchester, NH",
+      "id": "5e6cc87c609e3a59",
+      "name": "Manchester",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/5e6cc87c609e3a59.json"
+    },
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Jun 27 23:25:08 +0000 2020",
+      "display_text_range": [
+        0,
+        71
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "wmur.com/article/trump-\u2026",
+            "expanded_url": "https://www.wmur.com/article/trump-campaign-opens-field-office-in-manchester/32988693",
+            "indices": [
+              48,
+              71
+            ],
+            "url": "https://t.co/VIxVLr7yNZ"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 19680,
+      "favorited": false,
+      "full_text": "Trump campaign opens field office in Manchester https://t.co/VIxVLr7yNZ",
+      "geo": null,
+      "id": 1277020167063711744,
+      "id_str": "1277020167063711744",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5281,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 05 18:01:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News, weather and sports updates from WMUR News 9 and http://t.co/OLoBoV59e7.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "WMUR.com",
+                "expanded_url": "http://WMUR.com",
+                "indices": [
+                  54,
+                  76
+                ],
+                "url": "http://t.co/OLoBoV59e7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wmur.com",
+                "expanded_url": "http://www.wmur.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/L7Ckio68qL"
+              }
+            ]
+          }
+        },
+        "favourites_count": 120,
+        "follow_request_sent": false,
+        "followers_count": 132613,
+        "following": false,
+        "friends_count": 391,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14662569,
+        "id_str": "14662569",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1441,
+        "location": "New Hampshire",
+        "name": "WMUR TV",
+        "notifications": false,
+        "profile_background_color": "000099",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14662569/1593390879",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/478932576569028609/utWBPa_h_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/478932576569028609/utWBPa_h_normal.jpeg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "WMUR9",
+        "statuses_count": 346782,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/L7Ckio68qL",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1277020167063711744,
+    "quoted_status_id_str": "1277020167063711744",
+    "quoted_status_permalink": {
+      "display": "twitter.com/wmur9/status/1\u2026",
+      "expanded": "https://twitter.com/wmur9/status/1277020167063711744",
+      "url": "https://t.co/1RwEtz4qj7"
+    },
+    "retweet_count": 4358,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun May 15 19:28:24 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "New Hampshire Trump Victory State Director | #FirstInTheField",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TrumpVictory.com/volunteers",
+              "expanded_url": "http://TrumpVictory.com/volunteers",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1Vz7kVLwJI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8463,
+      "follow_request_sent": false,
+      "followers_count": 1494,
+      "following": false,
+      "friends_count": 1453,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 299258737,
+      "id_str": "299258737",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11,
+      "location": "New Hampshire, USA",
+      "name": "Seb Rougemont",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/299258737/1581809590",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1228820720861446144/sgLSAfVV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1228820720861446144/sgLSAfVV_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SebRougemont",
+      "statuses_count": 2467,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1Vz7kVLwJI",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82607699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116064,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53273,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

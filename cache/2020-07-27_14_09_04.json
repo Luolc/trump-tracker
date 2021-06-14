@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 14:09:04 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 291756142,
+        "id_str": "291756142",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mike Enzi",
+        "screen_name": "SenatorEnzi"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorEnzi: I\u2019m glad the Senate passed the National Defense Authorization Act today that prioritizes quality of life for our troops, w\u2026",
+  "geo": null,
+  "id": 1287751864977678339,
+  "id_str": "1287751864977678339",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 449,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 18:49:30 +0000 2020",
+    "display_text_range": [
+      0,
+      247
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1PFjNJmPWk",
+          "expanded_url": "https://twitter.com/SenatorEnzi/status/1286372886543040512/photo/1",
+          "id": 1286371737354067968,
+          "id_str": "1286371737354067968",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/EdocR5YXYAAikNA.png",
+          "media_url_https": "https://pbs.twimg.com/media/EdocR5YXYAAikNA.png",
+          "sizes": {
+            "large": {
+              "h": 1022,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 339,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1PFjNJmPWk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1PFjNJmPWk",
+          "expanded_url": "https://twitter.com/SenatorEnzi/status/1286372886543040512/photo/1",
+          "id": 1286371737354067968,
+          "id_str": "1286371737354067968",
+          "indices": [
+            248,
+            271
+          ],
+          "media_url": "http://pbs.twimg.com/media/EdocR5YXYAAikNA.png",
+          "media_url_https": "https://pbs.twimg.com/media/EdocR5YXYAAikNA.png",
+          "sizes": {
+            "large": {
+              "h": 1022,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 339,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1PFjNJmPWk"
+        }
+      ]
+    },
+    "favorite_count": 1693,
+    "favorited": false,
+    "full_text": "I\u2019m glad the Senate passed the National Defense Authorization Act today that prioritizes quality of life for our troops, while also supporting our American energy industries, modernizing technologies and improving the transparency of the Pentagon. https://t.co/1PFjNJmPWk",
+    "geo": null,
+    "id": 1286372886543040512,
+    "id_str": "1286372886543040512",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 449,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 02 15:26:39 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mike Enzi is Wyoming\u2019s 20th U.S. Senator. His joy of representing Wyoming is topped by few things. (Being a grandfather and fly-fishing are two.)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "enzi.senate.gov",
+              "expanded_url": "http://www.enzi.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/Vxn9wmrQ3U"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11,
+      "follow_request_sent": false,
+      "followers_count": 103247,
+      "following": false,
+      "friends_count": 608,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 291756142,
+      "id_str": "291756142",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1628,
+      "location": "",
+      "name": "Mike Enzi",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/291756142/1399045146",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1046850787127824384/wEyIA6C5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1046850787127824384/wEyIA6C5_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorEnzi",
+      "statuses_count": 4737,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/Vxn9wmrQ3U",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

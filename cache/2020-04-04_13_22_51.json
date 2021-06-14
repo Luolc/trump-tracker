@@ -1,0 +1,335 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 04 13:22:51 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          71,
+          80
+        ],
+        "text": "CARESAct"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: The Paycheck Protection Program is now available! #CARESAct\n\nSmall Business Guidance &amp; Loan Resources: https://t.co/lf\u2026",
+  "geo": null,
+  "id": 1246428018534383616,
+  "id_str": "1246428018534383616",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 13210,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 03 17:51:15 +0000 2020",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            50,
+            59
+          ],
+          "text": "CARESAct"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eosegomf38",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1246133172443717632/video/1",
+          "id": 1246133028918890497,
+          "id_str": "1246133028918890497",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246133028918890497/pu/img/qsRuaXTQZPDMkSt1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246133028918890497/pu/img/qsRuaXTQZPDMkSt1.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eosegomf38"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "SBA.gov",
+          "expanded_url": "http://SBA.gov",
+          "indices": [
+            107,
+            130
+          ],
+          "url": "https://t.co/lfe1wbsSNA"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/eosegomf38",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1246133172443717632/video/1",
+          "id": 1246133028918890497,
+          "id_str": "1246133028918890497",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246133028918890497/pu/img/qsRuaXTQZPDMkSt1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246133028918890497/pu/img/qsRuaXTQZPDMkSt1.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/eosegomf38",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 31008,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246133028918890497/pu/vid/640x640/FjVX8q83B4xVi99U.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246133028918890497/pu/vid/320x320/SrwzAXE4MFLMLhvA.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1246133028918890497/pu/pl/R6FqqhA6KIZW2Dy2.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1246133028918890497/pu/vid/480x480/CKKgBFpYQVw_nYKr.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 44783,
+    "favorited": false,
+    "full_text": "The Paycheck Protection Program is now available! #CARESAct\n\nSmall Business Guidance &amp; Loan Resources: https://t.co/lfe1wbsSNA https://t.co/eosegomf38",
+    "geo": null,
+    "id": 1246133172443717632,
+    "id_str": "1246133172443717632",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13210,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 76006789,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 118587,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 50421,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76006789,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50421,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

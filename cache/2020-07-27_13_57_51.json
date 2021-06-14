@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 13:57:51 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          72,
+          77
+        ],
+        "text": "NDAA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1096059529,
+        "id_str": "1096059529",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Jim Risch",
+        "screen_name": "SenatorRisch"
+      },
+      {
+        "id": 600463589,
+        "id_str": "600463589",
+        "indices": [
+          25,
+          35
+        ],
+        "name": "Senator Mike Crapo",
+        "screen_name": "MikeCrapo"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenatorRisch: Today, @MikeCrapo and I voted in favor of the FY 2021 #NDAA to ensure that U.S. forces are equipped to defend against imm\u2026",
+  "geo": null,
+  "id": 1287749042521473024,
+  "id_str": "1287749042521473024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 651,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 22:43:18 +0000 2020",
+    "display_text_range": [
+      0,
+      174
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            54,
+            59
+          ],
+          "text": "NDAA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FutwItPK0E",
+          "expanded_url": "https://twitter.com/SenatorRisch/status/1286431723694301184/photo/1",
+          "id": 1286431719135023104,
+          "id_str": "1286431719135023104",
+          "indices": [
+            175,
+            198
+          ],
+          "media_url": "http://pbs.twimg.com/media/EdpS1S7WkAA-3P0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EdpS1S7WkAA-3P0.jpg",
+          "sizes": {
+            "large": {
+              "h": 1023,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FutwItPK0E"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 600463589,
+          "id_str": "600463589",
+          "indices": [
+            7,
+            17
+          ],
+          "name": "Senator Mike Crapo",
+          "screen_name": "MikeCrapo"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FutwItPK0E",
+          "expanded_url": "https://twitter.com/SenatorRisch/status/1286431723694301184/photo/1",
+          "id": 1286431719135023104,
+          "id_str": "1286431719135023104",
+          "indices": [
+            175,
+            198
+          ],
+          "media_url": "http://pbs.twimg.com/media/EdpS1S7WkAA-3P0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EdpS1S7WkAA-3P0.jpg",
+          "sizes": {
+            "large": {
+              "h": 1023,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 599,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FutwItPK0E"
+        }
+      ]
+    },
+    "favorite_count": 2434,
+    "favorited": false,
+    "full_text": "Today, @MikeCrapo and I voted in favor of the FY 2021 #NDAA to ensure that U.S. forces are equipped to defend against imminent threats and secure the safety of our democracy. https://t.co/FutwItPK0E",
+    "geo": null,
+    "id": 1286431723694301184,
+    "id_str": "1286431723694301184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 651,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 16 18:58:23 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "U.S. Senator for Idaho",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "risch.senate.gov",
+              "expanded_url": "http://risch.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/QMGG1eEAGz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 429,
+      "follow_request_sent": false,
+      "followers_count": 98871,
+      "following": false,
+      "friends_count": 321,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1096059529,
+      "id_str": "1096059529",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1616,
+      "location": "Boise",
+      "name": "Jim Risch",
+      "notifications": false,
+      "profile_background_color": "1717EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1096059529/1587994038",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3161364149/32f2f83385840438a393070a7e426bde_normal.jpeg",
+      "profile_link_color": "C71414",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenatorRisch",
+      "statuses_count": 2173,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/QMGG1eEAGz",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

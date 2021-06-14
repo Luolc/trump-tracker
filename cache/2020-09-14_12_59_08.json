@@ -1,0 +1,433 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 14 12:59:08 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 393469195,
+        "id_str": "393469195",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Stephen L. Miller",
+        "screen_name": "redsteeze"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @redsteeze: Members of Biden\u2019s campaign bailed out rioters in Minneapolis. His running mate solicited donations to the group doing this.\u2026",
+  "geo": null,
+  "id": 1305491270232498177,
+  "id_str": "1305491270232498177",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1305250317697773571,
+  "quoted_status_id_str": "1305250317697773571",
+  "quoted_status_permalink": {
+    "display": "twitter.com/sahilkapur/sta\u2026",
+    "expanded": "https://twitter.com/sahilkapur/status/1305250317697773571",
+    "url": "https://t.co/1SD1jcAUQ2"
+  },
+  "retweet_count": 5621,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 21:22:14 +0000 2020",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/sahilkapur/sta\u2026",
+          "expanded_url": "https://twitter.com/sahilkapur/status/1305250317697773571",
+          "indices": [
+            184,
+            207
+          ],
+          "url": "https://t.co/1SD1jcAUQ2"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 11537,
+    "favorited": false,
+    "full_text": "Members of Biden\u2019s campaign bailed out rioters in Minneapolis. His running mate solicited donations to the group doing this. \n\nNeither has been asked about it by members of the press. https://t.co/1SD1jcAUQ2",
+    "geo": null,
+    "id": 1305255492529217537,
+    "id_str": "1305255492529217537",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Sep 13 21:01:40 +0000 2020",
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/B7wYERepem",
+            "expanded_url": "https://twitter.com/sahilkapur/status/1305250317697773571/photo/1",
+            "id": 1305250298726952960,
+            "id_str": "1305250298726952960",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh0uOy6XsAA237W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh0uOy6XsAA237W.jpg",
+            "sizes": {
+              "large": {
+                "h": 1758,
+                "resize": "fit",
+                "w": 1241
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 847
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 480
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/B7wYERepem"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/B7wYERepem",
+            "expanded_url": "https://twitter.com/sahilkapur/status/1305250317697773571/photo/1",
+            "id": 1305250298726952960,
+            "id_str": "1305250298726952960",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh0uOy6XsAA237W.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh0uOy6XsAA237W.jpg",
+            "sizes": {
+              "large": {
+                "h": 1758,
+                "resize": "fit",
+                "w": 1241
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 847
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 480
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/B7wYERepem"
+          },
+          {
+            "display_url": "pic.twitter.com/B7wYERepem",
+            "expanded_url": "https://twitter.com/sahilkapur/status/1305250317697773571/photo/1",
+            "id": 1305250298705907713,
+            "id_str": "1305250298705907713",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Eh0uOy1WkAELh9L.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Eh0uOy1WkAELh9L.jpg",
+            "sizes": {
+              "large": {
+                "h": 1649,
+                "resize": "fit",
+                "w": 1241
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 903
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 512
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/B7wYERepem"
+          }
+        ]
+      },
+      "favorite_count": 392,
+      "favorited": false,
+      "full_text": "INBOX: Statement by Vice President Joe Biden on Supporting Police Officers in the Line of Duty https://t.co/B7wYERepem",
+      "geo": null,
+      "id": 1305250317697773571,
+      "id_str": "1305250317697773571",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 219,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Feb 01 05:18:57 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "National political reporter at @NBCNews / sahil.kapur@nbcuni.com / DMs open",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nbcnews.com",
+                "expanded_url": "http://nbcnews.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/TouDVeULbs"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7178,
+        "follow_request_sent": false,
+        "followers_count": 155394,
+        "following": false,
+        "friends_count": 601,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 19847765,
+        "id_str": "19847765",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3400,
+        "location": "Washington, D.C.",
+        "name": "Sahil Kapur",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19847765/1596314027",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925164843853930496/UgT1jnoi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925164843853930496/UgT1jnoi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "sahilkapur",
+        "statuses_count": 48619,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/TouDVeULbs",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1305250317697773571,
+    "quoted_status_id_str": "1305250317697773571",
+    "quoted_status_permalink": {
+      "display": "twitter.com/sahilkapur/sta\u2026",
+      "expanded": "https://twitter.com/sahilkapur/status/1305250317697773571",
+      "url": "https://t.co/1SD1jcAUQ2"
+    },
+    "retweet_count": 5621,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 18 15:46:57 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Creator + host of Vs Media Podcast on Patreon. Contributor @spectatorusa. Commentary archive at @nro @FoxNews @nypost",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "patreon.com/millervsmedia",
+              "expanded_url": "https://www.patreon.com/millervsmedia",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KQeHXCDOJT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26,
+      "follow_request_sent": false,
+      "followers_count": 268702,
+      "following": false,
+      "friends_count": 1614,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 393469195,
+      "id_str": "393469195",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2517,
+      "location": "New York City of Brooklyn",
+      "name": "Stephen L. Miller",
+      "notifications": false,
+      "profile_background_color": "CCCCCC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/393469195/1460992872",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1171149010754854912/2CVoK6I8_normal.jpg",
+      "profile_link_color": "731010",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "redsteeze",
+      "statuses_count": 74435,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KQeHXCDOJT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85958230,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119579,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1599936297",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55912,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

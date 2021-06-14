@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 03 00:23:00 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/8c3ehazrAy",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1301314717835825157/video/1",
+        "id": 1301314038610223104,
+        "id_str": "1301314038610223104",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301314038610223104/pu/img/vfh_2wfVw3siG5ZM.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301314038610223104/pu/img/vfh_2wfVw3siG5ZM.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/8c3ehazrAy"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/whitehouse/sta\u2026",
+        "expanded_url": "https://twitter.com/whitehouse/status/1301219505583149056",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/dmijM5qHxz"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/8c3ehazrAy",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1301314717835825157/video/1",
+        "id": 1301314038610223104,
+        "id_str": "1301314038610223104",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1301314038610223104/pu/img/vfh_2wfVw3siG5ZM.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1301314038610223104/pu/img/vfh_2wfVw3siG5ZM.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/8c3ehazrAy",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 82175,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1301314038610223104/pu/vid/480x270/-oFRWNOsJhmAm8HA.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1301314038610223104/pu/vid/640x360/vJ_xi74oBxG6L5Vv.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1301314038610223104/pu/vid/1280x720/VfgO43HJA_dYvZlg.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1301314038610223104/pu/pl/E2udn6GN9ggMEO4p.m3u8?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 49251,
+  "favorited": false,
+  "full_text": "https://t.co/dmijM5qHxz https://t.co/8c3ehazrAy",
+  "geo": null,
+  "id": 1301314717835825157,
+  "id_str": "1301314717835825157",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 02 18:04:40 +0000 2020",
+    "display_text_range": [
+      0,
+      152
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/stWFGiRqh7",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1301219505583149056/photo/1",
+          "id": 1301219503859261440,
+          "id_str": "1301219503859261440",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eg7cPp5XYAAi2LU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eg7cPp5XYAAi2LU.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/stWFGiRqh7"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "45.wh.gov/RtVRmD",
+          "expanded_url": "http://45.wh.gov/RtVRmD",
+          "indices": [
+            129,
+            152
+          ],
+          "url": "https://t.co/EmsdctGWtd"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            17,
+            33
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/stWFGiRqh7",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1301219505583149056/photo/1",
+          "id": 1301219503859261440,
+          "id_str": "1301219503859261440",
+          "indices": [
+            153,
+            176
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eg7cPp5XYAAi2LU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eg7cPp5XYAAi2LU.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/stWFGiRqh7"
+        }
+      ]
+    },
+    "favorite_count": 4095,
+    "favorited": false,
+    "full_text": "Today, President @realDonaldTrump will designate Wilmington, NC, as the first American World War II Heritage City! \n\nWatch live: https://t.co/EmsdctGWtd https://t.co/stWFGiRqh7",
+    "geo": null,
+    "id": 1301219505583149056,
+    "id_str": "1301219505583149056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1320,
+    "retweeted": false,
+    "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "whitehouse.gov/privacy",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ],
+              "url": "https://t.co/IURuMIrzxb"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 19,
+      "follow_request_sent": false,
+      "followers_count": 24620719,
+      "following": false,
+      "friends_count": 14,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 15858,
+      "location": "Washington, D.C.",
+      "name": "The White House",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1580922287",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WhiteHouse",
+      "statuses_count": 21454,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1301219505583149056,
+  "quoted_status_id_str": "1301219505583149056",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1301219505583149056",
+    "url": "https://t.co/dmijM5qHxz"
+  },
+  "retweet_count": 14291,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85746410,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119058,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55332,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

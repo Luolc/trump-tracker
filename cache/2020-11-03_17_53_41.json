@@ -1,0 +1,531 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Nov 03 17:53:41 +0000 2020",
+  "display_text_range": [
+    0,
+    81
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/S3vIy3oMYR",
+        "expanded_url": "https://twitter.com/45F0RLIFE/status/1323462879744528384/video/1",
+        "id": 1323462863118282758,
+        "id_str": "1323462863118282758",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+        "sizes": {
+          "large": {
+            "h": 1006,
+            "resize": "fit",
+            "w": 576
+          },
+          "medium": {
+            "h": 1006,
+            "resize": "fit",
+            "w": 576
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 389
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1323462879744528384,
+        "source_status_id_str": "1323462879744528384",
+        "source_user_id": 1284902820471283715,
+        "source_user_id_str": "1284902820471283715",
+        "type": "photo",
+        "url": "https://t.co/S3vIy3oMYR"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 851821818721828865,
+        "id_str": "851821818721828865",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Barstool News Network",
+        "screen_name": "BarstoolNewsN"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Jul 19 17:28:12 +0000 2020",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "TRUMP 2020 #MAGA",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 7059,
+            "follow_request_sent": false,
+            "followers_count": 17959,
+            "following": false,
+            "friends_count": 605,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1284902820471283715,
+            "id_str": "1284902820471283715",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 34,
+            "location": "",
+            "name": "45\ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1284902820471283715/1603126672",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1316134044342644737/jwRsGLuf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316134044342644737/jwRsGLuf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "45F0RLIFE",
+            "statuses_count": 1559,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/S3vIy3oMYR",
+        "expanded_url": "https://twitter.com/45F0RLIFE/status/1323462879744528384/video/1",
+        "id": 1323462863118282758,
+        "id_str": "1323462863118282758",
+        "indices": [
+          58,
+          81
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+        "sizes": {
+          "large": {
+            "h": 1006,
+            "resize": "fit",
+            "w": 576
+          },
+          "medium": {
+            "h": 1006,
+            "resize": "fit",
+            "w": 576
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 389
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1323462879744528384,
+        "source_status_id_str": "1323462879744528384",
+        "source_user_id": 1284902820471283715,
+        "source_user_id_str": "1284902820471283715",
+        "type": "video",
+        "url": "https://t.co/S3vIy3oMYR",
+        "video_info": {
+          "aspect_ratio": [
+            288,
+            503
+          ],
+          "duration_millis": 12097,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/320x558/OF5Qlk5clKkRDSVM.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/pl/hpxjsaaJ706L488p.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/360x628/hsujFGRjznT8OgU8.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/576x1006/1IlT6KLeNsoCWuyd.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BarstoolNewsN: The Amish are not playing around today https://t.co/S3vIy3oMYR",
+  "geo": null,
+  "id": 1323684790894297089,
+  "id_str": "1323684790894297089",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 32158,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 03 13:50:59 +0000 2020",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/S3vIy3oMYR",
+          "expanded_url": "https://twitter.com/45F0RLIFE/status/1323462879744528384/video/1",
+          "id": 1323462863118282758,
+          "id_str": "1323462863118282758",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+          "sizes": {
+            "large": {
+              "h": 1006,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1006,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 389
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1323462879744528384,
+          "source_status_id_str": "1323462879744528384",
+          "source_user_id": 1284902820471283715,
+          "source_user_id_str": "1284902820471283715",
+          "type": "photo",
+          "url": "https://t.co/S3vIy3oMYR"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sun Jul 19 17:28:12 +0000 2020",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "TRUMP 2020 #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 7059,
+              "follow_request_sent": false,
+              "followers_count": 17959,
+              "following": false,
+              "friends_count": 605,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1284902820471283715,
+              "id_str": "1284902820471283715",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 34,
+              "location": "",
+              "name": "45\ud83c\uddfa\ud83c\uddf8",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1284902820471283715/1603126672",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1316134044342644737/jwRsGLuf_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316134044342644737/jwRsGLuf_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "45F0RLIFE",
+              "statuses_count": 1559,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/S3vIy3oMYR",
+          "expanded_url": "https://twitter.com/45F0RLIFE/status/1323462879744528384/video/1",
+          "id": 1323462863118282758,
+          "id_str": "1323462863118282758",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1323462863118282758/pu/img/XhHONyVnyrRBPm2J.jpg",
+          "sizes": {
+            "large": {
+              "h": 1006,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1006,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 389
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1323462879744528384,
+          "source_status_id_str": "1323462879744528384",
+          "source_user_id": 1284902820471283715,
+          "source_user_id_str": "1284902820471283715",
+          "type": "video",
+          "url": "https://t.co/S3vIy3oMYR",
+          "video_info": {
+            "aspect_ratio": [
+              288,
+              503
+            ],
+            "duration_millis": 12097,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/320x558/OF5Qlk5clKkRDSVM.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/pl/hpxjsaaJ706L488p.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/360x628/hsujFGRjznT8OgU8.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1323462863118282758/pu/vid/576x1006/1IlT6KLeNsoCWuyd.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 147317,
+    "favorited": false,
+    "full_text": "The Amish are not playing around today https://t.co/S3vIy3oMYR",
+    "geo": null,
+    "id": 1323623712311095296,
+    "id_str": "1323623712311095296",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 32158,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 11 15:38:42 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Barstool News Network - BNN @barstoolsports. tips to BNN@barstoolsports.com. Daily podcast: @HardFactorNews \u2199\ufe0fSUBSCRIBE\u2199\ufe0f Call 512.270.1480",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "smarturl.it/hardfactorpod",
+              "expanded_url": "http://smarturl.it/hardfactorpod",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L6P4perv9M"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1874,
+      "follow_request_sent": false,
+      "followers_count": 102334,
+      "following": false,
+      "friends_count": 651,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 851821818721828865,
+      "id_str": "851821818721828865",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 329,
+      "location": "New York, USA",
+      "name": "Barstool News Network",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/851821818721828865/1501088863",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1189264985651908614/MToNAtRb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1189264985651908614/MToNAtRb_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BarstoolNewsN",
+      "statuses_count": 7454,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L6P4perv9M",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87803909,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 123179,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58120,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

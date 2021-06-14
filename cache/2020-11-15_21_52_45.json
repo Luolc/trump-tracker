@@ -1,0 +1,847 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 15 21:52:45 +0000 2020",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/akTxwqHAoi",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1327787101438480384/video/1",
+        "id": 1327786645123461122,
+        "id_str": "1327786645123461122",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327787101438480384,
+        "source_status_id_str": "1327787101438480384",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "photo",
+        "url": "https://t.co/akTxwqHAoi"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 09 14:15:10 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN! \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "DonaldJTrump.com",
+                    "expanded_url": "http://www.DonaldJTrump.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mZB2hymxC9"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 3524,
+            "follow_request_sent": false,
+            "followers_count": 2400513,
+            "following": false,
+            "friends_count": 132,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 729676086632656900,
+            "id_str": "729676086632656900",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4820,
+            "location": "USA",
+            "name": "Team Trump",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1605277870",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_link_color": "CB0606",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TeamTrump",
+            "statuses_count": 30097,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/mZB2hymxC9",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "Meet Joe Biden's Supporters"
+        },
+        "display_url": "pic.twitter.com/akTxwqHAoi",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1327787101438480384/video/1",
+        "id": 1327786645123461122,
+        "id_str": "1327786645123461122",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1327787101438480384,
+        "source_status_id_str": "1327787101438480384",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "video",
+        "url": "https://t.co/akTxwqHAoi",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 68292,
+          "variants": [
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/480x270/aYfgmtA13jdnPBQj.mp4?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/640x360/sAjI4o9V5TUmFlMl.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/1280x720/z-O5u1t75dHmpDIC.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1327786645123461122/pl/cTa94P4Xc5FzHjb1.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: https://t.co/akTxwqHAoi",
+  "geo": null,
+  "id": 1328093608499621891,
+  "id_str": "1328093608499621891",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1327743144499273729,
+  "quoted_status_id_str": "1327743144499273729",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jackposobiec/s\u2026",
+    "expanded": "https://twitter.com/jackposobiec/status/1327743144499273729",
+    "url": "https://t.co/ZvhXUcABc9"
+  },
+  "retweet_count": 17055,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 15 03:47:58 +0000 2020",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/akTxwqHAoi",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1327787101438480384/video/1",
+          "id": 1327786645123461122,
+          "id_str": "1327786645123461122",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1327787101438480384,
+          "source_status_id_str": "1327787101438480384",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "photo",
+          "url": "https://t.co/akTxwqHAoi"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jackposobiec/s\u2026",
+          "expanded_url": "https://twitter.com/jackposobiec/status/1327743144499273729",
+          "indices": [
+            24,
+            47
+          ],
+          "url": "https://t.co/ZvhXUcABc9"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon May 09 14:15:10 +0000 2016",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The official Twitter account for the Trump Campaign. Together, we will MAKE AMERICA GREAT AGAIN! \ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "DonaldJTrump.com",
+                      "expanded_url": "http://www.DonaldJTrump.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mZB2hymxC9"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 3524,
+              "follow_request_sent": false,
+              "followers_count": 2400513,
+              "following": false,
+              "friends_count": 132,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 729676086632656900,
+              "id_str": "729676086632656900",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 4820,
+              "location": "USA",
+              "name": "Team Trump",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1605277870",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_link_color": "CB0606",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TeamTrump",
+              "statuses_count": 30097,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mZB2hymxC9",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Meet Joe Biden's Supporters"
+          },
+          "display_url": "pic.twitter.com/akTxwqHAoi",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1327787101438480384/video/1",
+          "id": 1327786645123461122,
+          "id_str": "1327786645123461122",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1327786645123461122/img/MOCBe5CvLDmJNijC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1327787101438480384,
+          "source_status_id_str": "1327787101438480384",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "video",
+          "url": "https://t.co/akTxwqHAoi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68292,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/480x270/aYfgmtA13jdnPBQj.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/640x360/sAjI4o9V5TUmFlMl.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1327786645123461122/vid/1280x720/z-O5u1t75dHmpDIC.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1327786645123461122/pl/cTa94P4Xc5FzHjb1.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40583,
+    "favorited": false,
+    "full_text": "https://t.co/akTxwqHAoi https://t.co/ZvhXUcABc9",
+    "geo": null,
+    "id": 1327820614929969152,
+    "id_str": "1327820614929969152",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Nov 14 22:40:08 +0000 2020",
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/8EN5UBVRZt",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1327740865545203717/video/1",
+            "id": 1327740684909076485,
+            "id_str": "1327740684909076485",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327740684909076485/pu/img/Z_AuK9YATMWzSb1s.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327740684909076485/pu/img/Z_AuK9YATMWzSb1s.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1327740865545203717,
+            "source_status_id_str": "1327740865545203717",
+            "source_user_id": 1022693675250249729,
+            "source_user_id_str": "1022693675250249729",
+            "type": "photo",
+            "url": "https://t.co/8EN5UBVRZt"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Fri Jul 27 04:02:27 +0000 2018",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "Host, Investigative Reporter, Producer of the hit web show \u201cLives Matter\u201c \u2022 Subscribe now\ud83d\udc47\ud83c\udffb \u2022 Tatum Report Correspondent",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/livesmatter",
+                        "expanded_url": "http://youtube.com/livesmatter",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/G62puSR7eL"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 19,
+                "follow_request_sent": false,
+                "followers_count": 128262,
+                "following": false,
+                "friends_count": 145,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 1022693675250249729,
+                "id_str": "1022693675250249729",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 636,
+                "location": "Los Angeles, CA",
+                "name": "Drew Hernandez",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1022693675250249729/1573030185",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1192001666276458496/TDe_WdL-_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "livesmattershow",
+                "statuses_count": 1888,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/G62puSR7eL",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/8EN5UBVRZt",
+            "expanded_url": "https://twitter.com/livesmattershow/status/1327740865545203717/video/1",
+            "id": 1327740684909076485,
+            "id_str": "1327740684909076485",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1327740684909076485/pu/img/Z_AuK9YATMWzSb1s.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1327740684909076485/pu/img/Z_AuK9YATMWzSb1s.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1327740865545203717,
+            "source_status_id_str": "1327740865545203717",
+            "source_user_id": 1022693675250249729,
+            "source_user_id_str": "1022693675250249729",
+            "type": "video",
+            "url": "https://t.co/8EN5UBVRZt",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 45022,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1327740684909076485/pu/pl/gPJEem9P8SMUgW5g.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1327740684909076485/pu/vid/640x360/Uf6uQhBLRqflaFyF.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1327740684909076485/pu/vid/1280x720/HFjGK4BLxQkN2vBd.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1327740684909076485/pu/vid/480x270/USSni-QoEoipd4Ng.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 65176,
+      "favorited": false,
+      "full_text": "This is disgraceful. https://t.co/8EN5UBVRZt",
+      "geo": null,
+      "id": 1327743144499273729,
+      "id_str": "1327743144499273729",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 24297,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 28 13:31:22 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Watch @AntifaMovie Rise of the Black Flags",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "OANN.com/?s=posobiec",
+                "expanded_url": "https://www.OANN.com/?s=posobiec",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/JfxY0RHTTj"
+              }
+            ]
+          }
+        },
+        "favourites_count": 114609,
+        "follow_request_sent": false,
+        "followers_count": 1191945,
+        "following": false,
+        "friends_count": 987,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 592730371,
+        "id_str": "592730371",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5637,
+        "location": "Washington, DC",
+        "name": "Jack Posobiec \ud83c\uddfa\ud83c\uddf8",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/592730371/1604684480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1324000707788361729/YJSN3U1l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1324000707788361729/YJSN3U1l_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "JackPosobiec",
+        "statuses_count": 171544,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/JfxY0RHTTj",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1327743144499273729,
+    "quoted_status_id_str": "1327743144499273729",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jackposobiec/s\u2026",
+      "expanded": "https://twitter.com/jackposobiec/status/1327743144499273729",
+      "url": "https://t.co/ZvhXUcABc9"
+    },
+    "retweet_count": 17055,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal Twitter Account",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2902,
+      "follow_request_sent": false,
+      "followers_count": 1108063,
+      "following": false,
+      "friends_count": 732,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4487,
+      "location": "",
+      "name": "Dan Scavino\ud83c\uddfa\ud83c\uddf8\ud83e\udd85",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1605366282",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 11761,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88955435,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124912,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58480,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

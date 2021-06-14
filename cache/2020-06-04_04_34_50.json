@@ -1,0 +1,412 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 04 04:34:50 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78523300,
+        "id_str": "78523300",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "James Woods",
+        "screen_name": "RealJamesWoods"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealJamesWoods: The \u201cprotesters\u201d who injured 50 Secret Service law enforcement personnel and set St. John\u2019s Church ablaze? Those protes\u2026",
+  "geo": null,
+  "id": 1268400797806714880,
+  "id_str": "1268400797806714880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1267809300312920064,
+  "quoted_status_id_str": "1267809300312920064",
+  "quoted_status_permalink": {
+    "display": "twitter.com/cnnbrk/status/\u2026",
+    "expanded": "https://twitter.com/cnnbrk/status/1267809300312920064",
+    "url": "https://t.co/wSU40aDF4k"
+  },
+  "retweet_count": 20599,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 17:56:22 +0000 2020",
+    "display_text_range": [
+      0,
+      194
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            182,
+            194
+          ],
+          "text": "FakeNewsCNN"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/cnnbrk/status/\u2026",
+          "expanded_url": "https://twitter.com/cnnbrk/status/1267809300312920064",
+          "indices": [
+            195,
+            218
+          ],
+          "url": "https://t.co/wSU40aDF4k"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 52756,
+    "favorited": false,
+    "full_text": "The \u201cprotesters\u201d who injured 50 Secret Service law enforcement personnel and set St. John\u2019s Church ablaze? Those protesters? Are you literally incapable of reporting the truth, CNN? #FakeNewsCNN https://t.co/wSU40aDF4k",
+    "geo": null,
+    "id": 1267877734090338304,
+    "id_str": "1267877734090338304",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jun 02 13:24:26 +0000 2020",
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vHTqeB4Rmz",
+            "expanded_url": "https://twitter.com/cnnbrk/status/1267809300312920064/photo/1",
+            "id": 1267809224454742016,
+            "id_str": "1267809224454742016",
+            "indices": [
+              184,
+              207
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZgpxcKWoAA92Dl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZgpxcKWoAA92Dl.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vHTqeB4Rmz"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "cnn.it/3eAaDnY",
+            "expanded_url": "https://cnn.it/3eAaDnY",
+            "indices": [
+              160,
+              183
+            ],
+            "url": "https://t.co/iegdmtV89z"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/vHTqeB4Rmz",
+            "expanded_url": "https://twitter.com/cnnbrk/status/1267809300312920064/photo/1",
+            "id": 1267809224454742016,
+            "id_str": "1267809224454742016",
+            "indices": [
+              184,
+              207
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZgpxcKWoAA92Dl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZgpxcKWoAA92Dl.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/vHTqeB4Rmz"
+          }
+        ]
+      },
+      "favorite_count": 1470,
+      "favorited": false,
+      "full_text": "The US Secret Service closes several streets near the White House to all vehicular traffic after police tear gassed protesters last night. Follow live updates: https://t.co/iegdmtV89z https://t.co/vHTqeB4Rmz",
+      "geo": null,
+      "id": 1267809300312920064,
+      "id_str": "1267809300312920064",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 455,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jan 02 01:48:14 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news from CNN Digital. Now 57M strong. Check @cnn for all things CNN, breaking and more. Download the app for custom alerts: https://t.co/UCHG9M367J",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cnn.com/apps",
+                "expanded_url": "http://cnn.com/apps",
+                "indices": [
+                  134,
+                  157
+                ],
+                "url": "https://t.co/UCHG9M367J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "expanded_url": "http://cnn.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/HjKR4r61U5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 21,
+        "follow_request_sent": false,
+        "followers_count": 57948614,
+        "following": false,
+        "friends_count": 120,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 428333,
+        "id_str": "428333",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 181306,
+        "location": "Everywhere",
+        "name": "CNN Breaking News",
+        "notifications": false,
+        "profile_background_color": "323232",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/428333/1531855520",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/925092227667304448/fAY1HUu3_normal.jpg",
+        "profile_link_color": "004287",
+        "profile_sidebar_border_color": "DADADA",
+        "profile_sidebar_fill_color": "EEEEEE",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "cnnbrk",
+        "statuses_count": 70933,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "http://t.co/HjKR4r61U5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267809300312920064,
+    "quoted_status_id_str": "1267809300312920064",
+    "quoted_status_permalink": {
+      "display": "twitter.com/cnnbrk/status/\u2026",
+      "expanded": "https://twitter.com/cnnbrk/status/1267809300312920064",
+      "url": "https://t.co/wSU40aDF4k"
+    },
+    "retweet_count": 20599,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 30 05:31:28 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This is the ONLY verified Twitter account for James Woods. All others are fake. \u201cBallot harvesting\u201d is voter fraud. Say no to indiscriminate \u201cmail-in\u201d voting.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 10164,
+      "follow_request_sent": false,
+      "followers_count": 2412092,
+      "following": false,
+      "friends_count": 5162,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 78523300,
+      "id_str": "78523300",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8490,
+      "location": "",
+      "name": "James Woods",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78523300/1581096605",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealJamesWoods",
+      "statuses_count": 31050,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81759360,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114811,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

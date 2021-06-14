@@ -1,0 +1,431 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 01 13:14:30 +0000 2020",
+  "display_text_range": [
+    0,
+    166
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          156,
+          161
+        ],
+        "text": "MAGA"
+      },
+      {
+        "indices": [
+          162,
+          166
+        ],
+        "text": "KAG"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/loudobbs/statu\u2026",
+        "expanded_url": "https://twitter.com/loudobbs/status/1222664158342152193",
+        "indices": [
+          167,
+          190
+        ],
+        "url": "https://t.co/68b0vPvmNd"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          19,
+          28
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      }
+    ]
+  },
+  "favorite_count": 83546,
+  "favorited": false,
+  "full_text": "Congratulations to @loudobbs, Number One. Lou has shown the Fake News what happens when you cover \u201cAmerica\u2019s Greatest President\u201d  fairly &amp; objectively! #MAGA #KAG https://t.co/68b0vPvmNd",
+  "geo": null,
+  "id": 1223595478773837825,
+  "id_str": "1223595478773837825",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jan 29 23:33:46 +0000 2020",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            82,
+            87
+          ],
+          "text": "MAGA"
+        },
+        {
+          "indices": [
+            88,
+            101
+          ],
+          "text": "AmericaFirst"
+        },
+        {
+          "indices": [
+            102,
+            108
+          ],
+          "text": "Dobbs"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8yAfVcRcG3",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1222664158342152193/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 265,
+                  "w": 265,
+                  "x": 890,
+                  "y": 151
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 248,
+                  "w": 248,
+                  "x": 834,
+                  "y": 141
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 265,
+                  "w": 265,
+                  "x": 890,
+                  "y": 151
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 140,
+                  "w": 140,
+                  "x": 472,
+                  "y": 80
+                }
+              ]
+            }
+          },
+          "id": 1222664154458271744,
+          "id_str": "1222664154458271744",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPfGkg4WsAAbjxJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPfGkg4WsAAbjxJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8yAfVcRcG3"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/8yAfVcRcG3",
+          "expanded_url": "https://twitter.com/LouDobbs/status/1222664158342152193/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 265,
+                  "w": 265,
+                  "x": 890,
+                  "y": 151
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 248,
+                  "w": 248,
+                  "x": 834,
+                  "y": 141
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 265,
+                  "w": 265,
+                  "x": 890,
+                  "y": 151
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 140,
+                  "w": 140,
+                  "x": 472,
+                  "y": 80
+                }
+              ]
+            }
+          },
+          "id": 1222664154458271744,
+          "id_str": "1222664154458271744",
+          "indices": [
+            109,
+            132
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPfGkg4WsAAbjxJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPfGkg4WsAAbjxJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8yAfVcRcG3"
+        }
+      ]
+    },
+    "favorite_count": 6449,
+    "favorited": false,
+    "full_text": "Winning! 49 straight months and counting as #1 on Business Television. Thank you! #MAGA #AmericaFirst #Dobbs https://t.co/8yAfVcRcG3",
+    "geo": null,
+    "id": 1222664158342152193,
+    "id_str": "1222664158342152193",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1838,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 25 12:39:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Lou Dobbs Tonight, Fox Business Network, 7 & 10 pm IG: https://t.co/Mqnxd3lgtA",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/loudobbstonigh\u2026",
+              "expanded_url": "http://Instagram.com/loudobbstonight/",
+              "indices": [
+                55,
+                78
+              ],
+              "url": "https://t.co/Mqnxd3lgtA"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "loudobbs.com",
+              "expanded_url": "http://loudobbs.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mRPE2ZuJkU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 15514,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 2059710,
+      "following": false,
+      "friends_count": 2064,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 26487169,
+      "id_str": "26487169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5439,
+      "location": "New York, NY",
+      "name": "Lou Dobbs",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/26487169/1555706370",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/663851941571641344/OqqkE56l_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "LouDobbs",
+      "statuses_count": 33825,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mRPE2ZuJkU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1222664158342152193,
+  "quoted_status_id_str": "1222664158342152193",
+  "quoted_status_permalink": {
+    "display": "twitter.com/loudobbs/statu\u2026",
+    "expanded": "https://twitter.com/loudobbs/status/1222664158342152193",
+    "url": "https://t.co/68b0vPvmNd"
+  },
+  "retweet_count": 19965,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

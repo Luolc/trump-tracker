@@ -1,0 +1,369 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 12:10:44 +0000 2020",
+  "display_text_range": [
+    0,
+    45
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/TeamTrump/stat\u2026",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1270143491935555590",
+        "indices": [
+          22,
+          45
+        ],
+        "url": "https://t.co/4bGKZ0PmQD"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOP: TUNE IN NOW! https://t.co/4bGKZ0PmQD",
+  "geo": null,
+  "id": 1270327468017188865,
+  "id_str": "1270327468017188865",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1270143491935555590,
+  "quoted_status_id_str": "1270143491935555590",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TeamTrump/stat\u2026",
+    "expanded": "https://twitter.com/TeamTrump/status/1270143491935555590",
+    "url": "https://t.co/4bGKZ0PmQD"
+  },
+  "retweet_count": 3061,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 09 00:03:13 +0000 2020",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TeamTrump/stat\u2026",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1270143491935555590",
+          "indices": [
+            13,
+            36
+          ],
+          "url": "https://t.co/4bGKZ0PmQD"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 11202,
+    "favorited": false,
+    "full_text": "TUNE IN NOW! https://t.co/4bGKZ0PmQD",
+    "geo": null,
+    "id": 1270144381543202817,
+    "id_str": "1270144381543202817",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jun 08 23:59:41 +0000 2020",
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              80,
+              90
+            ],
+            "text": "TeamTrump"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/i/broadcasts/1\u2026",
+            "expanded_url": "https://twitter.com/i/broadcasts/1MnxndYZMmyGO",
+            "indices": [
+              112,
+              135
+            ],
+            "url": "https://t.co/Y9CssQPVIQ"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 42670638,
+            "id_str": "42670638",
+            "indices": [
+              30,
+              46
+            ],
+            "name": "Mercedes Schlapp",
+            "screen_name": "mercedesschlapp"
+          },
+          {
+            "id": 1209417007,
+            "id_str": "1209417007",
+            "indices": [
+              65,
+              78
+            ],
+            "name": "Steve Scalise",
+            "screen_name": "SteveScalise"
+          }
+        ]
+      },
+      "favorite_count": 2562,
+      "favorited": false,
+      "full_text": "WATCH: Team Trump Online with @MercedesSchlapp and special guest @SteveScalise! #TeamTrump\n\nText TRUMP to 88022 https://t.co/Y9CssQPVIQ",
+      "geo": null,
+      "id": 1270143491935555590,
+      "id_str": "1270143491935555590",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1041,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 09 14:15:10 +0000 2016",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "DonaldJTrump.com",
+                "expanded_url": "http://www.DonaldJTrump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mZB2hymxC9"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3319,
+        "follow_request_sent": false,
+        "followers_count": 1804446,
+        "following": false,
+        "friends_count": 117,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 729676086632656900,
+        "id_str": "729676086632656900",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 3589,
+        "location": "USA",
+        "name": "Team Trump (Text TRUMP to 88022)",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+        "profile_link_color": "CB0606",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TeamTrump",
+        "statuses_count": 21958,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mZB2hymxC9",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1270143491935555590,
+    "quoted_status_id_str": "1270143491935555590",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TeamTrump/stat\u2026",
+      "expanded": "https://twitter.com/TeamTrump/status/1270143491935555590",
+      "url": "https://t.co/4bGKZ0PmQD"
+    },
+    "retweet_count": 3061,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Text TWITTER to 80810 to receive exclusive updates from the Republican National Committee!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 276,
+      "follow_request_sent": false,
+      "followers_count": 2406259,
+      "following": false,
+      "friends_count": 1661,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9622,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 40456,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 18 03:34:47 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          27,
+          36
+        ],
+        "text": "Covid_19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 575658149,
+        "id_str": "575658149",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Ajit Pai",
+        "screen_name": "AjitPaiFCC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AjitPaiFCC: In wake of #Covid_19 outbreak, telework, remote learning, and telehealth are key. We must ensure that Americans don't lose\u2026",
+  "geo": null,
+  "id": 1240119430371295232,
+  "id_str": "1240119430371295232",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2171,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 13 16:05:55 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            11,
+            20
+          ],
+          "text": "Covid_19"
+        },
+        {
+          "indices": [
+            225,
+            248
+          ],
+          "text": "KeepAmericansConnected"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/R3cq3yZtiW",
+          "expanded_url": "https://twitter.com/AjitPaiFCC/status/1238496522049904640/photo/1",
+          "id": 1238496516974817281,
+          "id_str": "1238496516974817281",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETAGBTXXsAECnIo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETAGBTXXsAECnIo.jpg",
+          "sizes": {
+            "large": {
+              "h": 881,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 881,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 579
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/R3cq3yZtiW"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "docs.fcc.gov/public/attachm\u2026",
+          "expanded_url": "https://docs.fcc.gov/public/attachments/DOC-363033A1.pdf",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/bjXINd0gMY"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/R3cq3yZtiW",
+          "expanded_url": "https://twitter.com/AjitPaiFCC/status/1238496522049904640/photo/1",
+          "id": 1238496516974817281,
+          "id_str": "1238496516974817281",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETAGBTXXsAECnIo.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETAGBTXXsAECnIo.jpg",
+          "sizes": {
+            "large": {
+              "h": 881,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 881,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 579
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/R3cq3yZtiW"
+        },
+        {
+          "display_url": "pic.twitter.com/R3cq3yZtiW",
+          "expanded_url": "https://twitter.com/AjitPaiFCC/status/1238496522049904640/photo/1",
+          "id": 1238496516932861953,
+          "id_str": "1238496516932861953",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETAGBTNXgAEYHlL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETAGBTNXgAEYHlL.jpg",
+          "sizes": {
+            "large": {
+              "h": 813,
+              "resize": "fit",
+              "w": 750
+            },
+            "medium": {
+              "h": 813,
+              "resize": "fit",
+              "w": 750
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 627
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/R3cq3yZtiW"
+        }
+      ]
+    },
+    "favorite_count": 6120,
+    "favorited": false,
+    "full_text": "In wake of #Covid_19 outbreak, telework, remote learning, and telehealth are key. We must ensure that Americans don't lose their broadband or telephone connectivity. That's why I've challenged broadband providers to take the #KeepAmericansConnected Pledge. https://t.co/bjXINd0gMY https://t.co/R3cq3yZtiW",
+    "geo": null,
+    "id": 1238496522049904640,
+    "id_str": "1238496522049904640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2171,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 09 20:37:57 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Chairman of the FCC. Dad, husband, Kansan, Indian-American, SB54 Champ Chiefs/Royals fan. I own a big mug. RTs/likes \u2260 endorsements. Personal account: @AjitPai.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fcc.gov/leadership/aji\u2026",
+              "expanded_url": "http://www.fcc.gov/leadership/ajit-pai",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Uafvqs7zGm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 42280,
+      "follow_request_sent": false,
+      "followers_count": 72804,
+      "following": false,
+      "friends_count": 6418,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 575658149,
+      "id_str": "575658149",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1332,
+      "location": "Washington, DC",
+      "name": "Ajit Pai",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/575658149/1582865046",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/724041403735638017/qa4EDYBw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/724041403735638017/qa4EDYBw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AjitPaiFCC",
+      "statuses_count": 25814,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/Uafvqs7zGm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74284645,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49890,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

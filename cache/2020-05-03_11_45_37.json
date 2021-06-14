@@ -1,0 +1,472 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 03 11:45:37 +0000 2020",
+  "display_text_range": [
+    0,
+    49
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Very cool. Please thank him!",
+  "geo": null,
+  "id": 1256912796673073153,
+  "id_str": "1256912796673073153",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1256085757728403459,
+  "quoted_status_id_str": "1256085757728403459",
+  "quoted_status_permalink": {
+    "display": "twitter.com/hopeheck/statu\u2026",
+    "expanded": "https://twitter.com/hopeheck/status/1256085757728403459",
+    "url": "https://t.co/7nc79fCFip"
+  },
+  "retweet_count": 34489,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat May 02 21:34:47 +0000 2020",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/hopeheck/statu\u2026",
+          "expanded_url": "https://twitter.com/hopeheck/status/1256085757728403459",
+          "indices": [
+            29,
+            52
+          ],
+          "url": "https://t.co/7nc79fCFip"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 155630,
+    "favorited": false,
+    "full_text": "Very cool. Please thank him! https://t.co/7nc79fCFip",
+    "geo": null,
+    "id": 1256698677864861697,
+    "id_str": "1256698677864861697",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 01 04:59:16 +0000 2020",
+      "display_text_range": [
+        0,
+        282
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/3BFTdJwwWm",
+            "expanded_url": "https://twitter.com/HopeHeck/status/1256085757728403459/video/1",
+            "id": 1256085428131598337,
+            "id_str": "1256085428131598337",
+            "indices": [
+              283,
+              306
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256085428131598337/pu/img/Kmi79j1FNm0n_qQX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256085428131598337/pu/img/Kmi79j1FNm0n_qQX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/3BFTdJwwWm"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              266,
+              282
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/3BFTdJwwWm",
+            "expanded_url": "https://twitter.com/HopeHeck/status/1256085757728403459/video/1",
+            "id": 1256085428131598337,
+            "id_str": "1256085428131598337",
+            "indices": [
+              283,
+              306
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256085428131598337/pu/img/Kmi79j1FNm0n_qQX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256085428131598337/pu/img/Kmi79j1FNm0n_qQX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/3BFTdJwwWm",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 37502,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1256085428131598337/pu/vid/1280x720/YK5ORlXhIPZGv7rX.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1256085428131598337/pu/vid/480x270/HprXHJTBn1Y5M9Zb.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1256085428131598337/pu/vid/640x360/6-gtVJ06IhmW84AZ.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1256085428131598337/pu/pl/B5wPkdhQEHo26BLM.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 79121,
+      "favorited": false,
+      "full_text": "The owner had put a Trump flag on his dock and the people across from his house complained to the club. Admirals told him that he had to take the flag down. The guy got pissed &amp; sent his boat to get wrapped. This was a video of him bringing the boat home after. @realDonaldTrump https://t.co/3BFTdJwwWm",
+      "geo": null,
+      "id": 1256085757728403459,
+      "id_str": "1256085757728403459",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -116.453591,
+                33.7322
+              ],
+              [
+                -116.3881016,
+                33.7322
+              ],
+              [
+                -116.3881016,
+                33.826269
+              ],
+              [
+                -116.453591,
+                33.826269
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Rancho Mirage, CA",
+        "id": "01282a8563b05f28",
+        "name": "Rancho Mirage",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01282a8563b05f28.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 23251,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue May 05 23:51:00 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "LOVE is my weapon, MUSIC is my religion, PEACE is in my soul....",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "myriad-pro.com",
+                "expanded_url": "http://www.myriad-pro.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/MfRdxDwGCD"
+              }
+            ]
+          }
+        },
+        "favourites_count": 29651,
+        "follow_request_sent": false,
+        "followers_count": 7640,
+        "following": false,
+        "friends_count": 660,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 38056908,
+        "id_str": "38056908",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 20,
+        "location": "California, USA",
+        "name": "Wendy Hope",
+        "notifications": false,
+        "profile_background_color": "E81C4F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/38056908/1399590577",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1215651852609638401/buFHVhv7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215651852609638401/buFHVhv7_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F7F7F7",
+        "profile_text_color": "120202",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "HopeHeck",
+        "statuses_count": 4845,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MfRdxDwGCD",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1256085757728403459,
+    "quoted_status_id_str": "1256085757728403459",
+    "quoted_status_permalink": {
+      "display": "twitter.com/hopeheck/statu\u2026",
+      "expanded": "https://twitter.com/hopeheck/status/1256085757728403459",
+      "url": "https://t.co/7nc79fCFip"
+    },
+    "retweet_count": 34489,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 79287230,
+      "following": true,
+      "friends_count": 46,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 120735,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 51201,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79287230,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

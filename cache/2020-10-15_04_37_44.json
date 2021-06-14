@@ -1,0 +1,303 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 04:37:44 +0000 2020",
+  "display_text_range": [
+    0,
+    37
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/8news/status/1\u2026",
+        "expanded_url": "https://twitter.com/8news/status/1316374899154395136",
+        "indices": [
+          38,
+          61
+        ],
+        "url": "https://t.co/oj45494xG5"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 49628,
+  "favorited": false,
+  "full_text": "VOTE TRUMP. SAVE YOUR 2ND. AMENDMENT. https://t.co/oj45494xG5",
+  "geo": null,
+  "id": 1316599114549866497,
+  "id_str": "1316599114549866497",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 14 13:46:47 +0000 2020",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            89
+          ],
+          "text": "VOTE"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Jv5Kqs6EA2",
+          "expanded_url": "https://twitter.com/8NEWS/status/1316374899154395136/photo/1",
+          "id": 1316374661354094593,
+          "id_str": "1316374661354094593",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkSzx7FWAAEpjP8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkSzx7FWAAEpjP8.jpg",
+          "sizes": {
+            "large": {
+              "h": 388,
+              "resize": "fit",
+              "w": 690
+            },
+            "medium": {
+              "h": 388,
+              "resize": "fit",
+              "w": 690
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Jv5Kqs6EA2"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/33YCDPA",
+          "expanded_url": "https://bit.ly/33YCDPA",
+          "indices": [
+            92,
+            115
+          ],
+          "url": "https://t.co/9NDhC7xMup"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Jv5Kqs6EA2",
+          "expanded_url": "https://twitter.com/8NEWS/status/1316374899154395136/photo/1",
+          "id": 1316374661354094593,
+          "id_str": "1316374661354094593",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkSzx7FWAAEpjP8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EkSzx7FWAAEpjP8.jpg",
+          "sizes": {
+            "large": {
+              "h": 388,
+              "resize": "fit",
+              "w": 690
+            },
+            "medium": {
+              "h": 388,
+              "resize": "fit",
+              "w": 690
+            },
+            "small": {
+              "h": 382,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Jv5Kqs6EA2"
+        }
+      ]
+    },
+    "favorite_count": 347,
+    "favorited": false,
+    "full_text": "HEADS UP! Virginia residents now have until 11:59 p.m. on October 15 to register to #VOTE \n\nhttps://t.co/9NDhC7xMup https://t.co/Jv5Kqs6EA2",
+    "geo": null,
+    "id": 1316374899154395136,
+    "id_str": "1316374899154395136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 254,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 12 13:45:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News where you live. \nShare news tips: (804) 330-8888 or email us at news@wric.com \nLike us on Facebook: 8News",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "wric.com",
+              "expanded_url": "http://wric.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yVXid92zg0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6650,
+      "follow_request_sent": false,
+      "followers_count": 101662,
+      "following": false,
+      "friends_count": 1580,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 23948496,
+      "id_str": "23948496",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1048,
+      "location": "Richmond, Virginia",
+      "name": "8News WRIC Richmond",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23948496/1477318391",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1001879851115130880/RNEh915q_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1001879851115130880/RNEh915q_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "9B8787",
+      "profile_text_color": "251313",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "8NEWS",
+      "statuses_count": 166839,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/yVXid92zg0",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1316374899154395136,
+  "quoted_status_id_str": "1316374899154395136",
+  "quoted_status_permalink": {
+    "display": "twitter.com/8news/status/1\u2026",
+    "expanded": "https://twitter.com/8news/status/1316374899154395136",
+    "url": "https://t.co/oj45494xG5"
+  },
+  "retweet_count": 12009,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

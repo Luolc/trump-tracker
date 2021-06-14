@@ -1,0 +1,417 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 16 22:32:07 +0000 2020",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/BerntsonBethan\u2026",
+        "expanded_url": "https://twitter.com/BerntsonBethany/status/1261099493627494406",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/oARCqHpblU"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 43622,
+  "favorited": false,
+  "full_text": "Thank you! https://t.co/oARCqHpblU",
+  "geo": null,
+  "id": 1261786535281786883,
+  "id_str": "1261786535281786883",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 15 01:02:04 +0000 2020",
+    "display_text_range": [
+      0,
+      271
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            97,
+            111
+          ],
+          "text": "WomenForTrump"
+        },
+        {
+          "indices": [
+            120,
+            137
+          ],
+          "text": "BuckeyeBattalion"
+        },
+        {
+          "indices": [
+            185,
+            198
+          ],
+          "text": "BeijingBiden"
+        },
+        {
+          "indices": [
+            256,
+            266
+          ],
+          "text": "LeadRight"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Lhi8hj1nIt",
+          "expanded_url": "https://twitter.com/BerntsonBethany/status/1261099493627494406/photo/1",
+          "id": 1261097790446481416,
+          "id_str": "1261097790446481416",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYBRwkKXsAg6gJU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYBRwkKXsAg6gJU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1348,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 790,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 448,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Lhi8hj1nIt"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 2175836343,
+          "id_str": "2175836343",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Madison Gesiotto",
+          "screen_name": "madisongesiotto"
+        },
+        {
+          "id": 1011344876401721344,
+          "id_str": "1011344876401721344",
+          "indices": [
+            36,
+            45
+          ],
+          "name": "Kiera Wainer",
+          "screen_name": "kewainer"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            248,
+            254
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Lhi8hj1nIt",
+          "expanded_url": "https://twitter.com/BerntsonBethany/status/1261099493627494406/photo/1",
+          "id": 1261097790446481416,
+          "id_str": "1261097790446481416",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYBRwkKXsAg6gJU.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYBRwkKXsAg6gJU.jpg",
+          "sizes": {
+            "large": {
+              "h": 1348,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 790,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 448,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Lhi8hj1nIt"
+        },
+        {
+          "display_url": "pic.twitter.com/Lhi8hj1nIt",
+          "expanded_url": "https://twitter.com/BerntsonBethany/status/1261099493627494406/photo/1",
+          "id": 1261097880556888071,
+          "id_str": "1261097880556888071",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYBR1z2XYAcnnhw.png",
+          "media_url_https": "https://pbs.twimg.com/media/EYBR1z2XYAcnnhw.png",
+          "sizes": {
+            "large": {
+              "h": 212,
+              "resize": "fit",
+              "w": 522
+            },
+            "medium": {
+              "h": 212,
+              "resize": "fit",
+              "w": 522
+            },
+            "small": {
+              "h": 212,
+              "resize": "fit",
+              "w": 522
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Lhi8hj1nIt"
+        },
+        {
+          "display_url": "pic.twitter.com/Lhi8hj1nIt",
+          "expanded_url": "https://twitter.com/BerntsonBethany/status/1261099493627494406/photo/1",
+          "id": 1261097954062094336,
+          "id_str": "1261097954062094336",
+          "indices": [
+            272,
+            295
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYBR6FrX0AABHSq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYBR6FrX0AABHSq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1345,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 788,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 447,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Lhi8hj1nIt"
+        }
+      ]
+    },
+    "favorite_count": 1962,
+    "favorited": false,
+    "full_text": "Huge thanks to @madisongesiotto and @kewainer for rallying the troops during our phone bank with #WomenForTrump and the #BuckeyeBattalion!\ud83d\udd25\ud83d\udd25\n\nTogether, we'll set the record straight on #BeijingBiden's corrupt relationship with China and win OH for @POTUS! #LeadRight\ud83c\uddfa\ud83c\uddf8\ud83d\udcaa\ud83c\uddfa\ud83c\uddf8 https://t.co/Lhi8hj1nIt",
+    "geo": null,
+    "id": 1261099493627494406,
+    "id_str": "1261099493627494406",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 724,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jun 15 21:34:50 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Strategic Initiatives Director for the #BuckeyeBattalion | Ask me how you can #LeadRight! \ud83c\uddfa\ud83c\uddf8\ud83d\udc18\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "trumpvictory.com",
+              "expanded_url": "https://trumpvictory.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/GDGEbpyayT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1975,
+      "follow_request_sent": false,
+      "followers_count": 922,
+      "following": false,
+      "friends_count": 555,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1140009794239119363,
+      "id_str": "1140009794239119363",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11,
+      "location": "Columbus, OH",
+      "name": "Bethany Berntson",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1140009794239119363/1560820304",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1242601927176790018/1F8fI6W9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242601927176790018/1F8fI6W9_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BerntsonBethany",
+      "statuses_count": 638,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/GDGEbpyayT",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1261099493627494406,
+  "quoted_status_id_str": "1261099493627494406",
+  "quoted_status_permalink": {
+    "display": "twitter.com/BerntsonBethan\u2026",
+    "expanded": "https://twitter.com/BerntsonBethany/status/1261099493627494406",
+    "url": "https://t.co/oARCqHpblU"
+  },
+  "retweet_count": 10736,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79946177,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113564,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51693,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

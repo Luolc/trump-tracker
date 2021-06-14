@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 18:13:24 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 817158775610179584,
+        "id_str": "817158775610179584",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Chicago1Ray \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Chicago1Ray"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Chicago1Ray: (Trump 2024) (Documentary) \n\nwhat America will look like after (Trump) is Reelected, imagine if we don't what will collaps\u2026",
+  "geo": null,
+  "id": 1279478432976510978,
+  "id_str": "1279478432976510978",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4531,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 15:02:52 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            244,
+            247
+          ],
+          "text": "RT"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eLJfltyhlj",
+          "expanded_url": "https://twitter.com/Chicago1Ray/status/1279430483101827073/video/1",
+          "id": 1279430080041811969,
+          "id_str": "1279430080041811969",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279430080041811969/pu/img/mZcoLR68UgqvmMFh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279430080041811969/pu/img/mZcoLR68UgqvmMFh.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eLJfltyhlj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 20823648,
+          "id_str": "20823648",
+          "indices": [
+            230,
+            241
+          ],
+          "name": "Star Parker \u2b50\ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "StarParker"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/eLJfltyhlj",
+          "expanded_url": "https://twitter.com/Chicago1Ray/status/1279430483101827073/video/1",
+          "id": 1279430080041811969,
+          "id_str": "1279430080041811969",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279430080041811969/pu/img/mZcoLR68UgqvmMFh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279430080041811969/pu/img/mZcoLR68UgqvmMFh.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/eLJfltyhlj",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 127600,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279430080041811969/pu/vid/640x360/0-nLB8mkGiIuTCiW.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279430080041811969/pu/vid/1280x720/mBsUCob0aTH-fT4J.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1279430080041811969/pu/pl/aGhbC6eqf9duf2Y_.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279430080041811969/pu/vid/480x270/OC8YJYDGbIstoU-A.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12063,
+    "favorited": false,
+    "full_text": "(Trump 2024) (Documentary) \n\nwhat America will look like after (Trump) is Reelected, imagine if we don't what will collapse (Make no mistake) God fearing Gun toting Americans we're gonna stop their lawlessness one way or another\" @StarParker \n\n#RT \ud83d\udca5\n\nBLUNT FORCE TRUTH \u2714 MAGA \ud83c\uddfa\ud83c\uddf8 https://t.co/eLJfltyhlj",
+    "geo": null,
+    "id": 1279430483101827073,
+    "id_str": "1279430483101827073",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4531,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 06 00:00:09 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "#MAGA #KAG #TRUMPTRAIN \n#BuildTheWall #AmericaFirst\nWelcome To Hell Disguised As Twitter !\n#GodBlessOurTroops \n#GodBlessAmerica\n#Bears\n#Cubs\nBig Rig Driver",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 143948,
+      "follow_request_sent": false,
+      "followers_count": 116798,
+      "following": false,
+      "friends_count": 30946,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 817158775610179584,
+      "id_str": "817158775610179584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 162,
+      "location": "Chicago, IL",
+      "name": "Chicago1Ray \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/817158775610179584/1577297447",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1240317634924683265/PKoSOoxG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240317634924683265/PKoSOoxG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Chicago1Ray",
+      "statuses_count": 159060,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

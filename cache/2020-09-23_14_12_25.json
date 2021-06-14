@@ -1,0 +1,314 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 23 14:12:25 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18822612,
+        "id_str": "18822612",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Amy Kremer",
+        "screen_name": "AmyKremer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AmyKremer: The tale of 2 campaign events in Pennsylvania within the last couple of days\n\nOne of these things is not like the other one\u2026",
+  "geo": null,
+  "id": 1308771204577275905,
+  "id_str": "1308771204577275905",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11854,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 23 03:16:48 +0000 2020",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YYlYhPmJiv",
+          "expanded_url": "https://twitter.com/AmyKremer/status/1308606213161181184/photo/1",
+          "id": 1308606177358622721,
+          "id_str": "1308606177358622721",
+          "indices": [
+            126,
+            149
+          ],
+          "media_url": "http://pbs.twimg.com/media/EikaYpBXsAE5zUF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EikaYpBXsAE5zUF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YYlYhPmJiv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YYlYhPmJiv",
+          "expanded_url": "https://twitter.com/AmyKremer/status/1308606213161181184/photo/1",
+          "id": 1308606177358622721,
+          "id_str": "1308606177358622721",
+          "indices": [
+            126,
+            149
+          ],
+          "media_url": "http://pbs.twimg.com/media/EikaYpBXsAE5zUF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EikaYpBXsAE5zUF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YYlYhPmJiv"
+        },
+        {
+          "display_url": "pic.twitter.com/YYlYhPmJiv",
+          "expanded_url": "https://twitter.com/AmyKremer/status/1308606213161181184/photo/1",
+          "id": 1308606177387966484,
+          "id_str": "1308606177387966484",
+          "indices": [
+            126,
+            149
+          ],
+          "media_url": "http://pbs.twimg.com/media/EikaYpIXcBQRxe5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EikaYpIXcBQRxe5.jpg",
+          "sizes": {
+            "large": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1114
+            },
+            "medium": {
+              "h": 563,
+              "resize": "fit",
+              "w": 1114
+            },
+            "small": {
+              "h": 344,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YYlYhPmJiv"
+        }
+      ]
+    },
+    "favorite_count": 35436,
+    "favorited": false,
+    "full_text": "The tale of 2 campaign events in Pennsylvania within the last couple of days\n\nOne of these things is not like the other one\u203c\ufe0f https://t.co/YYlYhPmJiv",
+    "geo": null,
+    "id": 1308606213161181184,
+    "id_str": "1308606213161181184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11854,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 10 01:12:24 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chair @america1stwomen; co-founder @womenfortrump PAC; former #TeaParty Express & #Delta Flight Attendant; #gapol #gagop #MAGA #womenfortrump #nra",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amykremer.com",
+              "expanded_url": "http://www.amykremer.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/kdWwRWWsN0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 26720,
+      "follow_request_sent": false,
+      "followers_count": 57519,
+      "following": false,
+      "friends_count": 19500,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 18822612,
+      "id_str": "18822612",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 613,
+      "location": "Roswell, GA",
+      "name": "Amy Kremer",
+      "notifications": false,
+      "profile_background_color": "FF6699",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18822612/1523805726",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149522910832279553/pPocHmhr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149522910832279553/pPocHmhr_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "CC3366",
+      "profile_sidebar_fill_color": "E5507E",
+      "profile_text_color": "362720",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AmyKremer",
+      "statuses_count": 39131,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/kdWwRWWsN0",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86284580,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119971,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

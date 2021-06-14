@@ -1,0 +1,541 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 10 17:34:28 +0000 2020",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/4JIiPaUTgi",
+        "expanded_url": "https://twitter.com/Inevitable_ET/status/1258143081984974848/video/1",
+        "id": 1258142815688642560,
+        "id_str": "1258142815688642560",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1258143081984974848,
+        "source_status_id_str": "1258143081984974848",
+        "source_user_id": 1886468286,
+        "source_user_id_str": "1886468286",
+        "type": "photo",
+        "url": "https://t.co/4JIiPaUTgi"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 902200087,
+        "id_str": "902200087",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Cassandra Fairbanks \ud83d\udd4a\u23f3",
+        "screen_name": "CassandraRules"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Sep 20 13:10:52 +0000 2013",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "IT IS HABBENING NOW",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 89793,
+            "follow_request_sent": false,
+            "followers_count": 206414,
+            "following": false,
+            "friends_count": 1917,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 1886468286,
+            "id_str": "1886468286",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 737,
+            "location": " ",
+            "name": "l E T 17",
+            "notifications": false,
+            "profile_background_color": "D6C3EB",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886468286/1586529972",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1211040348430098432/j_jsc4-U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211040348430098432/j_jsc4-U_normal.jpg",
+            "profile_link_color": "6200B3",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "Inevitable_ET",
+            "statuses_count": 26758,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/4JIiPaUTgi",
+        "expanded_url": "https://twitter.com/Inevitable_ET/status/1258143081984974848/video/1",
+        "id": 1258142815688642560,
+        "id_str": "1258142815688642560",
+        "indices": [
+          45,
+          68
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1258143081984974848,
+        "source_status_id_str": "1258143081984974848",
+        "source_user_id": 1886468286,
+        "source_user_id_str": "1886468286",
+        "type": "video",
+        "url": "https://t.co/4JIiPaUTgi",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 88210,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/640x360/nC-qkdsVZs0uZfnj.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/1280x720/P9OQlyRD7moBt67O.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/pl/lNwQyXBlawco7v3r.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/480x270/i4GnyLI6835vjuNB.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CassandraRules: Holy shit she bodied him https://t.co/4JIiPaUTgi",
+  "geo": null,
+  "id": 1259537303258742790,
+  "id_str": "1259537303258742790",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 9856,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 07 00:20:45 +0000 2020",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/4JIiPaUTgi",
+          "expanded_url": "https://twitter.com/Inevitable_ET/status/1258143081984974848/video/1",
+          "id": 1258142815688642560,
+          "id_str": "1258142815688642560",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1258143081984974848,
+          "source_status_id_str": "1258143081984974848",
+          "source_user_id": 1886468286,
+          "source_user_id_str": "1886468286",
+          "type": "photo",
+          "url": "https://t.co/4JIiPaUTgi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Fri Sep 20 13:10:52 +0000 2013",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "IT IS HABBENING NOW",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 89793,
+              "follow_request_sent": false,
+              "followers_count": 206414,
+              "following": false,
+              "friends_count": 1917,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 1886468286,
+              "id_str": "1886468286",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 737,
+              "location": " ",
+              "name": "l E T 17",
+              "notifications": false,
+              "profile_background_color": "D6C3EB",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1886468286/1586529972",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1211040348430098432/j_jsc4-U_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1211040348430098432/j_jsc4-U_normal.jpg",
+              "profile_link_color": "6200B3",
+              "profile_sidebar_border_color": "FFFFFF",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "Inevitable_ET",
+              "statuses_count": 26758,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/4JIiPaUTgi",
+          "expanded_url": "https://twitter.com/Inevitable_ET/status/1258143081984974848/video/1",
+          "id": 1258142815688642560,
+          "id_str": "1258142815688642560",
+          "indices": [
+            25,
+            48
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1258142815688642560/pu/img/B3QhKh1Q46cMC6fs.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1258143081984974848,
+          "source_status_id_str": "1258143081984974848",
+          "source_user_id": 1886468286,
+          "source_user_id_str": "1886468286",
+          "type": "video",
+          "url": "https://t.co/4JIiPaUTgi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 88210,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/640x360/nC-qkdsVZs0uZfnj.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/1280x720/P9OQlyRD7moBt67O.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/pl/lNwQyXBlawco7v3r.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1258142815688642560/pu/vid/480x270/i4GnyLI6835vjuNB.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 46621,
+    "favorited": false,
+    "full_text": "Holy shit she bodied him https://t.co/4JIiPaUTgi",
+    "geo": null,
+    "id": 1258189995522904067,
+    "id_str": "1258189995522904067",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9856,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Oct 24 16:55:26 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Federal court says I \u201ctrolled the web through Twitter.\u201d An \u201cinformation terrorist\u201d per Wired. Free Press. Free Speech. Free Assange. https://t.co/I6e1seER2D",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "DistrictHerald.com",
+              "expanded_url": "http://DistrictHerald.com",
+              "indices": [
+                133,
+                156
+              ],
+              "url": "https://t.co/I6e1seER2D"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thegatewaypundit.com/author/cassand\u2026",
+              "expanded_url": "https://www.thegatewaypundit.com/author/cassandraf/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rdHOoMBheR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 180272,
+      "follow_request_sent": false,
+      "followers_count": 203074,
+      "following": false,
+      "friends_count": 1570,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 902200087,
+      "id_str": "902200087",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2013,
+      "location": "Washington, DC",
+      "name": "Cassandra Fairbanks \ud83d\udd4a\u23f3",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/902200087/1588930687",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1257879573632516097/4hxvX0wW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1257879573632516097/4hxvX0wW_normal.jpg",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CassandraRules",
+      "statuses_count": 154173,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rdHOoMBheR",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79761118,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114822,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51530,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

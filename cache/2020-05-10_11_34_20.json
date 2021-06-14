@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 10 11:34:20 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 119837703,
+        "id_str": "119837703",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Chuck Ross",
+        "screen_name": "ChuckRossDC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ChuckRossDC: McCabe testified he couldn't think of a single damaging piece of info \"off the top of my head\" that the FBI had verified f\u2026",
+  "geo": null,
+  "id": 1259446671504805896,
+  "id_str": "1259446671504805896",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2790,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 08 17:13:31 +0000 2020",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/AQEAfsmq7Y",
+          "expanded_url": "https://twitter.com/ChuckRossDC/status/1258807254679195649/photo/1",
+          "id": 1258806679485001729,
+          "id_str": "1258806679485001729",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXguAWuXsAEaXVi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXguAWuXsAEaXVi.jpg",
+          "sizes": {
+            "large": {
+              "h": 516,
+              "resize": "fit",
+              "w": 1184
+            },
+            "medium": {
+              "h": 516,
+              "resize": "fit",
+              "w": 1184
+            },
+            "small": {
+              "h": 296,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/AQEAfsmq7Y"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/AQEAfsmq7Y",
+          "expanded_url": "https://twitter.com/ChuckRossDC/status/1258807254679195649/photo/1",
+          "id": 1258806679485001729,
+          "id_str": "1258806679485001729",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXguAWuXsAEaXVi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXguAWuXsAEaXVi.jpg",
+          "sizes": {
+            "large": {
+              "h": 516,
+              "resize": "fit",
+              "w": 1184
+            },
+            "medium": {
+              "h": 516,
+              "resize": "fit",
+              "w": 1184
+            },
+            "small": {
+              "h": 296,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/AQEAfsmq7Y"
+        }
+      ]
+    },
+    "favorite_count": 6887,
+    "favorited": false,
+    "full_text": "McCabe testified he couldn't think of a single damaging piece of info \"off the top of my head\" that the FBI had verified from the Steele dossier.\n\nWe now know it's because the dossier is bunk. But McCabe put out innuendo until recently that some of dossier was corroborated. https://t.co/AQEAfsmq7Y",
+    "geo": null,
+    "id": 1258807254679195649,
+    "id_str": "1258807254679195649",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2790,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 04 20:00:53 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Reporter at The Daily Caller News Foundation -- email tips securely to chuck.ross@protonmail.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "dailycaller.com",
+              "expanded_url": "http://dailycaller.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hXbunu1TI5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8259,
+      "follow_request_sent": false,
+      "followers_count": 125681,
+      "following": false,
+      "friends_count": 306,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 119837703,
+      "id_str": "119837703",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1201,
+      "location": "",
+      "name": "Chuck Ross",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/119837703/1519594720",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1168884848074874880/I3MywMxl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168884848074874880/I3MywMxl_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ChuckRossDC",
+      "statuses_count": 60396,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/hXbunu1TI5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79639339,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117083,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51377,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

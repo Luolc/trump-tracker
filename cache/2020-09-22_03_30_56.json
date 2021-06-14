@@ -1,0 +1,322 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 22 03:30:56 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 296361085,
+        "id_str": "296361085",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Senator John Thune",
+        "screen_name": "SenJohnThune"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenJohnThune: Despite the Dem-led misinformation campaign, filling this SCOTUS seat follows historical Senate norms. There is a differe\u2026",
+  "geo": null,
+  "id": 1308247379611725825,
+  "id_str": "1308247379611725825",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6427,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 21 23:07:38 +0000 2020",
+    "display_text_range": [
+      0,
+      281
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qdud4JJUq8",
+          "expanded_url": "https://twitter.com/SenJohnThune/status/1308181121881059335/video/1",
+          "id": 1308170871471845376,
+          "id_str": "1308170871471845376",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1308170871471845376/img/3LmMxcXU25nzHFYX.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1308170871471845376/img/3LmMxcXU25nzHFYX.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qdud4JJUq8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/qdud4JJUq8",
+          "expanded_url": "https://twitter.com/SenJohnThune/status/1308181121881059335/video/1",
+          "id": 1308170871471845376,
+          "id_str": "1308170871471845376",
+          "indices": [
+            282,
+            305
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1308170871471845376/img/3LmMxcXU25nzHFYX.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1308170871471845376/img/3LmMxcXU25nzHFYX.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/qdud4JJUq8",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 344377,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1308170871471845376/pl/1HZ55GwVCIS0v_r3.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1308170871471845376/vid/640x360/PVjGM1rgNgSFOQiP.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1308170871471845376/vid/1280x720/Etw8Lv4uNQWgaMpd.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1308170871471845376/vid/480x270/CcXOUhrXFpJXqHyB.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19968,
+    "favorited": false,
+    "full_text": "Despite the Dem-led misinformation campaign, filling this SCOTUS seat follows historical Senate norms. There is a different precedent if you have a divided government (2016) vs. having the same party in control in the WH &amp; Senate (now). In fact, Joe Biden made the distinction. https://t.co/qdud4JJUq8",
+    "geo": null,
+    "id": 1308181121881059335,
+    "id_str": "1308181121881059335",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6427,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 10 16:41:48 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senate Majority Whip. Representing South Dakota. Father. Grandfather. Husband. Sports Fan. Avid Outdoorsman. Hates Shoveling Snow.\nhttps://t.co/CAJybse6Mc",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/senjohnthune",
+              "expanded_url": "http://instagram.com/senjohnthune",
+              "indices": [
+                131,
+                154
+              ],
+              "url": "https://t.co/CAJybse6Mc"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thune.senate.gov",
+              "expanded_url": "http://thune.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/OiwOiAFGGw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 99,
+      "follow_request_sent": false,
+      "followers_count": 104775,
+      "following": false,
+      "friends_count": 342,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 296361085,
+      "id_str": "296361085",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2327,
+      "location": "",
+      "name": "Senator John Thune",
+      "notifications": false,
+      "profile_background_color": "F8F4E4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/296361085/1582735199",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1232706878242729985/INGF333L_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232706878242729985/INGF333L_normal.jpg",
+      "profile_link_color": "264B59",
+      "profile_sidebar_border_color": "990000",
+      "profile_sidebar_fill_color": "333333",
+      "profile_text_color": "808080",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenJohnThune",
+      "statuses_count": 6348,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/OiwOiAFGGw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86284580,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119971,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

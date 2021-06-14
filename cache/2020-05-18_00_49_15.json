@@ -1,0 +1,362 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon May 18 00:49:15 +0000 2020",
+  "display_text_range": [
+    0,
+    16
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/nickfondacaro/\u2026",
+        "expanded_url": "https://twitter.com/nickfondacaro/status/1262144477130559489",
+        "indices": [
+          17,
+          40
+        ],
+        "url": "https://t.co/k9UuJr4JIM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 39217,
+  "favorited": false,
+  "full_text": "Great job Peter! https://t.co/k9UuJr4JIM",
+  "geo": null,
+  "id": 1262183432383270913,
+  "id_str": "1262183432383270913",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 17 22:14:27 +0000 2020",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            10,
+            19
+          ],
+          "text": "ThisWeek"
+        },
+        {
+          "indices": [
+            125,
+            131
+          ],
+          "text": "COVID"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/eKCYQe3t8r",
+          "expanded_url": "https://twitter.com/NickFondacaro/status/1262144477130559489/video/1",
+          "id": 1262144408054571009,
+          "id_str": "1262144408054571009",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYQJpi7WAAA2Ldi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYQJpi7WAAA2Ldi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eKCYQe3t8r"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "newsbusters.org/blogs/nb/nicho\u2026",
+          "expanded_url": "https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2020/05/17/stephanopoulos-gets-schooled-administrations-early-covid",
+          "indices": [
+            141,
+            164
+          ],
+          "url": "https://t.co/R7TI4VRF4w"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 28785486,
+          "id_str": "28785486",
+          "indices": [
+            3,
+            7
+          ],
+          "name": "ABC News",
+          "screen_name": "ABC"
+        },
+        {
+          "id": 17074440,
+          "id_str": "17074440",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "GeorgeStephanopoulos",
+          "screen_name": "GStephanopoulos"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/eKCYQe3t8r",
+          "expanded_url": "https://twitter.com/NickFondacaro/status/1262144477130559489/video/1",
+          "id": 1262144408054571009,
+          "id_str": "1262144408054571009",
+          "indices": [
+            165,
+            188
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYQJpi7WAAA2Ldi.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYQJpi7WAAA2Ldi.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/eKCYQe3t8r",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 113780,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1262144408054571009/pu/vid/480x270/86BVVYF1Dh4c_SHu.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1262144408054571009/pu/pl/jDBiKETgCHOJd2TG.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1262144408054571009/pu/vid/640x360/nr_JskhMbkmcvkcr.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1262144408054571009/pu/vid/960x540/ET6ez6Zftd8Z0ECt.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 5987,
+    "favorited": false,
+    "full_text": "On @ABC's #ThisWeek, @GStephanopoulos gets SCHOOLED by White House trade adviser Peter Navarro on the administration\u2019s early #COVID response\nhttps://t.co/R7TI4VRF4w https://t.co/eKCYQe3t8r",
+    "geo": null,
+    "id": 1262144477130559489,
+    "id_str": "1262144477130559489",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2174,
+    "retweeted": false,
+    "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 06 15:07:35 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News Analyst for @theMRC and @NewsBusters, Fmr. Assoc. Editor for Binghamton Review. D&D Dungeon Master #Critter #JetsNation",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "newsbusters.org/author/nichola\u2026",
+              "expanded_url": "http://www.newsbusters.org/author/nicholas-fondacaro",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6Y8lBmQ9eT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9639,
+      "follow_request_sent": false,
+      "followers_count": 4395,
+      "following": false,
+      "friends_count": 1662,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 330390978,
+      "id_str": "330390978",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 59,
+      "location": "Alexandria, VA",
+      "name": "Nicholas Fondacaro",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/330390978/1562167881",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/614420617861951488/tBfG0CBO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/614420617861951488/tBfG0CBO_normal.jpg",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NickFondacaro",
+      "statuses_count": 20857,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/6Y8lBmQ9eT",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1262144477130559489,
+  "quoted_status_id_str": "1262144477130559489",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nickfondacaro/\u2026",
+    "expanded": "https://twitter.com/nickfondacaro/status/1262144477130559489",
+    "url": "https://t.co/k9UuJr4JIM"
+  },
+  "retweet_count": 10989,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79981308,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113638,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51742,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

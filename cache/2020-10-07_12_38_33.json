@@ -1,0 +1,397 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 07 12:38:33 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 235839823,
+        "id_str": "235839823",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Herschel Walker",
+        "screen_name": "HerschelWalker"
+      },
+      {
+        "id": 939091,
+        "id_str": "939091",
+        "indices": [
+          47,
+          56
+        ],
+        "name": "Joe Biden",
+        "screen_name": "JoeBiden"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @HerschelWalker: One death is two many BUT \u2066@JoeBiden\u2069 &amp; campaign are not telling American people about the comorbidity in the Covid num\u2026",
+  "geo": null,
+  "id": 1313821012870520833,
+  "id_str": "1313821012870520833",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9772,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Oct 07 00:18:47 +0000 2020",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Fn1p5JGdpB",
+          "expanded_url": "https://twitter.com/HerschelWalker/status/1313634842723188736/video/1",
+          "id": 1313634731548909568,
+          "id_str": "1313634731548909568",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313634731548909568/pu/img/EBa7H04VbEbOKJiA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313634731548909568/pu/img/EBa7H04VbEbOKJiA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Fn1p5JGdpB"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 939091,
+          "id_str": "939091",
+          "indices": [
+            27,
+            36
+          ],
+          "name": "Joe Biden",
+          "screen_name": "JoeBiden"
+        },
+        {
+          "id": 1367531,
+          "id_str": "1367531",
+          "indices": [
+            128,
+            136
+          ],
+          "name": "Fox News",
+          "screen_name": "FoxNews"
+        },
+        {
+          "id": 759251,
+          "id_str": "759251",
+          "indices": [
+            139,
+            143
+          ],
+          "name": "CNN",
+          "screen_name": "CNN"
+        },
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            146,
+            152
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 2836421,
+          "id_str": "2836421",
+          "indices": [
+            155,
+            161
+          ],
+          "name": "MSNBC",
+          "screen_name": "MSNBC"
+        },
+        {
+          "id": 26487169,
+          "id_str": "26487169",
+          "indices": [
+            164,
+            173
+          ],
+          "name": "Lou Dobbs",
+          "screen_name": "LouDobbs"
+        },
+        {
+          "id": 39344374,
+          "id_str": "39344374",
+          "indices": [
+            176,
+            191
+          ],
+          "name": "Donald Trump Jr.",
+          "screen_name": "DonaldJTrumpJr"
+        },
+        {
+          "id": 46681100,
+          "id_str": "46681100",
+          "indices": [
+            193,
+            209
+          ],
+          "name": "Martha MacCallum",
+          "screen_name": "marthamaccallum"
+        },
+        {
+          "id": 41634520,
+          "id_str": "41634520",
+          "indices": [
+            212,
+            224
+          ],
+          "name": "Sean Hannity",
+          "screen_name": "seanhannity"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/Fn1p5JGdpB",
+          "expanded_url": "https://twitter.com/HerschelWalker/status/1313634842723188736/video/1",
+          "id": 1313634731548909568,
+          "id_str": "1313634731548909568",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313634731548909568/pu/img/EBa7H04VbEbOKJiA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313634731548909568/pu/img/EBa7H04VbEbOKJiA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Fn1p5JGdpB",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 80717,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313634731548909568/pu/vid/720x1280/bkQEdSXDUdMnQXQp.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313634731548909568/pu/vid/320x568/IUvKuUg7Nel51rds.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1313634731548909568/pu/pl/sfEMq4KyNA2XFL_1.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313634731548909568/pu/vid/360x640/m4Y41pt05o5hXdqn.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27826,
+    "favorited": false,
+    "full_text": "One death is two many BUT \u2066@JoeBiden\u2069 &amp; campaign are not telling American people about the comorbidity in the Covid numbers @FoxNews\u2069 \u2066@CNN\u2069 \u2066@POTUS\u2069 \u2066@MSNBC\u2069 \u2066@LouDobbs\u2069 \u2066@DonaldJTrumpJr\u2069 @marthamaccallum\u2069 \u2066@seanhannity\u2069 https://t.co/Fn1p5JGdpB",
+    "geo": null,
+    "id": 1313634842723188736,
+    "id_str": "1313634842723188736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9772,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 09 05:42:18 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Official Herschel Walker Twitter Page",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3717,
+      "follow_request_sent": false,
+      "followers_count": 364431,
+      "following": false,
+      "friends_count": 2892,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 235839823,
+      "id_str": "235839823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 916,
+      "location": "",
+      "name": "Herschel Walker",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/235839823/1443634434",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/641368303282184192/rcNzViGK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/641368303282184192/rcNzViGK_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "HerschelWalker",
+      "statuses_count": 1075,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87182669,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121193,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56799,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

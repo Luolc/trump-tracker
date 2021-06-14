@@ -1,0 +1,503 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 00:19:02 +0000 2020",
+  "display_text_range": [
+    0,
+    59
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1023722780968280069,
+        "id_str": "1023722780968280069",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Barrett Wilson",
+        "screen_name": "BarrettWilson6"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BarrettWilson6: It's a good thing they're wearing masks",
+  "geo": null,
+  "id": 1287542980530917377,
+  "id_str": "1287542980530917377",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1287498243526418432,
+  "quoted_status_id_str": "1287498243526418432",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stillgray/stat\u2026",
+    "expanded": "https://twitter.com/stillgray/status/1287498243526418432",
+    "url": "https://t.co/lZI2rB6t9o"
+  },
+  "retweet_count": 5709,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Jul 26 21:42:05 +0000 2020",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/stillgray/stat\u2026",
+          "expanded_url": "https://twitter.com/stillgray/status/1287498243526418432",
+          "indices": [
+            40,
+            63
+          ],
+          "url": "https://t.co/lZI2rB6t9o"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18066,
+    "favorited": false,
+    "full_text": "It's a good thing they're wearing masks https://t.co/lZI2rB6t9o",
+    "geo": null,
+    "id": 1287503481205596161,
+    "id_str": "1287503481205596161",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Jul 26 21:21:16 +0000 2020",
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/21te4C8rEX",
+            "expanded_url": "https://twitter.com/Laylowcdai/status/1286954788123541505/video/1",
+            "id": 1286952229883334658,
+            "id_str": "1286952229883334658",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286952229883334658/pu/img/eUnFE1MJ4HsndYEi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286952229883334658/pu/img/eUnFE1MJ4HsndYEi.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286954788123541505,
+            "source_status_id_str": "1286954788123541505",
+            "source_user_id": 715248842682269703,
+            "source_user_id_str": "715248842682269703",
+            "type": "photo",
+            "url": "https://t.co/21te4C8rEX"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Mar 30 18:46:27 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 1667,
+                "follow_request_sent": false,
+                "followers_count": 754,
+                "following": false,
+                "friends_count": 420,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 715248842682269703,
+                "id_str": "715248842682269703",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 1,
+                "location": "",
+                "name": "Cdai3\ufe0f\u20e3",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/715248842682269703/1555075746",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1264240710619987968/LB740MOt_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1264240710619987968/LB740MOt_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Laylowcdai",
+                "statuses_count": 878,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/21te4C8rEX",
+            "expanded_url": "https://twitter.com/Laylowcdai/status/1286954788123541505/video/1",
+            "id": 1286952229883334658,
+            "id_str": "1286952229883334658",
+            "indices": [
+              37,
+              60
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286952229883334658/pu/img/eUnFE1MJ4HsndYEi.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286952229883334658/pu/img/eUnFE1MJ4HsndYEi.jpg",
+            "sizes": {
+              "large": {
+                "h": 1280,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 675
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 383
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286954788123541505,
+            "source_status_id_str": "1286954788123541505",
+            "source_user_id": 715248842682269703,
+            "source_user_id_str": "715248842682269703",
+            "type": "video",
+            "url": "https://t.co/21te4C8rEX",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                16
+              ],
+              "duration_millis": 103923,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1286952229883334658/pu/pl/WVdJe80VQOB7qp24.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286952229883334658/pu/vid/360x640/HMQ-gaQgsdHsB8lw.mp4?tag=10"
+                },
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286952229883334658/pu/vid/320x568/tM4CmgktNtZrbSLB.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1286952229883334658/pu/vid/720x1280/sQL8YtaNq7Abl40P.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 10334,
+      "favorited": false,
+      "full_text": "Meanwhile at the Hard Rock in Miami. https://t.co/21te4C8rEX",
+      "geo": null,
+      "id": 1287498243526418432,
+      "id_str": "1287498243526418432",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5669,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 03 01:44:04 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Remember David Dorn.\n\nManaging Editor of @HumanEvents \nYT: https://t.co/iin0Tb6Spj\nIG: https://t.co/0Cv3rnfUJm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/hypebreak",
+                "expanded_url": "http://youtube.com/hypebreak",
+                "indices": [
+                  59,
+                  82
+                ],
+                "url": "https://t.co/iin0Tb6Spj"
+              },
+              {
+                "display_url": "instagram.com/stillgray",
+                "expanded_url": "http://instagram.com/stillgray",
+                "indices": [
+                  87,
+                  110
+                ],
+                "url": "https://t.co/0Cv3rnfUJm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "humanevents.com",
+                "expanded_url": "https://www.humanevents.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/CgTokdj1Sn"
+              }
+            ]
+          }
+        },
+        "favourites_count": 140928,
+        "follow_request_sent": false,
+        "followers_count": 202621,
+        "following": false,
+        "friends_count": 1704,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 16106584,
+        "id_str": "16106584",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1702,
+        "location": "",
+        "name": "Ian Miles Cheong",
+        "notifications": false,
+        "profile_background_color": "1B1926",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1591392104",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1259781578428841984/AZzuBdC__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259781578428841984/AZzuBdC__normal.jpg",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "E8DBC1",
+        "profile_text_color": "395E85",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "stillgray",
+        "statuses_count": 302069,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/CgTokdj1Sn",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1287498243526418432,
+    "quoted_status_id_str": "1287498243526418432",
+    "quoted_status_permalink": {
+      "display": "twitter.com/stillgray/stat\u2026",
+      "expanded": "https://twitter.com/stillgray/status/1287498243526418432",
+      "url": "https://t.co/lZI2rB6t9o"
+    },
+    "retweet_count": 5709,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 30 00:11:45 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Writer: @Quillette @areomagazine @FDRLST @StandpointMag Editor: @TheSwift12 @TPostMillennial Designer: @wokestore Email: barrett@thepm.news",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "subscribestar.com/barrettwilson",
+              "expanded_url": "https://www.subscribestar.com/barrettwilson",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Dufo552dMw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23787,
+      "follow_request_sent": false,
+      "followers_count": 11035,
+      "following": false,
+      "friends_count": 1443,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1023722780968280069,
+      "id_str": "1023722780968280069",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 76,
+      "location": "",
+      "name": "Barrett Wilson",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1023722780968280069/1532933722",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1237466301033074693/Bs5cPlQr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237466301033074693/Bs5cPlQr_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "BarrettWilson6",
+      "statuses_count": 17967,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Dufo552dMw",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

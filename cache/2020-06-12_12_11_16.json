@@ -1,0 +1,457 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 12 12:11:16 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14989516,
+        "id_str": "14989516",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Ben Domenech",
+        "screen_name": "bdomenech"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @bdomenech: Sculpted by an Italian immigrant who helped build Grand Central Station and his son, given as a gift during the Great Depres\u2026",
+  "geo": null,
+  "id": 1271414766892974080,
+  "id_str": "1271414766892974080",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1270850224777396224,
+  "quoted_status_id_str": "1270850224777396224",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ABC/status/127\u2026",
+    "expanded": "https://twitter.com/ABC/status/1270850224777396224",
+    "url": "https://t.co/EviIr85fNk"
+  },
+  "retweet_count": 22294,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 11 04:49:02 +0000 2020",
+    "display_text_range": [
+      0,
+      194
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ABC/status/127\u2026",
+          "expanded_url": "https://twitter.com/ABC/status/1270850224777396224",
+          "indices": [
+            195,
+            218
+          ],
+          "url": "https://t.co/EviIr85fNk"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 58753,
+    "favorited": false,
+    "full_text": "Sculpted by an Italian immigrant who helped build Grand Central Station and his son, given as a gift during the Great Depression as a symbol of the acceptance of Italian immigrants in Minnesota. https://t.co/EviIr85fNk",
+    "geo": null,
+    "id": 1270941087641800704,
+    "id_str": "1270941087641800704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jun 10 22:47:59 +0000 2020",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/g2gEiUllg5",
+            "expanded_url": "https://twitter.com/ABC/status/1270850224777396224/video/1",
+            "id": 1270850161594359808,
+            "id_str": "1270850161594359808",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270850161594359808/pu/img/Bc6Qlol51KHCei7v.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270850161594359808/pu/img/Bc6Qlol51KHCei7v.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/g2gEiUllg5"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "abcn.ws/3fb7Phh",
+            "expanded_url": "https://abcn.ws/3fb7Phh",
+            "indices": [
+              99,
+              122
+            ],
+            "url": "https://t.co/uL6qM3U0jO"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/g2gEiUllg5",
+            "expanded_url": "https://twitter.com/ABC/status/1270850224777396224/video/1",
+            "id": 1270850161594359808,
+            "id_str": "1270850161594359808",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270850161594359808/pu/img/Bc6Qlol51KHCei7v.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270850161594359808/pu/img/Bc6Qlol51KHCei7v.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/g2gEiUllg5",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 30030,
+              "variants": [
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270850161594359808/pu/vid/720x720/G05TeKEuiQvT29ib.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270850161594359808/pu/vid/480x480/CjZSjbDVBT87HMkx.mp4?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270850161594359808/pu/vid/320x320/r4BgVb4rolZxIgiF.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1270850161594359808/pu/pl/col-AP2Eqo1hkpku.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 25673,
+      "favorited": false,
+      "full_text": "NEW: Protesters yank down Christopher Columbus statue outside Minnesota State Capitol in St. Paul. https://t.co/uL6qM3U0jO https://t.co/g2gEiUllg5",
+      "geo": null,
+      "id": 1270850224777396224,
+      "id_str": "1270850224777396224",
+      "in_reply_to_screen_name": "ABC",
+      "in_reply_to_status_id": 1270834722118291458,
+      "in_reply_to_status_id_str": "1270834722118291458",
+      "in_reply_to_user_id": 28785486,
+      "in_reply_to_user_id_str": "28785486",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 7838,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Apr 04 12:40:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "All the news and information you need to see, curated by the @ABC News team. https://t.co/PKeobr4xt0 Tips: https://t.co/2ICEX6CuXd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/abcnews",
+                "expanded_url": "http://instagram.com/abcnews",
+                "indices": [
+                  77,
+                  100
+                ],
+                "url": "https://t.co/PKeobr4xt0"
+              },
+              {
+                "display_url": "abcn.ws/tips",
+                "expanded_url": "https://abcn.ws/tips",
+                "indices": [
+                  107,
+                  130
+                ],
+                "url": "https://t.co/2ICEX6CuXd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "abcnews.go.com",
+                "expanded_url": "https://abcnews.go.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/B4vihbwCGa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 32,
+        "follow_request_sent": false,
+        "followers_count": 15709604,
+        "following": false,
+        "friends_count": 529,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 28785486,
+        "id_str": "28785486",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 56905,
+        "location": "New York City / Worldwide",
+        "name": "ABC News",
+        "notifications": false,
+        "profile_background_color": "6E8EB5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/28785486/1505493568",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg",
+        "profile_link_color": "336699",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ABC",
+        "statuses_count": 305327,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/B4vihbwCGa",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1270850224777396224,
+    "quoted_status_id_str": "1270850224777396224",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ABC/status/127\u2026",
+      "expanded": "https://twitter.com/ABC/status/1270850224777396224",
+      "url": "https://t.co/EviIr85fNk"
+    },
+    "retweet_count": 22294,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 03 05:07:00 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "You can tell a man\u2019s vices by his friends, his virtues by his enemies.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "thefederalist.com",
+              "expanded_url": "http://thefederalist.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PnUnhkyJAf"
+            }
+          ]
+        }
+      },
+      "favourites_count": 37329,
+      "follow_request_sent": false,
+      "followers_count": 110713,
+      "following": false,
+      "friends_count": 494,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 14989516,
+      "id_str": "14989516",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1884,
+      "location": "DC or NY",
+      "name": "Ben Domenech",
+      "notifications": false,
+      "profile_background_color": "95B740",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14989516/1588165581",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1255483558262648833/lBpPsmac_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255483558262648833/lBpPsmac_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bdomenech",
+      "statuses_count": 89876,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PnUnhkyJAf",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

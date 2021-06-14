@@ -1,0 +1,494 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 15 22:45:32 +0000 2020",
+  "display_text_range": [
+    0,
+    107
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/33YErQvDPw",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1227719961017290754/video/1",
+        "id": 1227296734751096832,
+        "id_str": "1227296734751096832",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1227719961017290754,
+        "source_status_id_str": "1227719961017290754",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "photo",
+        "url": "https://t.co/33YErQvDPw"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14344823,
+        "id_str": "14344823",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Senate Republicans",
+        "screen_name": "SenateGOP"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "American workers are winning!",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "facebook.com/senategop",
+                    "expanded_url": "http://www.facebook.com/senategop",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/LRez78SkoK"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 2724,
+            "follow_request_sent": false,
+            "followers_count": 986878,
+            "following": false,
+            "friends_count": 26612,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 14344823,
+            "id_str": "14344823",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 7753,
+            "location": "Washington, D.C.",
+            "name": "Senate Republicans",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "SenateGOP",
+            "statuses_count": 26258,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/LRez78SkoK",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "The Republican economic plan is working. "
+        },
+        "display_url": "pic.twitter.com/33YErQvDPw",
+        "expanded_url": "https://twitter.com/SenateGOP/status/1227719961017290754/video/1",
+        "id": 1227296734751096832,
+        "id_str": "1227296734751096832",
+        "indices": [
+          84,
+          107
+        ],
+        "media_url": "http://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+        "sizes": {
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1227719961017290754,
+        "source_status_id_str": "1227719961017290754",
+        "source_user_id": 14344823,
+        "source_user_id_str": "14344823",
+        "type": "video",
+        "url": "https://t.co/33YErQvDPw",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 86878,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/1280x720/_Pg2YTwqk_U7_rtT.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/480x270/7hrBZhzFfqKDkkAF.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1227296734751096832/pl/-dDkLili9OzKjTB3.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/640x360/uz-a5PtUVhNwLJrI.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenateGOP: While Democrats fumble around, a BLUE-COLLAR BOOM continues!\n\nWATCH: https://t.co/33YErQvDPw",
+  "geo": null,
+  "id": 1228812614026878976,
+  "id_str": "1228812614026878976",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 3651,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 12 22:23:43 +0000 2020",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/33YErQvDPw",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1227719961017290754/video/1",
+          "id": 1227296734751096832,
+          "id_str": "1227296734751096832",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/33YErQvDPw"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "American workers are winning!",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "The Republican economic plan is working. "
+          },
+          "display_url": "pic.twitter.com/33YErQvDPw",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1227719961017290754/video/1",
+          "id": 1227296734751096832,
+          "id_str": "1227296734751096832",
+          "indices": [
+            69,
+            92
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQhjh57X0AEyvPd.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/33YErQvDPw",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 86878,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/1280x720/_Pg2YTwqk_U7_rtT.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/480x270/7hrBZhzFfqKDkkAF.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1227296734751096832/pl/-dDkLili9OzKjTB3.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1227296734751096832/vid/640x360/uz-a5PtUVhNwLJrI.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 11148,
+    "favorited": false,
+    "full_text": "While Democrats fumble around, a BLUE-COLLAR BOOM continues!\n\nWATCH: https://t.co/33YErQvDPw",
+    "geo": null,
+    "id": 1227719961017290754,
+    "id_str": "1227719961017290754",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3651,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "facebook.com/senategop",
+              "expanded_url": "http://www.facebook.com/senategop",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/LRez78SkoK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2724,
+      "follow_request_sent": false,
+      "followers_count": 986878,
+      "following": false,
+      "friends_count": 26612,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14344823,
+      "id_str": "14344823",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7753,
+      "location": "Washington, D.C.",
+      "name": "Senate Republicans",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenateGOP",
+      "statuses_count": 26258,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/LRez78SkoK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72581498,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114690,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49054,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

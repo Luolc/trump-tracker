@@ -1,0 +1,366 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 05:33:42 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          132
+        ],
+        "text": "4thofJuly2020"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 168541923,
+        "id_str": "168541923",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "ACTforAmerica",
+        "screen_name": "ACTforAmerica"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          47,
+          63
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 818876014390603776,
+        "id_str": "818876014390603776",
+        "indices": [
+          70,
+          77
+        ],
+        "name": "Melania Trump",
+        "screen_name": "FLOTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ACTforAmerica: INCREDIBLE SIGHT: President @realDonaldTrump &amp; @FLOTUS Melania Trump arrive at Mount Rushmore! #4thofJuly2020 https://t.\u2026",
+  "geo": null,
+  "id": 1279287248299552768,
+  "id_str": "1279287248299552768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8138,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 03:23:42 +0000 2020",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            99,
+            113
+          ],
+          "text": "4thofJuly2020"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MKg60rz0rx",
+          "expanded_url": "https://twitter.com/ACTforAmerica/status/1279254532246122498/video/1",
+          "id": 1279254370740244481,
+          "id_str": "1279254370740244481",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279254370740244481/pu/img/Pc0KzGTLCphMYGHJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279254370740244481/pu/img/Pc0KzGTLCphMYGHJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MKg60rz0rx"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            28,
+            44
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 818876014390603776,
+          "id_str": "818876014390603776",
+          "indices": [
+            51,
+            58
+          ],
+          "name": "Melania Trump",
+          "screen_name": "FLOTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/MKg60rz0rx",
+          "expanded_url": "https://twitter.com/ACTforAmerica/status/1279254532246122498/video/1",
+          "id": 1279254370740244481,
+          "id_str": "1279254370740244481",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279254370740244481/pu/img/Pc0KzGTLCphMYGHJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279254370740244481/pu/img/Pc0KzGTLCphMYGHJ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/MKg60rz0rx",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 100120,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279254370740244481/pu/vid/320x320/35c0dg3L_xx0MBYb.mp4?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279254370740244481/pu/vid/720x720/rmLuXxWhuZc8lr-e.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279254370740244481/pu/vid/480x480/ckloEuDnvMUHj_oA.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1279254370740244481/pu/pl/AwOShIBwENr7J24I.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31851,
+    "favorited": false,
+    "full_text": "INCREDIBLE SIGHT: President @realDonaldTrump &amp; @FLOTUS Melania Trump arrive at Mount Rushmore! #4thofJuly2020 https://t.co/MKg60rz0rx",
+    "geo": null,
+    "id": 1279254532246122498,
+    "id_str": "1279254532246122498",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8138,
+    "retweeted": false,
+    "source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 19 17:18:06 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "We are the nation\u2019s largest grassroots national security organization with over 1 million members.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2Tl7EVQ",
+              "expanded_url": "http://bit.ly/2Tl7EVQ",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/A04I5m1I4l"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2521,
+      "follow_request_sent": false,
+      "followers_count": 217549,
+      "following": false,
+      "friends_count": 137220,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 168541923,
+      "id_str": "168541923",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1186,
+      "location": "Washington, DC",
+      "name": "ACTforAmerica",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/168541923/1548949455",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/730233910907428864/sCGfk6uj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/730233910907428864/sCGfk6uj_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ACTforAmerica",
+      "statuses_count": 4586,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/A04I5m1I4l",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82743202,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116205,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53404,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

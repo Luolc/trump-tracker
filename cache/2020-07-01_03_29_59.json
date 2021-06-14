@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 01 03:29:59 +0000 2020",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/laurenboebert/\u2026",
+        "expanded_url": "https://twitter.com/laurenboebert/status/1257079928211857408",
+        "indices": [
+          39,
+          62
+        ],
+        "url": "https://t.co/rMpFiV6LvY"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 62586,
+  "favorited": false,
+  "full_text": "Congratulations on a really great win! https://t.co/rMpFiV6LvY",
+  "geo": null,
+  "id": 1278168948656214018,
+  "id_str": "1278168948656214018",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 03 22:49:44 +0000 2020",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            240,
+            248
+          ],
+          "text": "USHouse"
+        },
+        {
+          "indices": [
+            249,
+            254
+          ],
+          "text": "CO03"
+        },
+        {
+          "indices": [
+            255,
+            266
+          ],
+          "text": "HellNObeto"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ncuwoYLdnH",
+          "expanded_url": "https://twitter.com/laurenboebert/status/1257079928211857408/video/1",
+          "id": 1257079055301644288,
+          "id_str": "1257079055301644288",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257079055301644288/pu/img/-awM-APi7Mj2Q6kq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257079055301644288/pu/img/-awM-APi7Mj2Q6kq.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ncuwoYLdnH"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 342863309,
+          "id_str": "342863309",
+          "indices": [
+            267,
+            279
+          ],
+          "name": "Beto O'Rourke",
+          "screen_name": "BetoORourke"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/ncuwoYLdnH",
+          "expanded_url": "https://twitter.com/laurenboebert/status/1257079928211857408/video/1",
+          "id": 1257079055301644288,
+          "id_str": "1257079055301644288",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1257079055301644288/pu/img/-awM-APi7Mj2Q6kq.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1257079055301644288/pu/img/-awM-APi7Mj2Q6kq.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/ncuwoYLdnH",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 70537,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1257079055301644288/pu/vid/480x270/EBGB8PTMe6h_qhJG.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1257079055301644288/pu/vid/1280x720/b8GZfsOkSg-EyBPZ.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1257079055301644288/pu/pl/CAl6AR_GRy3hwQgK.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1257079055301644288/pu/vid/640x360/S-IdR3_gB2AxGGMu.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 24007,
+    "favorited": false,
+    "full_text": "I am a mother to 4 boys. My husband and I are raising them to be strong men! I refuse to send my children into a socialist nation. Their freedom IS my motivator! Threaten the liberty of Americans, and I'll be there to hold you accountable! #USHouse #CO03 #HellNObeto @BetoORourke https://t.co/ncuwoYLdnH",
+    "geo": null,
+    "id": 1257079928211857408,
+    "id_str": "1257079928211857408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8705,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 03 01:14:36 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Running in Colorado\u2019s 3rd to get rid of RINOs. Owner of @ShootersGrill. I am the mom who told Beto HELL NO you\u2019re not taking our guns! #MAGA #2A #DrainTheSwamp",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "laurenforcolorado.com",
+              "expanded_url": "https://laurenforcolorado.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/L3gowUYcgn"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1282,
+      "follow_request_sent": false,
+      "followers_count": 121248,
+      "following": false,
+      "friends_count": 826,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1201670995435646976,
+      "id_str": "1201670995435646976",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 244,
+      "location": "Colorado, USA",
+      "name": "Lauren Boebert for Congress (R-CO3)",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201670995435646976/1591022610",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1203656580073316353/HKBTyU_C_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1203656580073316353/HKBTyU_C_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "laurenboebert",
+      "statuses_count": 1414,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/L3gowUYcgn",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1257079928211857408,
+  "quoted_status_id_str": "1257079928211857408",
+  "quoted_status_permalink": {
+    "display": "twitter.com/laurenboebert/\u2026",
+    "expanded": "https://twitter.com/laurenboebert/status/1257079928211857408",
+    "url": "https://t.co/rMpFiV6LvY"
+  },
+  "retweet_count": 15773,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82651278,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116125,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53331,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 03:08:41 +0000 2020",
+  "display_text_range": [
+    0,
+    6
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/gregabbott_tx/\u2026",
+        "expanded_url": "https://twitter.com/gregabbott_tx/status/1267652251675504640",
+        "indices": [
+          7,
+          30
+        ],
+        "url": "https://t.co/mzKWU72bkb"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 78411,
+  "favorited": false,
+  "full_text": "Great! https://t.co/mzKWU72bkb",
+  "geo": null,
+  "id": 1267654339209953285,
+  "id_str": "1267654339209953285",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 03:00:23 +0000 2020",
+    "display_text_range": [
+      0,
+      252
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            27,
+            35
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            206,
+            213
+          ],
+          "text": "txlege"
+        },
+        {
+          "indices": [
+            214,
+            226
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "txdshs.maps.arcgis.com/apps/opsdashbo\u2026",
+          "expanded_url": "https://txdshs.maps.arcgis.com/apps/opsdashboard/index.html#/ed483ecd702b4298ab01e8b9cafc8b83",
+          "indices": [
+            229,
+            252
+          ],
+          "url": "https://t.co/O7SxGBUU76"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 27875,
+    "favorited": false,
+    "full_text": "Today Texas had the fewest #COVID19 fatalities since March 30th.\n\nWe also had the fewest Texans testing positive for COVID in the past 6 weeks.\n\nAnd, we have the 2nd most recoveries from COVID in America.\n\n#txlege #coronavirus \n\nhttps://t.co/O7SxGBUU76",
+    "geo": null,
+    "id": 1267652251675504640,
+    "id_str": "1267652251675504640",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6172,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Nov 17 15:27:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Texas Governor Greg Abbott's Personal Twitter Feed",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/governorabbott",
+              "expanded_url": "http://www.instagram.com/governorabbott",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/33U51DP5ca"
+            }
+          ]
+        }
+      },
+      "favourites_count": 691,
+      "follow_request_sent": false,
+      "followers_count": 440976,
+      "following": false,
+      "friends_count": 2959,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 90651198,
+      "id_str": "90651198",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2834,
+      "location": "Austin, TX",
+      "name": "Greg Abbott",
+      "notifications": false,
+      "profile_background_color": "192857",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90651198/1530469108",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1106778059590565889/M-ak-U5F_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1106778059590565889/M-ak-U5F_normal.jpg",
+      "profile_link_color": "DB0707",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GregAbbott_TX",
+      "statuses_count": 11998,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/33U51DP5ca",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1267652251675504640,
+  "quoted_status_id_str": "1267652251675504640",
+  "quoted_status_permalink": {
+    "display": "twitter.com/gregabbott_tx/\u2026",
+    "expanded": "https://twitter.com/gregabbott_tx/status/1267652251675504640",
+    "url": "https://t.co/mzKWU72bkb"
+  },
+  "retweet_count": 13814,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

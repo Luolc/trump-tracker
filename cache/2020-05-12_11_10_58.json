@@ -1,0 +1,495 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue May 12 11:10:58 +0000 2020",
+  "display_text_range": [
+    0,
+    96
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          22,
+          28
+        ],
+        "text": "MeToo"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 50415411,
+        "id_str": "50415411",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Alexandra Datig",
+        "screen_name": "alexdatig"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alexdatig: ICYMI: #MeToo Founder Rose McGowan Denounces Democratic Party, Says It's A \u201cCult\u201d",
+  "geo": null,
+  "id": 1260165564774916096,
+  "id_str": "1260165564774916096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1255643878117572609,
+  "quoted_status_id_str": "1255643878117572609",
+  "quoted_status_permalink": {
+    "display": "twitter.com/rosemcgowan/st\u2026",
+    "expanded": "https://twitter.com/rosemcgowan/status/1255643878117572609",
+    "url": "https://t.co/7UABqg2COO"
+  },
+  "retweet_count": 4423,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 12 04:56:09 +0000 2020",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            7,
+            13
+          ],
+          "text": "MeToo"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/rosemcgowan/st\u2026",
+          "expanded_url": "https://twitter.com/rosemcgowan/status/1255643878117572609",
+          "indices": [
+            82,
+            105
+          ],
+          "url": "https://t.co/7UABqg2COO"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12546,
+    "favorited": false,
+    "full_text": "ICYMI: #MeToo Founder Rose McGowan Denounces Democratic Party, Says It's A \u201cCult\u201d https://t.co/7UABqg2COO",
+    "geo": null,
+    "id": 1260071239617376256,
+    "id_str": "1260071239617376256",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Apr 29 23:43:23 +0000 2020",
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mhtaoW6dTd",
+            "expanded_url": "https://twitter.com/rosemcgowan/status/1255643878117572609/photo/1",
+            "id": 1255643864947404800,
+            "id_str": "1255643864947404800",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWzxcUaWsAArSIG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWzxcUaWsAArSIG.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mhtaoW6dTd"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/mhtaoW6dTd",
+            "expanded_url": "https://twitter.com/rosemcgowan/status/1255643878117572609/photo/1",
+            "id": 1255643864947404800,
+            "id_str": "1255643864947404800",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWzxcUaWsAArSIG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWzxcUaWsAArSIG.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mhtaoW6dTd"
+          },
+          {
+            "display_url": "pic.twitter.com/mhtaoW6dTd",
+            "expanded_url": "https://twitter.com/rosemcgowan/status/1255643878117572609/photo/1",
+            "id": 1255643864951656448,
+            "id_str": "1255643864951656448",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWzxcUbXkAA5dS3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWzxcUbXkAA5dS3.jpg",
+            "sizes": {
+              "large": {
+                "h": 1922,
+                "resize": "fit",
+                "w": 1110
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 693
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 393
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mhtaoW6dTd"
+          },
+          {
+            "display_url": "pic.twitter.com/mhtaoW6dTd",
+            "expanded_url": "https://twitter.com/rosemcgowan/status/1255643878117572609/photo/1",
+            "id": 1255643864943267848,
+            "id_str": "1255643864943267848",
+            "indices": [
+              91,
+              114
+            ],
+            "media_url": "http://pbs.twimg.com/media/EWzxcUZXkAgYELh.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EWzxcUZXkAgYELh.jpg",
+            "sizes": {
+              "large": {
+                "h": 1348,
+                "resize": "fit",
+                "w": 1125
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 1001
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 568
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/mhtaoW6dTd"
+          }
+        ]
+      },
+      "favorite_count": 66734,
+      "favorited": false,
+      "full_text": "I\u2019m really sad, and I\u2019m really tired. I normally share thoughts, but tonight it\u2019s emotion. https://t.co/mhtaoW6dTd",
+      "geo": null,
+      "id": 1255643878117572609,
+      "id_str": "1255643878117572609",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12057,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Jun 10 21:39:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Planet 9, music for your journey to space, a prescription for healing. 20% of sales on https://t.co/3hH9AQxuBz  go to Covid-19 relief.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rosemcgowan.bandcamp.com/album/planet-9",
+                "expanded_url": "https://rosemcgowan.bandcamp.com/album/planet-9",
+                "indices": [
+                  87,
+                  110
+                ],
+                "url": "https://t.co/3hH9AQxuBz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rosemcgowan.com",
+                "expanded_url": "https://www.rosemcgowan.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/UlOpeEIyyx"
+              }
+            ]
+          }
+        },
+        "favourites_count": 11619,
+        "follow_request_sent": false,
+        "followers_count": 939695,
+        "following": false,
+        "friends_count": 5018,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 46233559,
+        "id_str": "46233559",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7972,
+        "location": "Planet 9",
+        "name": "rose mcgowan",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/46233559/1587061939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1250854547280535553/Lgw4r1QV_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250854547280535553/Lgw4r1QV_normal.jpg",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "rosemcgowan",
+        "statuses_count": 14172,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UlOpeEIyyx",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1255643878117572609,
+    "quoted_status_id_str": "1255643878117572609",
+    "quoted_status_permalink": {
+      "display": "twitter.com/rosemcgowan/st\u2026",
+      "expanded": "https://twitter.com/rosemcgowan/status/1255643878117572609",
+      "url": "https://t.co/7UABqg2COO"
+    },
+    "retweet_count": 4423,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jun 24 19:56:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Alex Datig an American political commentator, media research specialist and publisher of Front Page Index - \ud83c\uddfa\ud83c\uddf8 God, Country, Liberty, Freedom.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "frontpageindex.com",
+              "expanded_url": "http://www.frontpageindex.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/M9FdwSSXT7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5566,
+      "follow_request_sent": false,
+      "followers_count": 5010,
+      "following": false,
+      "friends_count": 3409,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 50415411,
+      "id_str": "50415411",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 29,
+      "location": "Los Angeles",
+      "name": "Alexandra Datig",
+      "notifications": false,
+      "profile_background_color": "642D8B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50415411/1585536514",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1242658210189697024/3kt0lq-v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242658210189697024/3kt0lq-v_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "alexdatig",
+      "statuses_count": 19879,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/M9FdwSSXT7",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79761118,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114822,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51530,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

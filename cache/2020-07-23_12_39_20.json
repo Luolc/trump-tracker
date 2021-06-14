@@ -1,0 +1,535 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:39:20 +0000 2020",
+  "display_text_range": [
+    0,
+    92
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: \u201cMost [of the \u2018moms\u2019] aren\u2019t mothers and many don\u2019t even identify as female\u201d",
+  "geo": null,
+  "id": 1286279730887622656,
+  "id_str": "1286279730887622656",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1285839279843753985,
+  "quoted_status_id_str": "1285839279843753985",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mrandyngo/stat\u2026",
+    "expanded": "https://twitter.com/mrandyngo/status/1285839279843753985",
+    "url": "https://t.co/4dC6rtzrbT"
+  },
+  "retweet_count": 7986,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jul 22 14:31:16 +0000 2020",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/mrandyngo/stat\u2026",
+          "expanded_url": "https://twitter.com/mrandyngo/status/1285839279843753985",
+          "indices": [
+            77,
+            100
+          ],
+          "url": "https://t.co/4dC6rtzrbT"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 20039,
+    "favorited": false,
+    "full_text": "\u201cMost [of the \u2018moms\u2019] aren\u2019t mothers and many don\u2019t even identify as female\u201d https://t.co/4dC6rtzrbT",
+    "geo": null,
+    "id": 1285945513402159106,
+    "id_str": "1285945513402159106",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 22 07:29:08 +0000 2020",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              246,
+              260
+            ],
+            "text": "PortlandRiots"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/UPffcao0fv",
+            "expanded_url": "https://twitter.com/hungrybowtie/status/1285834420092461056/video/1",
+            "id": 1285834350672572418,
+            "id_str": "1285834350672572418",
+            "indices": [
+              261,
+              284
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1285834350672572418/pu/img/nUmv2VRcOnpkvIpR.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1285834350672572418/pu/img/nUmv2VRcOnpkvIpR.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1285834420092461056,
+            "source_status_id_str": "1285834420092461056",
+            "source_user_id": 988642091675734017,
+            "source_user_id_str": "988642091675734017",
+            "type": "photo",
+            "url": "https://t.co/UPffcao0fv"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Tue Apr 24 04:53:37 +0000 2018",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Portland based journalist, vids in @abcnews @nbcnews @reuters @newshour, they/he Cashapp- $hungrybowtie PayPal https://t.co/e0KK4Jmm7W",
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "display_url": "paypal.me/garrisondavisp\u2026",
+                        "expanded_url": "https://www.paypal.me/garrisondavispdx",
+                        "indices": [
+                          111,
+                          134
+                        ],
+                        "url": "https://t.co/e0KK4Jmm7W"
+                      }
+                    ]
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "youtube.com/channel/UCvgiW\u2026",
+                        "expanded_url": "https://www.youtube.com/channel/UCvgiWaFGDAN7INDMwR9VNOQ",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/fWT1E0DNeM"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 74,
+                "follow_request_sent": false,
+                "followers_count": 23527,
+                "following": false,
+                "friends_count": 196,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 988642091675734017,
+                "id_str": "988642091675734017",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 327,
+                "location": "Portland, OR",
+                "name": "Garrison Davis (Teargas Proof)",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/988642091675734017/1591422131",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1286540244007804928/r6MkR4Hb_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1286540244007804928/r6MkR4Hb_normal.jpg",
+                "profile_link_color": "19CF86",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "hungrybowtie",
+                "statuses_count": 2363,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/fWT1E0DNeM",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/UPffcao0fv",
+            "expanded_url": "https://twitter.com/hungrybowtie/status/1285834420092461056/video/1",
+            "id": 1285834350672572418,
+            "id_str": "1285834350672572418",
+            "indices": [
+              261,
+              284
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1285834350672572418/pu/img/nUmv2VRcOnpkvIpR.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1285834350672572418/pu/img/nUmv2VRcOnpkvIpR.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1285834420092461056,
+            "source_status_id_str": "1285834420092461056",
+            "source_user_id": 988642091675734017,
+            "source_user_id_str": "988642091675734017",
+            "type": "video",
+            "url": "https://t.co/UPffcao0fv",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 19303,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1285834350672572418/pu/pl/GZmGIsW33b5co8Qw.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1285834350672572418/pu/vid/640x360/DFvJyWmoEtBlmHWu.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1285834350672572418/pu/vid/1280x720/OrVQNWj0bHkNt8B0.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1285834350672572418/pu/vid/480x270/g09V0KpEZeTY7sbI.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 31478,
+      "favorited": false,
+      "full_text": "I recognize a lot of the so-called \u201cmoms\u201d as the same antifa women who dressed in black as recent as a couple days ago. They just put on a yellow shirt now for optics. Most of these people aren\u2019t mothers &amp; many don\u2019t even identify as female. #PortlandRiots https://t.co/UPffcao0fv",
+      "geo": null,
+      "id": 1285839279843753985,
+      "id_str": "1285839279843753985",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 16291,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Sep 29 05:58:06 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Editor-at-large - @TPostMillennial. \"Unmasked\" now available for pre-order: https://t.co/nHDpgWNnvX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Unmasked-Antif\u2026",
+                "expanded_url": "https://www.amazon.com/Unmasked-Antifas-Radical-Destroy-Democracy/dp/154605958X",
+                "indices": [
+                  76,
+                  99
+                ],
+                "url": "https://t.co/nHDpgWNnvX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngo.locals.com",
+                "expanded_url": "https://ngo.locals.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jPwMbP8CBz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 41555,
+        "follow_request_sent": false,
+        "followers_count": 509009,
+        "following": false,
+        "friends_count": 684,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2835451658,
+        "id_str": "2835451658",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2258,
+        "location": "",
+        "name": "Andy Ng\u00f4",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835451658/1590863799",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265070746931302401/2w71OcJP_normal.jpg",
+        "profile_link_color": "AF7D5D",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "MrAndyNgo",
+        "statuses_count": 14144,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/jPwMbP8CBz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1285839279843753985,
+    "quoted_status_id_str": "1285839279843753985",
+    "quoted_status_permalink": {
+      "display": "twitter.com/mrandyngo/stat\u2026",
+      "expanded": "https://twitter.com/mrandyngo/status/1285839279843753985",
+      "url": "https://t.co/4dC6rtzrbT"
+    },
+    "retweet_count": 7986,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show; Former CIA Analyst and NYPD Intel Division #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0fhttps://t.co/3beR3JwoYg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "https://apple.co/2lRor7y",
+              "indices": [
+                123,
+                146
+              ],
+              "url": "https://t.co/3beR3JwoYg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24868,
+      "follow_request_sent": false,
+      "followers_count": 426711,
+      "following": false,
+      "friends_count": 1528,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2537,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 2046,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

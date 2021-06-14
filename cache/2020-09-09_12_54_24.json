@@ -1,0 +1,253 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 09 12:54:24 +0000 2020",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/jerusalem_post\u2026",
+        "expanded_url": "https://twitter.com/jerusalem_post/status/1303624024862253059",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/S2kgsPh77l"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 52733,
+  "favorited": false,
+  "full_text": "Thank you! https://t.co/S2kgsPh77l",
+  "geo": null,
+  "id": 1303678141173575680,
+  "id_str": "1303678141173575680",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 09 09:19:22 +0000 2020",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "text": "BREAKING"
+        },
+        {
+          "indices": [
+            95,
+            109
+          ],
+          "text": "IsraelUAEDeal"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "jpost.com/breaking-news/\u2026",
+          "expanded_url": "https://www.jpost.com/breaking-news/donald-trump-nominated-for-nobel-peace-prize-following-israel-uae-deal-641611",
+          "indices": [
+            111,
+            134
+          ],
+          "url": "https://t.co/LIMc7bQqSt"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            11,
+            27
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 8922,
+    "favorited": false,
+    "full_text": "#BREAKING: @realDonaldTrump was nominated for a Nobel Peace Prize for his hand in reaching the #IsraelUAEDeal. https://t.co/LIMc7bQqSt",
+    "geo": null,
+    "id": 1303624024862253059,
+    "id_str": "1303624024862253059",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2553,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jan 25 14:17:26 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Israel & world news from the Jewish state's leading website and best-selling English news source. | Get the JPost newsletter https://t.co/2K4RCfBppj \ud83d\udce9",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/2PuiCZc",
+              "expanded_url": "https://bit.ly/2PuiCZc",
+              "indices": [
+                125,
+                148
+              ],
+              "url": "https://t.co/2K4RCfBppj"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jpost.com",
+              "expanded_url": "http://www.jpost.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/0fMbI5pore"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1426,
+      "follow_request_sent": false,
+      "followers_count": 481198,
+      "following": false,
+      "friends_count": 492,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 19489239,
+      "id_str": "19489239",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8408,
+      "location": "Israel",
+      "name": "The Jerusalem Post",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19489239/1574449515",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120993292676628480/MHKZHFHw_normal.png",
+      "profile_link_color": "BB131A",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F7F2F2",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Jerusalem_Post",
+      "statuses_count": 249864,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/0fMbI5pore",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1303624024862253059,
+  "quoted_status_id_str": "1303624024862253059",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jerusalem_post\u2026",
+    "expanded": "https://twitter.com/jerusalem_post/status/1303624024862253059",
+    "url": "https://t.co/S2kgsPh77l"
+  },
+  "retweet_count": 9445,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85836389,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119283,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55668,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

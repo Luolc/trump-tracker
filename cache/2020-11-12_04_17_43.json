@@ -1,0 +1,408 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 12 04:17:43 +0000 2020",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: \ud83d\udea8\ud83d\udea8",
+  "geo": null,
+  "id": 1326740934164426752,
+  "id_str": "1326740934164426752",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "quoted_status_id": 1326256426495389698,
+  "quoted_status_id_str": "1326256426495389698",
+  "quoted_status_permalink": {
+    "display": "twitter.com/mikeroman/stat\u2026",
+    "expanded": "https://twitter.com/mikeroman/status/1326256426495389698",
+    "url": "https://t.co/MUybLQ85Wi"
+  },
+  "retweet_count": 25595,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Nov 11 14:44:47 +0000 2020",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/mikeroman/stat\u2026",
+          "expanded_url": "https://twitter.com/mikeroman/status/1326256426495389698",
+          "indices": [
+            3,
+            26
+          ],
+          "url": "https://t.co/MUybLQ85Wi"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 89165,
+    "favorited": false,
+    "full_text": "\ud83d\udea8\ud83d\udea8 https://t.co/MUybLQ85Wi",
+    "geo": null,
+    "id": 1326536355854364672,
+    "id_str": "1326536355854364672",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Nov 10 20:12:27 +0000 2020",
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QUzjsTsbdU",
+            "expanded_url": "https://twitter.com/mikeroman/status/1326256426495389698/photo/1",
+            "id": 1326256423102279688,
+            "id_str": "1326256423102279688",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmfPMKQXcAgumRw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmfPMKQXcAgumRw.jpg",
+            "sizes": {
+              "large": {
+                "h": 828,
+                "resize": "fit",
+                "w": 828
+              },
+              "medium": {
+                "h": 828,
+                "resize": "fit",
+                "w": 828
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QUzjsTsbdU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 4121225056,
+            "id_str": "4121225056",
+            "indices": [
+              115,
+              129
+            ],
+            "name": "Corey R. Lewandowski",
+            "screen_name": "CLewandowski_"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/QUzjsTsbdU",
+            "expanded_url": "https://twitter.com/mikeroman/status/1326256426495389698/photo/1",
+            "id": 1326256423102279688,
+            "id_str": "1326256423102279688",
+            "indices": [
+              130,
+              153
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmfPMKQXcAgumRw.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmfPMKQXcAgumRw.jpg",
+            "sizes": {
+              "large": {
+                "h": 828,
+                "resize": "fit",
+                "w": 828
+              },
+              "medium": {
+                "h": 828,
+                "resize": "fit",
+                "w": 828
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/QUzjsTsbdU"
+          }
+        ]
+      },
+      "favorite_count": 29232,
+      "favorited": false,
+      "full_text": "\ud83d\udea8Shocking photo from Philly Election Canvass - a list of Republican Poll Watchers on a \u201cNO ENTRY\u201d list!! Including @CLewandowski_ https://t.co/QUzjsTsbdU",
+      "geo": null,
+      "id": 1326256426495389698,
+      "id_str": "1326256426495389698",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 16074,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 16 12:35:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Trump 2020 EDO Director. @POTUS 45 WH staff. OSINT. Election Security. @GOP advisor, Treasurer of @IDUalliance #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defendyourballot.com",
+                "expanded_url": "http://defendyourballot.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/jOe4M4BH4w"
+              }
+            ]
+          }
+        },
+        "favourites_count": 684,
+        "follow_request_sent": false,
+        "followers_count": 29552,
+        "following": false,
+        "friends_count": 2561,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 14407458,
+        "id_str": "14407458",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 202,
+        "location": "Global",
+        "name": "Mike Roman",
+        "notifications": false,
+        "profile_background_color": "999999",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14407458/1598376624",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1245943888235372546/YzGKzWp0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245943888235372546/YzGKzWp0_normal.jpg",
+        "profile_link_color": "0000FF",
+        "profile_sidebar_border_color": "87BC44",
+        "profile_sidebar_fill_color": "E0FF92",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "mikeroman",
+        "statuses_count": 4442,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/jOe4M4BH4w",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1326256426495389698,
+    "quoted_status_id_str": "1326256426495389698",
+    "quoted_status_permalink": {
+      "display": "twitter.com/mikeroman/stat\u2026",
+      "expanded": "https://twitter.com/mikeroman/status/1326256426495389698",
+      "url": "https://t.co/MUybLQ85Wi"
+    },
+    "retweet_count": 25595,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWPLLr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 14045,
+      "follow_request_sent": false,
+      "followers_count": 4577035,
+      "following": false,
+      "friends_count": 1044,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9267,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 7143,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWPLLr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

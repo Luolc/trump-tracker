@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 02 17:02:15 +0000 2020",
+  "display_text_range": [
+    0,
+    28
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/michaelrcaputo\u2026",
+        "expanded_url": "https://twitter.com/michaelrcaputo/status/1256243220410925056",
+        "indices": [
+          29,
+          52
+        ],
+        "url": "https://t.co/VFi6Nhj3zG"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 49627,
+  "favorited": false,
+  "full_text": "Thank you Michael. You also! https://t.co/VFi6Nhj3zG",
+  "geo": null,
+  "id": 1256630090328346624,
+  "id_str": "1256630090328346624",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 01 15:24:58 +0000 2020",
+    "display_text_range": [
+      7,
+      98
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0gRW43z1l7",
+          "expanded_url": "https://twitter.com/MichaelRCaputo/status/1256243220410925056/video/1",
+          "id": 1256243018694352898,
+          "id_str": "1256243018694352898",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256243018694352898/pu/img/G1Eou6YFs5ufokmg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256243018694352898/pu/img/G1Eou6YFs5ufokmg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0gRW43z1l7"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 326255267,
+          "id_str": "326255267",
+          "indices": [
+            0,
+            6
+          ],
+          "name": "andrew kaczynski\ud83e\udd14",
+          "screen_name": "KFILE"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            62,
+            78
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/0gRW43z1l7",
+          "expanded_url": "https://twitter.com/MichaelRCaputo/status/1256243220410925056/video/1",
+          "id": 1256243018694352898,
+          "id_str": "1256243018694352898",
+          "indices": [
+            99,
+            122
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1256243018694352898/pu/img/G1Eou6YFs5ufokmg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1256243018694352898/pu/img/G1Eou6YFs5ufokmg.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/0gRW43z1l7",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 18733,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1256243018694352898/pu/vid/1280x720/_d7qEU6UK9axxx5G.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1256243018694352898/pu/vid/640x360/FLCr5KGwQ_4gTqfo.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1256243018694352898/pu/pl/8M5j8I0lxoXmPnOA.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1256243018694352898/pu/vid/480x270/R0ONfVUYKR1PwGRJ.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 9107,
+    "favorited": false,
+    "full_text": "@KFILE The first requisite of working for a fearless man like @realDonaldTrump is to have no fear. https://t.co/0gRW43z1l7",
+    "geo": null,
+    "id": 1256243220410925056,
+    "id_str": "1256243220410925056",
+    "in_reply_to_screen_name": "KFILE",
+    "in_reply_to_status_id": 1256242730168209413,
+    "in_reply_to_status_id_str": "1256242730168209413",
+    "in_reply_to_user_id": 326255267,
+    "in_reply_to_user_id_str": "326255267",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3086,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Aug 20 14:28:29 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Assistant Secretary of HHS for Public Affairs. Blessed to be here but my \u2764\ufe0f is in Buffalo. @25thID Opinions expressed are my own, not the US government\u2019s.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hhs.gov/about/leadersh\u2026",
+              "expanded_url": "https://www.hhs.gov/about/leadership/michael-caputo/index.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iXlFV6YtMZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16279,
+      "follow_request_sent": false,
+      "followers_count": 43404,
+      "following": false,
+      "friends_count": 4881,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 67328110,
+      "id_str": "67328110",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 391,
+      "location": "Washington, DC",
+      "name": "Michael R. Caputo",
+      "notifications": false,
+      "profile_background_color": "8AC0DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/67328110/1586988682",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250547285479522304/TketbI-x_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250547285479522304/TketbI-x_normal.jpg",
+      "profile_link_color": "052B38",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "AFDDF0",
+      "profile_text_color": "170317",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MichaelRCaputo",
+      "statuses_count": 466,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iXlFV6YtMZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1256243220410925056,
+  "quoted_status_id_str": "1256243220410925056",
+  "quoted_status_permalink": {
+    "display": "twitter.com/michaelrcaputo\u2026",
+    "expanded": "https://twitter.com/michaelrcaputo/status/1256243220410925056",
+    "url": "https://t.co/VFi6Nhj3zG"
+  },
+  "retweet_count": 13252,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79287230,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

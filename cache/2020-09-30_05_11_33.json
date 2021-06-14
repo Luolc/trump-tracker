@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 30 05:11:33 +0000 2020",
+  "display_text_range": [
+    0,
+    138
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2734241886,
+        "id_str": "2734241886",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "Ken Farnaso",
+        "screen_name": "KLF"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KLF: BIDEN tonight: \u201cThe Green New Deal is not my plan.\u201d \n\nBIDEN website: \u201cBiden believes the Green New Deal is a crucial framework\u2026\u201d\u2026",
+  "geo": null,
+  "id": 1311171805533569024,
+  "id_str": "1311171805533569024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1311152669222793216,
+  "quoted_status_id_str": "1311152669222793216",
+  "quoted_status_permalink": {
+    "display": "twitter.com/richardgrenell\u2026",
+    "expanded": "https://twitter.com/richardgrenell/status/1311152669222793216",
+    "url": "https://t.co/o4CDirKzu3"
+  },
+  "retweet_count": 16127,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 30 04:09:45 +0000 2020",
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/richardgrenell\u2026",
+          "expanded_url": "https://twitter.com/richardgrenell/status/1311152669222793216",
+          "indices": [
+            249,
+            272
+          ],
+          "url": "https://t.co/o4CDirKzu3"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 39610,
+    "favorited": false,
+    "full_text": "BIDEN tonight: \u201cThe Green New Deal is not my plan.\u201d \n\nBIDEN website: \u201cBiden believes the Green New Deal is a crucial framework\u2026\u201d\n\nSo what is it, Joe? You can\u2019t have it both ways. \n\nComrades Bernie and AOC, and the American people deserve an answer. https://t.co/o4CDirKzu3",
+    "geo": null,
+    "id": 1311156252748242944,
+    "id_str": "1311156252748242944",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 30 03:55:31 +0000 2020",
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tFkop9FiXU",
+            "expanded_url": "https://twitter.com/RichardGrenell/status/1311152669222793216/photo/1",
+            "id": 1311152666001637376,
+            "id_str": "1311152666001637376",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjImZydVgAAPARZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjImZydVgAAPARZ.jpg",
+            "sizes": {
+              "large": {
+                "h": 1624,
+                "resize": "fit",
+                "w": 750
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/tFkop9FiXU"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 939091,
+            "id_str": "939091",
+            "indices": [
+              27,
+              36
+            ],
+            "name": "Joe Biden",
+            "screen_name": "JoeBiden"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              96,
+              112
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/tFkop9FiXU",
+            "expanded_url": "https://twitter.com/RichardGrenell/status/1311152669222793216/photo/1",
+            "id": 1311152666001637376,
+            "id_str": "1311152666001637376",
+            "indices": [
+              123,
+              146
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjImZydVgAAPARZ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjImZydVgAAPARZ.jpg",
+            "sizes": {
+              "large": {
+                "h": 1624,
+                "resize": "fit",
+                "w": 750
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 554
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 314
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/tFkop9FiXU"
+          }
+        ]
+      },
+      "favorite_count": 27077,
+      "favorited": false,
+      "full_text": "The media won\u2019t Fact Check @JoeBiden\u2019s lies. \n\nHis website says he supports the Green New Deal. @realDonaldTrump is right. https://t.co/tFkop9FiXU",
+      "geo": null,
+      "id": 1311152669222793216,
+      "id_str": "1311152669222793216",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 15602,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSDVUR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/richardgrenell",
+                "expanded_url": "https://www.instagram.com/richardgrenell",
+                "indices": [
+                  78,
+                  101
+                ],
+                "url": "https://t.co/danITSDVUR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 24227,
+        "follow_request_sent": false,
+        "followers_count": 640426,
+        "following": false,
+        "friends_count": 2653,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 90480218,
+        "id_str": "90480218",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2771,
+        "location": "LA, Palm Springs (and Berlin)",
+        "name": "Richard Grenell",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1310449412708024321/lA8NfBIi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310449412708024321/lA8NfBIi_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RichardGrenell",
+        "statuses_count": 8051,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1311152669222793216,
+    "quoted_status_id_str": "1311152669222793216",
+    "quoted_status_permalink": {
+      "display": "twitter.com/richardgrenell\u2026",
+      "expanded": "https://twitter.com/richardgrenell/status/1311152669222793216",
+      "url": "https://t.co/o4CDirKzu3"
+    },
+    "retweet_count": 16127,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 15 11:42:17 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Deputy National Press Secretary for @TeamTrump. Former @SenatorTimScott spox. Proud @NCState and @Georgetown alum; prouder first-generation American. Micah 6:8.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 12763,
+      "following": false,
+      "friends_count": 710,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2734241886,
+      "id_str": "2734241886",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 171,
+      "location": "",
+      "name": "Ken Farnaso",
+      "notifications": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2734241886/1601053053",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1311294746619523075/zjTmSfD7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311294746619523075/zjTmSfD7_normal.jpg",
+      "profile_link_color": "2B4F81",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "KLF",
+      "statuses_count": 4478,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86422035,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120126,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56513,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

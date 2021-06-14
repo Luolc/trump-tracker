@@ -1,0 +1,474 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 29 20:16:34 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 166374616,
+        "id_str": "166374616",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "John Bel Edwards",
+        "screen_name": "LouisianaGov"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @LouisianaGov: Brighter days are ahead for Louisiana and by working together with our federal officials, I know we will get through this\u2026",
+  "geo": null,
+  "id": 1255591828117753857,
+  "id_str": "1255591828117753857",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1255571506115022854,
+  "quoted_status_id_str": "1255571506115022854",
+  "quoted_status_permalink": {
+    "display": "twitter.com/whitehouse/sta\u2026",
+    "expanded": "https://twitter.com/whitehouse/status/1255571506115022854",
+    "url": "https://t.co/bXdgmgWXNO"
+  },
+  "retweet_count": 5334,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 29 19:01:02 +0000 2020",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            123,
+            129
+          ],
+          "text": "lagov"
+        },
+        {
+          "indices": [
+            130,
+            137
+          ],
+          "text": "lalege"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/whitehouse/sta\u2026",
+          "expanded_url": "https://twitter.com/whitehouse/status/1255571506115022854",
+          "indices": [
+            138,
+            161
+          ],
+          "url": "https://t.co/bXdgmgWXNO"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 19971,
+    "favorited": false,
+    "full_text": "Brighter days are ahead for Louisiana and by working together with our federal officials, I know we will get through this. #lagov #lalege https://t.co/bXdgmgWXNO",
+    "geo": null,
+    "id": 1255572818898628608,
+    "id_str": "1255572818898628608",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Apr 29 18:55:49 +0000 2020",
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/BGH8Ks1v0G",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1255571506115022854/video/1",
+            "id": 1255571455569469444,
+            "id_str": "1255571455569469444",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1255571455569469444/img/H8B5jdkljzQgzHSj.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1255571455569469444/img/H8B5jdkljzQgzHSj.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/BGH8Ks1v0G"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              10,
+              26
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 166374616,
+            "id_str": "166374616",
+            "indices": [
+              36,
+              49
+            ],
+            "name": "John Bel Edwards",
+            "screen_name": "LouisianaGov"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/BGH8Ks1v0G",
+            "expanded_url": "https://twitter.com/WhiteHouse/status/1255571506115022854/video/1",
+            "id": 1255571455569469444,
+            "id_str": "1255571455569469444",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1255571455569469444/img/H8B5jdkljzQgzHSj.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1255571455569469444/img/H8B5jdkljzQgzHSj.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/BGH8Ks1v0G",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 54220,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1255571455569469444/pl/fY0xQ7wX4b5UvwHO.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1255571455569469444/vid/640x360/iurpq8sIYJQEEnyg.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1255571455569469444/vid/480x270/WUYCRptkqIkQUm5a.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1255571455569469444/vid/1280x720/Bhck3ZJKHlopqc9p.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5503,
+      "favorited": false,
+      "full_text": "President @realDonaldTrump met with @LouisianaGov to discuss testing and plans to reopen Louisiana's economy. https://t.co/BGH8Ks1v0G",
+      "geo": null,
+      "id": 1255571506115022854,
+      "id_str": "1255571506115022854",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1420,
+      "retweeted": false,
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 16,
+        "follow_request_sent": false,
+        "followers_count": 22089435,
+        "following": false,
+        "friends_count": 13,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14756,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1580922287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 17880,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1255571506115022854,
+    "quoted_status_id_str": "1255571506115022854",
+    "quoted_status_permalink": {
+      "display": "twitter.com/whitehouse/sta\u2026",
+      "expanded": "https://twitter.com/whitehouse/status/1255571506115022854",
+      "url": "https://t.co/bXdgmgWXNO"
+    },
+    "retweet_count": 5334,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 14 00:32:49 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "56th Governor of the State of Louisiana.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gov.louisiana.gov",
+              "expanded_url": "http://gov.louisiana.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/rMZvU1zOjy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6574,
+      "follow_request_sent": false,
+      "followers_count": 82941,
+      "following": false,
+      "friends_count": 6009,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 166374616,
+      "id_str": "166374616",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 716,
+      "location": "Louisiana, USA",
+      "name": "John Bel Edwards",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/166374616/1586208735",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/684948311397150721/0u94DBry_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/684948311397150721/0u94DBry_normal.jpg",
+      "profile_link_color": "D99B29",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "LouisianaGov",
+      "statuses_count": 9444,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/rMZvU1zOjy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79202260,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120685,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51150,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

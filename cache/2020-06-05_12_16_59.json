@@ -1,0 +1,314 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 12:16:59 +0000 2020",
+  "display_text_range": [
+    0,
+    93
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/stevedaines/st\u2026",
+        "expanded_url": "https://twitter.com/stevedaines/status/1268189778308001792",
+        "indices": [
+          94,
+          117
+        ],
+        "url": "https://t.co/7iG8SZZ9LZ"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 32224,
+  "favorited": false,
+  "full_text": "True. Steve is a GREAT SENATOR. Need him badly in Washington. Complete and Total Endorsement! https://t.co/7iG8SZZ9LZ",
+  "geo": null,
+  "id": 1268879488223522816,
+  "id_str": "1268879488223522816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 14:36:19 +0000 2020",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/0AUHSw2A88",
+          "expanded_url": "https://twitter.com/SteveDaines/status/1268189778308001792/video/1",
+          "id": 1268189744854208513,
+          "id_str": "1268189744854208513",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268189744854208513/pu/img/E76ei_9vaL4Mu9mm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268189744854208513/pu/img/E76ei_9vaL4Mu9mm.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/0AUHSw2A88"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/0AUHSw2A88",
+          "expanded_url": "https://twitter.com/SteveDaines/status/1268189778308001792/video/1",
+          "id": 1268189744854208513,
+          "id_str": "1268189744854208513",
+          "indices": [
+            145,
+            168
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1268189744854208513/pu/img/E76ei_9vaL4Mu9mm.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1268189744854208513/pu/img/E76ei_9vaL4Mu9mm.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/0AUHSw2A88",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 18352,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1268189744854208513/pu/vid/960x540/zlI4NX4Jwq0iXoZC.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1268189744854208513/pu/vid/480x270/mY4pPweVriDjBxQU.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1268189744854208513/pu/vid/640x360/WaKQlRXvf2xAYlNo.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1268189744854208513/pu/pl/WlCQBtb55ALiemXd.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 879,
+    "favorited": false,
+    "full_text": "Having spent 28 years in the private sector creating jobs, I'll work with @realDonaldTrump to rebuild our economy and get Montana back on track. https://t.co/0AUHSw2A88",
+    "geo": null,
+    "id": 1268189778308001792,
+    "id_str": "1268189778308001792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 285,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 30 05:52:03 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Married 33 years to sweet Cindy. Parents of four. Grandpa to one. Three dogs. Serving the people of Montana in the U.S. Senate. \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 3276,
+      "follow_request_sent": false,
+      "followers_count": 62297,
+      "following": false,
+      "friends_count": 657,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 11651202,
+      "id_str": "11651202",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1429,
+      "location": "Bozeman, MT",
+      "name": "Steve Daines",
+      "notifications": false,
+      "profile_background_color": "88D0F7",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11651202/1495145842",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/922463090935058432/XTchDLbm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/922463090935058432/XTchDLbm_normal.jpg",
+      "profile_link_color": "0B60BA",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SteveDaines",
+      "statuses_count": 6529,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1268189778308001792,
+  "quoted_status_id_str": "1268189778308001792",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stevedaines/st\u2026",
+    "expanded": "https://twitter.com/stevedaines/status/1268189778308001792",
+    "url": "https://t.co/7iG8SZZ9LZ"
+  },
+  "retweet_count": 7959,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

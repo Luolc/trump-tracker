@@ -1,0 +1,512 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 29 02:08:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1159825169843662848,
+        "id_str": "1159825169843662848",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Corky Messner for Senate",
+        "screen_name": "CorkyForSenate"
+      },
+      {
+        "id": 4121225056,
+        "id_str": "4121225056",
+        "indices": [
+          39,
+          53
+        ],
+        "name": "Corey R. Lewandowski",
+        "screen_name": "CLewandowski_"
+      },
+      {
+        "id": 18903194,
+        "id_str": "18903194",
+        "indices": [
+          55,
+          62
+        ],
+        "name": "Matt Mowers",
+        "screen_name": "mowers"
+      },
+      {
+        "id": 1243534646660472832,
+        "id_str": "1243534646660472832",
+        "indices": [
+          72,
+          87
+        ],
+        "name": "NH Trump Victory",
+        "screen_name": "NHTrumpVictory"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CorkyForSenate: So glad to be with @CLewandowski_, @mowers, and the @NHTrumpVictory Team at the Manchester Office Opening \ud83c\udf89 this mornin\u2026",
+  "geo": null,
+  "id": 1277423680872689665,
+  "id_str": "1277423680872689665",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3843,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 27 16:14:00 +0000 2020",
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            246,
+            257
+          ],
+          "text": "nhpolitics"
+        },
+        {
+          "indices": [
+            258,
+            264
+          ],
+          "text": "NHSen"
+        },
+        {
+          "indices": [
+            265,
+            270
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/E0FhE6RAuL",
+          "expanded_url": "https://twitter.com/CorkyForSenate/status/1276911667335610368/photo/1",
+          "id": 1276911657776746503,
+          "id_str": "1276911657776746503",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbiAYytWkAcYpi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbiAYytWkAcYpi5.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/E0FhE6RAuL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 4121225056,
+          "id_str": "4121225056",
+          "indices": [
+            19,
+            33
+          ],
+          "name": "Corey R. Lewandowski",
+          "screen_name": "CLewandowski_"
+        },
+        {
+          "id": 18903194,
+          "id_str": "18903194",
+          "indices": [
+            35,
+            42
+          ],
+          "name": "Matt Mowers",
+          "screen_name": "mowers"
+        },
+        {
+          "id": 1243534646660472832,
+          "id_str": "1243534646660472832",
+          "indices": [
+            52,
+            67
+          ],
+          "name": "NH Trump Victory",
+          "screen_name": "NHTrumpVictory"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            201,
+            217
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/E0FhE6RAuL",
+          "expanded_url": "https://twitter.com/CorkyForSenate/status/1276911667335610368/photo/1",
+          "id": 1276911657776746503,
+          "id_str": "1276911657776746503",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbiAYytWkAcYpi5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbiAYytWkAcYpi5.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/E0FhE6RAuL"
+        },
+        {
+          "display_url": "pic.twitter.com/E0FhE6RAuL",
+          "expanded_url": "https://twitter.com/CorkyForSenate/status/1276911667335610368/photo/1",
+          "id": 1276911657789394945,
+          "id_str": "1276911657789394945",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbiAYywXkAEpjeb.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbiAYywXkAEpjeb.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/E0FhE6RAuL"
+        },
+        {
+          "display_url": "pic.twitter.com/E0FhE6RAuL",
+          "expanded_url": "https://twitter.com/CorkyForSenate/status/1276911667335610368/photo/1",
+          "id": 1276911657785208832,
+          "id_str": "1276911657785208832",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbiAYyvXsAADlO_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbiAYyvXsAADlO_.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/E0FhE6RAuL"
+        },
+        {
+          "display_url": "pic.twitter.com/E0FhE6RAuL",
+          "expanded_url": "https://twitter.com/CorkyForSenate/status/1276911667335610368/photo/1",
+          "id": 1276911657780948993,
+          "id_str": "1276911657780948993",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbiAYyuWsAE0ZVM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbiAYyuWsAE0ZVM.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/E0FhE6RAuL"
+        }
+      ]
+    },
+    "favorite_count": 14555,
+    "favorited": false,
+    "full_text": "So glad to be with @CLewandowski_, @mowers, and the @NHTrumpVictory Team at the Manchester Office Opening \ud83c\udf89 this morning!\n\nThank you to the staff, the volunteers, and all who came out today to support @realDonaldTrump and the N.H. Trump Ticket!\n\n#nhpolitics #NHSen #MAGA https://t.co/E0FhE6RAuL",
+    "geo": null,
+    "id": 1276911667335610368,
+    "id_str": "1276911667335610368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -71.5127219,
+              42.8909187
+            ],
+            [
+              -71.3754393,
+              42.8909187
+            ],
+            [
+              -71.3754393,
+              43.0514794
+            ],
+            [
+              -71.5127219,
+              43.0514794
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Manchester, NH",
+      "id": "5e6cc87c609e3a59",
+      "name": "Manchester",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/5e6cc87c609e3a59.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 3843,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 09 13:54:03 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Entrepreneur. West Point Graduate. Veteran. Conservative.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "CorkyForSenate.com",
+              "expanded_url": "http://www.CorkyForSenate.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fIjL4ZdIuM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 782,
+      "follow_request_sent": false,
+      "followers_count": 4533,
+      "following": false,
+      "friends_count": 3920,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1159825169843662848,
+      "id_str": "1159825169843662848",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 20,
+      "location": "New Hampshire, USA",
+      "name": "Corky Messner for Senate",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1159825169843662848/1579536301",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1272661274510442496/e_Nw8w-__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272661274510442496/e_Nw8w-__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CorkyForSenate",
+      "statuses_count": 1037,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fIjL4ZdIuM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82607699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116064,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53273,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

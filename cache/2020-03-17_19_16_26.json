@@ -1,0 +1,294 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 17 19:16:26 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          87,
+          99
+        ],
+        "text": "coronavirus"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18915145,
+        "id_str": "18915145",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Rob Portman",
+        "screen_name": "senrobportman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @senrobportman: Everyone of us has a critical role to play in slowing the spread of #coronavirus. \n\n\u27a1\ufe0f Wash your hands and practice good\u2026",
+  "geo": null,
+  "id": 1239994016655163392,
+  "id_str": "1239994016655163392",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2907,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 17 17:55:40 +0000 2020",
+    "display_text_range": [
+      0,
+      182
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            68,
+            80
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/16akPSo33E",
+          "expanded_url": "https://twitter.com/senrobportman/status/1239973692743929856/photo/1",
+          "id": 1239973420806230016,
+          "id_str": "1239973420806230016",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETVFQa4U0AA6L1N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETVFQa4U0AA6L1N.jpg",
+          "sizes": {
+            "large": {
+              "h": 1583,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 928,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 526,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16akPSo33E"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/16akPSo33E",
+          "expanded_url": "https://twitter.com/senrobportman/status/1239973692743929856/photo/1",
+          "id": 1239973420806230016,
+          "id_str": "1239973420806230016",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETVFQa4U0AA6L1N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETVFQa4U0AA6L1N.jpg",
+          "sizes": {
+            "large": {
+              "h": 1583,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 928,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 526,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/16akPSo33E"
+        }
+      ]
+    },
+    "favorite_count": 10161,
+    "favorited": false,
+    "full_text": "Everyone of us has a critical role to play in slowing the spread of #coronavirus. \n\n\u27a1\ufe0f Wash your hands and practice good hygiene \n\u27a1\ufe0f Avoid large groups\n\u27a1\ufe0f Stay home when you are sick https://t.co/16akPSo33E",
+    "geo": null,
+    "id": 1239973692743929856,
+    "id_str": "1239973692743929856",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2907,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 12 20:56:42 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the Buckeye State.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "portman.senate.gov",
+              "expanded_url": "http://portman.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IR7Ky4qOaO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 422,
+      "follow_request_sent": false,
+      "followers_count": 148977,
+      "following": false,
+      "friends_count": 5062,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18915145,
+      "id_str": "18915145",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3181,
+      "location": "Ohio",
+      "name": "Rob Portman",
+      "notifications": false,
+      "profile_background_color": "0074DB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18915145/1452004224",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1037435418743107590/9hbhXXal_normal.jpg",
+      "profile_link_color": "106CB7",
+      "profile_sidebar_border_color": "26C905",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "senrobportman",
+      "statuses_count": 17581,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IR7Ky4qOaO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74284645,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49890,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

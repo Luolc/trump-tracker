@@ -1,0 +1,474 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 19 02:46:48 +0000 2020",
+  "display_text_range": [
+    0,
+    53
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 64764487,
+        "id_str": "64764487",
+        "indices": [
+          31,
+          41
+        ],
+        "name": "Honeywell",
+        "screen_name": "honeywell"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: Thank you @Honeywell, great job!",
+  "geo": null,
+  "id": 1251703767067754496,
+  "id_str": "1251703767067754496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1251222267578761222,
+  "quoted_status_id_str": "1251222267578761222",
+  "quoted_status_permalink": {
+    "display": "twitter.com/honeywell/stat\u2026",
+    "expanded": "https://twitter.com/honeywell/status/1251222267578761222",
+    "url": "https://t.co/8MfzxtvDPK"
+  },
+  "retweet_count": 13275,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Apr 18 17:01:32 +0000 2020",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/honeywell/stat\u2026",
+          "expanded_url": "https://twitter.com/honeywell/status/1251222267578761222",
+          "indices": [
+            33,
+            56
+          ],
+          "url": "https://t.co/8MfzxtvDPK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 64764487,
+          "id_str": "64764487",
+          "indices": [
+            10,
+            20
+          ],
+          "name": "Honeywell",
+          "screen_name": "honeywell"
+        }
+      ]
+    },
+    "favorite_count": 53940,
+    "favorited": false,
+    "full_text": "Thank you @Honeywell, great job! https://t.co/8MfzxtvDPK",
+    "geo": null,
+    "id": 1251556482379890688,
+    "id_str": "1251556482379890688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 17 18:53:29 +0000 2020",
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              33,
+              42
+            ],
+            "text": "N95masks"
+          },
+          {
+            "indices": [
+              114,
+              122
+            ],
+            "text": "COVID19"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/7x3YoP06kg",
+            "expanded_url": "https://twitter.com/honeywell/status/1251222267578761222/video/1",
+            "id": 1251218826664062976,
+            "id_str": "1251218826664062976",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251218826664062976/pu/img/lF-uZ3JsF-4cIuYX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251218826664062976/pu/img/lF-uZ3JsF-4cIuYX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/7x3YoP06kg"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "hwll.co/pvhab",
+            "expanded_url": "https://hwll.co/pvhab",
+            "indices": [
+              124,
+              147
+            ],
+            "url": "https://t.co/MOV1CvARO6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/7x3YoP06kg",
+            "expanded_url": "https://twitter.com/honeywell/status/1251222267578761222/video/1",
+            "id": 1251218826664062976,
+            "id_str": "1251218826664062976",
+            "indices": [
+              148,
+              171
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251218826664062976/pu/img/lF-uZ3JsF-4cIuYX.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251218826664062976/pu/img/lF-uZ3JsF-4cIuYX.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/7x3YoP06kg",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 50851,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251218826664062976/pu/vid/640x360/3tm7_S7bifR9qSB-.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251218826664062976/pu/vid/1280x720/ew4O3VpxRy8zGilB.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1251218826664062976/pu/pl/JKOAc0rdaIfd3qQL.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251218826664062976/pu/vid/480x270/7ugsEZG8lFNlN6aa.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 5581,
+      "favorited": false,
+      "full_text": "Made in Rhode Island \u2013 the first #N95masks rolled off the line this week and will be used to combat the spread of #COVID19: https://t.co/MOV1CvARO6 https://t.co/7x3YoP06kg",
+      "geo": null,
+      "id": 1251222267578761222,
+      "id_str": "1251222267578761222",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1637,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Aug 11 16:53:16 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "At #Honeywell, we're transforming the way the world works. #futureshaper",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "honeywell.com",
+                "expanded_url": "http://honeywell.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/vUvlf7oarp"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4237,
+        "follow_request_sent": false,
+        "followers_count": 53393,
+        "following": false,
+        "friends_count": 318,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 64764487,
+        "id_str": "64764487",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 655,
+        "location": "Charlotte, North Carolina",
+        "name": "Honeywell",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64764487/1576504928",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/746373313698603008/pxHBeDZv_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/746373313698603008/pxHBeDZv_normal.jpg",
+        "profile_link_color": "EE3124",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "D6D7D6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "honeywell",
+        "statuses_count": 2860,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/vUvlf7oarp",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1251222267578761222,
+    "quoted_status_id_str": "1251222267578761222",
+    "quoted_status_permalink": {
+      "display": "twitter.com/honeywell/stat\u2026",
+      "expanded": "https://twitter.com/honeywell/status/1251222267578761222",
+      "url": "https://t.co/8MfzxtvDPK"
+    },
+    "retweet_count": 13275,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6,
+      "follow_request_sent": false,
+      "followers_count": 77660651,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 119746,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 50774,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 25 13:04:25 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          73,
+          81
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 15134240,
+        "id_str": "15134240",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "NIH",
+        "screen_name": "NIH"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NIH: Plasma is the liquid part of blood. Ppl who have recovered from #COVID19 may have antibodies (proteins the immune system makes aft\u2026",
+  "geo": null,
+  "id": 1254033523121553410,
+  "id_str": "1254033523121553410",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1433,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Apr 22 17:10:41 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            64,
+            72
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            236,
+            254
+          ],
+          "text": "DonateCOVIDPlasma"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qFMD04VX8e",
+          "expanded_url": "https://twitter.com/NIH/status/1253008335835557889/photo/1",
+          "id": 1253008253555892225,
+          "id_str": "1253008253555892225",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWOUXi3U4AE-PAV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWOUXi3U4AE-PAV.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qFMD04VX8e"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/3cF4Pss",
+          "expanded_url": "https://bit.ly/3cF4Pss",
+          "indices": [
+            255,
+            278
+          ],
+          "url": "https://t.co/dRx0J85W8u"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/qFMD04VX8e",
+          "expanded_url": "https://twitter.com/NIH/status/1253008335835557889/photo/1",
+          "id": 1253008253555892225,
+          "id_str": "1253008253555892225",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/media/EWOUXi3U4AE-PAV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EWOUXi3U4AE-PAV.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/qFMD04VX8e"
+        }
+      ]
+    },
+    "favorite_count": 2982,
+    "favorited": false,
+    "full_text": "Plasma is the liquid part of blood. Ppl who have recovered from #COVID19 may have antibodies (proteins the immune system makes after infection) in their plasma. If you\u2019ve recovered from COVID-19, consider donating plasma to help others #DonateCOVIDPlasma https://t.co/dRx0J85W8u https://t.co/qFMD04VX8e",
+    "geo": null,
+    "id": 1253008335835557889,
+    "id_str": "1253008335835557889",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1433,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jun 16 13:57:45 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the National Institutes of Health. NIH...Turning Discovery Into Health \u00ae. Visit:\u00a0https://t.co/Sq1H7rBx8m\u00a0Privacy Policy:\u00a0https://t.co/0BX8tXlORG",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nih.gov",
+              "expanded_url": "http://www.nih.gov",
+              "indices": [
+                109,
+                132
+              ],
+              "url": "https://t.co/Sq1H7rBx8m"
+            },
+            {
+              "display_url": "go.usa.gov/x9svN",
+              "expanded_url": "http://go.usa.gov/x9svN",
+              "indices": [
+                149,
+                172
+              ],
+              "url": "https://t.co/0BX8tXlORG"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nih.gov",
+              "expanded_url": "http://www.nih.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lxbTso1Zyy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1644,
+      "follow_request_sent": false,
+      "followers_count": 1151709,
+      "following": false,
+      "friends_count": 274,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15134240,
+      "id_str": "15134240",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 11333,
+      "location": "Bethesda, Maryland, USA",
+      "name": "NIH",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15134240/1557851664",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3443048571/ef5062acfce64a7aef1d75b4934fbee6_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3443048571/ef5062acfce64a7aef1d75b4934fbee6_normal.png",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "NIH",
+      "statuses_count": 13048,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lxbTso1Zyy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 78473717,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120194,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50945,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

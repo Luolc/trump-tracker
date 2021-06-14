@@ -1,0 +1,450 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 16 10:39:53 +0000 2020",
+  "display_text_range": [
+    0,
+    101
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17800215,
+        "id_str": "17800215",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Chaffetz",
+        "screen_name": "jasoninthehouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jasoninthehouse: Great interview.  I wonder who did an unmasking the morning of the inauguration?",
+  "geo": null,
+  "id": 1261607296783745024,
+  "id_str": "1261607296783745024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1260923124490670081,
+  "quoted_status_id_str": "1260923124490670081",
+  "quoted_status_permalink": {
+    "display": "twitter.com/americanewsroo\u2026",
+    "expanded": "https://twitter.com/americanewsroom/status/1260923124490670081",
+    "url": "https://t.co/b1TiO1DXMC"
+  },
+  "retweet_count": 3079,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 14:57:24 +0000 2020",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/americanewsroo\u2026",
+          "expanded_url": "https://twitter.com/americanewsroom/status/1260923124490670081",
+          "indices": [
+            81,
+            104
+          ],
+          "url": "https://t.co/b1TiO1DXMC"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9224,
+    "favorited": false,
+    "full_text": "Great interview.  I wonder who did an unmasking the morning of the inauguration? https://t.co/b1TiO1DXMC",
+    "geo": null,
+    "id": 1260947325645512706,
+    "id_str": "1260947325645512706",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu May 14 13:21:14 +0000 2020",
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              212,
+              222
+            ],
+            "text": "nine2noon"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zQoVcYO7tn",
+            "expanded_url": "https://twitter.com/AmericaNewsroom/status/1260923124490670081/video/1",
+            "id": 1260922892856025089,
+            "id_str": "1260922892856025089",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1260922892856025089/img/QzXRJ1Lk4IoGlLYL.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1260922892856025089/img/QzXRJ1Lk4IoGlLYL.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zQoVcYO7tn"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 237348797,
+            "id_str": "237348797",
+            "indices": [
+              7,
+              16
+            ],
+            "name": "Trey Gowdy",
+            "screen_name": "TGowdySC"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/zQoVcYO7tn",
+            "expanded_url": "https://twitter.com/AmericaNewsroom/status/1260923124490670081/video/1",
+            "id": 1260922892856025089,
+            "id_str": "1260922892856025089",
+            "indices": [
+              223,
+              246
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1260922892856025089/img/QzXRJ1Lk4IoGlLYL.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1260922892856025089/img/QzXRJ1Lk4IoGlLYL.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/zQoVcYO7tn",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 212613,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1260922892856025089/vid/480x270/uVarCzAgFNBJCjuK.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1260922892856025089/vid/1280x720/S1d6mHO6dQXYR-Bg.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1260922892856025089/pl/pD3G9CT_b1N5SA9a.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1260922892856025089/vid/640x360/c9sKQkejuK-Qmxxy.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 1959,
+      "favorited": false,
+      "full_text": "WATCH: @TGowdySC reacts after the list of officials, including former VP Joe Biden and former FBI director James Comey, who requested the 'unmasking' of former national security adviser Michael Flynn is released #nine2noon https://t.co/zQoVcYO7tn",
+      "geo": null,
+      "id": 1260923124490670081,
+      "id_str": "1260923124490670081",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 722,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 07 17:52:42 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Live on the FOX News Channel Every Weekday From 9-NOON EST! #AmericasNewsroom",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxnews.com/americasnewsro\u2026",
+                "expanded_url": "http://www.foxnews.com/americasnewsroom",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/TiDPxgo9pq"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1251,
+        "follow_request_sent": false,
+        "followers_count": 102411,
+        "following": false,
+        "friends_count": 358,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 312800783,
+        "id_str": "312800783",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 750,
+        "location": "New York, NY",
+        "name": "America's Newsroom",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/312800783/1579518480",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006539417295687681/CztfMnUb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006539417295687681/CztfMnUb_normal.jpg",
+        "profile_link_color": "043D95",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AmericaNewsroom",
+        "statuses_count": 34551,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/TiDPxgo9pq",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1260923124490670081,
+    "quoted_status_id_str": "1260923124490670081",
+    "quoted_status_permalink": {
+      "display": "twitter.com/americanewsroo\u2026",
+      "expanded": "https://twitter.com/americanewsroom/status/1260923124490670081",
+      "url": "https://t.co/b1TiO1DXMC"
+    },
+    "retweet_count": 3079,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 02 04:59:53 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Fox News Contributor. Author of Power Grab & The Deep State. Fmr. Chairman, Oversight & Gov't Reform U.S. House of Reps. Husband, Father, Grandfather, Brother.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JasonInTheHouse.com",
+              "expanded_url": "http://www.JasonInTheHouse.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4MqK5mQm5w"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2050,
+      "follow_request_sent": false,
+      "followers_count": 569090,
+      "following": false,
+      "friends_count": 1485,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17800215,
+      "id_str": "17800215",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3822,
+      "location": "Utah, USA",
+      "name": "Jason Chaffetz",
+      "notifications": false,
+      "profile_background_color": "2513AD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17800215/1586922996",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_link_color": "0D0DA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jasoninthehouse",
+      "statuses_count": 12033,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4MqK5mQm5w",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

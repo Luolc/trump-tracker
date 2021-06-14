@@ -1,0 +1,515 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 10 04:45:42 +0000 2020",
+  "display_text_range": [
+    0,
+    117
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 534023,
+        "id_str": "534023",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "alx"
+      },
+      {
+        "id": 138182116,
+        "id_str": "138182116",
+        "indices": [
+          10,
+          22
+        ],
+        "name": "Trish Regan",
+        "screen_name": "trish_regan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alx: .@trish_regan didn\u2019t say Coronavirus is a scam.. she\u2019s talking about how Democrats are blaming Trump for it.",
+  "geo": null,
+  "id": 1237238176147812353,
+  "id_str": "1237238176147812353",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1237216338936029184,
+  "quoted_status_id_str": "1237216338936029184",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Breaking911/st\u2026",
+    "expanded": "https://twitter.com/Breaking911/status/1237216338936029184",
+    "url": "https://t.co/74SYVAOx7a"
+  },
+  "retweet_count": 9292,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 10 03:23:12 +0000 2020",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Breaking911/st\u2026",
+          "expanded_url": "https://twitter.com/Breaking911/status/1237216338936029184",
+          "indices": [
+            109,
+            132
+          ],
+          "url": "https://t.co/74SYVAOx7a"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 138182116,
+          "id_str": "138182116",
+          "indices": [
+            1,
+            13
+          ],
+          "name": "Trish Regan",
+          "screen_name": "trish_regan"
+        }
+      ]
+    },
+    "favorite_count": 28883,
+    "favorited": false,
+    "full_text": ".@trish_regan didn\u2019t say Coronavirus is a scam.. she\u2019s talking about how Democrats are blaming Trump for it. https://t.co/74SYVAOx7a",
+    "geo": null,
+    "id": 1237217412296163328,
+    "id_str": "1237217412296163328",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Mar 10 03:18:56 +0000 2020",
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/YhP4hASDVW",
+            "expanded_url": "https://twitter.com/ndrew_lawrence/status/1237174846355841024/video/1",
+            "id": 1237174784473157632,
+            "id_str": "1237174784473157632",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237174784473157632/pu/img/2hZTdbKuAQdD5g9F.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237174784473157632/pu/img/2hZTdbKuAQdD5g9F.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1237174846355841024,
+            "source_status_id_str": "1237174846355841024",
+            "source_user_id": 1228462620,
+            "source_user_id_str": "1228462620",
+            "type": "photo",
+            "url": "https://t.co/YhP4hASDVW"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Feb 28 22:06:12 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Deputy Director of Rapid Response @mmfa but views here are my own - 99% of RTs are endorsements",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 98408,
+                "follow_request_sent": false,
+                "followers_count": 38792,
+                "following": false,
+                "friends_count": 3633,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1228462620,
+                "id_str": "1228462620",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 633,
+                "location": "",
+                "name": "Andrew Lawrence",
+                "notifications": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228462620/1493957830",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1212827185616183298/rEXWFQlW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212827185616183298/rEXWFQlW_normal.jpg",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "ndrew_lawrence",
+                "statuses_count": 47135,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/YhP4hASDVW",
+            "expanded_url": "https://twitter.com/ndrew_lawrence/status/1237174846355841024/video/1",
+            "id": 1237174784473157632,
+            "id_str": "1237174784473157632",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1237174784473157632/pu/img/2hZTdbKuAQdD5g9F.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1237174784473157632/pu/img/2hZTdbKuAQdD5g9F.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1237174846355841024,
+            "source_status_id_str": "1237174846355841024",
+            "source_user_id": 1228462620,
+            "source_user_id_str": "1228462620",
+            "type": "video",
+            "url": "https://t.co/YhP4hASDVW",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 122422,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1237174784473157632/pu/vid/1280x720/ji5E9z9F15p0-OAF.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1237174784473157632/pu/vid/480x270/Vehy-KevzEwcOUCX.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1237174784473157632/pu/vid/640x360/XNRpE_jv-9kuSDFX.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1237174784473157632/pu/pl/a1bgvayZwjnArr2X.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 12717,
+      "favorited": false,
+      "full_text": "Fox Business\u2019 Trish Regan says coronavirus is a \u201cscam\u201d to \u201cimpeach the President\u201d\n\n https://t.co/YhP4hASDVW",
+      "geo": null,
+      "id": 1237216338936029184,
+      "id_str": "1237216338936029184",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5358,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 16:36:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news in live time for over 8 years. Now 460K strong! Turn on notifications & visit https://t.co/RWBI1f2gDw to stay updated",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  92,
+                  115
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 469734,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 375721095,
+        "id_str": "375721095",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5346,
+        "location": "Nashville",
+        "name": "Breaking911",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375721095/1496844300",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Breaking911",
+        "statuses_count": 636,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RWBI1f2gDw",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1237216338936029184,
+    "quoted_status_id_str": "1237216338936029184",
+    "quoted_status_permalink": {
+      "display": "twitter.com/Breaking911/st\u2026",
+      "expanded": "https://twitter.com/Breaking911/status/1237216338936029184",
+      "url": "https://t.co/74SYVAOx7a"
+    },
+    "retweet_count": 9292,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 04 12:21:45 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u2022 @TPUSA Production Administrator \u2022 Patriot \ud83c\uddfa\ud83c\uddf8 \u2022 Catholic \u271e \u2022 Independent Trump Supporter \u2022",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "TPUSA.com",
+              "expanded_url": "http://TPUSA.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/f0dZUlKkcI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 34126,
+      "follow_request_sent": false,
+      "followers_count": 63645,
+      "following": false,
+      "friends_count": 1111,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 534023,
+      "id_str": "534023",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 295,
+      "location": "\ud835\ude4a\ud835\ude49\ud835\ude47\ud835\ude44\ud835\ude49\ud835\ude40",
+      "name": "ALX \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/534023/1550719871",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1201035827360518144/ixLwJH9d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1201035827360518144/ixLwJH9d_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "alx",
+      "statuses_count": 22565,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/f0dZUlKkcI",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73848461,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

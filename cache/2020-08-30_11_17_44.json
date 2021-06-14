@@ -1,0 +1,364 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 11:17:44 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1362368612,
+        "id_str": "1362368612",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Max Abrahms",
+        "screen_name": "MaxAbrahms"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MaxAbrahms: Don\u2019t forget how the media said during last election that ISIS wanted Trump to win &amp; would strengthen if he became presiden\u2026",
+  "geo": null,
+  "id": 1300029933301960704,
+  "id_str": "1300029933301960704",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1299481521561251840,
+  "quoted_status_id_str": "1299481521561251840",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jseldin/status\u2026",
+    "expanded": "https://twitter.com/jseldin/status/1299481521561251840",
+    "url": "https://t.co/922fXV9cgr"
+  },
+  "retweet_count": 2562,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 29 04:35:49 +0000 2020",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jseldin/status\u2026",
+          "expanded_url": "https://twitter.com/jseldin/status/1299481521561251840",
+          "indices": [
+            151,
+            174
+          ],
+          "url": "https://t.co/922fXV9cgr"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 8572,
+    "favorited": false,
+    "full_text": "Don\u2019t forget how the media said during last election that ISIS wanted Trump to win &amp; would strengthen if he became president \u2014 both totally wrong. https://t.co/922fXV9cgr",
+    "geo": null,
+    "id": 1299566402865635328,
+    "id_str": "1299566402865635328",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Aug 28 22:58:32 +0000 2020",
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              68,
+              73
+            ],
+            "text": "Iraq"
+          },
+          {
+            "indices": [
+              139,
+              144
+            ],
+            "text": "ISIS"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 3108351,
+            "id_str": "3108351",
+            "indices": [
+              17,
+              21
+            ],
+            "name": "The Wall Street Journal",
+            "screen_name": "WSJ"
+          },
+          {
+            "id": 66369181,
+            "id_str": "66369181",
+            "indices": [
+              197,
+              211
+            ],
+            "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+            "screen_name": "DeptofDefense"
+          }
+        ]
+      },
+      "favorite_count": 264,
+      "favorited": false,
+      "full_text": "NEW: Pentagon on @WSJ report US is pulling almost 2,000 troops from #Iraq\n\n\u201cWe are reducing troop levels as the Iraqi capability to defeat #ISIS remnants &amp; prevent its resurgence improves\" per @DeptofDefense spokesperson Cmdr Jessica McNulty",
+      "geo": null,
+      "id": 1299481521561251840,
+      "id_str": "1299481521561251840",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 140,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri May 18 12:00:44 +0000 2012",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "National Security Correspondent at Voice of America\n\n(RTs \u2260 endorsement)\n\nEmail: jseldin@voanews.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "voanews.com",
+                "expanded_url": "http://www.voanews.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/s5qkopg6s3"
+              }
+            ]
+          }
+        },
+        "favourites_count": 153,
+        "follow_request_sent": false,
+        "followers_count": 14105,
+        "following": false,
+        "friends_count": 1534,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 583821006,
+        "id_str": "583821006",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 415,
+        "location": "Washington, DC",
+        "name": "Jeff Seldin",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/583821006/1435697179",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/472452414671306752/Xf65ls0e_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/472452414671306752/Xf65ls0e_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jseldin",
+        "statuses_count": 41178,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/s5qkopg6s3",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1299481521561251840,
+    "quoted_status_id_str": "1299481521561251840",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jseldin/status\u2026",
+      "expanded": "https://twitter.com/jseldin/status/1299481521561251840",
+      "url": "https://t.co/922fXV9cgr"
+    },
+    "retweet_count": 2562,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Apr 18 16:37:37 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "International security prof, fellow @QuincyInst, author of book on terrorist leaders: https://t.co/XvLf2Evcr8. Lucky husband to @karlula.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "tinyurl.com/ybhkh9k3",
+              "expanded_url": "http://tinyurl.com/ybhkh9k3",
+              "indices": [
+                86,
+                109
+              ],
+              "url": "https://t.co/XvLf2Evcr8"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rulesforrebels.info/bio/",
+              "expanded_url": "https://rulesforrebels.info/bio/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/akx2lpICPn"
+            }
+          ]
+        }
+      },
+      "favourites_count": 128747,
+      "follow_request_sent": false,
+      "followers_count": 49460,
+      "following": false,
+      "friends_count": 2261,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1362368612,
+      "id_str": "1362368612",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1228,
+      "location": "Boston, MA",
+      "name": "Max Abrahms",
+      "notifications": false,
+      "profile_background_color": "11B05B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362368612/1573667471",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1040342233285832704/Jr8toNuv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1040342233285832704/Jr8toNuv_normal.jpg",
+      "profile_link_color": "03B5A2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "MaxAbrahms",
+      "statuses_count": 48454,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/akx2lpICPn",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

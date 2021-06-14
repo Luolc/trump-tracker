@@ -1,0 +1,299 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Oct 25 22:21:44 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4121225056,
+        "id_str": "4121225056",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Corey R. Lewandowski",
+        "screen_name": "CLewandowski_"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          33,
+          49
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @CLewandowski_: In Maine with @realdonaldtrump at an \u201cOff The Record\u201d stop where he was greeted by over 4,000 people.  Where\u2019s Sleepy Jo\u2026",
+  "geo": null,
+  "id": 1320490757241872390,
+  "id_str": "1320490757241872390",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9212,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 19:50:27 +0000 2020",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mdyvMh2uPR",
+          "expanded_url": "https://twitter.com/CLewandowski_/status/1320452686194593792/photo/1",
+          "id": 1320452480422055944,
+          "id_str": "1320452480422055944",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElMwiO5XEAgIRKF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElMwiO5XEAgIRKF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mdyvMh2uPR"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            14,
+            30
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/mdyvMh2uPR",
+          "expanded_url": "https://twitter.com/CLewandowski_/status/1320452686194593792/photo/1",
+          "id": 1320452480422055944,
+          "id_str": "1320452480422055944",
+          "indices": [
+            123,
+            146
+          ],
+          "media_url": "http://pbs.twimg.com/media/ElMwiO5XEAgIRKF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ElMwiO5XEAgIRKF.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/mdyvMh2uPR"
+        }
+      ]
+    },
+    "favorite_count": 32673,
+    "favorited": false,
+    "full_text": "In Maine with @realdonaldtrump at an \u201cOff The Record\u201d stop where he was greeted by over 4,000 people.  Where\u2019s Sleepy Joe? https://t.co/mdyvMh2uPR",
+    "geo": null,
+    "id": 1320452686194593792,
+    "id_str": "1320452686194593792",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9212,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Nov 05 18:19:17 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Dad of 4, Senior Advisor Trump/Pence 2020, Campaign Manager Donald J. Trump for President 2016, 2X NYTimes Best Selling Author. NEW BOOK: Trump America First",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "roughrider.media",
+              "expanded_url": "http://www.roughrider.media",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DKEEYIPuND"
+            }
+          ]
+        }
+      },
+      "favourites_count": 368,
+      "follow_request_sent": false,
+      "followers_count": 596679,
+      "following": false,
+      "friends_count": 49,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 4121225056,
+      "id_str": "4121225056",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2415,
+      "location": "Washington, DC",
+      "name": "Corey R. Lewandowski",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4121225056/1525173964",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1164917635118747648/CWr4Ws2J_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1164917635118747648/CWr4Ws2J_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "CLewandowski_",
+      "statuses_count": 3202,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DKEEYIPuND",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87365082,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121703,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57599,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

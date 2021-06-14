@@ -1,0 +1,578 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 17 01:31:50 +0000 2020",
+  "display_text_range": [
+    0,
+    110
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/6eH36UPsL4",
+        "expanded_url": "https://twitter.com/TheSharpEdge1/status/1294662170483933185/video/1",
+        "id": 1294661992460857345,
+        "id_str": "1294661992460857345",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+        "sizes": {
+          "large": {
+            "h": 510,
+            "resize": "fit",
+            "w": 916
+          },
+          "medium": {
+            "h": 510,
+            "resize": "fit",
+            "w": 916
+          },
+          "small": {
+            "h": 379,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294662170483933185,
+        "source_status_id_str": "1294662170483933185",
+        "source_user_id": 952758329301807104,
+        "source_user_id_str": "952758329301807104",
+        "type": "photo",
+        "url": "https://t.co/6eH36UPsL4"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39349894,
+        "id_str": "39349894",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Eric Trump",
+        "screen_name": "EricTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          16,
+          32
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Jan 15 04:24:21 +0000 2018",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "For we wrestle not against flesh & blood but against principalities against powers against rulers of darkness of this world. Married-Christian-MAGA",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "youtube.com/channel/UCTufd\u2026",
+                    "expanded_url": "http://www.youtube.com/channel/UCTufdZpLym57Q9TZm_l1KdA",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/shu9oIahaS"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 86929,
+            "follow_request_sent": false,
+            "followers_count": 100838,
+            "following": false,
+            "friends_count": 837,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 952758329301807104,
+            "id_str": "952758329301807104",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 378,
+            "location": "United States",
+            "name": "TheSharpEdge",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/952758329301807104/1543369113",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1231953658088026112/BdB2CfqO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231953658088026112/BdB2CfqO_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TheSharpEdge1",
+            "statuses_count": 37858,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/shu9oIahaS",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/6eH36UPsL4",
+        "expanded_url": "https://twitter.com/TheSharpEdge1/status/1294662170483933185/video/1",
+        "id": 1294661992460857345,
+        "id_str": "1294661992460857345",
+        "indices": [
+          87,
+          110
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+        "sizes": {
+          "large": {
+            "h": 510,
+            "resize": "fit",
+            "w": 916
+          },
+          "medium": {
+            "h": 510,
+            "resize": "fit",
+            "w": 916
+          },
+          "small": {
+            "h": 379,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1294662170483933185,
+        "source_status_id_str": "1294662170483933185",
+        "source_user_id": 952758329301807104,
+        "source_user_id_str": "952758329301807104",
+        "type": "video",
+        "url": "https://t.co/6eH36UPsL4",
+        "video_info": {
+          "aspect_ratio": [
+            458,
+            255
+          ],
+          "duration_millis": 92000,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/pl/f12TKha_ylY6xM1V.m3u8?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/916x510/9Jiexn0CdZFgP5Z_.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/484x270/jz8N8BzI2tVtPp5N.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/646x360/YspLH0pYjcpyprsU.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @EricTrump: .@realDonaldTrump Boat Parade today in Clearwater, Florida!!!!!\n\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/6eH36UPsL4",
+  "geo": null,
+  "id": 1295171444629032960,
+  "id_str": "1295171444629032960",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 24357,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 16 01:23:43 +0000 2020",
+    "display_text_range": [
+      0,
+      95
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/6eH36UPsL4",
+          "expanded_url": "https://twitter.com/TheSharpEdge1/status/1294662170483933185/video/1",
+          "id": 1294661992460857345,
+          "id_str": "1294661992460857345",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+          "sizes": {
+            "large": {
+              "h": 510,
+              "resize": "fit",
+              "w": 916
+            },
+            "medium": {
+              "h": 510,
+              "resize": "fit",
+              "w": 916
+            },
+            "small": {
+              "h": 379,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1294662170483933185,
+          "source_status_id_str": "1294662170483933185",
+          "source_user_id": 952758329301807104,
+          "source_user_id_str": "952758329301807104",
+          "type": "photo",
+          "url": "https://t.co/6eH36UPsL4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jan 15 04:24:21 +0000 2018",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "For we wrestle not against flesh & blood but against principalities against powers against rulers of darkness of this world. Married-Christian-MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "youtube.com/channel/UCTufd\u2026",
+                      "expanded_url": "http://www.youtube.com/channel/UCTufdZpLym57Q9TZm_l1KdA",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/shu9oIahaS"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 86929,
+              "follow_request_sent": false,
+              "followers_count": 100838,
+              "following": false,
+              "friends_count": 837,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 952758329301807104,
+              "id_str": "952758329301807104",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 378,
+              "location": "United States",
+              "name": "TheSharpEdge",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/952758329301807104/1543369113",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1231953658088026112/BdB2CfqO_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231953658088026112/BdB2CfqO_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "TheSharpEdge1",
+              "statuses_count": 37858,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/shu9oIahaS",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/6eH36UPsL4",
+          "expanded_url": "https://twitter.com/TheSharpEdge1/status/1294662170483933185/video/1",
+          "id": 1294661992460857345,
+          "id_str": "1294661992460857345",
+          "indices": [
+            72,
+            95
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1294661992460857345/pu/img/9XBf9nKn27iUWMzB.jpg",
+          "sizes": {
+            "large": {
+              "h": 510,
+              "resize": "fit",
+              "w": 916
+            },
+            "medium": {
+              "h": 510,
+              "resize": "fit",
+              "w": 916
+            },
+            "small": {
+              "h": 379,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1294662170483933185,
+          "source_status_id_str": "1294662170483933185",
+          "source_user_id": 952758329301807104,
+          "source_user_id_str": "952758329301807104",
+          "type": "video",
+          "url": "https://t.co/6eH36UPsL4",
+          "video_info": {
+            "aspect_ratio": [
+              458,
+              255
+            ],
+            "duration_millis": 92000,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/pl/f12TKha_ylY6xM1V.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/916x510/9Jiexn0CdZFgP5Z_.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/484x270/jz8N8BzI2tVtPp5N.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1294661992460857345/pu/vid/646x360/YspLH0pYjcpyprsU.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 102134,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump Boat Parade today in Clearwater, Florida!!!!!\n\n\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/6eH36UPsL4",
+    "geo": null,
+    "id": 1294807015026503681,
+    "id_str": "1294807015026503681",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 24357,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:42:30 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Trump.com",
+              "expanded_url": "http://www.Trump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/uwwNiWPLLr"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12233,
+      "follow_request_sent": false,
+      "followers_count": 3943207,
+      "following": false,
+      "friends_count": 965,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 39349894,
+      "id_str": "39349894",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 7356,
+      "location": "",
+      "name": "Eric Trump",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+      "profile_link_color": "116AB8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "616161",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "EricTrump",
+      "statuses_count": 6470,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/uwwNiWPLLr",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85276011,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118174,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54643,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

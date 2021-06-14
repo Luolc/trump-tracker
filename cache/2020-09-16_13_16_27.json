@@ -1,0 +1,291 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 16 13:16:27 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 283386225,
+        "id_str": "283386225",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ofir Gendelman",
+        "screen_name": "ofirgendelman"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ofirgendelman: Such a beautiful message of peace: The walls of the Old City in Jerusalem were lit tonight with the Israeli, American, E\u2026",
+  "geo": null,
+  "id": 1306220402897752064,
+  "id_str": "1306220402897752064",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 20260,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 15 18:22:30 +0000 2020",
+    "display_text_range": [
+      0,
+      175
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/7gc10JO4XV",
+          "expanded_url": "https://twitter.com/ofirgendelman/status/1305935037200773121/video/1",
+          "id": 1305934975641018375,
+          "id_str": "1305934975641018375",
+          "indices": [
+            176,
+            199
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305934975641018375/pu/img/N25nT51Dk1BOraJg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305934975641018375/pu/img/N25nT51Dk1BOraJg.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/7gc10JO4XV"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/7gc10JO4XV",
+          "expanded_url": "https://twitter.com/ofirgendelman/status/1305935037200773121/video/1",
+          "id": 1305934975641018375,
+          "id_str": "1305934975641018375",
+          "indices": [
+            176,
+            199
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305934975641018375/pu/img/N25nT51Dk1BOraJg.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305934975641018375/pu/img/N25nT51Dk1BOraJg.jpg",
+          "sizes": {
+            "large": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/7gc10JO4XV",
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              11
+            ],
+            "duration_millis": 37571,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305934975641018375/pu/vid/490x270/b5LUahq3T_u2fL_o.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1305934975641018375/pu/pl/AxQgEeTG68pnzOuy.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1305934975641018375/pu/vid/640x352/ufVVBJ6bOFuzy3BM.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 53848,
+    "favorited": false,
+    "full_text": "Such a beautiful message of peace: The walls of the Old City in Jerusalem were lit tonight with the Israeli, American, Emirati and Bahraini flags.\n\nThis is the wind of change. https://t.co/7gc10JO4XV",
+    "geo": null,
+    "id": 1305935037200773121,
+    "id_str": "1305935037200773121",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20260,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Apr 17 05:42:38 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u200f\u200fPrime Minister Netanyahu's spokesperson to the Arab media \u0623\u0648\u0641\u064a\u0631 \u062c\u0646\u062f\u0644\u0645\u0627\u0646, \u0627\u0644\u0645\u062a\u062d\u062f\u062b \u0628\u0627\u0633\u0645 \u0631\u0626\u064a\u0633 \u0627\u0644\u0648\u0632\u0631\u0627\u0621 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0644\u0644\u0625\u0639\u0644\u0627\u0645 \u0627\u0644\u0639\u0631\u0628\u064a \ud83c\uddee\ud83c\uddf1",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 437,
+      "follow_request_sent": false,
+      "followers_count": 90699,
+      "following": false,
+      "friends_count": 824,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 283386225,
+      "id_str": "283386225",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 841,
+      "location": "Jerusalem, Israel",
+      "name": "Ofir Gendelman",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/283386225/1460971723",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/581495296057716736/BxeyDJ_o_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/581495296057716736/BxeyDJ_o_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ofirgendelman",
+      "statuses_count": 43164,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86042865,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119683,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600202078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56013,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

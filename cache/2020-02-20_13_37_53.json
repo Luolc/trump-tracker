@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Feb 20 13:37:53 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          39,
+          55
+        ],
+        "text": "StateOfTheUnion"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          73,
+          89
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: The contrast at the #StateOfTheUnion will be clear:\n \n@realDonaldTrump has a booming economy, countless successes like #\u2026",
+  "geo": null,
+  "id": 1230486736314044421,
+  "id_str": "1230486736314044421",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6096,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 14:55:41 +0000 2020",
+    "display_text_range": [
+      0,
+      242
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            20,
+            36
+          ],
+          "text": "StateOfTheUnion"
+        },
+        {
+          "indices": [
+            119,
+            125
+          ],
+          "text": "USMCA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/OOos243v9b",
+          "expanded_url": "https://twitter.com/GOPChairwoman/status/1224708108984967170/video/1",
+          "id": 1224708011240890369,
+          "id_str": "1224708011240890369",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224708011240890369/pu/img/vvUcQZ_BHy-D44a_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224708011240890369/pu/img/vvUcQZ_BHy-D44a_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/OOos243v9b"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            54,
+            70
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/OOos243v9b",
+          "expanded_url": "https://twitter.com/GOPChairwoman/status/1224708108984967170/video/1",
+          "id": 1224708011240890369,
+          "id_str": "1224708011240890369",
+          "indices": [
+            243,
+            266
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224708011240890369/pu/img/vvUcQZ_BHy-D44a_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224708011240890369/pu/img/vvUcQZ_BHy-D44a_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/OOos243v9b",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 37801,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224708011240890369/pu/vid/640x360/vaW0T6xF32A5O2zJ.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224708011240890369/pu/vid/1280x720/OxQgICIsFG76I2fw.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224708011240890369/pu/vid/480x270/nBsIJGVQL-d6ueLz.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1224708011240890369/pu/pl/Dvrhg6N352i8kFjI.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 18772,
+    "favorited": false,
+    "full_text": "The contrast at the #StateOfTheUnion will be clear:\n \n@realDonaldTrump has a booming economy, countless successes like #USMCA and Phase 1 trade deal with China.\n\nDemocrats will look petty because all they have done is obstruct from the start. https://t.co/OOos243v9b",
+    "geo": null,
+    "id": 1224708108984967170,
+    "id_str": "1224708108984967170",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6096,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6650,
+      "follow_request_sent": false,
+      "followers_count": 508348,
+      "following": false,
+      "friends_count": 2595,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2400,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 13270,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 72764530,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114926,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49176,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

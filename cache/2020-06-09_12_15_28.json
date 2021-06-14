@@ -1,0 +1,439 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 12:15:28 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 7270292,
+        "id_str": "7270292",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Sen. Jim Inhofe",
+        "screen_name": "JimInhofe"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JimInhofe: This is great news! The economy is coming back with 2.5 million new jobs in May. The Republican economic plan is working and\u2026",
+  "geo": null,
+  "id": 1270328660298473476,
+  "id_str": "1270328660298473476",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1268949555522998273,
+  "quoted_status_id_str": "1268949555522998273",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SenateGOP/stat\u2026",
+    "expanded": "https://twitter.com/SenateGOP/status/1268949555522998273",
+    "url": "https://t.co/SdA8Orb32l"
+  },
+  "retweet_count": 4758,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jun 06 16:00:00 +0000 2020",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            167,
+            175
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SenateGOP/stat\u2026",
+          "expanded_url": "https://twitter.com/SenateGOP/status/1268949555522998273",
+          "indices": [
+            184,
+            207
+          ],
+          "url": "https://t.co/SdA8Orb32l"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18876,
+    "favorited": false,
+    "full_text": "This is great news! The economy is coming back with 2.5 million new jobs in May. The Republican economic plan is working and it's saving jobs and families during this #COVID19 crisis. https://t.co/SdA8Orb32l",
+    "geo": null,
+    "id": 1269298001291309056,
+    "id_str": "1269298001291309056",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jun 05 16:55:24 +0000 2020",
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/o2pLkjczdd",
+            "expanded_url": "https://twitter.com/SenateGOP/status/1268949555522998273/video/1",
+            "id": 1268945659203325952,
+            "id_str": "1268945659203325952",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZwzjypXYAApEbA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZwzjypXYAApEbA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/o2pLkjczdd"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "The economy is coming back with 2.5 million new jobs in May.",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "America. ALL IN."
+            },
+            "display_url": "pic.twitter.com/o2pLkjczdd",
+            "expanded_url": "https://twitter.com/SenateGOP/status/1268949555522998273/video/1",
+            "id": 1268945659203325952,
+            "id_str": "1268945659203325952",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/EZwzjypXYAApEbA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EZwzjypXYAApEbA.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/o2pLkjczdd",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 53887,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268945659203325952/vid/480x270/3X4UzVWod0FxPzVx.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1268945659203325952/pl/SdOombk7xCvTCtGK.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268945659203325952/vid/1280x720/YQ_TOKhB8L7Ge-jn.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1268945659203325952/vid/640x360/EC7lHBHzv0g5OunI.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 34372,
+      "favorited": false,
+      "full_text": "Weeee\u2019re baaaack!!! \ud83c\uddfa\ud83c\uddf8\n \njobs \u2192 jobs \u2192 JOBS! https://t.co/o2pLkjczdd",
+      "geo": null,
+      "id": 1268949555522998273,
+      "id_str": "1268949555522998273",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 11014,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Apr 09 19:42:03 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News and updates from Senate Republicans and their staff. Chairman @SenJohnBarrasso.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/senategop",
+                "expanded_url": "http://www.facebook.com/senategop",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/LRez78SkoK"
+              }
+            ]
+          }
+        },
+        "favourites_count": 3134,
+        "follow_request_sent": false,
+        "followers_count": 1086106,
+        "following": false,
+        "friends_count": 25922,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14344823,
+        "id_str": "14344823",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7734,
+        "location": "Washington, D.C.",
+        "name": "Senate Republicans",
+        "notifications": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14344823/1565620522",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1157340570714550274/As1Qersr_normal.png",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SenateGOP",
+        "statuses_count": 27678,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/LRez78SkoK",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1268949555522998273,
+    "quoted_status_id_str": "1268949555522998273",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SenateGOP/stat\u2026",
+      "expanded": "https://twitter.com/SenateGOP/status/1268949555522998273",
+      "url": "https://t.co/SdA8Orb32l"
+    },
+    "retweet_count": 4758,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jul 05 14:39:13 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "United States Senator from the great state of Oklahoma.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Inhofe.senate.gov",
+              "expanded_url": "http://www.Inhofe.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/qvRXqSkqYw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 115,
+      "follow_request_sent": false,
+      "followers_count": 67936,
+      "following": false,
+      "friends_count": 348,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 7270292,
+      "id_str": "7270292",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2198,
+      "location": "Oklahoma",
+      "name": "Sen. Jim Inhofe",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7270292/1579116092",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1243937154293694464/-dy9-qEr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1243937154293694464/-dy9-qEr_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JimInhofe",
+      "statuses_count": 2967,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/qvRXqSkqYw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

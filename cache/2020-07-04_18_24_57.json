@@ -1,0 +1,301 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 18:24:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          124,
+          135
+        ],
+        "text": "WhiteHouse"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1308317708,
+        "id_str": "1308317708",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Graham Ledger",
+        "screen_name": "GrahamLedger"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GrahamLedger: Happy Fly-over 4th! (And if you don\u2019t like the guy who\u2019s in this airplane, then get off my social media). #WhiteHouse #Mt\u2026",
+  "geo": null,
+  "id": 1279481339310493698,
+  "id_str": "1279481339310493698",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4551,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 14:14:36 +0000 2020",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            106,
+            117
+          ],
+          "text": "WhiteHouse"
+        },
+        {
+          "indices": [
+            118,
+            129
+          ],
+          "text": "MtRushmore"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s7vMwo1gSu",
+          "expanded_url": "https://twitter.com/GrahamLedger/status/1279418337093496833/photo/1",
+          "id": 1279418332949561344,
+          "id_str": "1279418332949561344",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcFoMfaUwAAFfLN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcFoMfaUwAAFfLN.jpg",
+          "sizes": {
+            "large": {
+              "h": 834,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 806,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 457,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s7vMwo1gSu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/s7vMwo1gSu",
+          "expanded_url": "https://twitter.com/GrahamLedger/status/1279418337093496833/photo/1",
+          "id": 1279418332949561344,
+          "id_str": "1279418332949561344",
+          "indices": [
+            130,
+            153
+          ],
+          "media_url": "http://pbs.twimg.com/media/EcFoMfaUwAAFfLN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EcFoMfaUwAAFfLN.jpg",
+          "sizes": {
+            "large": {
+              "h": 834,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 806,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 457,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/s7vMwo1gSu"
+        }
+      ]
+    },
+    "favorite_count": 20204,
+    "favorited": false,
+    "full_text": "Happy Fly-over 4th! (And if you don\u2019t like the guy who\u2019s in this airplane, then get off my social media). #WhiteHouse #MtRushmore https://t.co/s7vMwo1gSu",
+    "geo": null,
+    "id": 1279418337093496833,
+    "id_str": "1279418337093496833",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4551,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 27 18:58:12 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "EMMY winner Graham Ledger hosts The Ledger Report - Constitutionally conservative analysis of the political news of the day. SUBSCRIBE FREE to the PODCAST \ud83d\udc47\ud83d\udc47",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "grahamledger.substack.com",
+              "expanded_url": "https://grahamledger.substack.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OZ2kqbTVlW"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1437,
+      "follow_request_sent": false,
+      "followers_count": 88456,
+      "following": false,
+      "friends_count": 361,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1308317708,
+      "id_str": "1308317708",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 358,
+      "location": "",
+      "name": "Graham Ledger",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1308317708/1536941290",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1277261110052139008/LCrPyi0Z_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1277261110052139008/LCrPyi0Z_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GrahamLedger",
+      "statuses_count": 8962,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OZ2kqbTVlW",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,381 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 09 12:10:24 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOP: \u201cWe all support the notion that we can do better but this notion of defunding the police\u2026 frankly is just a bunch of political rhe\u2026",
+  "geo": null,
+  "id": 1270327383674048513,
+  "id_str": "1270327383674048513",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4756,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 09 00:20:35 +0000 2020",
+    "display_text_range": [
+      0,
+      216
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1pLEmXueER",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1270053331499724817/video/1",
+          "id": 1270052692447170562,
+          "id_str": "1270052692447170562",
+          "indices": [
+            193,
+            216
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1270052692447170562/img/LogT4ti0vbU5vLQP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1270052692447170562/img/LogT4ti0vbU5vLQP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1270053331499724817,
+          "source_status_id_str": "1270053331499724817",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "photo",
+          "url": "https://t.co/1pLEmXueER"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon May 09 14:15:10 +0000 2016",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "DonaldJTrump.com",
+                      "expanded_url": "http://www.DonaldJTrump.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mZB2hymxC9"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 3319,
+              "follow_request_sent": false,
+              "followers_count": 1804446,
+              "following": false,
+              "friends_count": 117,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 729676086632656900,
+              "id_str": "729676086632656900",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 3589,
+              "location": "USA",
+              "name": "Team Trump (Text TRUMP to 88022)",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_link_color": "CB0606",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TeamTrump",
+              "statuses_count": 21958,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mZB2hymxC9",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/1pLEmXueER",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1270053331499724817/video/1",
+          "id": 1270052692447170562,
+          "id_str": "1270052692447170562",
+          "indices": [
+            193,
+            216
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1270052692447170562/img/LogT4ti0vbU5vLQP.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1270052692447170562/img/LogT4ti0vbU5vLQP.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1270053331499724817,
+          "source_status_id_str": "1270053331499724817",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "video",
+          "url": "https://t.co/1pLEmXueER",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 41175,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1270052692447170562/vid/480x270/Vsh_3JfrAQQ8HzwN.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1270052692447170562/pl/TiJBVm6v-5rXrZuN.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1270052692447170562/vid/1280x720/DImpcccLrCyetpO3.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1270052692447170562/vid/640x360/7t7E_n7Bs8MACwL8.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15827,
+    "favorited": false,
+    "full_text": "\u201cWe all support the notion that we can do better but this notion of defunding the police\u2026 frankly is just a bunch of political rhetoric.\u201d -Sheriff Bob Gualtieri, Florida Sheriff\u2019s Association \nhttps://t.co/1pLEmXueER",
+    "geo": null,
+    "id": 1270148751936696320,
+    "id_str": "1270148751936696320",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4756,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 13 17:15:41 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Text TWITTER to 80810 to receive exclusive updates from the Republican National Committee!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/xqho9k",
+              "expanded_url": "https://goo.gl/xqho9k",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/TuMeEDhfc4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 276,
+      "follow_request_sent": false,
+      "followers_count": 2406259,
+      "following": false,
+      "friends_count": 1661,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 11134252,
+      "id_str": "11134252",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9622,
+      "location": "",
+      "name": "GOP",
+      "notifications": false,
+      "profile_background_color": "F0F0F0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11134252/1560908994",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg",
+      "profile_link_color": "F1242B",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F5F5F5",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOP",
+      "statuses_count": 40456,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/TuMeEDhfc4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

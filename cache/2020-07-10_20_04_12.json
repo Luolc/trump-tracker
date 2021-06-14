@@ -1,0 +1,382 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jul 10 20:04:12 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          114,
+          123
+        ],
+        "text": "SOUTHCOM"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 19667766,
+        "id_str": "19667766",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "U.S. Southern Command",
+        "screen_name": "Southcom"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Southcom: \u201cI\u2019m proud to say the efforts are making a difference, Mr. President, &amp; they\u2019re saving lives.\u201d\n\n#SOUTHCOM\u2019s Adm. Craig Faller\u2026",
+  "geo": null,
+  "id": 1281680644288974859,
+  "id_str": "1281680644288974859",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9329,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 10 19:44:01 +0000 2020",
+    "display_text_range": [
+      0,
+      278
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            100,
+            109
+          ],
+          "text": "SOUTHCOM"
+        },
+        {
+          "indices": [
+            197,
+            212
+          ],
+          "text": "CounterDrugOPS"
+        },
+        {
+          "indices": [
+            216,
+            229
+          ],
+          "text": "LatinAmerica"
+        },
+        {
+          "indices": [
+            240,
+            250
+          ],
+          "text": "Caribbean"
+        },
+        {
+          "indices": [
+            252,
+            263
+          ],
+          "text": "EnhancedCN"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/adrlqPttaL",
+          "expanded_url": "https://twitter.com/Southcom/status/1281675563845980160/video/1",
+          "id": 1281651622381158401,
+          "id_str": "1281651622381158401",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1281651622381158401/img/qB3jDaOysq_nxgcW.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1281651622381158401/img/qB3jDaOysq_nxgcW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/adrlqPttaL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            146,
+            152
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 66369181,
+          "id_str": "66369181",
+          "indices": [
+            264,
+            278
+          ],
+          "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "DeptofDefense"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.southcom.mil/"
+              }
+            },
+            "description": "President Donald J. Trump and Defense Secretary Dr. Mark T. Esper attend a briefing on enhanced counter narcotics operations at U.S. Southern Command headquarters in Doral, Fla., July 10, 2020.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "President Trump visit SOUTHCOM"
+          },
+          "display_url": "pic.twitter.com/adrlqPttaL",
+          "expanded_url": "https://twitter.com/Southcom/status/1281675563845980160/video/1",
+          "id": 1281651622381158401,
+          "id_str": "1281651622381158401",
+          "indices": [
+            279,
+            302
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1281651622381158401/img/qB3jDaOysq_nxgcW.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1281651622381158401/img/qB3jDaOysq_nxgcW.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/adrlqPttaL",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 27712,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1281651622381158401/vid/480x270/Ik-uoeGfBZOMR2M0.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1281651622381158401/pl/8ipuc27wIpTLTTTv.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1281651622381158401/vid/640x360/fdk0tUIsTGQEq8Uu.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1281651622381158401/vid/1280x720/kXshj4HJrIPXL9_y.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 30278,
+    "favorited": false,
+    "full_text": "\u201cI\u2019m proud to say the efforts are making a difference, Mr. President, &amp; they\u2019re saving lives.\u201d\n\n#SOUTHCOM\u2019s Adm. Craig Faller, today briefing @POTUS Donald J. Trump on the progress of enhanced #CounterDrugOPS in #LatinAmerica &amp; the #Caribbean. #EnhancedCN @DeptofDefense https://t.co/adrlqPttaL",
+    "geo": null,
+    "id": 1281675563845980160,
+    "id_str": "1281675563845980160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9329,
+    "retweeted": false,
+    "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 28 18:46:53 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of SOUTHCOM. Oversees U.S. military activities in Latin America & Caribbean. RT/follow\u2260endorsement.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "southcom.mil",
+              "expanded_url": "http://www.southcom.mil",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/y9mI2zQoPV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5552,
+      "follow_request_sent": false,
+      "followers_count": 226092,
+      "following": false,
+      "friends_count": 424,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 19667766,
+      "id_str": "19667766",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1901,
+      "location": "Miami, Florida",
+      "name": "U.S. Southern Command",
+      "notifications": false,
+      "profile_background_color": "56748F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/19667766/1589581434",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/877151729233661952/hnzLVuzj_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/877151729233661952/hnzLVuzj_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Southcom",
+      "statuses_count": 7090,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/y9mI2zQoPV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83215861,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116521,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53596,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

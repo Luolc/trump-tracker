@@ -1,0 +1,553 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jun 13 11:23:42 +0000 2020",
+  "display_text_range": [
+    0,
+    42
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3256538020,
+        "id_str": "3256538020",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Samantha Cotten",
+        "screen_name": "cottensj"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @cottensj: Texas is 100% Trump Country!",
+  "geo": null,
+  "id": 1271765180897210368,
+  "id_str": "1271765180897210368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1271443501792874498,
+  "quoted_status_id_str": "1271443501792874498",
+  "quoted_status_permalink": {
+    "display": "twitter.com/peterhoffman45\u2026",
+    "expanded": "https://twitter.com/peterhoffman45/status/1271443501792874498",
+    "url": "https://t.co/UqJRfXpwTw"
+  },
+  "retweet_count": 2674,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jun 12 22:55:42 +0000 2020",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/peterhoffman45\u2026",
+          "expanded_url": "https://twitter.com/peterhoffman45/status/1271443501792874498",
+          "indices": [
+            29,
+            52
+          ],
+          "url": "https://t.co/UqJRfXpwTw"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 9822,
+    "favorited": false,
+    "full_text": "Texas is 100% Trump Country! https://t.co/UqJRfXpwTw",
+    "geo": null,
+    "id": 1271576942379249666,
+    "id_str": "1271576942379249666",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jun 12 14:05:27 +0000 2020",
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GHL2nb0sqt",
+            "expanded_url": "https://twitter.com/PeterHoffman45/status/1271443501792874498/photo/1",
+            "id": 1271443496793255937,
+            "id_str": "1271443496793255937",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUTH7pXsAEob9u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUTH7pXsAEob9u.jpg",
+            "sizes": {
+              "large": {
+                "h": 1324,
+                "resize": "fit",
+                "w": 700
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 634
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 360
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GHL2nb0sqt"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              47,
+              63
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 15679641,
+            "id_str": "15679641",
+            "indices": [
+              86,
+              97
+            ],
+            "name": "Dallas Morning News",
+            "screen_name": "dallasnews"
+          },
+          {
+            "id": 20178548,
+            "id_str": "20178548",
+            "indices": [
+              100,
+              109
+            ],
+            "name": "DentonRC",
+            "screen_name": "DentonRC"
+          },
+          {
+            "id": 8940342,
+            "id_str": "8940342",
+            "indices": [
+              111,
+              124
+            ],
+            "name": "Houston Chronicle",
+            "screen_name": "HoustonChron"
+          },
+          {
+            "id": 13323862,
+            "id_str": "13323862",
+            "indices": [
+              127,
+              139
+            ],
+            "name": "San Antonio Express-News",
+            "screen_name": "ExpressNews"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/GHL2nb0sqt",
+            "expanded_url": "https://twitter.com/PeterHoffman45/status/1271443501792874498/photo/1",
+            "id": 1271443496793255937,
+            "id_str": "1271443496793255937",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUTH7pXsAEob9u.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUTH7pXsAEob9u.jpg",
+            "sizes": {
+              "large": {
+                "h": 1324,
+                "resize": "fit",
+                "w": 700
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 634
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 360
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GHL2nb0sqt"
+          },
+          {
+            "display_url": "pic.twitter.com/GHL2nb0sqt",
+            "expanded_url": "https://twitter.com/PeterHoffman45/status/1271443501792874498/photo/1",
+            "id": 1271443496793190400,
+            "id_str": "1271443496793190400",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUTH7pWsAANdet.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUTH7pWsAANdet.jpg",
+            "sizes": {
+              "large": {
+                "h": 1218,
+                "resize": "fit",
+                "w": 700
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 690
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 391
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GHL2nb0sqt"
+          },
+          {
+            "display_url": "pic.twitter.com/GHL2nb0sqt",
+            "expanded_url": "https://twitter.com/PeterHoffman45/status/1271443501792874498/photo/1",
+            "id": 1271443496793255938,
+            "id_str": "1271443496793255938",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUTH7pXsAIHbtp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUTH7pXsAIHbtp.jpg",
+            "sizes": {
+              "large": {
+                "h": 1428,
+                "resize": "fit",
+                "w": 700
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 588
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 333
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GHL2nb0sqt"
+          },
+          {
+            "display_url": "pic.twitter.com/GHL2nb0sqt",
+            "expanded_url": "https://twitter.com/PeterHoffman45/status/1271443501792874498/photo/1",
+            "id": 1271443497174929414,
+            "id_str": "1271443497174929414",
+            "indices": [
+              140,
+              163
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaUTH9EXkAYZZPp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaUTH9EXkAYZZPp.jpg",
+            "sizes": {
+              "large": {
+                "h": 1428,
+                "resize": "fit",
+                "w": 700
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 588
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 333
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/GHL2nb0sqt"
+          }
+        ]
+      },
+      "favorite_count": 281,
+      "favorited": false,
+      "full_text": "Here\u2019s what TEXANS are reading today following @realDonaldTrump\u2019s visit to Dallas\u2935\ufe0f\n\n\ud83d\uddde@dallasnews \n\ud83d\uddde@DentonRC\n\ud83d\uddde@HoustonChron \n\ud83d\uddde@ExpressNews https://t.co/GHL2nb0sqt",
+      "geo": null,
+      "id": 1271443501792874498,
+      "id_str": "1271443501792874498",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 109,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 17 17:29:21 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "@WhiteHouse Advisor for Regional Communications | Tweets may be archived: https://t.co/eVVzoBb3Zr | Personal: @pete__hoffman",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wh.gov/privacy",
+                "expanded_url": "http://wh.gov/privacy",
+                "indices": [
+                  74,
+                  97
+                ],
+                "url": "https://t.co/eVVzoBb3Zr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "expanded_url": "http://whitehouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/NgUd6eRpNj"
+              }
+            ]
+          }
+        },
+        "favourites_count": 154,
+        "follow_request_sent": false,
+        "followers_count": 571,
+        "following": false,
+        "friends_count": 349,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1251200984942104577,
+        "id_str": "1251200984942104577",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4,
+        "location": "Washington, D.C.",
+        "name": "Peter Hoffman",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251200984942104577/1587144756",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1256780115779948545/3Ex711UH_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256780115779948545/3Ex711UH_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "PeterHoffman45",
+        "statuses_count": 204,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/NgUd6eRpNj",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1271443501792874498,
+    "quoted_status_id_str": "1271443501792874498",
+    "quoted_status_permalink": {
+      "display": "twitter.com/peterhoffman45\u2026",
+      "expanded": "https://twitter.com/peterhoffman45/status/1271443501792874498",
+      "url": "https://t.co/UqJRfXpwTw"
+    },
+    "retweet_count": 2674,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 15 12:57:59 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Regional Comms Director @GOP/ @realDonaldTrump. @mountunion @uakronbliss alum. Ohio Native. Tweets are my own.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2397,
+      "follow_request_sent": false,
+      "followers_count": 1104,
+      "following": false,
+      "friends_count": 1532,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 3256538020,
+      "id_str": "3256538020",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14,
+      "location": "Washington, DC",
+      "name": "Samantha Cotten",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3256538020/1479179163",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/977963228134367233/psK8UMPu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/977963228134367233/psK8UMPu_normal.jpg",
+      "profile_link_color": "9266CC",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "cottensj",
+      "statuses_count": 571,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

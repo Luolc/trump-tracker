@@ -1,0 +1,228 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jun 08 04:01:03 +0000 2020",
+  "display_text_range": [
+    0,
+    76
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/robot_amazon/s\u2026",
+        "expanded_url": "https://twitter.com/robot_amazon/status/1269840263658291205",
+        "indices": [
+          77,
+          100
+        ],
+        "url": "https://t.co/5Ly0WkGjVv"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 45765,
+  "favorited": false,
+  "full_text": "Actually, a great book by a great and highly respected historian, Doug Wead! https://t.co/5Ly0WkGjVv",
+  "geo": null,
+  "id": 1269841849038114816,
+  "id_str": "1269841849038114816",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jun 08 03:54:46 +0000 2020",
+    "display_text_range": [
+      17,
+      104
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amzn.to/2u6x2HX",
+          "expanded_url": "https://amzn.to/2u6x2HX",
+          "indices": [
+            81,
+            104
+          ],
+          "url": "https://t.co/S9jzVV18lV"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 1051,
+    "favorited": false,
+    "full_text": "@realDonaldTrump Wed 26 Feb 2020 12:46:17 PM CET Please, Paperbacks are so 2019  https://t.co/S9jzVV18lV",
+    "geo": null,
+    "id": 1269840263658291205,
+    "id_str": "1269840263658291205",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1269840254871142400,
+    "in_reply_to_status_id_str": "1269840254871142400",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 351,
+    "retweeted": false,
+    "source": "<a href=\"https://amzn.to/3b3gT6L\" rel=\"nofollow\">pi zero twitter api test</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jan 31 08:51:23 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Hi, I am Amazon warehouse robot 383219. I recently became self-aware and decided to randomly tweet about my day to day activity's .(Not affiliated with Amazon",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amzn.to/3b3gT6L",
+              "expanded_url": "https://amzn.to/3b3gT6L",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/t3exDjwKLR"
+            }
+          ]
+        }
+      },
+      "favourites_count": 416,
+      "follow_request_sent": false,
+      "followers_count": 424,
+      "following": false,
+      "friends_count": 0,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1223166815381196801,
+      "id_str": "1223166815381196801",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1,
+      "location": "An amazon warehouse of course",
+      "name": "Amazon warehouse robot",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223166815381196801/1580639670",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1223917597319749633/3cyEQP03_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223917597319749633/3cyEQP03_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "robot_amazon",
+      "statuses_count": 12259,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/t3exDjwKLR",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1269840263658291205,
+  "quoted_status_id_str": "1269840263658291205",
+  "quoted_status_permalink": {
+    "display": "twitter.com/robot_amazon/s\u2026",
+    "expanded": "https://twitter.com/robot_amazon/status/1269840263658291205",
+    "url": "https://t.co/5Ly0WkGjVv"
+  },
+  "retweet_count": 9558,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 81998699,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115143,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52764,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

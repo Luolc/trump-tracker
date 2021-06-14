@@ -1,0 +1,495 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Feb 24 18:13:56 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/moveFYzKDq",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1232005756054069248/video/1",
+        "id": 1232005245477294081,
+        "id_str": "1232005245477294081",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232005245477294081/pu/img/KCvN0IP8vp40tpMv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232005245477294081/pu/img/KCvN0IP8vp40tpMv.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/moveFYzKDq"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/narendramodi/s\u2026",
+        "expanded_url": "https://twitter.com/narendramodi/status/1231918893964251136",
+        "indices": [
+          0,
+          23
+        ],
+        "url": "https://t.co/UNd3cUGWhz"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/moveFYzKDq",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1232005756054069248/video/1",
+        "id": 1232005245477294081,
+        "id_str": "1232005245477294081",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1232005245477294081/pu/img/KCvN0IP8vp40tpMv.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1232005245477294081/pu/img/KCvN0IP8vp40tpMv.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/moveFYzKDq",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 60970,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1232005245477294081/pu/pl/ptAAbTBZR3B6-qaa.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1232005245477294081/pu/vid/480x270/CjEJ8qrw6SyzvMr7.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1232005245477294081/pu/vid/1280x720/-4MOHClzNPGj0mTy.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1232005245477294081/pu/vid/640x360/KOe9b3xLhBZu7lDT.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 101074,
+  "favorited": false,
+  "full_text": "https://t.co/UNd3cUGWhz https://t.co/moveFYzKDq",
+  "geo": null,
+  "id": 1232005756054069248,
+  "id_str": "1232005756054069248",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 12:28:46 +0000 2020",
+    "display_text_range": [
+      0,
+      262
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            25,
+            38
+          ],
+          "text": "NamasteTrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T2trutWPqY",
+          "expanded_url": "https://twitter.com/narendramodi/status/1231918893964251136/photo/1",
+          "id": 1231918563213996032,
+          "id_str": "1231918563213996032",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERinaACUcAAE-w-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERinaACUcAAE-w-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1272,
+              "resize": "fit",
+              "w": 1747
+            },
+            "medium": {
+              "h": 874,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 495,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T2trutWPqY"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            50,
+            56
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            57,
+            73
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T2trutWPqY",
+          "expanded_url": "https://twitter.com/narendramodi/status/1231918893964251136/photo/1",
+          "id": 1231918563213996032,
+          "id_str": "1231918563213996032",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERinaACUcAAE-w-.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERinaACUcAAE-w-.jpg",
+          "sizes": {
+            "large": {
+              "h": 1272,
+              "resize": "fit",
+              "w": 1747
+            },
+            "medium": {
+              "h": 874,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 495,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T2trutWPqY"
+        },
+        {
+          "display_url": "pic.twitter.com/T2trutWPqY",
+          "expanded_url": "https://twitter.com/narendramodi/status/1231918893964251136/photo/1",
+          "id": 1231918577172660225,
+          "id_str": "1231918577172660225",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERina0CUwAE9rKm.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERina0CUwAE9rKm.jpg",
+          "sizes": {
+            "large": {
+              "h": 1523,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 892,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 506,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T2trutWPqY"
+        },
+        {
+          "display_url": "pic.twitter.com/T2trutWPqY",
+          "expanded_url": "https://twitter.com/narendramodi/status/1231918893964251136/photo/1",
+          "id": 1231918592288907264,
+          "id_str": "1231918592288907264",
+          "indices": [
+            263,
+            286
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERinbsWUYAANGwK.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERinbsWUYAANGwK.jpg",
+          "sizes": {
+            "large": {
+              "h": 1224,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 717,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 407,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T2trutWPqY"
+        }
+      ]
+    },
+    "favorite_count": 63678,
+    "favorited": false,
+    "full_text": "During his speech at the #NamasteTrump programme, @POTUS @realDonaldTrump highlighted aspects of his vision for USA. He also spoke at length about India\u2019s greatness as well as the greatness of our culture, ethos, people and more.  I thank him for his kind words. https://t.co/T2trutWPqY",
+    "geo": null,
+    "id": 1231918893964251136,
+    "id_str": "1231918893964251136",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12529,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 10 17:18:56 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Prime Minister of India",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "narendramodi.in",
+              "expanded_url": "http://www.narendramodi.in",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zzYhUUfq6i"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 53265988,
+      "following": false,
+      "friends_count": 2375,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 18839785,
+      "id_str": "18839785",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 25154,
+      "location": "India",
+      "name": "Narendra Modi",
+      "notifications": false,
+      "profile_background_color": "F4EDD4",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18839785/1559221352",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134082549041393672/QbihPzrL_normal.png",
+      "profile_link_color": "4E7096",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D5DFED",
+      "profile_text_color": "233863",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "narendramodi",
+      "statuses_count": 25967,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/zzYhUUfq6i",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1231918893964251136,
+  "quoted_status_id_str": "1231918893964251136",
+  "quoted_status_permalink": {
+    "display": "twitter.com/narendramodi/s\u2026",
+    "expanded": "https://twitter.com/narendramodi/status/1231918893964251136",
+    "url": "https://t.co/UNd3cUGWhz"
+  },
+  "retweet_count": 27651,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73053330,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115139,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49327,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Oct 07 13:46:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 78523300,
+        "id_str": "78523300",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "James Woods",
+        "screen_name": "RealJamesWoods"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealJamesWoods: Video proof is the great savior of democracy. Not so great for Democrats, however. Let\u2019s have a look... https://t.co/vw\u2026",
+  "geo": null,
+  "id": 1313838124708003844,
+  "id_str": "1313838124708003844",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 42253,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 06 20:30:07 +0000 2020",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vw7JUrhf0Q",
+          "expanded_url": "https://twitter.com/FacePRX/status/1313572320762621952/video/1",
+          "id": 1313571681085120513,
+          "id_str": "1313571681085120513",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313571681085120513/pu/img/9pb9syuUOUFp3fF_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313571681085120513/pu/img/9pb9syuUOUFp3fF_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1313572320762621952,
+          "source_status_id_str": "1313572320762621952",
+          "source_user_id": 713043035655905280,
+          "source_user_id_str": "713043035655905280",
+          "type": "photo",
+          "url": "https://t.co/vw7JUrhf0Q"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Mar 24 16:41:22 +0000 2016",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 26401,
+              "follow_request_sent": false,
+              "followers_count": 851,
+              "following": false,
+              "friends_count": 613,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 713043035655905280,
+              "id_str": "713043035655905280",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 9,
+              "location": "",
+              "name": "Face",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/713043035655905280/1581247449",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1226466586204213248/UQVbo2FF_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1226466586204213248/UQVbo2FF_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "FacePRX",
+              "statuses_count": 9216,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/vw7JUrhf0Q",
+          "expanded_url": "https://twitter.com/FacePRX/status/1313572320762621952/video/1",
+          "id": 1313571681085120513,
+          "id_str": "1313571681085120513",
+          "indices": [
+            104,
+            127
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1313571681085120513/pu/img/9pb9syuUOUFp3fF_.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1313571681085120513/pu/img/9pb9syuUOUFp3fF_.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1313572320762621952,
+          "source_status_id_str": "1313572320762621952",
+          "source_user_id": 713043035655905280,
+          "source_user_id_str": "713043035655905280",
+          "type": "video",
+          "url": "https://t.co/vw7JUrhf0Q",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 82867,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313571681085120513/pu/vid/480x270/WNYHvQ4-e1HvsfgX.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313571681085120513/pu/vid/640x360/ovvcgrOwZQFsY2jG.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1313571681085120513/pu/vid/1280x720/x_xI1tKEt38q5UhU.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1313571681085120513/pu/pl/NbYAuD7RVTTnJuxK.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 81872,
+    "favorited": false,
+    "full_text": "Video proof is the great savior of democracy. Not so great for Democrats, however. Let\u2019s have a look... https://t.co/vw7JUrhf0Q",
+    "geo": null,
+    "id": 1313577296922439681,
+    "id_str": "1313577296922439681",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 42253,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 30 05:31:28 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "This is the ONLY verified Twitter account for James Woods. ALL others are fake. I am on NO other social media (except a private Instagram). They\u2019re ALL fake.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 12779,
+      "follow_request_sent": false,
+      "followers_count": 2640502,
+      "following": false,
+      "friends_count": 5225,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 78523300,
+      "id_str": "78523300",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9262,
+      "location": "",
+      "name": "James Woods",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/78523300/1598379850",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796482667340382211/CoV8077b_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RealJamesWoods",
+      "statuses_count": 34235,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87124310,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121046,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56758,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

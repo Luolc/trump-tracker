@@ -1,0 +1,428 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Oct 12 14:35:10 +0000 2020",
+  "display_text_range": [
+    0,
+    65
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1212806053907185664,
+        "id_str": "1212806053907185664",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "TheLeoTerrell",
+        "screen_name": "TheLeoTerrell"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          49,
+          65
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TheLeoTerrell: California is Trump Country.  @realDonaldTrump",
+  "geo": null,
+  "id": 1315662300309868546,
+  "id_str": "1315662300309868546",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1312449659294511105,
+  "quoted_status_id_str": "1312449659294511105",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TheLeoTerrell/\u2026",
+    "expanded": "https://twitter.com/TheLeoTerrell/status/1312449659294511105",
+    "url": "https://t.co/ZSfF2TnOVz"
+  },
+  "retweet_count": 9216,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 02:39:48 +0000 2020",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TheLeoTerrell/\u2026",
+          "expanded_url": "https://twitter.com/TheLeoTerrell/status/1312449659294511105",
+          "indices": [
+            47,
+            70
+          ],
+          "url": "https://t.co/ZSfF2TnOVz"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            30,
+            46
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 32720,
+    "favorited": false,
+    "full_text": "California is Trump Country.  @realDonaldTrump https://t.co/ZSfF2TnOVz",
+    "geo": null,
+    "id": 1315482269943885824,
+    "id_str": "1315482269943885824",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Oct 03 17:49:17 +0000 2020",
+      "display_text_range": [
+        0,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Y3EGMz1K0P",
+            "expanded_url": "https://twitter.com/TheLeoTerrell/status/1312449659294511105/photo/1",
+            "id": 1312449652424237056,
+            "id_str": "1312449652424237056",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjbCAVZU4AAysl3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjbCAVZU4AAysl3.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Y3EGMz1K0P"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "leoterrellhats.com",
+            "expanded_url": "http://www.leoterrellhats.com",
+            "indices": [
+              59,
+              82
+            ],
+            "url": "https://t.co/0xVsnnBfZh"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Y3EGMz1K0P",
+            "expanded_url": "https://twitter.com/TheLeoTerrell/status/1312449659294511105/photo/1",
+            "id": 1312449652424237056,
+            "id_str": "1312449652424237056",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjbCAVZU4AAysl3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjbCAVZU4AAysl3.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Y3EGMz1K0P"
+          }
+        ]
+      },
+      "favorite_count": 7131,
+      "favorited": false,
+      "full_text": "Big Trump Rally in San Clemente. Where\u2019s your Leo 2.0 Hat? https://t.co/0xVsnnBfZh https://t.co/Y3EGMz1K0P",
+      "geo": null,
+      "id": 1312449659294511105,
+      "id_str": "1312449659294511105",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1871,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 02 18:41:53 +0000 2020",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Leo 2.0? Same Fair Minded, Civil Rights Attorney, Author \"Your Rights at the Work Place,\u201d Fmr Public School Teacher I\u2019ve always been! On @KABCRadio @FoxNews",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "theleoterrell.com",
+                "expanded_url": "http://theleoterrell.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/BKWzS0kd69"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4549,
+        "follow_request_sent": false,
+        "followers_count": 296500,
+        "following": false,
+        "friends_count": 449,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1212806053907185664,
+        "id_str": "1212806053907185664",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 398,
+        "location": "Los Angeles",
+        "name": "TheLeoTerrell",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212806053907185664/1601044840",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheLeoTerrell",
+        "statuses_count": 2723,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/BKWzS0kd69",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1312449659294511105,
+    "quoted_status_id_str": "1312449659294511105",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TheLeoTerrell/\u2026",
+      "expanded": "https://twitter.com/TheLeoTerrell/status/1312449659294511105",
+      "url": "https://t.co/ZSfF2TnOVz"
+    },
+    "retweet_count": 9216,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 02 18:41:53 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Leo 2.0? Same Fair Minded, Civil Rights Attorney, Author \"Your Rights at the Work Place,\u201d Fmr Public School Teacher I\u2019ve always been! On @KABCRadio @FoxNews",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "theleoterrell.com",
+              "expanded_url": "http://theleoterrell.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/BKWzS0kd69"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4549,
+      "follow_request_sent": false,
+      "followers_count": 296500,
+      "following": false,
+      "friends_count": 449,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1212806053907185664,
+      "id_str": "1212806053907185664",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 398,
+      "location": "Los Angeles",
+      "name": "TheLeoTerrell",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1212806053907185664/1601044840",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1309504150389116928/6cKf97oq_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TheLeoTerrell",
+      "statuses_count": 2723,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/BKWzS0kd69",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

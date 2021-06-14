@@ -1,0 +1,257 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 19 13:54:59 +0000 2020",
+  "display_text_range": [
+    0,
+    50
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/joelpollak/sta\u2026",
+        "expanded_url": "https://twitter.com/joelpollak/status/1271195916809072641",
+        "indices": [
+          51,
+          74
+        ],
+        "url": "https://t.co/CjNkGr0uLM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 3017,
+  "favorited": false,
+  "full_text": "If the Dems get in, our Country is in big trouble! https://t.co/CjNkGr0uLM",
+  "geo": null,
+  "id": 1273977581868548101,
+  "id_str": "1273977581868548101",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 11 21:41:38 +0000 2020",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            85,
+            90
+          ],
+          "text": "SPAZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorite_count": 330,
+    "favorited": false,
+    "full_text": "Washington owned slaves. Rename Washington state the Seattle Pacific Autonomous Zone #SPAZ",
+    "geo": null,
+    "id": 1271195916809072641,
+    "id_str": "1271195916809072641",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -118.5173575,
+              33.9951771
+            ],
+            [
+              -118.443482,
+              33.9951771
+            ],
+            [
+              -118.443482,
+              34.050199
+            ],
+            [
+              -118.5173575,
+              34.050199
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Santa Monica, CA",
+      "id": "59612bd882018c51",
+      "name": "Santa Monica",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/59612bd882018c51.json"
+    },
+    "retweet_count": 107,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Nov 16 02:42:42 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senior Editor-at-Large, Breitbart News; host @BreitbartNews Sunday @SiriusXmPatriot 7-10 pm ET. Opinions my own. New book RED NOVEMBER https://t.co/FiaTDIgfwQ",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "bit.ly/joelpollak",
+              "expanded_url": "https://bit.ly/joelpollak",
+              "indices": [
+                135,
+                158
+              ],
+              "url": "https://t.co/FiaTDIgfwQ"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breitbart.com",
+              "expanded_url": "http://www.breitbart.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/huUG3XZ1WM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11,
+      "follow_request_sent": false,
+      "followers_count": 130115,
+      "following": false,
+      "friends_count": 3422,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 10292132,
+      "id_str": "10292132",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1477,
+      "location": "Santa Monica, CA",
+      "name": "Joel B. Pollak",
+      "notifications": false,
+      "profile_background_color": "E3E319",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10292132/1515525004",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1013960382027829248/BZfYqNJw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013960382027829248/BZfYqNJw_normal.jpg",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "010046",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "joelpollak",
+      "statuses_count": 68352,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/huUG3XZ1WM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1271195916809072641,
+  "quoted_status_id_str": "1271195916809072641",
+  "quoted_status_permalink": {
+    "display": "twitter.com/joelpollak/sta\u2026",
+    "expanded": "https://twitter.com/joelpollak/status/1271195916809072641",
+    "url": "https://t.co/CjNkGr0uLM"
+  },
+  "retweet_count": 966,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82271284,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115530,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52999,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

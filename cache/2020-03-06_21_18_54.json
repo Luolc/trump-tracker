@@ -1,0 +1,389 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 06 21:18:54 +0000 2020",
+  "display_text_range": [
+    0,
+    66
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/govbilllee/sta\u2026",
+        "expanded_url": "https://twitter.com/govbilllee/status/1236018997184860160",
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/0dwI1wh1nr"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1084924525232513025,
+        "id_str": "1084924525232513025",
+        "indices": [
+          10,
+          21
+        ],
+        "name": "Governor Bill Lee",
+        "screen_name": "GovBillLee"
+      }
+    ]
+  },
+  "favorite_count": 34382,
+  "favorited": false,
+  "full_text": "Thank you @GovBillLee. We are a phone call away, and here for you! https://t.co/0dwI1wh1nr",
+  "geo": null,
+  "id": 1236038573087961088,
+  "id_str": "1236038573087961088",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 06 20:01:07 +0000 2020",
+    "display_text_range": [
+      0,
+      234
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2XLbIWG1LO",
+          "expanded_url": "https://twitter.com/GovBillLee/status/1236018997184860160/photo/1",
+          "id": 1236017134448381952,
+          "id_str": "1236017134448381952",
+          "indices": [
+            235,
+            258
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESc3CPsXkAApqF7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESc3CPsXkAApqF7.jpg",
+          "sizes": {
+            "large": {
+              "h": 842,
+              "resize": "fit",
+              "w": 1219
+            },
+            "medium": {
+              "h": 829,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 470,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2XLbIWG1LO"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            116,
+            132
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 16639736,
+          "id_str": "16639736",
+          "indices": [
+            222,
+            233
+          ],
+          "name": "Tennessean",
+          "screen_name": "Tennessean"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2XLbIWG1LO",
+          "expanded_url": "https://twitter.com/GovBillLee/status/1236018997184860160/photo/1",
+          "id": 1236017134448381952,
+          "id_str": "1236017134448381952",
+          "indices": [
+            235,
+            258
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESc3CPsXkAApqF7.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESc3CPsXkAApqF7.jpg",
+          "sizes": {
+            "large": {
+              "h": 842,
+              "resize": "fit",
+              "w": 1219
+            },
+            "medium": {
+              "h": 829,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 470,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2XLbIWG1LO"
+        },
+        {
+          "display_url": "pic.twitter.com/2XLbIWG1LO",
+          "expanded_url": "https://twitter.com/GovBillLee/status/1236018997184860160/photo/1",
+          "id": 1236017158032953345,
+          "id_str": "1236017158032953345",
+          "indices": [
+            235,
+            258
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESc3DnjXkAEHDU_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESc3DnjXkAEHDU_.jpg",
+          "sizes": {
+            "large": {
+              "h": 840,
+              "resize": "fit",
+              "w": 1269
+            },
+            "medium": {
+              "h": 794,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 450,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2XLbIWG1LO"
+        },
+        {
+          "display_url": "pic.twitter.com/2XLbIWG1LO",
+          "expanded_url": "https://twitter.com/GovBillLee/status/1236018997184860160/photo/1",
+          "id": 1236017202765185024,
+          "id_str": "1236017202765185024",
+          "indices": [
+            235,
+            258
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESc3GOMXQAAFafh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESc3GOMXQAAFafh.jpg",
+          "sizes": {
+            "large": {
+              "h": 846,
+              "resize": "fit",
+              "w": 1265
+            },
+            "medium": {
+              "h": 803,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 455,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2XLbIWG1LO"
+        }
+      ]
+    },
+    "favorite_count": 2999,
+    "favorited": false,
+    "full_text": "We're grateful for the prayers and support of our neighbors after a very hard week for Middle Tennessee. Thank you, @realDonaldTrump for making the trip to survey storm damage in our state.  \n\n(Photos by George Walker IV, @Tennessean) https://t.co/2XLbIWG1LO",
+    "geo": null,
+    "id": 1236018997184860160,
+    "id_str": "1236018997184860160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 817,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 14 21:25:38 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Seventh-Generation Tennessean, Man of Faith, Husband of @MariaLeeTN, Father, Grandfather, Cattle Farmer, Conservative Outsider and 50th Governor of Tennessee",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tn.gov/governor",
+              "expanded_url": "http://www.tn.gov/governor",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/DVjgUUQTZ8"
+            }
+          ]
+        }
+      },
+      "favourites_count": 113,
+      "follow_request_sent": false,
+      "followers_count": 22041,
+      "following": false,
+      "friends_count": 68,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1084924525232513025,
+      "id_str": "1084924525232513025",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 154,
+      "location": "Nashville, TN",
+      "name": "Governor Bill Lee",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084924525232513025/1581369492",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1166741712313696256/Z2u6MHXy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1166741712313696256/Z2u6MHXy_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GovBillLee",
+      "statuses_count": 620,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/DVjgUUQTZ8",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1236018997184860160,
+  "quoted_status_id_str": "1236018997184860160",
+  "quoted_status_permalink": {
+    "display": "twitter.com/govbilllee/sta\u2026",
+    "expanded": "https://twitter.com/govbilllee/status/1236018997184860160",
+    "url": "https://t.co/0dwI1wh1nr"
+  },
+  "retweet_count": 8782,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73462654,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115686,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49589,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

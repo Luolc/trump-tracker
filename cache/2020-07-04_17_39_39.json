@@ -1,0 +1,365 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 17:39:39 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 932011810235891712,
+        "id_str": "932011810235891712",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Alex Salvi",
+        "screen_name": "alexsalvinews"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @alexsalvinews: Crowds cheer as tow trucks move the disabled vans blocking the street to Pres. Trump\u2019s speech at Mt. Rushmore: https://t\u2026",
+  "geo": null,
+  "id": 1279469940400107522,
+  "id_str": "1279469940400107522",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 14717,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 00:53:48 +0000 2020",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cGwvylhmXq",
+          "expanded_url": "https://twitter.com/CHIZMAGA/status/1279215700704473089/video/1",
+          "id": 1279215473352204291,
+          "id_str": "1279215473352204291",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279215473352204291/pu/img/LSt9TTBVZh3rfEGN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279215473352204291/pu/img/LSt9TTBVZh3rfEGN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1279215700704473089,
+          "source_status_id_str": "1279215700704473089",
+          "source_user_id": 34756550,
+          "source_user_id_str": "34756550",
+          "type": "photo",
+          "url": "https://t.co/cGwvylhmXq"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Apr 23 22:40:57 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "\ud83c\uddfa\ud83c\uddf8 Proud Supporter of President \ud83c\udd63\ud83c\udd61\ud83c\udd64\ud83c\udd5c\ud83c\udd5f",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 217782,
+              "follow_request_sent": false,
+              "followers_count": 115518,
+              "following": false,
+              "friends_count": 90862,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 34756550,
+              "id_str": "34756550",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 256,
+              "location": "San Diego, CA",
+              "name": "CHIZ \ud83c\uddfa\ud83c\uddf8",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/34756550/1591658711",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1249581937745752065/2IKQtvyB_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1249581937745752065/2IKQtvyB_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "CHIZMAGA",
+              "statuses_count": 41843,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/cGwvylhmXq",
+          "expanded_url": "https://twitter.com/CHIZMAGA/status/1279215700704473089/video/1",
+          "id": 1279215473352204291,
+          "id_str": "1279215473352204291",
+          "indices": [
+            111,
+            134
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1279215473352204291/pu/img/LSt9TTBVZh3rfEGN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1279215473352204291/pu/img/LSt9TTBVZh3rfEGN.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1279215700704473089,
+          "source_status_id_str": "1279215700704473089",
+          "source_user_id": 34756550,
+          "source_user_id_str": "34756550",
+          "type": "video",
+          "url": "https://t.co/cGwvylhmXq",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 35698,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1279215473352204291/pu/pl/NwVnwu9XljSxNqfy.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279215473352204291/pu/vid/640x360/rKT3HVyv1w4I-mX3.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279215473352204291/pu/vid/480x270/hbVGF9Ld9ipAcjaH.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1279215473352204291/pu/vid/1280x720/Gic-tWK5qHD-aVQF.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 54767,
+    "favorited": false,
+    "full_text": "Crowds cheer as tow trucks move the disabled vans blocking the street to Pres. Trump\u2019s speech at Mt. Rushmore: https://t.co/cGwvylhmXq",
+    "geo": null,
+    "id": 1279216806796816384,
+    "id_str": "1279216806796816384",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 14717,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Nov 18 22:25:06 +0000 2017",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Anchor of After Hours on @OANN M-F 10pm ET | Covering the convergence of media and politics | alexsalvinews@protonmail.com | IG: alexsalvinews",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "oann.com/afterhours/",
+              "expanded_url": "https://www.oann.com/afterhours/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fuc2Rlo3Lg"
+            }
+          ]
+        }
+      },
+      "favourites_count": 45550,
+      "follow_request_sent": false,
+      "followers_count": 65520,
+      "following": false,
+      "friends_count": 2588,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 932011810235891712,
+      "id_str": "932011810235891712",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 282,
+      "location": "United States",
+      "name": "Alex Salvi",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/932011810235891712/1587628155",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1270168758179385344/gPrxqA8l_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270168758179385344/gPrxqA8l_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "alexsalvinews",
+      "statuses_count": 10776,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fuc2Rlo3Lg",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

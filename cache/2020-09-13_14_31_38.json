@@ -1,0 +1,321 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Sep 13 14:31:38 +0000 2020",
+  "display_text_range": [
+    0,
+    182
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/scottgottliebm\u2026",
+        "expanded_url": "https://twitter.com/scottgottliebmd/status/1305106599346831360",
+        "indices": [
+          183,
+          206
+        ],
+        "url": "https://t.co/dZQEh2F7Cf"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 7253,
+  "favorited": false,
+  "full_text": "Actually falling very steadily and fast. Deaths and hospitalizations way down, and even cases down despite far more Testing than any other country in the World, by far. India second! https://t.co/dZQEh2F7Cf",
+  "geo": null,
+  "id": 1305152163329368065,
+  "id_str": "1305152163329368065",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 13 11:30:35 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oSG532EFeb",
+          "expanded_url": "https://twitter.com/ScottGottliebMD/status/1305106599346831360/photo/1",
+          "id": 1305106596389847045,
+          "id_str": "1305106596389847045",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhyriN_WAAUzsZL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhyriN_WAAUzsZL.jpg",
+          "sizes": {
+            "large": {
+              "h": 447,
+              "resize": "fit",
+              "w": 782
+            },
+            "medium": {
+              "h": 447,
+              "resize": "fit",
+              "w": 782
+            },
+            "small": {
+              "h": 389,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oSG532EFeb"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/oSG532EFeb",
+          "expanded_url": "https://twitter.com/ScottGottliebMD/status/1305106599346831360/photo/1",
+          "id": 1305106596389847045,
+          "id_str": "1305106596389847045",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhyriN_WAAUzsZL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhyriN_WAAUzsZL.jpg",
+          "sizes": {
+            "large": {
+              "h": 447,
+              "resize": "fit",
+              "w": 782
+            },
+            "medium": {
+              "h": 447,
+              "resize": "fit",
+              "w": 782
+            },
+            "small": {
+              "h": 389,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oSG532EFeb"
+        },
+        {
+          "display_url": "pic.twitter.com/oSG532EFeb",
+          "expanded_url": "https://twitter.com/ScottGottliebMD/status/1305106599346831360/photo/1",
+          "id": 1305106596402528256,
+          "id_str": "1305106596402528256",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhyriOCXgAAdQcZ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhyriOCXgAAdQcZ.jpg",
+          "sizes": {
+            "large": {
+              "h": 336,
+              "resize": "fit",
+              "w": 556
+            },
+            "medium": {
+              "h": 336,
+              "resize": "fit",
+              "w": 556
+            },
+            "small": {
+              "h": 336,
+              "resize": "fit",
+              "w": 556
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/oSG532EFeb"
+        }
+      ]
+    },
+    "favorite_count": 1551,
+    "favorited": false,
+    "full_text": "Overall U.S. Covid cases and hospitalizations continue to fall, driven by sharp declines in the sunbelt states. Key question: Is this the nadir before we see a fall and winter resurgence of a pathogen that typically spreads in the winter; or can we hopefully hold onto these gains https://t.co/oSG532EFeb",
+    "geo": null,
+    "id": 1305106599346831360,
+    "id_str": "1305106599346831360",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 392,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 15 02:39:37 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Resident Fellow @AEI. Partner @NEA. Contributor @CNBC. 23rd Commissioner @US_FDA 2017 to 2019. Boards: @Pfizer @Illumina @AetionInc @TempusLabs",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "aei.org/profile/scott-\u2026",
+              "expanded_url": "https://www.aei.org/profile/scott-gottlieb/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/CsvXy9VgTP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3238,
+      "follow_request_sent": false,
+      "followers_count": 422776,
+      "following": false,
+      "friends_count": 909,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 40156330,
+      "id_str": "40156330",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 6571,
+      "location": "Washington, DC",
+      "name": "Scott Gottlieb, MD",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40156330/1588996201",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/939996832574435329/cQICPkCh_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ScottGottliebMD",
+      "statuses_count": 16832,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/CsvXy9VgTP",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1305106599346831360,
+  "quoted_status_id_str": "1305106599346831360",
+  "quoted_status_permalink": {
+    "display": "twitter.com/scottgottliebm\u2026",
+    "expanded": "https://twitter.com/scottgottliebmd/status/1305106599346831360",
+    "url": "https://t.co/dZQEh2F7Cf"
+  },
+  "retweet_count": 2194,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85939988,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119498,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1599936297",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55834,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

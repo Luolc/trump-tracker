@@ -1,0 +1,327 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 01 18:57:24 +0000 2020",
+  "display_text_range": [
+    0,
+    209
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/theleadcnn/sta\u2026",
+        "expanded_url": "https://twitter.com/theleadcnn/status/1289314234086461440",
+        "indices": [
+          210,
+          233
+        ],
+        "url": "https://t.co/xloRKGnb97"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 60271,
+  "favorited": false,
+  "full_text": "Jake, this wasn\u2019t a Trump Rally, but rather a very successful gathering of the great Sheriffs and Law Enforcement (of Florida) who gave me their unequivocal ENDORSEMENT. No Defund the Police here. Best Wishes! https://t.co/xloRKGnb97",
+  "geo": null,
+  "id": 1289636367283232768,
+  "id_str": "1289636367283232768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 31 21:37:22 +0000 2020",
+    "display_text_range": [
+      0,
+      117
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/kmJcjydEVE",
+          "expanded_url": "https://twitter.com/TheLeadCNN/status/1289314234086461440/video/1",
+          "id": 1289314125395435520,
+          "id_str": "1289314125395435520",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeSQXCQXYAEwUOe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeSQXCQXYAEwUOe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/kmJcjydEVE"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 16625082,
+          "id_str": "16625082",
+          "indices": [
+            99,
+            109
+          ],
+          "name": "Ryan Nobles",
+          "screen_name": "ryanobles"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/kmJcjydEVE",
+          "expanded_url": "https://twitter.com/TheLeadCNN/status/1289314234086461440/video/1",
+          "id": 1289314125395435520,
+          "id_str": "1289314125395435520",
+          "indices": [
+            118,
+            141
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeSQXCQXYAEwUOe.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeSQXCQXYAEwUOe.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/kmJcjydEVE",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 127228,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1289314125395435520/vid/1280x720/SiJ8ztKsnTwXpJwg.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1289314125395435520/vid/480x270/OoOm5nloP0wN_Kyg.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1289314125395435520/vid/640x360/nYqDeyEfw--ryEgy.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1289314125395435520/pl/UoyMDlvqxEmtQGfS.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 1536,
+    "favorited": false,
+    "full_text": "Trump holds event with Florida supporters at Tampa airport, with little distancing or mask-wearing @ryanobles reports https://t.co/kmJcjydEVE",
+    "geo": null,
+    "id": 1289314234086461440,
+    "id_str": "1289314234086461440",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 556,
+    "retweeted": false,
+    "source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 13 22:17:40 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The Lead with @jaketapper airs at 4pm ET on CNN.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cnn.com/thelead",
+              "expanded_url": "http://cnn.com/thelead",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/Ioy35ZzEhw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 203,
+      "follow_request_sent": false,
+      "followers_count": 192599,
+      "following": false,
+      "friends_count": 382,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1176994477,
+      "id_str": "1176994477",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1856,
+      "location": "",
+      "name": "The Lead CNN",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176994477/1478896060",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3372288429/4663473f84a22d828bfda4c279b640e6_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3372288429/4663473f84a22d828bfda4c279b640e6_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TheLeadCNN",
+      "statuses_count": 30913,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/Ioy35ZzEhw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1289314234086461440,
+  "quoted_status_id_str": "1289314234086461440",
+  "quoted_status_permalink": {
+    "display": "twitter.com/theleadcnn/sta\u2026",
+    "expanded": "https://twitter.com/theleadcnn/status/1289314234086461440",
+    "url": "https://t.co/xloRKGnb97"
+  },
+  "retweet_count": 17571,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 01:59:15 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 11348282,
+        "id_str": "11348282",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "NASA",
+        "screen_name": "NASA"
+      },
+      {
+        "id": 43166813,
+        "id_str": "43166813",
+        "indices": [
+          50,
+          66
+        ],
+        "name": "NASA Astronauts",
+        "screen_name": "NASA_Astronauts"
+      },
+      {
+        "id": 1451773004,
+        "id_str": "1451773004",
+        "indices": [
+          84,
+          98
+        ],
+        "name": "Intl. Space Station",
+        "screen_name": "Space_Station"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NASA: This is the first time in human history @NASA_Astronauts have entered the @Space_Station from a commercially-made spacecraft. @As\u2026",
+  "geo": null,
+  "id": 1267636868834869248,
+  "id_str": "1267636868834869248",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 62196,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 31 17:24:06 +0000 2020",
+    "display_text_range": [
+      0,
+      245
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/3t9Ogtpik4",
+          "expanded_url": "https://twitter.com/NASA/status/1267144838153211905/video/1",
+          "id": 1267144720930627584,
+          "id_str": "1267144720930627584",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1267144720930627584/img/aX7FdXXC7ZaaiA8s.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1267144720930627584/img/aX7FdXXC7ZaaiA8s.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/3t9Ogtpik4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 43166813,
+          "id_str": "43166813",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "NASA Astronauts",
+          "screen_name": "NASA_Astronauts"
+        },
+        {
+          "id": 1451773004,
+          "id_str": "1451773004",
+          "indices": [
+            74,
+            88
+          ],
+          "name": "Intl. Space Station",
+          "screen_name": "Space_Station"
+        },
+        {
+          "id": 2543629379,
+          "id_str": "2543629379",
+          "indices": [
+            126,
+            139
+          ],
+          "name": "Bob Behnken",
+          "screen_name": "AstroBehnken"
+        },
+        {
+          "id": 275710913,
+          "id_str": "275710913",
+          "indices": [
+            144,
+            155
+          ],
+          "name": "Col. Doug Hurley",
+          "screen_name": "Astro_Doug"
+        },
+        {
+          "id": 34743251,
+          "id_str": "34743251",
+          "indices": [
+            207,
+            214
+          ],
+          "name": "SpaceX",
+          "screen_name": "SpaceX"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "This is the first time in human history @NASA_Astronauts have entered the @Space_Station from a commercially-made spacecraft. ",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Hatch Opening"
+          },
+          "display_url": "pic.twitter.com/3t9Ogtpik4",
+          "expanded_url": "https://twitter.com/NASA/status/1267144838153211905/video/1",
+          "id": 1267144720930627584,
+          "id_str": "1267144720930627584",
+          "indices": [
+            246,
+            269
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1267144720930627584/img/aX7FdXXC7ZaaiA8s.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1267144720930627584/img/aX7FdXXC7ZaaiA8s.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/3t9Ogtpik4",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 22672,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1267144720930627584/vid/480x270/SneF1UMO-dtJ8MHo.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1267144720930627584/vid/640x360/Asiy0VfKNHNMe0bC.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1267144720930627584/pl/TpoHfW8b0AO097so.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1267144720930627584/vid/1280x720/q8qpqtIKyT5NWnvp.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 246987,
+    "favorited": false,
+    "full_text": "This is the first time in human history @NASA_Astronauts have entered the @Space_Station from a commercially-made spacecraft. @AstroBehnken and @Astro_Doug have finally arrived to the orbiting laboratory in @SpaceX's Dragon Endeavour spacecraft. https://t.co/3t9Ogtpik4",
+    "geo": null,
+    "id": 1267144838153211905,
+    "id_str": "1267144838153211905",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 62196,
+    "retweeted": false,
+    "source": "<a href=\"https://www.twitter.com/\" rel=\"nofollow\">Twitter Media Studio - LiveCut</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 19 20:20:32 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Explore the universe and our home planet with NASA \ud83c\udf0e We usually post in EDT.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nasa.gov",
+              "expanded_url": "http://www.nasa.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/HMJJbimQpV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10870,
+      "follow_request_sent": false,
+      "followers_count": 37599195,
+      "following": false,
+      "friends_count": 218,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 11348282,
+      "id_str": "11348282",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 91952,
+      "location": "",
+      "name": "NASA",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/11348282/1590888026",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1091070803184177153/TI2qItoi_normal.jpg",
+      "profile_link_color": "205BA7",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F3F2F2",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NASA",
+      "statuses_count": 60978,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/HMJJbimQpV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

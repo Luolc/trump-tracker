@@ -1,0 +1,336 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:19:32 +0000 2020",
+  "display_text_range": [
+    0,
+    124
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18005085,
+        "id_str": "18005085",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Mollie",
+        "screen_name": "MZHemingway"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @MZHemingway: Even the news hosts seem dramatically unaware that we're up to nearly 800,000 tests per day in the country.",
+  "geo": null,
+  "id": 1286274749442793474,
+  "id_str": "1286274749442793474",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1285652707299164160,
+  "quoted_status_id_str": "1285652707299164160",
+  "quoted_status_permalink": {
+    "display": "twitter.com/jaketapper/sta\u2026",
+    "expanded": "https://twitter.com/jaketapper/status/1285652707299164160",
+    "url": "https://t.co/Udrf1Fgy0I"
+  },
+  "retweet_count": 4694,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jul 21 19:29:29 +0000 2020",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/jaketapper/sta\u2026",
+          "expanded_url": "https://twitter.com/jaketapper/status/1285652707299164160",
+          "indices": [
+            108,
+            131
+          ],
+          "url": "https://t.co/Udrf1Fgy0I"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12796,
+    "favorited": false,
+    "full_text": "Even the news hosts seem dramatically unaware that we're up to nearly 800,000 tests per day in the country. https://t.co/Udrf1Fgy0I",
+    "geo": null,
+    "id": 1285658173500686338,
+    "id_str": "1285658173500686338",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jul 21 19:07:46 +0000 2020",
+      "display_text_range": [
+        0,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "twitter.com/maggienyt/stat\u2026",
+            "expanded_url": "https://twitter.com/maggienyt/status/1285596646768873472",
+            "indices": [
+              32,
+              55
+            ],
+            "url": "https://t.co/WdsFMoZU0b"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 35028,
+      "favorited": false,
+      "full_text": "Testing for me but not for thee https://t.co/WdsFMoZU0b",
+      "geo": null,
+      "id": 1285652707299164160,
+      "id_str": "1285652707299164160",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": true,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "quoted_status_id": 1285596646768873472,
+      "quoted_status_id_str": "1285596646768873472",
+      "quoted_status_permalink": {
+        "display": "twitter.com/maggienyt/stat\u2026",
+        "expanded": "https://twitter.com/maggienyt/status/1285596646768873472",
+        "url": "https://t.co/WdsFMoZU0b"
+      },
+      "retweet_count": 6637,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Apr 25 17:23:28 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Dad, husband, CNN Anchor of @TheLeadCNN and @CNNSOTU. \n\n\"Jake Tapper...I know; you don't like him. Who likes him? Who the hell can like him?\" \n- President Trump",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/Hellfire-Club-\u2026",
+                "expanded_url": "https://www.amazon.com/Hellfire-Club-Jake-Tapper/dp/031647231X",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/MMatLD6M20"
+              }
+            ]
+          }
+        },
+        "favourites_count": 29788,
+        "follow_request_sent": false,
+        "followers_count": 2635854,
+        "following": false,
+        "friends_count": 8834,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 14529929,
+        "id_str": "14529929",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 21948,
+        "location": "",
+        "name": "Jake Tapper",
+        "notifications": false,
+        "profile_background_color": "EDECE9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14529929/1353593155",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1174871900062924801/yPzQf1y6_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1174871900062924801/yPzQf1y6_normal.jpg",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "jaketapper",
+        "statuses_count": 219075,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MMatLD6M20",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1285652707299164160,
+    "quoted_status_id_str": "1285652707299164160",
+    "quoted_status_permalink": {
+      "display": "twitter.com/jaketapper/sta\u2026",
+      "expanded": "https://twitter.com/jaketapper/status/1285652707299164160",
+      "url": "https://t.co/Udrf1Fgy0I"
+    },
+    "retweet_count": 4694,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 09 22:44:12 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Senior Editor, @FDRLST. Senior Journalism Fellow, @Hillsdale. Fox News Contributor.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/gp/product/162\u2026",
+              "expanded_url": "https://www.amazon.com/gp/product/1621579832/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeAS",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JDWGFiqY5h"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17686,
+      "follow_request_sent": false,
+      "followers_count": 550020,
+      "following": false,
+      "friends_count": 1357,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 18005085,
+      "id_str": "18005085",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3604,
+      "location": "Justice on Trial: The Kavanaugh Confirmation and the Future of the Supreme Court",
+      "name": "Mollie",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18005085/1563563189",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149515833900593154/VJN-UDOh_normal.png",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MZHemingway",
+      "statuses_count": 99421,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JDWGFiqY5h",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

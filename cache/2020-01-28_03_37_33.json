@@ -1,0 +1,362 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jan 28 03:37:33 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          14,
+          20
+        ],
+        "text": "USMCA"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21269970,
+        "id_str": "21269970",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Senator Roy Blunt",
+        "screen_name": "RoyBlunt"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          32,
+          38
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RoyBlunt: #USMCA heading to @POTUS's desk \u2705\nEconomy is stronger than it\u2019s been in 50 yrs thanks in large part to having the right tax p\u2026",
+  "geo": null,
+  "id": 1222000736407556096,
+  "id_str": "1222000736407556096",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3624,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jan 16 17:17:03 +0000 2020",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "USMCA"
+        },
+        {
+          "indices": [
+            275,
+            284
+          ],
+          "text": "USMCAwin"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/phKVMFKyON",
+          "expanded_url": "https://twitter.com/RoyBlunt/status/1217858315331555330/video/1",
+          "features": {},
+          "id": 1217858042231955457,
+          "id_str": "1217858042231955457",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1217858042231955457/img/URpLjDoKqb_6SpMt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217858042231955457/img/URpLjDoKqb_6SpMt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/phKVMFKyON"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            18,
+            24
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/phKVMFKyON",
+          "expanded_url": "https://twitter.com/RoyBlunt/status/1217858315331555330/video/1",
+          "features": {},
+          "id": 1217858042231955457,
+          "id_str": "1217858042231955457",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1217858042231955457/img/URpLjDoKqb_6SpMt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1217858042231955457/img/URpLjDoKqb_6SpMt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/phKVMFKyON",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 63597,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217858042231955457/vid/1280x720/nitJ-CMnJrVt17TE.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1217858042231955457/pl/AFUtIFc9wC0EZiUq.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217858042231955457/vid/640x360/tSO5yEaZU1KWB7jM.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1217858042231955457/vid/480x270/stGAnn5_GS76ANd_.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 12293,
+    "favorited": false,
+    "full_text": "#USMCA heading to @POTUS's desk \u2705\nEconomy is stronger than it\u2019s been in 50 yrs thanks in large part to having the right tax policy &amp; right regulatory policy in place. With today\u2019s vote &amp; other trade agreements POTUS has secured, we\u2019ve also got the right trade policy #USMCAwin https://t.co/phKVMFKyON",
+    "geo": null,
+    "id": 1217858315331555330,
+    "id_str": "1217858315331555330",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3624,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 19 02:58:03 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator Roy Blunt. Honored to represent the great state of Missouri. Serves as @SenateRPC Chairman.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "blunt.senate.gov",
+              "expanded_url": "http://blunt.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/PG3SSnhQDI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 169,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 114343,
+      "following": false,
+      "friends_count": 6934,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 21269970,
+      "id_str": "21269970",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3524,
+      "location": "Missouri",
+      "name": "Senator Roy Blunt",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21269970/1407953971",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/535810548802125824/X0pxn3zA_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RoyBlunt",
+      "statuses_count": 12405,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/PG3SSnhQDI",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71798127,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113871,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48436,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

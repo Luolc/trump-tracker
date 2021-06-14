@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 25 10:25:25 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 266991549,
+        "id_str": "266991549",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "PM's Office of Japan",
+        "screen_name": "JPN_PMO"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JPN_PMO: After his telephone talks with IOC President Bach, PM Abe spoke to the press and explained that the two have agreed that the T\u2026",
+  "geo": null,
+  "id": 1242759484210139137,
+  "id_str": "1242759484210139137",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7344,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 24 12:29:18 +0000 2020",
+    "display_text_range": [
+      0,
+      218
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ihe8To2g3R",
+          "expanded_url": "https://twitter.com/JPN_PMO/status/1242428276464812033/photo/1",
+          "id": 1242428133258612737,
+          "id_str": "1242428133258612737",
+          "indices": [
+            219,
+            242
+          ],
+          "media_url": "http://pbs.twimg.com/media/ET39zfXU0AELOfq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ET39zfXU0AELOfq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1626,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 953,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 540,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ihe8To2g3R"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ihe8To2g3R",
+          "expanded_url": "https://twitter.com/JPN_PMO/status/1242428276464812033/photo/1",
+          "id": 1242428133258612737,
+          "id_str": "1242428133258612737",
+          "indices": [
+            219,
+            242
+          ],
+          "media_url": "http://pbs.twimg.com/media/ET39zfXU0AELOfq.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ET39zfXU0AELOfq.jpg",
+          "sizes": {
+            "large": {
+              "h": 1626,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 953,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 540,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ihe8To2g3R"
+        }
+      ]
+    },
+    "favorite_count": 19276,
+    "favorited": false,
+    "full_text": "After his telephone talks with IOC President Bach, PM Abe spoke to the press and explained that the two have agreed that the Tokyo Olympic Games would not be cancelled, and the games will be held by the summer of 2021. https://t.co/ihe8To2g3R",
+    "geo": null,
+    "id": 1242428276464812033,
+    "id_str": "1242428276464812033",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7344,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 16 04:27:34 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official English account of Prime Minister's Office of #Japan. @JapanGov. Facebook: https://t.co/IZ4XbQmdo6",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/Japan.PMO",
+              "expanded_url": "http://www.facebook.com/Japan.PMO",
+              "indices": [
+                88,
+                111
+              ],
+              "url": "https://t.co/IZ4XbQmdo6"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "japan.kantei.go.jp",
+              "expanded_url": "https://japan.kantei.go.jp/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Jasx8Fe7Jp"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 232208,
+      "following": false,
+      "friends_count": 371,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 266991549,
+      "id_str": "266991549",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3640,
+      "location": "Tokyo, Japan",
+      "name": "PM's Office of Japan",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/266991549/1565058963",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/896994122426220545/IL7zNLB3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/896994122426220545/IL7zNLB3_normal.jpg",
+      "profile_link_color": "B30000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "JPN_PMO",
+      "statuses_count": 6998,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Jasx8Fe7Jp",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 75103716,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117704,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50178,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 22 10:09:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          119,
+          131
+        ],
+        "text": "coronavirus"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 281610530,
+        "id_str": "281610530",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Varney & Co.",
+        "screen_name": "Varneyco"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Varneyco: The Trump Administration is considering providing direct financial relief to individuals affected by the #coronavirus. Former\u2026",
+  "geo": null,
+  "id": 1241668429943320576,
+  "id_str": "1241668429943320576",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1150,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 18 16:45:39 +0000 2020",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            105,
+            117
+          ],
+          "text": "coronavirus"
+        },
+        {
+          "indices": [
+            217,
+            226
+          ],
+          "text": "stimulus"
+        },
+        {
+          "indices": [
+            247,
+            255
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            256,
+            264
+          ],
+          "text": "Markets"
+        },
+        {
+          "indices": [
+            265,
+            274
+          ],
+          "text": "VarneyCo"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/JwPMn5t8O8",
+          "expanded_url": "https://twitter.com/Varneyco/status/1240318458031734784/video/1",
+          "id": 1240318093680947204,
+          "id_str": "1240318093680947204",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240318093680947204/pu/img/KdcqQNwsM1Wwtu_Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240318093680947204/pu/img/KdcqQNwsM1Wwtu_Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/JwPMn5t8O8"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/JwPMn5t8O8",
+          "expanded_url": "https://twitter.com/Varneyco/status/1240318458031734784/video/1",
+          "id": 1240318093680947204,
+          "id_str": "1240318093680947204",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1240318093680947204/pu/img/KdcqQNwsM1Wwtu_Z.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1240318093680947204/pu/img/KdcqQNwsM1Wwtu_Z.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/JwPMn5t8O8",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 121188,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1240318093680947204/pu/vid/1280x720/PNjPTat1SsVJbu75.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1240318093680947204/pu/pl/cZZ5Ikw8AwX_KEGb.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1240318093680947204/pu/vid/640x360/NrNQw6WTUr7LuRrC.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1240318093680947204/pu/vid/480x270/cLXRfqotAICRyR43.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 4361,
+    "favorited": false,
+    "full_text": "The Trump Administration is considering providing direct financial relief to individuals affected by the #coronavirus. Former Reagan Economist Art Laffer says a payroll tax cut would be a more helpful, longer-lasting #stimulus. What do you think? #COVID19 #Markets #VarneyCo https://t.co/JwPMn5t8O8",
+    "geo": null,
+    "id": 1240318458031734784,
+    "id_str": "1240318458031734784",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1150,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 13 16:27:54 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Airing Weekdays at 9AM ET on the Fox Business Network. Note: These tweets come from Varney & Co. production team, not Stuart himself.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxbusiness.com/person/v/stuar\u2026",
+              "expanded_url": "http://www.foxbusiness.com/person/v/stuart-varney.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/UT25ycG2zy"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1001,
+      "follow_request_sent": false,
+      "followers_count": 649717,
+      "following": false,
+      "friends_count": 723,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 281610530,
+      "id_str": "281610530",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2019,
+      "location": "New York",
+      "name": "Varney & Co.",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/281610530/1542396577",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/462238346727526401/9vqChgMI_normal.png",
+      "profile_link_color": "FAB81E",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E3D29A",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Varneyco",
+      "statuses_count": 16256,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/UT25ycG2zy",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 74712348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117262,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50044,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 03 04:21:12 +0000 2020",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tZSLBlrlTv",
+        "expanded_url": "https://twitter.com/AZGOP/status/1329443061600972800/video/1",
+        "id": 1329439553963356162,
+        "id_str": "1329439553963356162",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnMfnN6W8AQzenD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnMfnN6W8AQzenD.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1329443061600972800,
+        "source_status_id_str": "1329443061600972800",
+        "source_user_id": 15937190,
+        "source_user_id_str": "15937190",
+        "type": "photo",
+        "url": "https://t.co/tZSLBlrlTv"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "description": "",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 21 21:30:45 +0000 2008",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account of the Republican Party of Arizona.",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "azgop.com",
+                    "expanded_url": "http://www.azgop.com/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/vXkfQGBzGC"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 16651,
+            "follow_request_sent": false,
+            "followers_count": 59424,
+            "following": false,
+            "friends_count": 2302,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 15937190,
+            "id_str": "15937190",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 502,
+            "location": "Phoenix, AZ",
+            "name": "Arizona Republican Party",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15937190/1550012514",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1215061301468135424/24fi8iw3_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215061301468135424/24fi8iw3_normal.jpg",
+            "profile_link_color": "B50B0B",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DECECE",
+            "profile_text_color": "080E75",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AZGOP",
+            "statuses_count": 20427,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/vXkfQGBzGC",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "AZGOP Chairwoman EXPOSES Dominion Voting Software"
+        },
+        "display_url": "pic.twitter.com/tZSLBlrlTv",
+        "expanded_url": "https://twitter.com/AZGOP/status/1329443061600972800/video/1",
+        "id": 1329439553963356162,
+        "id_str": "1329439553963356162",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/EnMfnN6W8AQzenD.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EnMfnN6W8AQzenD.jpg",
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "medium": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1080
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1329443061600972800,
+        "source_status_id_str": "1329443061600972800",
+        "source_user_id": 15937190,
+        "source_user_id_str": "15937190",
+        "type": "video",
+        "url": "https://t.co/tZSLBlrlTv",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "duration_millis": 356389,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1329439553963356162/vid/320x320/njO3739p9F8CcFS5.mp4?tag=13"
+            },
+            {
+              "bitrate": 1280000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1329439553963356162/vid/720x720/O7USQCcgCpk5RNuG.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1329439553963356162/pl/FCIv6n9ZTrk17VKa.m3u8?tag=13"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1329439553963356162/vid/480x480/qnJT3NGtWeSZiIH-.mp4?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 178747,
+  "favorited": false,
+  "full_text": "https://t.co/tZSLBlrlTv",
+  "geo": null,
+  "id": 1334351957113311233,
+  "id_str": "1334351957113311233",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 60508,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88745088,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125656,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58930,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Aug 01 21:31:41 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 227682918,
+        "id_str": "227682918",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Bloomberg Opinion",
+        "screen_name": "bopinion"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @bopinion: Estimates of the virus\u2019s reproduction rate suggest that it\u2019s risen back to around or above 1 in the following countries:\n\n\ud83c\uddec\ud83c\udde7T\u2026",
+  "geo": null,
+  "id": 1289675192172597248,
+  "id_str": "1289675192172597248",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3119,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 01 13:33:53 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ptb9B1D7mK",
+          "expanded_url": "https://twitter.com/bopinion/status/1289554949269893121/photo/1",
+          "id": 1289552605312618496,
+          "id_str": "1289552605312618496",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeVpQx7WkAA99Uz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeVpQx7WkAA99Uz.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ptb9B1D7mK"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "trib.al/wZ3Q5QM",
+          "expanded_url": "https://trib.al/wZ3Q5QM",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/KFKMPN2OAy"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ptb9B1D7mK",
+          "expanded_url": "https://twitter.com/bopinion/status/1289554949269893121/photo/1",
+          "id": 1289552605312618496,
+          "id_str": "1289552605312618496",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EeVpQx7WkAA99Uz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EeVpQx7WkAA99Uz.jpg",
+          "sizes": {
+            "large": {
+              "h": 1366,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ptb9B1D7mK"
+        }
+      ]
+    },
+    "favorite_count": 8931,
+    "favorited": false,
+    "full_text": "Estimates of the virus\u2019s reproduction rate suggest that it\u2019s risen back to around or above 1 in the following countries:\n\n\ud83c\uddec\ud83c\udde7The U.K.\n\ud83c\uddeb\ud83c\uddf7France\n\ud83c\uddee\ud83c\uddf9Italy\n\ud83c\uddea\ud83c\uddf8Spain\n\ud83c\udde7\ud83c\uddeaBelgium\n\nThat means one infected person will on average spread it to more than one other person  https://t.co/KFKMPN2OAy https://t.co/ptb9B1D7mK",
+    "geo": null,
+    "id": 1289554949269893121,
+    "id_str": "1289554949269893121",
+    "in_reply_to_screen_name": "bopinion",
+    "in_reply_to_status_id": 1289554945826418688,
+    "in_reply_to_status_id_str": "1289554945826418688",
+    "in_reply_to_user_id": 227682918,
+    "in_reply_to_user_id_str": "227682918",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3119,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 17 14:20:58 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Opinions on business, economics and much more from the editors and columnists at Bloomberg Opinion.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bloomberg.com/opinion",
+              "expanded_url": "http://bloomberg.com/opinion",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eY4AY2rZeQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8070,
+      "follow_request_sent": false,
+      "followers_count": 286775,
+      "following": false,
+      "friends_count": 513,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 227682918,
+      "id_str": "227682918",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4710,
+      "location": "Worldwide",
+      "name": "Bloomberg Opinion",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/227682918/1525292911",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991778099397320705/6LWXR6MS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991778099397320705/6LWXR6MS_normal.jpg",
+      "profile_link_color": "0072FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bopinion",
+      "statuses_count": 172328,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eY4AY2rZeQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

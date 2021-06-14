@@ -1,0 +1,402 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 26 04:05:03 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3108638488,
+        "id_str": "3108638488",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Samantha Bullock",
+        "screen_name": "samantha_zager"
+      },
+      {
+        "id": 15937190,
+        "id_str": "15937190",
+        "indices": [
+          41,
+          47
+        ],
+        "name": "AZ Republican Party",
+        "screen_name": "AZGOP"
+      },
+      {
+        "id": 996094929733652481,
+        "id_str": "996094929733652481",
+        "indices": [
+          66,
+          76
+        ],
+        "name": "Congresswoman Debbie Lesko",
+        "screen_name": "RepDLesko"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @samantha_zager: In front of a packed @AZGOP state convention, @RepDLesko confirmed what Americans are already thinking: the Democrats\u2019\u2026",
+  "geo": null,
+  "id": 1221282879164035075,
+  "id_str": "1221282879164035075",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1887,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 25 17:27:19 +0000 2020",
+    "display_text_range": [
+      0,
+      208
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            197,
+            208
+          ],
+          "text": "BullSchiff"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/M41iZXmouL",
+          "expanded_url": "https://twitter.com/samantha_zager/status/1221122389452320768/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 428,
+                  "y": 741
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 413,
+                  "y": 715
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 428,
+                  "y": 741
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 24,
+                  "w": 24,
+                  "x": 234,
+                  "y": 405
+                }
+              ]
+            }
+          },
+          "id": 1221122356682219520,
+          "id_str": "1221122356682219520",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJMUElU4AANPkf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJMUElU4AANPkf.jpg",
+          "sizes": {
+            "large": {
+              "h": 894,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 864,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 489,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/M41iZXmouL"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15937190,
+          "id_str": "15937190",
+          "indices": [
+            21,
+            27
+          ],
+          "name": "AZ Republican Party",
+          "screen_name": "AZGOP"
+        },
+        {
+          "id": 996094929733652481,
+          "id_str": "996094929733652481",
+          "indices": [
+            46,
+            56
+          ],
+          "name": "Congresswoman Debbie Lesko",
+          "screen_name": "RepDLesko"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/M41iZXmouL",
+          "expanded_url": "https://twitter.com/samantha_zager/status/1221122389452320768/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 428,
+                  "y": 741
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 42,
+                  "w": 42,
+                  "x": 413,
+                  "y": 715
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 44,
+                  "w": 44,
+                  "x": 428,
+                  "y": 741
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 24,
+                  "w": 24,
+                  "x": 234,
+                  "y": 405
+                }
+              ]
+            }
+          },
+          "id": 1221122356682219520,
+          "id_str": "1221122356682219520",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJMUElU4AANPkf.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJMUElU4AANPkf.jpg",
+          "sizes": {
+            "large": {
+              "h": 894,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 864,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 489,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/M41iZXmouL"
+        }
+      ]
+    },
+    "favorite_count": 6569,
+    "favorited": false,
+    "full_text": "In front of a packed @AZGOP state convention, @RepDLesko confirmed what Americans are already thinking: the Democrats\u2019 impeachment witch hunt is a total SHAM, a corrupt power grab, and 100 percent #BullSchiff https://t.co/M41iZXmouL",
+    "geo": null,
+    "id": 1221122389452320768,
+    "id_str": "1221122389452320768",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1887,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 23 20:52:43 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "(Samantha Zager) @GOP Comms | Milwaukee native | @MarquetteU grad | Die-hard @packers fan | #DogLover",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 823,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 977,
+      "following": false,
+      "friends_count": 538,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 3108638488,
+      "id_str": "3108638488",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5,
+      "location": "DC",
+      "name": "Samantha Bullock",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3108638488/1571337026",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1136726816050339840/YXEBUfYs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136726816050339840/YXEBUfYs_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "samantha_zager",
+      "statuses_count": 322,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

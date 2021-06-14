@@ -1,0 +1,467 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Feb 02 04:43:31 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 956283913835614208,
+        "id_str": "956283913835614208",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Secretary Alex Azar",
+        "screen_name": "SecAzar"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SecAzar: At this time, the risk to Americans remains low, and we are working to keep it that way. We will continue our work to monitor,\u2026",
+  "geo": null,
+  "id": 1223829274853023744,
+  "id_str": "1223829274853023744",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1223346974264561665,
+  "quoted_status_id_str": "1223346974264561665",
+  "quoted_status_permalink": {
+    "display": "twitter.com/SecAzar/status\u2026",
+    "expanded": "https://twitter.com/SecAzar/status/1223346974264561665",
+    "url": "https://t.co/eb4YN1H7QN"
+  },
+  "retweet_count": 2150,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 31 20:55:20 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            170,
+            182
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/SecAzar/status\u2026",
+          "expanded_url": "https://twitter.com/SecAzar/status/1223346974264561665",
+          "indices": [
+            278,
+            301
+          ],
+          "url": "https://t.co/eb4YN1H7QN"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 6808,
+    "favorited": false,
+    "full_text": "At this time, the risk to Americans remains low, and we are working to keep it that way. We will continue our work to monitor, respond to, and mitigate the spread of the #coronavirus and ensure that Americans have the most accurate and up-to-date health and travel information. https://t.co/eb4YN1H7QN",
+    "geo": null,
+    "id": 1223349066014298113,
+    "id_str": "1223349066014298113",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jan 31 20:47:02 +0000 2020",
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              88,
+              100
+            ],
+            "text": "Coronavirus"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cpQzmgu9VI",
+            "expanded_url": "https://twitter.com/SecAzar/status/1223346974264561665/photo/1",
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "id": 1223346955293798402,
+            "id_str": "1223346955293798402",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPozkwNXsAIs578.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPozkwNXsAIs578.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cpQzmgu9VI"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cpQzmgu9VI",
+            "expanded_url": "https://twitter.com/SecAzar/status/1223346974264561665/photo/1",
+            "features": {
+              "large": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "small": {
+                "faces": []
+              }
+            },
+            "id": 1223346955293798402,
+            "id_str": "1223346955293798402",
+            "indices": [
+              165,
+              188
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPozkwNXsAIs578.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EPozkwNXsAIs578.jpg",
+            "sizes": {
+              "large": {
+                "h": 1536,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 510,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cpQzmgu9VI"
+          }
+        ]
+      },
+      "favorite_count": 1916,
+      "favorited": false,
+      "full_text": "As part of the Administration\u2019s work to protect Americans and respond to the 2019 Novel #Coronavirus outbreak, today I signed a public health emergency declaration. https://t.co/cpQzmgu9VI",
+      "geo": null,
+      "id": 1223346974264561665,
+      "id_str": "1223346974264561665",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 721,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "can_media_tag": false,
+        "contributors_enabled": false,
+        "created_at": "Wed Jan 24 21:53:46 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Alex Azar is the 24th Secretary of the U.S. Department of Health & Human Services (@HHSgov). Privacy policy: https://t.co/zEIuizSSBB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hhs.gov/privacy.html",
+                "expanded_url": "http://hhs.gov/privacy.html",
+                "indices": [
+                  109,
+                  132
+                ],
+                "url": "https://t.co/zEIuizSSBB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hhs.gov",
+                "expanded_url": "https://www.hhs.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OdwmH6escY"
+              }
+            ]
+          }
+        },
+        "favourites_count": 318,
+        "follow_request_sent": false,
+        "followed_by": false,
+        "followers_count": 42047,
+        "following": false,
+        "friends_count": 159,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 956283913835614208,
+        "id_str": "956283913835614208",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 509,
+        "location": "Washington, DC",
+        "name": "Secretary Alex Azar",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/956283913835614208/1567710109",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1092885564360179712/9YOuGvYZ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092885564360179712/9YOuGvYZ_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "SecAzar",
+        "statuses_count": 2724,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OdwmH6escY",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1223346974264561665,
+    "quoted_status_id_str": "1223346974264561665",
+    "quoted_status_permalink": {
+      "display": "twitter.com/SecAzar/status\u2026",
+      "expanded": "https://twitter.com/SecAzar/status/1223346974264561665",
+      "url": "https://t.co/eb4YN1H7QN"
+    },
+    "retweet_count": 2150,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": false,
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 24 21:53:46 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Alex Azar is the 24th Secretary of the U.S. Department of Health & Human Services (@HHSgov). Privacy policy: https://t.co/zEIuizSSBB",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "hhs.gov/privacy.html",
+              "expanded_url": "http://hhs.gov/privacy.html",
+              "indices": [
+                109,
+                132
+              ],
+              "url": "https://t.co/zEIuizSSBB"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hhs.gov",
+              "expanded_url": "https://www.hhs.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OdwmH6escY"
+            }
+          ]
+        }
+      },
+      "favourites_count": 318,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 42047,
+      "following": false,
+      "friends_count": 159,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 956283913835614208,
+      "id_str": "956283913835614208",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 509,
+      "location": "Washington, DC",
+      "name": "Secretary Alex Azar",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/956283913835614208/1567710109",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1092885564360179712/9YOuGvYZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1092885564360179712/9YOuGvYZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SecAzar",
+      "statuses_count": 2724,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/OdwmH6escY",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71980240,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114007,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

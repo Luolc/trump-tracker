@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 12:04:47 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22037129,
+        "id_str": "22037129",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Donna Cahill",
+        "screen_name": "DTCahill"
+      },
+      {
+        "id": 770781940341288960,
+        "id_str": "770781940341288960",
+        "indices": [
+          56,
+          69
+        ],
+        "name": "Rudy W. Giuliani",
+        "screen_name": "RudyGiuliani"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DTCahill: People under 40 yrs old have no clue, but @RudyGiuliani single handily took down the largest organized crime syndicate in Ame\u2026",
+  "geo": null,
+  "id": 1316711617158090758,
+  "id_str": "1316711617158090758",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7171,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 10:27:26 +0000 2020",
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            158,
+            175
+          ],
+          "text": "BidenCrimeFamily"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/bChgPYs6jq",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1316635173002211329/video/1",
+          "id": 1316632735050395649,
+          "id_str": "1316632735050395649",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316632735050395649/pu/img/UDnBSqoIMNalyM5f.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316632735050395649/pu/img/UDnBSqoIMNalyM5f.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1316635173002211329,
+          "source_status_id_str": "1316635173002211329",
+          "source_user_id": 932011810235891712,
+          "source_user_id_str": "932011810235891712",
+          "type": "photo",
+          "url": "https://t.co/bChgPYs6jq"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 770781940341288960,
+          "id_str": "770781940341288960",
+          "indices": [
+            42,
+            55
+          ],
+          "name": "Rudy W. Giuliani",
+          "screen_name": "RudyGiuliani"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Nov 18 22:25:06 +0000 2017",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Anchor of After Hours on @OANN M-F 10pm ET | Covering the convergence of media and politics | alexsalvinews@protonmail.com | https://t.co/SDLxVBu9mQ |",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "alexsalvi.com",
+                      "expanded_url": "http://alexsalvi.com",
+                      "indices": [
+                        125,
+                        148
+                      ],
+                      "url": "https://t.co/SDLxVBu9mQ"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "oann.com/afterhours/",
+                      "expanded_url": "https://www.oann.com/afterhours/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/fuc2Rlo3Lg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 14740,
+              "follow_request_sent": false,
+              "followers_count": 80001,
+              "following": false,
+              "friends_count": 2909,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 932011810235891712,
+              "id_str": "932011810235891712",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 384,
+              "location": "United States",
+              "name": "Alex Salvi",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/932011810235891712/1587628155",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1270168758179385344/gPrxqA8l_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1270168758179385344/gPrxqA8l_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "alexsalvinews",
+              "statuses_count": 13290,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/fuc2Rlo3Lg",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/bChgPYs6jq",
+          "expanded_url": "https://twitter.com/alexsalvinews/status/1316635173002211329/video/1",
+          "id": 1316632735050395649,
+          "id_str": "1316632735050395649",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1316632735050395649/pu/img/UDnBSqoIMNalyM5f.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1316632735050395649/pu/img/UDnBSqoIMNalyM5f.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1316635173002211329,
+          "source_status_id_str": "1316635173002211329",
+          "source_user_id": 932011810235891712,
+          "source_user_id_str": "932011810235891712",
+          "type": "video",
+          "url": "https://t.co/bChgPYs6jq",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 89356,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1316632735050395649/pu/pl/RBqy_jKM8kW4nJu0.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1316632735050395649/pu/vid/640x360/J7X0MNKLl9Bx418b.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1316632735050395649/pu/vid/480x270/Au8mJqL9vwl7ftaC.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 15427,
+    "favorited": false,
+    "full_text": "People under 40 yrs old have no clue, but @RudyGiuliani single handily took down the largest organized crime syndicate in America - the Mafia. \n\nExposing the #BidenCrimeFamily is peanuts for Rudy.\n\nMust watch ... \n\nhttps://t.co/bChgPYs6jq",
+    "geo": null,
+    "id": 1316687119700692992,
+    "id_str": "1316687119700692992",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7171,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 26 17:45:23 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Communications Consultant. Mom to 3 Amazing Millennials. Conservative. Recovering GOP Activist. Lax Mom. Penn State Alum. These are my tweets & mine only!",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6357,
+      "follow_request_sent": false,
+      "followers_count": 8645,
+      "following": false,
+      "friends_count": 7834,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 22037129,
+      "id_str": "22037129",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 260,
+      "location": "",
+      "name": "Donna Cahill",
+      "notifications": false,
+      "profile_background_color": "AD0603",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22037129/1593546968",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1278053365721825281/3u0yBaqE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1278053365721825281/3u0yBaqE_normal.jpg",
+      "profile_link_color": "040C80",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "F7B418",
+      "profile_text_color": "050405",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DTCahill",
+      "statuses_count": 58537,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

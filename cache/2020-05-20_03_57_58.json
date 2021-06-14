@@ -1,0 +1,420 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed May 20 03:57:58 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1070848747846930432,
+        "id_str": "1070848747846930432",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Danielle McInturff",
+        "screen_name": "danraemc"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @danraemc: My favorite maga couple!!! Y\u2019all don\u2019t know these people off social media so you don\u2019t know they\u2019re as real as they are onlin\u2026",
+  "geo": null,
+  "id": 1262955700990468097,
+  "id_str": "1262955700990468097",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1262759966143700992,
+  "quoted_status_id_str": "1262759966143700992",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realbrysongray\u2026",
+    "expanded": "https://twitter.com/realbrysongray/status/1262759966143700992",
+    "url": "https://t.co/T2zTXMEw0K"
+  },
+  "retweet_count": 4755,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 19 18:24:46 +0000 2020",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realbrysongray\u2026",
+          "expanded_url": "https://twitter.com/realbrysongray/status/1262759966143700992",
+          "indices": [
+            128,
+            151
+          ],
+          "url": "https://t.co/T2zTXMEw0K"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 18173,
+    "favorited": false,
+    "full_text": "My favorite maga couple!!! Y\u2019all don\u2019t know these people off social media so you don\u2019t know they\u2019re as real as they are online. https://t.co/T2zTXMEw0K",
+    "geo": null,
+    "id": 1262811450386649091,
+    "id_str": "1262811450386649091",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue May 19 15:00:11 +0000 2020",
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/L6iK3MPEIH",
+            "expanded_url": "https://twitter.com/RealBrysonGray/status/1262759966143700992/photo/1",
+            "id": 1262759923865268224,
+            "id_str": "1262759923865268224",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYY5ddqWsAA7Ih7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYY5ddqWsAA7Ih7.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/L6iK3MPEIH"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/L6iK3MPEIH",
+            "expanded_url": "https://twitter.com/RealBrysonGray/status/1262759966143700992/photo/1",
+            "id": 1262759923865268224,
+            "id_str": "1262759923865268224",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYY5ddqWsAA7Ih7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYY5ddqWsAA7Ih7.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/L6iK3MPEIH"
+          },
+          {
+            "display_url": "pic.twitter.com/L6iK3MPEIH",
+            "expanded_url": "https://twitter.com/RealBrysonGray/status/1262759966143700992/photo/1",
+            "id": 1262759923974205448,
+            "id_str": "1262759923974205448",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/EYY5deEU8AgViAx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EYY5deEU8AgViAx.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1536
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 900
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 510
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/L6iK3MPEIH"
+          }
+        ]
+      },
+      "favorite_count": 22073,
+      "favorited": false,
+      "full_text": "These pictures will make liberals cry and the snowflakes will melt\n\nMAGA https://t.co/L6iK3MPEIH",
+      "geo": null,
+      "id": 1262759966143700992,
+      "id_str": "1262759966143700992",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 5459,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Dec 28 03:45:54 +0000 2014",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@TPUSA Ambassador. political junkie. right wing nut. Fortnite streamer. bible reader. music artist. If you want to support me - Venmo: SuriusVsVodka",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/aj6LCzvod8Y",
+                "expanded_url": "https://youtu.be/aj6LCzvod8Y",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/WAsR8wj20y"
+              }
+            ]
+          }
+        },
+        "favourites_count": 14985,
+        "follow_request_sent": false,
+        "followers_count": 68106,
+        "following": false,
+        "friends_count": 12532,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 2945287090,
+        "id_str": "2945287090",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 128,
+        "location": "NC",
+        "name": "Bryson Gray",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2945287090/1588845330",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1247693661095317504/OvJc3086_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1247693661095317504/OvJc3086_normal.jpg",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RealBrysonGray",
+        "statuses_count": 49819,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/WAsR8wj20y",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1262759966143700992,
+    "quoted_status_id_str": "1262759966143700992",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realbrysongray\u2026",
+      "expanded": "https://twitter.com/realbrysongray/status/1262759966143700992",
+      "url": "https://t.co/T2zTXMEw0K"
+    },
+    "retweet_count": 4755,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 07 01:13:31 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "All-American Patriot, Conservative Christian, Host of You Just Know Podcast",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 48,
+      "follow_request_sent": false,
+      "followers_count": 907,
+      "following": false,
+      "friends_count": 56,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 1070848747846930432,
+      "id_str": "1070848747846930432",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "",
+      "name": "Danielle McInturff",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070848747846930432/1585751765",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1245448027336257543/eyCMhFa1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1245448027336257543/eyCMhFa1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "danraemc",
+      "statuses_count": 83,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80065671,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113403,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51814,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 05 12:02:40 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18632666,
+        "id_str": "18632666",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Senator Jerry Moran",
+        "screen_name": "JerryMoran"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JerryMoran: Joined Hocker Grove Middle School to help distribute meals as part of the school lunch program. It is one of four sites wit\u2026",
+  "geo": null,
+  "id": 1268875885664522240,
+  "id_str": "1268875885664522240",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1360,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 13:16:30 +0000 2020",
+    "display_text_range": [
+      0,
+      270
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/55HAJIcxN4",
+          "expanded_url": "https://twitter.com/JerryMoran/status/1267807301949407232/photo/1",
+          "id": 1267807079055704065,
+          "id_str": "1267807079055704065",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZgn0j7XQAEHcI5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZgn0j7XQAEHcI5.jpg",
+          "sizes": {
+            "large": {
+              "h": 1512,
+              "resize": "fit",
+              "w": 2016
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/55HAJIcxN4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 84079993,
+          "id_str": "84079993",
+          "indices": [
+            127,
+            135
+          ],
+          "name": "SM School District",
+          "screen_name": "theSMSD"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/55HAJIcxN4",
+          "expanded_url": "https://twitter.com/JerryMoran/status/1267807301949407232/photo/1",
+          "id": 1267807079055704065,
+          "id_str": "1267807079055704065",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZgn0j7XQAEHcI5.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZgn0j7XQAEHcI5.jpg",
+          "sizes": {
+            "large": {
+              "h": 1512,
+              "resize": "fit",
+              "w": 2016
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/55HAJIcxN4"
+        },
+        {
+          "display_url": "pic.twitter.com/55HAJIcxN4",
+          "expanded_url": "https://twitter.com/JerryMoran/status/1267807301949407232/photo/1",
+          "id": 1267807079051526144,
+          "id_str": "1267807079051526144",
+          "indices": [
+            271,
+            294
+          ],
+          "media_url": "http://pbs.twimg.com/media/EZgn0j6XgAANcDr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EZgn0j6XgAANcDr.jpg",
+          "sizes": {
+            "large": {
+              "h": 1512,
+              "resize": "fit",
+              "w": 2016
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/55HAJIcxN4"
+        }
+      ]
+    },
+    "favorite_count": 5194,
+    "favorited": false,
+    "full_text": "Joined Hocker Grove Middle School to help distribute meals as part of the school lunch program. It is one of four sites within @theSMSD distributing meals while schools are closed, continuing an important program to make certain our children\u2019s nutritional needs are met. https://t.co/55HAJIcxN4",
+    "geo": null,
+    "id": 1267807301949407232,
+    "id_str": "1267807301949407232",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1360,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 05 14:25:22 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official account of U.S. Senator Jerry Moran. Honored to represent Kansans in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "moran.senate.gov",
+              "expanded_url": "http://www.moran.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/CBA3beMHNs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1136,
+      "follow_request_sent": false,
+      "followers_count": 110278,
+      "following": false,
+      "friends_count": 3078,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18632666,
+      "id_str": "18632666",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2189,
+      "location": "Kansas",
+      "name": "Senator Jerry Moran",
+      "notifications": false,
+      "profile_background_color": "0F3254",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18632666/1509573111",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250061698716884992/yX1oOxBD_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250061698716884992/yX1oOxBD_normal.jpg",
+      "profile_link_color": "55ACEE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F2F2F2",
+      "profile_text_color": "545454",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JerryMoran",
+      "statuses_count": 6191,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/CBA3beMHNs",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81867657,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114911,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52646,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

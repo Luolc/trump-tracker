@@ -1,0 +1,306 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 20 14:01:55 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: \u201cEvery person who leaves the hospital is a win and celebrated by our staff. We play \u2018Here Comes the Sun\u2019 over the loudspeak\u2026",
+  "geo": null,
+  "id": 1252236056621023242,
+  "id_str": "1252236056621023242",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9987,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 20 02:36:41 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PgnrhhweJg",
+          "expanded_url": "https://twitter.com/DanScavino/status/1252063611616444428/video/1",
+          "id": 1252063459530997763,
+          "id_str": "1252063459530997763",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252063459530997763/pu/img/AbpyLXYhxYTGiWEh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252063459530997763/pu/img/AbpyLXYhxYTGiWEh.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PgnrhhweJg"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "instagram.com/p/B-0bl0gJ0pW/\u2026",
+          "expanded_url": "https://www.instagram.com/p/B-0bl0gJ0pW/?igshid=djyexhtyk52a",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/LTNEPFDXcz"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/PgnrhhweJg",
+          "expanded_url": "https://twitter.com/DanScavino/status/1252063611616444428/video/1",
+          "id": 1252063459530997763,
+          "id_str": "1252063459530997763",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1252063459530997763/pu/img/AbpyLXYhxYTGiWEh.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1252063459530997763/pu/img/AbpyLXYhxYTGiWEh.jpg",
+          "sizes": {
+            "large": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 640,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PgnrhhweJg",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 32000,
+            "variants": [
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1252063459530997763/pu/vid/320x320/zR0bSGgCSvLplLRs.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1252063459530997763/pu/vid/480x480/6epTHID6z4kH00sn.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1252063459530997763/pu/pl/XnnGDwe4KOXAFQd8.m3u8?tag=10"
+              },
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1252063459530997763/pu/vid/640x640/39OGbRZ0MtTuLid5.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40402,
+    "favorited": false,
+    "full_text": "\u201cEvery person who leaves the hospital is a win and celebrated by our staff. We play \u2018Here Comes the Sun\u2019 over the loudspeaker each time. Today we heard the beloved Beatles song a lot, sounding sweeter each time. Including for 80+ year old Rita shown here.\u201d https://t.co/LTNEPFDXcz https://t.co/PgnrhhweJg",
+    "geo": null,
+    "id": 1252063611616444428,
+    "id_str": "1252063611616444428",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9987,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal account. Currently serving as Assistant to the President and Director of Social Media at the White House. For official announcements, go to @Scavino45.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 2881,
+      "follow_request_sent": false,
+      "followers_count": 780277,
+      "following": false,
+      "friends_count": 649,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3922,
+      "location": "",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1582938126",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1231129156391460864/xVlj1QX__normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 10917,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77929316,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50841,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

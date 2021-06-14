@@ -1,0 +1,510 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 22 19:46:45 +0000 2020",
+  "display_text_range": [
+    0,
+    53
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          29
+        ],
+        "text": "RollingToRemember"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/7zZUZXOojz",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1263919244485550081/video/1",
+        "id": 1263918881623740419,
+        "id_str": "1263918881623740419",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263918881623740419/pu/img/zckKCK57XLBjhnm-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263918881623740419/pu/img/zckKCK57XLBjhnm-.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/7zZUZXOojz"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/amvetshq/statu\u2026",
+        "expanded_url": "https://twitter.com/amvetshq/status/1263876767359602693",
+        "indices": [
+          30,
+          53
+        ],
+        "url": "https://t.co/JswZQq3cKO"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/7zZUZXOojz",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1263919244485550081/video/1",
+        "id": 1263918881623740419,
+        "id_str": "1263918881623740419",
+        "indices": [
+          54,
+          77
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1263918881623740419/pu/img/zckKCK57XLBjhnm-.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1263918881623740419/pu/img/zckKCK57XLBjhnm-.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/7zZUZXOojz",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 55060,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263918881623740419/pu/vid/1280x720/2l-nh7V94BGdVgrB.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1263918881623740419/pu/pl/12YMKIqbM61OGkuw.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263918881623740419/pu/vid/480x270/WDw99ptpTldvVTGA.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1263918881623740419/pu/vid/640x360/E-ncET1VjEJ9ilTW.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 62126,
+  "favorited": false,
+  "full_text": "THANK YOU! #RollingToRemember https://t.co/JswZQq3cKO https://t.co/7zZUZXOojz",
+  "geo": null,
+  "id": 1263919244485550081,
+  "id_str": "1263919244485550081",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 22 16:57:57 +0000 2020",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            50,
+            69
+          ],
+          "text": "MemorialDayWeekend"
+        },
+        {
+          "indices": [
+            98,
+            116
+          ],
+          "text": "RollingToRemember"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a75kF2Nr4J",
+          "expanded_url": "https://twitter.com/AMVETSHQ/status/1263876767359602693/photo/1",
+          "id": 1263876763672772614,
+          "id_str": "1263876763672772614",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYoxOGKWAAYAXGP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYoxOGKWAAYAXGP.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a75kF2Nr4J"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            10,
+            16
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            17,
+            33
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/a75kF2Nr4J",
+          "expanded_url": "https://twitter.com/AMVETSHQ/status/1263876767359602693/photo/1",
+          "id": 1263876763672772614,
+          "id_str": "1263876763672772614",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYoxOGKWAAYAXGP.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYoxOGKWAAYAXGP.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a75kF2Nr4J"
+        },
+        {
+          "display_url": "pic.twitter.com/a75kF2Nr4J",
+          "expanded_url": "https://twitter.com/AMVETSHQ/status/1263876767359602693/photo/1",
+          "id": 1263876763685453824,
+          "id_str": "1263876763685453824",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYoxOGNXgAAL-fl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYoxOGNXgAAL-fl.jpg",
+          "sizes": {
+            "large": {
+              "h": 549,
+              "resize": "fit",
+              "w": 828
+            },
+            "medium": {
+              "h": 549,
+              "resize": "fit",
+              "w": 828
+            },
+            "small": {
+              "h": 451,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a75kF2Nr4J"
+        },
+        {
+          "display_url": "pic.twitter.com/a75kF2Nr4J",
+          "expanded_url": "https://twitter.com/AMVETSHQ/status/1263876767359602693/photo/1",
+          "id": 1263876763685457927,
+          "id_str": "1263876763685457927",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYoxOGNXkAcM3l3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYoxOGNXkAcM3l3.jpg",
+          "sizes": {
+            "large": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 682,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/a75kF2Nr4J"
+        }
+      ]
+    },
+    "favorite_count": 8036,
+    "favorited": false,
+    "full_text": "Thank you @POTUS @realDonaldTrump for kicking off #MemorialDayWeekend with American Veterans. \ud83c\uddfa\ud83c\uddf8\n\n#RollingToRemember https://t.co/a75kF2Nr4J",
+    "geo": null,
+    "id": 1263876767359602693,
+    "id_str": "1263876767359602693",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2947,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Sep 15 15:21:55 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the interests of 20M American #veterans, including Guard & Reserve, for more than 75 years. Join us \u2935\ufe0f",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amvets.org",
+              "expanded_url": "http://amvets.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/t8jENCO56D"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7558,
+      "follow_request_sent": false,
+      "followers_count": 12386,
+      "following": false,
+      "friends_count": 1177,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 776440918467411968,
+      "id_str": "776440918467411968",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 93,
+      "location": "Nationwide \ud83c\uddfa\ud83c\uddf8",
+      "name": "AMVETS",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/776440918467411968/1589836403",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1262491134946836482/UZnd--a5_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262491134946836482/UZnd--a5_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "AMVETSHQ",
+      "statuses_count": 9869,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/t8jENCO56D",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1263876767359602693,
+  "quoted_status_id_str": "1263876767359602693",
+  "quoted_status_permalink": {
+    "display": "twitter.com/amvetshq/statu\u2026",
+    "expanded": "https://twitter.com/amvetshq/status/1263876767359602693",
+    "url": "https://t.co/JswZQq3cKO"
+  },
+  "retweet_count": 20223,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80172282,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113448,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51915,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

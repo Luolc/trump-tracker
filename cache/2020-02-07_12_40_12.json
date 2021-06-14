@@ -1,0 +1,453 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Feb 07 12:40:12 +0000 2020",
+  "display_text_range": [
+    0,
+    77
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: One would think a Native American woman would be more welcoming.",
+  "geo": null,
+  "id": 1225761174639333377,
+  "id_str": "1225761174639333377",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1225597047396556800,
+  "quoted_status_id_str": "1225597047396556800",
+  "quoted_status_permalink": {
+    "display": "twitter.com/tomselliott/st\u2026",
+    "expanded": "https://twitter.com/tomselliott/status/1225597047396556800",
+    "url": "https://t.co/jIXplZeCfP"
+  },
+  "retweet_count": 7836,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 07 05:15:55 +0000 2020",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/tomselliott/st\u2026",
+          "expanded_url": "https://twitter.com/tomselliott/status/1225597047396556800",
+          "indices": [
+            65,
+            88
+          ],
+          "url": "https://t.co/jIXplZeCfP"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 32433,
+    "favorited": false,
+    "full_text": "One would think a Native American woman would be more welcoming. https://t.co/jIXplZeCfP",
+    "geo": null,
+    "id": 1225649368046305280,
+    "id_str": "1225649368046305280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Feb 07 01:48:01 +0000 2020",
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/yf29uW10l7",
+            "expanded_url": "https://twitter.com/tomselliott/status/1225597047396556800/video/1",
+            "id": 1225597017281486848,
+            "id_str": "1225597017281486848",
+            "indices": [
+              151,
+              174
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225597017281486848/pu/img/SpQU-fKZvy9zx4bF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225597017281486848/pu/img/SpQU-fKZvy9zx4bF.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/yf29uW10l7"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 357606935,
+            "id_str": "357606935",
+            "indices": [
+              5,
+              13
+            ],
+            "name": "Elizabeth Warren",
+            "screen_name": "ewarren"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/yf29uW10l7",
+            "expanded_url": "https://twitter.com/tomselliott/status/1225597047396556800/video/1",
+            "id": 1225597017281486848,
+            "id_str": "1225597017281486848",
+            "indices": [
+              151,
+              174
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1225597017281486848/pu/img/SpQU-fKZvy9zx4bF.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1225597017281486848/pu/img/SpQU-fKZvy9zx4bF.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/yf29uW10l7",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                5
+              ],
+              "duration_millis": 87748,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1225597017281486848/pu/pl/hLqOuyBIt7PZUlMg.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1225597017281486848/pu/vid/720x400/j1GaDlH9Z69v1lnR.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1225597017281486848/pu/vid/486x270/QobMR6FC4tn5-qs0.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 3362,
+      "favorited": false,
+      "full_text": "Sen. @ewarren blames America\u2019s \u201clegacy\u201d of \u201cracism and oppression\u201d for her campaign staff creating a \u201ctoxic work environment\u201d for their minority staff https://t.co/yf29uW10l7",
+      "geo": null,
+      "id": 1225597047396556800,
+      "id_str": "1225597047396556800",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1405,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Jun 22 17:30:02 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Biased. Founder, editor @GrabienMedia & https://t.co/lbLNiEKKpn Some of my fave funk: https://t.co/dLaMZ25oZz tom@grabien.com See it here first.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "NewsLists.co",
+                "expanded_url": "http://NewsLists.co",
+                "indices": [
+                  40,
+                  63
+                ],
+                "url": "https://t.co/lbLNiEKKpn"
+              },
+              {
+                "display_url": "contemporaneousbeats.tumblr.com",
+                "expanded_url": "http://contemporaneousbeats.tumblr.com/",
+                "indices": [
+                  86,
+                  109
+                ],
+                "url": "https://t.co/dLaMZ25oZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grabien.com",
+                "expanded_url": "http://grabien.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mrXnsPXrKk"
+              }
+            ]
+          }
+        },
+        "favourites_count": 11302,
+        "follow_request_sent": false,
+        "followers_count": 25814,
+        "following": false,
+        "friends_count": 568,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 49698174,
+        "id_str": "49698174",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 226,
+        "location": "Madrid, Spain",
+        "name": "Tom Elliott",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/49698174/1479775446",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1167191123615506432/lEL7IBnw_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "tomselliott",
+        "statuses_count": 31762,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mrXnsPXrKk",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1225597047396556800,
+    "quoted_status_id_str": "1225597047396556800",
+    "quoted_status_permalink": {
+      "display": "twitter.com/tomselliott/st\u2026",
+      "expanded": "https://twitter.com/tomselliott/status/1225597047396556800",
+      "url": "https://t.co/jIXplZeCfP"
+    },
+    "retweet_count": 7836,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "tedcruz.org",
+              "expanded_url": "http://www.tedcruz.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dJ4Q3979gw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1422,
+      "follow_request_sent": false,
+      "followers_count": 3575955,
+      "following": false,
+      "friends_count": 6320,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12447,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/727845526805188614/Becds2yE_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 25745,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dJ4Q3979gw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72296337,
+    "following": true,
+    "friends_count": 48,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114335,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48775,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

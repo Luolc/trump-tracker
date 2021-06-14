@@ -1,0 +1,210 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 18 16:22:01 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 234128524,
+        "id_str": "234128524",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Senator Todd Young",
+        "screen_name": "SenToddYoung"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenToddYoung: Speaker Nancy Pelosi\u2019s refusal to provide additional funding for this bipartisan program is indefensible. I\u2019ll continue f\u2026",
+  "geo": null,
+  "id": 1251546535894097920,
+  "id_str": "1251546535894097920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3754,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 15:59:27 +0000 2020",
+    "display_text_range": [
+      0,
+      251
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "young.senate.gov/newsroom/press\u2026",
+          "expanded_url": "https://www.young.senate.gov/newsroom/press-releases/young-statement-on-paycheck-protection-program-funding-lapse",
+          "indices": [
+            228,
+            251
+          ],
+          "url": "https://t.co/knTuB2d6Ga"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10914,
+    "favorited": false,
+    "full_text": "Speaker Nancy Pelosi\u2019s refusal to provide additional funding for this bipartisan program is indefensible. I\u2019ll continue fighting on behalf of Indiana to ensure this program has the funding it needs to protect Hoosier paychecks. https://t.co/knTuB2d6Ga",
+    "geo": null,
+    "id": 1250816082295820289,
+    "id_str": "1250816082295820289",
+    "in_reply_to_screen_name": "SenToddYoung",
+    "in_reply_to_status_id": 1250816081041776643,
+    "in_reply_to_status_id_str": "1250816081041776643",
+    "in_reply_to_user_id": 234128524,
+    "in_reply_to_user_id_str": "234128524",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3754,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 04 22:35:16 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I proudly serve Hoosier families in the U.S. Senate. Contact my office at (202) 224-5623 for assistance. You can also visit our website for additional info.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Young.Senate.Gov",
+              "expanded_url": "http://Young.Senate.Gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IhAAMvhCKv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 196,
+      "follow_request_sent": false,
+      "followers_count": 55877,
+      "following": false,
+      "friends_count": 505,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 234128524,
+      "id_str": "234128524",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1650,
+      "location": "Indiana",
+      "name": "Senator Todd Young",
+      "notifications": false,
+      "profile_background_color": "00346F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/234128524/1555085359",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/839534166727360514/sm9KrCLP_normal.jpg",
+      "profile_link_color": "1D69A7",
+      "profile_sidebar_border_color": "1D69A7",
+      "profile_sidebar_fill_color": "EAEAEA",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenToddYoung",
+      "statuses_count": 6047,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IhAAMvhCKv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

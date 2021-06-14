@@ -1,0 +1,261 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 29 04:09:30 +0000 2020",
+  "display_text_range": [
+    0,
+    267
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/maelvirasalaza\u2026",
+        "expanded_url": "https://twitter.com/maelvirasalazar/status/1310970808697843718",
+        "indices": [
+          268,
+          291
+        ],
+        "url": "https://t.co/4GumAgOA3J"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 737719829579345920,
+        "id_str": "737719829579345920",
+        "indices": [
+          123,
+          136
+        ],
+        "name": "Donna E. Shalala",
+        "screen_name": "DonnaShalala"
+      }
+    ]
+  },
+  "favorite_count": 61135,
+  "favorited": false,
+  "full_text": "Maria is badly needed in Washington. She is an outstanding person who truly loves her Country and her State. Her opponent, @DonnaShalala, is a political hack who is a puppet of Nancy Pelosi. She does nothing for Florida. Maria has my Complete &amp; Total Endorsement! https://t.co/4GumAgOA3J",
+  "geo": null,
+  "id": 1321665437164339203,
+  "id_str": "1321665437164339203",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 15:52:52 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "miamiherald.com/news/politics-\u2026",
+          "expanded_url": "https://www.miamiherald.com/news/politics-government/article246072375.html",
+          "indices": [
+            254,
+            277
+          ],
+          "url": "https://t.co/Vqy5ACr9GD"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 3751,
+    "favorited": false,
+    "full_text": "People are sick of politicians like Donna Shalala who think they are above the law. Congressmen are elected to go to Washington to represent the needs of their district not to line their own pockets. Donna Shalala has now broken the law several times. \n\nhttps://t.co/Vqy5ACr9GD",
+    "geo": null,
+    "id": 1310970808697843718,
+    "id_str": "1310970808697843718",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -87.634643,
+              24.396308
+            ],
+            [
+              -79.974307,
+              24.396308
+            ],
+            [
+              -79.974307,
+              31.001056
+            ],
+            [
+              -87.634643,
+              31.001056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Florida, USA",
+      "id": "4ec01c9dbc693497",
+      "name": "Florida",
+      "place_type": "admin",
+      "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 1711,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri May 15 17:04:40 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Candidate for #USCongress #FL27\ud83c\uddfa\ud83c\uddf8\nAward-winning journalist of over 35 years. Leading voice on #USHispanics, #Immigration, & All Things #Latino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mariaelvirasalazar.com",
+              "expanded_url": "https://mariaelvirasalazar.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/yHNBMRh5Ec"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1169,
+      "follow_request_sent": false,
+      "followers_count": 82193,
+      "following": false,
+      "friends_count": 279,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 40282700,
+      "id_str": "40282700",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 447,
+      "location": "Miami, FL",
+      "name": "Maria Elvira Salazar \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/40282700/1583420953",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1159488183459033088/RDdtZ2tp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1159488183459033088/RDdtZ2tp_normal.jpg",
+      "profile_link_color": "1A3F76",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "MaElviraSalazar",
+      "statuses_count": 4701,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/yHNBMRh5Ec",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1310970808697843718,
+  "quoted_status_id_str": "1310970808697843718",
+  "quoted_status_permalink": {
+    "display": "twitter.com/maelvirasalaza\u2026",
+    "expanded": "https://twitter.com/maelvirasalazar/status/1310970808697843718",
+    "url": "https://t.co/4GumAgOA3J"
+  },
+  "retweet_count": 15082,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87369707,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121758,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57781,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

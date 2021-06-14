@@ -1,0 +1,246 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 04 15:15:40 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1098615836,
+        "id_str": "1098615836",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Brooke Singman",
+        "screen_name": "BrookeSingman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          30,
+          46
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BrookeSingman: EXCLUSIVE: @realDonaldTrump's campaign has been quietly calling local restaurants and ordering large amounts of food to\u2026",
+  "geo": null,
+  "id": 1246456407861407746,
+  "id_str": "1246456407861407746",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 18674,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 02 17:37:16 +0000 2020",
+    "display_text_range": [
+      0,
+      281
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            234,
+            246
+          ],
+          "text": "coronavirus"
+        },
+        {
+          "indices": [
+            247,
+            255
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "foxnews.com/politics/trump\u2026",
+          "expanded_url": "https://www.foxnews.com/politics/trump-campaign-donates-meals-coronavirus",
+          "indices": [
+            258,
+            281
+          ],
+          "url": "https://t.co/6A3Zfe5QEz"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            11,
+            27
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 45842,
+    "favorited": false,
+    "full_text": "EXCLUSIVE: @realDonaldTrump's campaign has been quietly calling local restaurants and ordering large amounts of food to be delivered to hospitals in an effort to feed doctors,nurses&amp; first responders and support local restaurants #coronavirus #COVID19 \n\nhttps://t.co/6A3Zfe5QEz",
+    "geo": null,
+    "id": 1245767268556066818,
+    "id_str": "1245767268556066818",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 18674,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 17 16:21:38 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Politics Reporter, Fox News Digital",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxnews.com/archive/brooke\u2026",
+              "expanded_url": "http://www.foxnews.com/archive/brooke-singman/index.html",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ojxdVoCYic"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5688,
+      "follow_request_sent": false,
+      "followers_count": 23013,
+      "following": false,
+      "friends_count": 3344,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1098615836,
+      "id_str": "1098615836",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 236,
+      "location": "New York, NY",
+      "name": "Brooke Singman",
+      "notifications": false,
+      "profile_background_color": "DD2E44",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1098615836/1581992570",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1229836602215739399/vk280XAi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1229836602215739399/vk280XAi_normal.jpg",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "BrookeSingman",
+      "statuses_count": 9224,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/ojxdVoCYic",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76006789,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50421,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

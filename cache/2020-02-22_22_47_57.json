@@ -1,0 +1,371 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 22 22:47:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 140178998,
+        "id_str": "140178998",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Alonzo Tejeda",
+        "screen_name": "fonzy1984"
+      },
+      {
+        "id": 18379614,
+        "id_str": "18379614",
+        "indices": [
+          15,
+          27
+        ],
+        "name": "Dave Rubin",
+        "screen_name": "RubinReport"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @fonzy1984: @RubinReport What about the Hispanic vote? Hispanics might shy away with immigration effecting them as it has effected me bu\u2026",
+  "geo": null,
+  "id": 1231349937620865024,
+  "id_str": "1231349937620865024",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4382,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 08 03:01:36 +0000 2020",
+    "display_text_range": [
+      13,
+      290
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            137,
+            147
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            148,
+            166
+          ],
+          "text": "HispanicsForTrump"
+        },
+        {
+          "indices": [
+            167,
+            189
+          ],
+          "text": "OneMustHavePrinciples"
+        },
+        {
+          "indices": [
+            282,
+            290
+          ],
+          "text": "Liberty"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/v6uOwO9zgG",
+          "expanded_url": "https://twitter.com/fonzy1984/status/1225977954632495106/photo/1",
+          "id": 1225977905945047040,
+          "id_str": "1225977905945047040",
+          "indices": [
+            291,
+            314
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQOMaPJU8AAViA0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQOMaPJU8AAViA0.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1592
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 933
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 529
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/v6uOwO9zgG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 18379614,
+          "id_str": "18379614",
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Dave Rubin",
+          "screen_name": "RubinReport"
+        },
+        {
+          "id": 39344374,
+          "id_str": "39344374",
+          "indices": [
+            253,
+            268
+          ],
+          "name": "Donald Trump Jr.",
+          "screen_name": "DonaldJTrumpJr"
+        },
+        {
+          "id": 317385247,
+          "id_str": "317385247",
+          "indices": [
+            269,
+            281
+          ],
+          "name": "Mindy Robinson \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "iheartmindy"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/v6uOwO9zgG",
+          "expanded_url": "https://twitter.com/fonzy1984/status/1225977954632495106/photo/1",
+          "id": 1225977905945047040,
+          "id_str": "1225977905945047040",
+          "indices": [
+            291,
+            314
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQOMaPJU8AAViA0.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQOMaPJU8AAViA0.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1592
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 933
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 529
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/v6uOwO9zgG"
+        },
+        {
+          "display_url": "pic.twitter.com/v6uOwO9zgG",
+          "expanded_url": "https://twitter.com/fonzy1984/status/1225977954632495106/photo/1",
+          "id": 1225977928317464577,
+          "id_str": "1225977928317464577",
+          "indices": [
+            291,
+            314
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQOMbifU8AEG5W1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQOMbifU8AEG5W1.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1536
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 900
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 510
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/v6uOwO9zgG"
+        }
+      ]
+    },
+    "favorite_count": 16137,
+    "favorited": false,
+    "full_text": "@RubinReport What about the Hispanic vote? Hispanics might shy away with immigration effecting them as it has effected me but I'm voting #Trump2020 #HispanicsForTrump #OneMustHavePrinciples also dinner taste better with this hat, dinner is great again. @DonaldJTrumpJr @iheartmindy #Liberty https://t.co/v6uOwO9zgG",
+    "geo": null,
+    "id": 1225977954632495106,
+    "id_str": "1225977954632495106",
+    "in_reply_to_screen_name": "RubinReport",
+    "in_reply_to_status_id": 1225975769953755136,
+    "in_reply_to_status_id_str": "1225975769953755136",
+    "in_reply_to_user_id": 18379614,
+    "in_reply_to_user_id_str": "18379614",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4382,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 04 20:27:05 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u201cHard times create strong men. Strong men create good times. Good times create weak men. And, weak men create hard times.\u201d  \u2015 G. Michael Hopf\n \u039c\u039f\u039b\u03a9\u039d \u039b\u0391\u0392\u0395",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 7314,
+      "follow_request_sent": false,
+      "followers_count": 794,
+      "following": false,
+      "friends_count": 431,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 140178998,
+      "id_str": "140178998",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10,
+      "location": "Idaho Falls, Idaho",
+      "name": "Alonzo Tejeda",
+      "notifications": false,
+      "profile_background_color": "05141C",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/140178998/1511201840",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/698100005064683520/9ygvdX0U_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/698100005064683520/9ygvdX0U_normal.jpg",
+      "profile_link_color": "27570F",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fonzy1984",
+      "statuses_count": 4020,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 72837901,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115027,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49234,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

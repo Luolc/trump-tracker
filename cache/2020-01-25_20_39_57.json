@@ -1,0 +1,644 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 25 20:39:57 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 20217019,
+        "id_str": "20217019",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Doug Ducey",
+        "screen_name": "dougducey"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @dougducey: Excited to kick off the annual AZGOP state meeting! Thanks to all our hardworking PCs and volunteers \u2014 your tireless work is\u2026",
+  "geo": null,
+  "id": 1221170866198847489,
+  "id_str": "1221170866198847489",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2699,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 25 17:08:36 +0000 2020",
+    "display_text_range": [
+      0,
+      169
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ucWn45Cg3k",
+          "expanded_url": "https://twitter.com/dougducey/status/1221117679693467648/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 976,
+                  "y": 398
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 804,
+                  "y": 1252
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 571,
+                  "y": 233
+                },
+                {
+                  "h": 63,
+                  "w": 63,
+                  "x": 471,
+                  "y": 733
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 976,
+                  "y": 398
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 804,
+                  "y": 1252
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 324,
+                  "y": 132
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 266,
+                  "y": 415
+                }
+              ]
+            }
+          },
+          "id": 1221117662102609927,
+          "id_str": "1221117662102609927",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJICz6U4AcpDmy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJICz6U4AcpDmy.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucWn45Cg3k"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ucWn45Cg3k",
+          "expanded_url": "https://twitter.com/dougducey/status/1221117679693467648/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 976,
+                  "y": 398
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 804,
+                  "y": 1252
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 73,
+                  "w": 73,
+                  "x": 571,
+                  "y": 233
+                },
+                {
+                  "h": 63,
+                  "w": 63,
+                  "x": 471,
+                  "y": 733
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 126,
+                  "w": 126,
+                  "x": 976,
+                  "y": 398
+                },
+                {
+                  "h": 108,
+                  "w": 108,
+                  "x": 804,
+                  "y": 1252
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 41,
+                  "w": 41,
+                  "x": 324,
+                  "y": 132
+                },
+                {
+                  "h": 35,
+                  "w": 35,
+                  "x": 266,
+                  "y": 415
+                }
+              ]
+            }
+          },
+          "id": 1221117662102609927,
+          "id_str": "1221117662102609927",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJICz6U4AcpDmy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJICz6U4AcpDmy.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucWn45Cg3k"
+        },
+        {
+          "display_url": "pic.twitter.com/ucWn45Cg3k",
+          "expanded_url": "https://twitter.com/dougducey/status/1221117679693467648/photo/1",
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id": 1221117662119415808,
+          "id_str": "1221117662119415808",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJICz-VUAAs07M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJICz-VUAAs07M.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucWn45Cg3k"
+        },
+        {
+          "display_url": "pic.twitter.com/ucWn45Cg3k",
+          "expanded_url": "https://twitter.com/dougducey/status/1221117679693467648/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 406,
+                  "y": 396
+                },
+                {
+                  "h": 166,
+                  "w": 166,
+                  "x": 1352,
+                  "y": 352
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 65,
+                  "w": 65,
+                  "x": 237,
+                  "y": 232
+                },
+                {
+                  "h": 97,
+                  "w": 97,
+                  "x": 792,
+                  "y": 206
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 112,
+                  "w": 112,
+                  "x": 406,
+                  "y": 396
+                },
+                {
+                  "h": 166,
+                  "w": 166,
+                  "x": 1352,
+                  "y": 352
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 37,
+                  "w": 37,
+                  "x": 134,
+                  "y": 131
+                },
+                {
+                  "h": 55,
+                  "w": 55,
+                  "x": 448,
+                  "y": 116
+                }
+              ]
+            }
+          },
+          "id": 1221117663339929600,
+          "id_str": "1221117663339929600",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJIC4hU4AAqdJ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJIC4hU4AAqdJ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucWn45Cg3k"
+        },
+        {
+          "display_url": "pic.twitter.com/ucWn45Cg3k",
+          "expanded_url": "https://twitter.com/dougducey/status/1221117679693467648/photo/1",
+          "features": {
+            "large": {
+              "faces": [
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1070,
+                  "y": 460
+                }
+              ]
+            },
+            "medium": {
+              "faces": [
+                {
+                  "h": 76,
+                  "w": 76,
+                  "x": 626,
+                  "y": 269
+                }
+              ]
+            },
+            "orig": {
+              "faces": [
+                {
+                  "h": 130,
+                  "w": 130,
+                  "x": 1070,
+                  "y": 460
+                }
+              ]
+            },
+            "small": {
+              "faces": [
+                {
+                  "h": 43,
+                  "w": 43,
+                  "x": 355,
+                  "y": 152
+                }
+              ]
+            }
+          },
+          "id": 1221117670696701952,
+          "id_str": "1221117670696701952",
+          "indices": [
+            170,
+            193
+          ],
+          "media_url": "http://pbs.twimg.com/media/EPJIDT7UUAAf6DY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EPJIDT7UUAAf6DY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ucWn45Cg3k"
+        }
+      ]
+    },
+    "favorite_count": 9813,
+    "favorited": false,
+    "full_text": "Excited to kick off the annual AZGOP state meeting! Thanks to all our hardworking PCs and volunteers \u2014 your tireless work is what propels us to victory in November! \ud83c\uddfa\ud83c\uddf8\ud83c\udf35\ud83d\udc18 https://t.co/ucWn45Cg3k",
+    "geo": null,
+    "id": 1221117679693467648,
+    "id_str": "1221117679693467648",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2699,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 06 04:35:14 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Governor of Arizona",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "AZGovernor.gov",
+              "expanded_url": "http://www.AZGovernor.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4V4ij8i9ta"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7636,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 69504,
+      "following": false,
+      "friends_count": 1695,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 20217019,
+      "id_str": "20217019",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 936,
+      "location": "Arizona, USA",
+      "name": "Doug Ducey",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20217019/1578929247",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1217132271691431936/p5vdk8OJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1217132271691431936/p5vdk8OJ_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "dougducey",
+      "statuses_count": 16553,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4V4ij8i9ta",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

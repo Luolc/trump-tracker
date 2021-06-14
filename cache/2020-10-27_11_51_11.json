@@ -1,0 +1,334 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 27 11:51:11 +0000 2020",
+  "display_text_range": [
+    0,
+    115
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/toddstarnes/st\u2026",
+        "expanded_url": "https://twitter.com/toddstarnes/status/1320498400194940928",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/3KcpdwTmjv"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 68293,
+  "favorited": false,
+  "full_text": "The Real Polls are now saying that I am WINNING! Biggest (and most exciting) Rallies EVER. Rasmussen, 53% National. https://t.co/3KcpdwTmjv",
+  "geo": null,
+  "id": 1321056850633252864,
+  "id_str": "1321056850633252864",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 22:52:06 +0000 2020",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            39
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/rv63XHjFCA",
+          "expanded_url": "https://twitter.com/toddstarnes/status/1320498400194940928/video/1",
+          "id": 1320497782705299458,
+          "id_str": "1320497782705299458",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320497782705299458/pu/img/uFHSGJO4WDMM4Al2.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320497782705299458/pu/img/uFHSGJO4WDMM4Al2.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rv63XHjFCA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "toddstarnes.com",
+          "expanded_url": "https://toddstarnes.com",
+          "indices": [
+            107,
+            130
+          ],
+          "url": "https://t.co/X4rQVZ0IPa"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/rv63XHjFCA",
+          "expanded_url": "https://twitter.com/toddstarnes/status/1320498400194940928/video/1",
+          "id": 1320497782705299458,
+          "id_str": "1320497782705299458",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320497782705299458/pu/img/uFHSGJO4WDMM4Al2.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320497782705299458/pu/img/uFHSGJO4WDMM4Al2.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rv63XHjFCA",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 21129,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1320497782705299458/pu/vid/480x270/j7PmGPUB5oC6OuG7.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1320497782705299458/pu/pl/rfx50wIFHN_ZP4x5.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1320497782705299458/pu/vid/640x360/B_KLtqSHSlER4jMO.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1320497782705299458/pu/vid/1280x720/0oMFqQQ9nAP-NIqw.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8405,
+    "favorited": false,
+    "full_text": "- Polls say Trump is losing...\n\n- #MAGA rally show largest crowds ever...\n\nDo you trust the polls? \n\nMore: https://t.co/X4rQVZ0IPa https://t.co/rv63XHjFCA",
+    "geo": null,
+    "id": 1320498400194940928,
+    "id_str": "1320498400194940928",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2246,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jul 21 14:09:17 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Starnes Media Group. Author, Nationally Syndicated Radio Host",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "toddstarnes.com",
+              "expanded_url": "http://www.toddstarnes.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/DYS5t6aIfE"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5488,
+      "follow_request_sent": false,
+      "followers_count": 149915,
+      "following": false,
+      "friends_count": 14554,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 15515169,
+      "id_str": "15515169",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2158,
+      "location": "Memphis, TN",
+      "name": "toddstarnes",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15515169/1570191945",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1133030176055599105/O1ILMZmZ_normal.png",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "toddstarnes",
+      "statuses_count": 73782,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/DYS5t6aIfE",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1320498400194940928,
+  "quoted_status_id_str": "1320498400194940928",
+  "quoted_status_permalink": {
+    "display": "twitter.com/toddstarnes/st\u2026",
+    "expanded": "https://twitter.com/toddstarnes/status/1320498400194940928",
+    "url": "https://t.co/3KcpdwTmjv"
+  },
+  "retweet_count": 13871,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87364731,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121730,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57751,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

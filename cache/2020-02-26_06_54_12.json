@@ -1,0 +1,341 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 26 06:54:12 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 851526166100029442,
+        "id_str": "851526166100029442",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "The Next Revolution",
+        "screen_name": "NextRevFNC"
+      },
+      {
+        "id": 259001548,
+        "id_str": "259001548",
+        "indices": [
+          17,
+          33
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "kayleighmcenany"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NextRevFNC: .@KayleighMcEnany: \"You can't beat President Trump who's breaking records  in polling, breaking records in economic satisfa\u2026",
+  "geo": null,
+  "id": 1232559470980415488,
+  "id_str": "1232559470980415488",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 1149,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 24 17:52:11 +0000 2020",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            134,
+            145
+          ],
+          "text": "NextRevFNC"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VcyjKkvh9a",
+          "expanded_url": "https://twitter.com/NextRevFNC/status/1232000282323800064/video/1",
+          "id": 1231999156111237121,
+          "id_str": "1231999156111237121",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERjwyIMWkAA8-vz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERjwyIMWkAA8-vz.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VcyjKkvh9a"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 259001548,
+          "id_str": "259001548",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "kayleighmcenany"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/VcyjKkvh9a",
+          "expanded_url": "https://twitter.com/NextRevFNC/status/1232000282323800064/video/1",
+          "id": 1231999156111237121,
+          "id_str": "1231999156111237121",
+          "indices": [
+            146,
+            169
+          ],
+          "media_url": "http://pbs.twimg.com/media/ERjwyIMWkAA8-vz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ERjwyIMWkAA8-vz.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/VcyjKkvh9a",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 22390,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1231999156111237121/vid/640x360/naloM0QFz5N7bUS5.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1231999156111237121/pl/V4OAZzuhdf5pVJxE.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1231999156111237121/vid/1280x720/6Lc6KPgX332P5c1i.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1231999156111237121/vid/480x270/Y8mVWVdoSdYC7RqV.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3850,
+    "favorited": false,
+    "full_text": ".@KayleighMcEnany: \"You can't beat President Trump who's breaking records  in polling, breaking records in economic satisfaction...\"\n\n#NextRevFNC https://t.co/VcyjKkvh9a",
+    "geo": null,
+    "id": 1232000282323800064,
+    "id_str": "1232000282323800064",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1149,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Apr 10 20:03:53 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "The Next Revolution with @SteveHiltonx focuses on the impact of #PositivePopulism in the U.S. and throughout the world. Sundays at 9PM ET on @FoxNews.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "foxnews.com/on-air/the-nex\u2026",
+              "expanded_url": "http://www.foxnews.com/on-air/the-next-revolution-with-steve-hilton/index.html",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NKSexqASJ4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 560,
+      "follow_request_sent": false,
+      "followers_count": 52157,
+      "following": false,
+      "friends_count": 242,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 851526166100029442,
+      "id_str": "851526166100029442",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 263,
+      "location": "Los Angeles, CA",
+      "name": "The Next Revolution",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/851526166100029442/1499439721",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139561116152020994/oj4bVZjv_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NextRevFNC",
+      "statuses_count": 4450,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/NKSexqASJ4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73053330,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115139,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49327,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

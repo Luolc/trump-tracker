@@ -1,0 +1,427 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 17 22:56:59 +0000 2020",
+  "display_text_range": [
+    0,
+    47
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          6,
+          22
+        ],
+        "text": "ConstitutionDay"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/4pdkdqr75c",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1306728886902968321/video/1",
+        "id": 1306728696435408902,
+        "id_str": "1306728696435408902",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306728696435408902/pu/img/LYXzAIUMMSb2wzto.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306728696435408902/pu/img/LYXzAIUMMSb2wzto.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/4pdkdqr75c"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/usnatarchives/\u2026",
+        "expanded_url": "https://twitter.com/usnatarchives/status/1306568601281986561",
+        "indices": [
+          24,
+          47
+        ],
+        "url": "https://t.co/DoahM18IuK"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/4pdkdqr75c",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1306728886902968321/video/1",
+        "id": 1306728696435408902,
+        "id_str": "1306728696435408902",
+        "indices": [
+          48,
+          71
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1306728696435408902/pu/img/LYXzAIUMMSb2wzto.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1306728696435408902/pu/img/LYXzAIUMMSb2wzto.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/4pdkdqr75c",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 94100,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1306728696435408902/pu/pl/ca8jabbtzwzhVT5x.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1306728696435408902/pu/vid/640x360/HjkSooiMhzKrzSea.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1306728696435408902/pu/vid/480x270/DLnODWlD6A41cmRM.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1306728696435408902/pu/vid/1280x720/SOzeBtSF6z3-5-Dc.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 43335,
+  "favorited": false,
+  "full_text": "Happy #ConstitutionDay! https://t.co/DoahM18IuK https://t.co/4pdkdqr75c",
+  "geo": null,
+  "id": 1306728886902968321,
+  "id_str": "1306728886902968321",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 17 12:20:04 +0000 2020",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            22
+          ],
+          "text": "ConstitutionDay"
+        },
+        {
+          "indices": [
+            79,
+            92
+          ],
+          "text": "Constitution"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NjfjbYYX45",
+          "expanded_url": "https://twitter.com/USNatArchives/status/1306568601281986561/photo/1",
+          "id": 1306568598878552070,
+          "id_str": "1306568598878552070",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiHdN9rWAAYXj7N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiHdN9rWAAYXj7N.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NjfjbYYX45"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "archives.gov/founding-docs/\u2026",
+          "expanded_url": "https://www.archives.gov/founding-docs/join-the-signers",
+          "indices": [
+            110,
+            133
+          ],
+          "url": "https://t.co/Y2izZ3LIpe"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NjfjbYYX45",
+          "expanded_url": "https://twitter.com/USNatArchives/status/1306568601281986561/photo/1",
+          "id": 1306568598878552070,
+          "id_str": "1306568598878552070",
+          "indices": [
+            134,
+            157
+          ],
+          "media_url": "http://pbs.twimg.com/media/EiHdN9rWAAYXj7N.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EiHdN9rWAAYXj7N.jpg",
+          "sizes": {
+            "large": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 1800
+            },
+            "medium": {
+              "h": 800,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 453,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/NjfjbYYX45"
+        }
+      ]
+    },
+    "favorite_count": 3631,
+    "favorited": false,
+    "full_text": "Happy #ConstitutionDay! Now you can sign your name to a virtual version of the #Constitution on our website:\n\nhttps://t.co/Y2izZ3LIpe https://t.co/NjfjbYYX45",
+    "geo": null,
+    "id": 1306568601281986561,
+    "id_str": "1306568601281986561",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1670,
+    "retweeted": false,
+    "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 04 16:35:04 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The nation's record keeper. Follow us for live tweeting of events, two-way conversations, and help with questions.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "archives.gov/social-media/t\u2026",
+              "expanded_url": "http://www.archives.gov/social-media/twitter.html",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/gjmniRBr5k"
+            }
+          ]
+        }
+      },
+      "favourites_count": 53750,
+      "follow_request_sent": false,
+      "followers_count": 220005,
+      "following": false,
+      "friends_count": 312,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 101802390,
+      "id_str": "101802390",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3519,
+      "location": "Washington, D.C.",
+      "name": "US National Archives",
+      "notifications": false,
+      "profile_background_color": "989582",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/101802390/1596476557",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/963519859307892736/OOsXp_hr_normal.jpg",
+      "profile_link_color": "050E5D",
+      "profile_sidebar_border_color": "050E5D",
+      "profile_sidebar_fill_color": "D6E1E6",
+      "profile_text_color": "121212",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "USNatArchives",
+      "statuses_count": 40083,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/gjmniRBr5k",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1306568601281986561,
+  "quoted_status_id_str": "1306568601281986561",
+  "quoted_status_permalink": {
+    "display": "twitter.com/usnatarchives/\u2026",
+    "expanded": "https://twitter.com/usnatarchives/status/1306568601281986561",
+    "url": "https://t.co/DoahM18IuK"
+  },
+  "retweet_count": 13139,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0xp8tD"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 86104753,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119743,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600202078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56083,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0xp8tD",
+    "utc_offset": null,
+    "verified": true
+  }
+}

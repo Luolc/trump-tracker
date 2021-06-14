@@ -1,0 +1,583 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Sep 29 04:19:21 +0000 2020",
+  "display_text_range": [
+    0,
+    90
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          50
+        ],
+        "text": "CashForBallots"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/MxhhjaHRKr",
+        "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1310769554537279489/video/1",
+        "id": 1310769414627786753,
+        "id_str": "1310769414627786753",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1310769554537279489,
+        "source_status_id_str": "1310769554537279489",
+        "source_user_id": 39344374,
+        "source_user_id_str": "39344374",
+        "type": "photo",
+        "url": "https://t.co/MxhhjaHRKr"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 76543481,
+        "id_str": "76543481",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Boris Epshteyn",
+        "screen_name": "BorisEP"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 11 21:18:33 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "DonJr.com",
+                    "expanded_url": "http://DonJr.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mqxNHnqCbK"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 18406,
+            "follow_request_sent": false,
+            "followers_count": 5679886,
+            "following": false,
+            "friends_count": 1483,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 39344374,
+            "id_str": "39344374",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 13603,
+            "location": "",
+            "name": "Donald Trump Jr.",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1598660870",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+            "profile_link_color": "15317E",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DonaldJTrumpJr",
+            "statuses_count": 38245,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/mqxNHnqCbK",
+            "utc_offset": null,
+            "verified": true
+          }
+        },
+        "display_url": "pic.twitter.com/MxhhjaHRKr",
+        "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1310769554537279489/video/1",
+        "id": 1310769414627786753,
+        "id_str": "1310769414627786753",
+        "indices": [
+          67,
+          90
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1310769554537279489,
+        "source_status_id_str": "1310769554537279489",
+        "source_user_id": 39344374,
+        "source_user_id_str": "39344374",
+        "type": "video",
+        "url": "https://t.co/MxhhjaHRKr",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 139647,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/pl/oErATXZ_Pq7SzESc.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/640x360/jO02inB0OyxksWx-.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/480x270/T3YObBSviF0G1wSl.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/1280x720/FJVLjc4BpwIQrDfH.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BorisEP: MUST WATCH! Democrats #CashForBallots scheme exposed. https://t.co/MxhhjaHRKr",
+  "geo": null,
+  "id": 1310796279627341826,
+  "id_str": "1310796279627341826",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7014,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Sep 29 03:19:24 +0000 2020",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            22,
+            37
+          ],
+          "text": "CashForBallots"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MxhhjaHRKr",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1310769554537279489/video/1",
+          "id": 1310769414627786753,
+          "id_str": "1310769414627786753",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1310769554537279489,
+          "source_status_id_str": "1310769554537279489",
+          "source_user_id": 39344374,
+          "source_user_id_str": "39344374",
+          "type": "photo",
+          "url": "https://t.co/MxhhjaHRKr"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon May 11 21:18:33 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "DonJr.com",
+                      "expanded_url": "http://DonJr.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mqxNHnqCbK"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 18406,
+              "follow_request_sent": false,
+              "followers_count": 5679886,
+              "following": false,
+              "friends_count": 1483,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 39344374,
+              "id_str": "39344374",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 13603,
+              "location": "",
+              "name": "Donald Trump Jr.",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1598660870",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+              "profile_link_color": "15317E",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "DonaldJTrumpJr",
+              "statuses_count": 38245,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mqxNHnqCbK",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/MxhhjaHRKr",
+          "expanded_url": "https://twitter.com/DonaldJTrumpJr/status/1310769554537279489/video/1",
+          "id": 1310769414627786753,
+          "id_str": "1310769414627786753",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1310769414627786753/pu/img/BU6xpm_zCkMpFJrb.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1310769554537279489,
+          "source_status_id_str": "1310769554537279489",
+          "source_user_id": 39344374,
+          "source_user_id_str": "39344374",
+          "type": "video",
+          "url": "https://t.co/MxhhjaHRKr",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 139647,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/pl/oErATXZ_Pq7SzESc.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/640x360/jO02inB0OyxksWx-.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/480x270/T3YObBSviF0G1wSl.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1310769414627786753/pu/vid/1280x720/FJVLjc4BpwIQrDfH.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14987,
+    "favorited": false,
+    "full_text": "MUST WATCH! Democrats #CashForBallots scheme exposed. https://t.co/MxhhjaHRKr",
+    "geo": null,
+    "id": 1310781195509207041,
+    "id_str": "1310781195509207041",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7014,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 23 03:12:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@realdonaldtrump 2020 Strategic Advisor, former Special Assistant to POTUS, Comms Director - Trump Inaugural, Battle for 1600 Podcast - https://t.co/oceoPNhuUh",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/32f7y7G",
+              "expanded_url": "http://apple.co/32f7y7G",
+              "indices": [
+                136,
+                159
+              ],
+              "url": "https://t.co/oceoPNhuUh"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "breakfastwithboris.com",
+              "expanded_url": "https://www.breakfastwithboris.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/EqkQFdS8yT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6791,
+      "follow_request_sent": false,
+      "followers_count": 54537,
+      "following": false,
+      "friends_count": 1630,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 76543481,
+      "id_str": "76543481",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 671,
+      "location": "\u00dcT: 40.744258,-73.995578",
+      "name": "Boris Epshteyn",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/76543481/1576720337",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/702382813585268736/iNsEIVNk_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/702382813585268736/iNsEIVNk_normal.png",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "BorisEP",
+      "statuses_count": 13653,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/EqkQFdS8yT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86361853,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120070,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56452,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

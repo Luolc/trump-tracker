@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Aug 14 13:23:17 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          111,
+          118
+        ],
+        "text": "Israel"
+      },
+      {
+        "indices": [
+          119,
+          123
+        ],
+        "text": "UAE"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39510422,
+        "id_str": "39510422",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "RJC",
+        "screen_name": "RJC"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          49,
+          65
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RJC: Even more relevant today... \n\nPresident @realDonaldTrump is the MOST pro-Israel President in history!\n#Israel\n#UAE https://t.co/gd\u2026",
+  "geo": null,
+  "id": 1294263324058759169,
+  "id_str": "1294263324058759169",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2341,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Aug 13 17:12:22 +0000 2020",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            102,
+            109
+          ],
+          "text": "Israel"
+        },
+        {
+          "indices": [
+            110,
+            114
+          ],
+          "text": "UAE"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gds1QwTQCZ",
+          "expanded_url": "https://twitter.com/RJC/status/1293958587560099840/video/1",
+          "id": 1274506866471600128,
+          "id_str": "1274506866471600128",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1274506866471600128/img/VR5W5KMtY3edjniA.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1274506866471600128/img/VR5W5KMtY3edjniA.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gds1QwTQCZ"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "watch_now": {
+                "url": "https://bit.ly/RJC_Sunrise"
+              }
+            },
+            "description": "Sunrise captures the historic relationship between the US & Israel which, thanks to Pres Trump, the most pro-Israel President in history, has been restored & strengthened to a level never seen before.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Sunrise"
+          },
+          "display_url": "pic.twitter.com/gds1QwTQCZ",
+          "expanded_url": "https://twitter.com/RJC/status/1293958587560099840/video/1",
+          "id": 1274506866471600128,
+          "id_str": "1274506866471600128",
+          "indices": [
+            115,
+            138
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1274506866471600128/img/VR5W5KMtY3edjniA.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1274506866471600128/img/VR5W5KMtY3edjniA.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/gds1QwTQCZ",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30489,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1274506866471600128/vid/480x270/dIJ_WZQBdqfSJaWx.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1274506866471600128/vid/640x360/iemExaxVjDngkEdC.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1274506866471600128/pl/gbpVm_bG5KfZlGyU.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1274506866471600128/vid/1280x720/thmQew0gGbhkBjbX.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7305,
+    "favorited": false,
+    "full_text": "Even more relevant today... \n\nPresident @realDonaldTrump is the MOST pro-Israel President in history!\n#Israel\n#UAE https://t.co/gds1QwTQCZ",
+    "geo": null,
+    "id": 1293958587560099840,
+    "id_str": "1293958587560099840",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2341,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue May 12 14:29:41 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A Republican voice in the Jewish community, a voice for American Jews in the GOP.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "rjchq.org",
+              "expanded_url": "http://www.rjchq.org",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/3EjBcH4eH2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1301,
+      "follow_request_sent": false,
+      "followers_count": 64318,
+      "following": false,
+      "friends_count": 23143,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 39510422,
+      "id_str": "39510422",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 745,
+      "location": "",
+      "name": "RJC",
+      "notifications": false,
+      "profile_background_color": "68F915",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39510422/1547675644",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/797105092407291904/IIIvW_vg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/797105092407291904/IIIvW_vg_normal.jpg",
+      "profile_link_color": "0329BA",
+      "profile_sidebar_border_color": "9AD67A",
+      "profile_sidebar_fill_color": "A3A3A3",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RJC",
+      "statuses_count": 64467,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/3EjBcH4eH2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85146932,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118051,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54515,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

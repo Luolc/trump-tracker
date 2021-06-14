@@ -1,0 +1,370 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 21 19:53:01 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1274852794206388225,
+        "id_str": "1274852794206388225",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Rep. James Comer",
+        "screen_name": "RepJamesComer"
+      },
+      {
+        "id": 26487169,
+        "id_str": "26487169",
+        "indices": [
+          26,
+          35
+        ],
+        "name": "Lou Dobbs",
+        "screen_name": "LouDobbs"
+      },
+      {
+        "id": 18166778,
+        "id_str": "18166778",
+        "indices": [
+          63,
+          74
+        ],
+        "name": "Rep. Jim Jordan",
+        "screen_name": "Jim_Jordan"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepJamesComer: Thanks @LouDobbs for recognizing mine &amp; @Jim_Jordan's fight to protect the integrity of our election! Congress should in\u2026",
+  "geo": null,
+  "id": 1330237801066065922,
+  "id_str": "1330237801066065922",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 12137,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Nov 20 18:00:05 +0000 2020",
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/YohbA8Yb44",
+          "expanded_url": "https://twitter.com/RepJamesComer/status/1329846993167003650/video/1",
+          "id": 1329846695195250689,
+          "id_str": "1329846695195250689",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329846695195250689/pu/img/gilgqQuGK59Woyef.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329846695195250689/pu/img/gilgqQuGK59Woyef.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/YohbA8Yb44"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 26487169,
+          "id_str": "26487169",
+          "indices": [
+            7,
+            16
+          ],
+          "name": "Lou Dobbs",
+          "screen_name": "LouDobbs"
+        },
+        {
+          "id": 18166778,
+          "id_str": "18166778",
+          "indices": [
+            44,
+            55
+          ],
+          "name": "Rep. Jim Jordan",
+          "screen_name": "Jim_Jordan"
+        },
+        {
+          "id": 22508473,
+          "id_str": "22508473",
+          "indices": [
+            176,
+            189
+          ],
+          "name": "Oversight Committee Republicans",
+          "screen_name": "GOPoversight"
+        },
+        {
+          "id": 1131917492,
+          "id_str": "1131917492",
+          "indices": [
+            196,
+            209
+          ],
+          "name": "House Judiciary GOP",
+          "screen_name": "JudiciaryGOP"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/YohbA8Yb44",
+          "expanded_url": "https://twitter.com/RepJamesComer/status/1329846993167003650/video/1",
+          "id": 1329846695195250689,
+          "id_str": "1329846695195250689",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1329846695195250689/pu/img/gilgqQuGK59Woyef.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1329846695195250689/pu/img/gilgqQuGK59Woyef.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1152
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/YohbA8Yb44",
+          "video_info": {
+            "aspect_ratio": [
+              8,
+              5
+            ],
+            "duration_millis": 25900,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1329846695195250689/pu/pl/k9UEukolwBO1oyVG.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329846695195250689/pu/vid/432x270/nd3AsIKmu_sVKcXY.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329846695195250689/pu/vid/1152x720/i1rVIYFsqXqvmPNt.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1329846695195250689/pu/vid/576x360/eZxaLtsRYmzuNDib.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 48138,
+    "favorited": false,
+    "full_text": "Thanks @LouDobbs for recognizing mine &amp; @Jim_Jordan's fight to protect the integrity of our election! Congress should investigate every irregularity and the Republicans on @GOPoversight &amp; @JudiciaryGOP are ready to lead. https://t.co/YohbA8Yb44",
+    "geo": null,
+    "id": 1329846993167003650,
+    "id_str": "1329846993167003650",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12137,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Jun 21 23:52:56 +0000 2020",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Republican Leader on House @GOPoversight Committee. Proudly representing Kentucky in Congress. #KY01",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "comer.house.gov",
+              "expanded_url": "http://comer.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5n4o7fGJAJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 60,
+      "follow_request_sent": false,
+      "followers_count": 10924,
+      "following": false,
+      "friends_count": 98,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1274852794206388225,
+      "id_str": "1274852794206388225",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 47,
+      "location": "Tompkinsville, KY",
+      "name": "Rep. James Comer",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274852794206388225/1594060632",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287042081505124353/ZwSN2nvP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287042081505124353/ZwSN2nvP_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepJamesComer",
+      "statuses_count": 238,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5n4o7fGJAJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88921718,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125249,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58620,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Dec 20 16:33:40 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 256159524,
+        "id_str": "256159524",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Lauren Windsor",
+        "screen_name": "lawindsor"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @lawindsor: BREAKING: Defying McConnell, Sen-elect Tuberville suggests he will challenge Electoral College, while stumping in Georgia ht\u2026",
+  "geo": null,
+  "id": 1340696881651965954,
+  "id_str": "1340696881651965954",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 16726,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Dec 17 14:38:39 +0000 2020",
+    "display_text_range": [
+      0,
+      121
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1z5wJ2ajVP",
+          "expanded_url": "https://twitter.com/lawindsor/status/1339580775566602240/video/1",
+          "id": 1339580534993858560,
+          "id_str": "1339580534993858560",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339580534993858560/pu/img/uvbW3L1UJH43OHF1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339580534993858560/pu/img/uvbW3L1UJH43OHF1.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1z5wJ2ajVP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/1z5wJ2ajVP",
+          "expanded_url": "https://twitter.com/lawindsor/status/1339580775566602240/video/1",
+          "id": 1339580534993858560,
+          "id_str": "1339580534993858560",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1339580534993858560/pu/img/uvbW3L1UJH43OHF1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1339580534993858560/pu/img/uvbW3L1UJH43OHF1.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/1z5wJ2ajVP",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 51652,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339580534993858560/pu/vid/480x270/Gj97mcGag9BZNIw1.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1339580534993858560/pu/pl/NZlLR5eZ9bI82hwR.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339580534993858560/pu/vid/640x360/f_fNbxjYZhmnT7PY.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1339580534993858560/pu/vid/1280x720/3R5Oya4r7Xi-euij.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 62021,
+    "favorited": false,
+    "full_text": "BREAKING: Defying McConnell, Sen-elect Tuberville suggests he will challenge Electoral College, while stumping in Georgia https://t.co/1z5wJ2ajVP",
+    "geo": null,
+    "id": 1339580775566602240,
+    "id_str": "1339580775566602240",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 16726,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 22 19:47:32 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Creator/EP of political reporting web-show The Undercurrent + https://t.co/LSS1RxPn7G Partner in Democracy Partners + Mike Lux Media CA + DC",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "ProjectVeritas.Exposed",
+              "expanded_url": "http://ProjectVeritas.Exposed",
+              "indices": [
+                62,
+                85
+              ],
+              "url": "https://t.co/LSS1RxPn7G"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "LaurenWindsor.com",
+              "expanded_url": "http://www.LaurenWindsor.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/VxVMiMcHou"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10613,
+      "follow_request_sent": false,
+      "followers_count": 31101,
+      "following": false,
+      "friends_count": 5795,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 256159524,
+      "id_str": "256159524",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 176,
+      "location": "Washington, DC",
+      "name": "\u201cTrump Lost, Get Over It\u201d Windsor",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/256159524/1608182744",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1339443156392275968/chZONYSL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1339443156392275968/chZONYSL_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "lawindsor",
+      "statuses_count": 14320,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/VxVMiMcHou",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88586874,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125992,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59300,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

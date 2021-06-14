@@ -1,0 +1,319 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 21 13:41:35 +0000 2020",
+  "display_text_range": [
+    0,
+    8
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/senmikelee/sta\u2026",
+        "expanded_url": "https://twitter.com/senmikelee/status/1328822367888478208",
+        "indices": [
+          9,
+          32
+        ],
+        "url": "https://t.co/dugcH0VjH6"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 45148,
+  "favorited": false,
+  "full_text": "I agree! https://t.co/dugcH0VjH6",
+  "geo": null,
+  "id": 1330144327843123201,
+  "id_str": "1330144327843123201",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Nov 17 22:08:35 +0000 2020",
+    "display_text_range": [
+      0,
+      190
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Y5xeDJLARN",
+          "expanded_url": "https://twitter.com/SenMikeLee/status/1328822367888478208/video/1",
+          "id": 1328821385939050496,
+          "id_str": "1328821385939050496",
+          "indices": [
+            191,
+            214
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1328821385939050496/img/hLGPn-Pj0o1oNdSL.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1328821385939050496/img/hLGPn-Pj0o1oNdSL.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Y5xeDJLARN"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Y5xeDJLARN",
+          "expanded_url": "https://twitter.com/SenMikeLee/status/1328822367888478208/video/1",
+          "id": 1328821385939050496,
+          "id_str": "1328821385939050496",
+          "indices": [
+            191,
+            214
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1328821385939050496/img/hLGPn-Pj0o1oNdSL.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1328821385939050496/img/hLGPn-Pj0o1oNdSL.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Y5xeDJLARN",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 402537,
+            "variants": [
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1328821385939050496/vid/480x270/NmkKGBZ0Y7e5hEtk.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1328821385939050496/pl/1Qm4IPOCsy8_R6eM.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1328821385939050496/vid/960x540/yo0562nTvTJRy659.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1328821385939050496/vid/640x360/xAsl2vlj6uMbfFpd.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3032,
+    "favorited": false,
+    "full_text": "Senator Hatch\u2019s positive impact on the state of Utah and the nation\u2019s federal judiciary cannot be overstated, and it is only appropriate that Utah\u2019s federal courthouse be named in his honor. https://t.co/Y5xeDJLARN",
+    "geo": null,
+    "id": 1328822367888478208,
+    "id_str": "1328822367888478208",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 540,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 09 22:47:47 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I am a United States Senator from the great state of Utah. Please help me restore constitutional leadership to Washington.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lee.senate.gov",
+              "expanded_url": "http://www.lee.senate.gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/WnT9wNOtNT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 118,
+      "follow_request_sent": false,
+      "followers_count": 625037,
+      "following": false,
+      "friends_count": 2275,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 88784440,
+      "id_str": "88784440",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4785,
+      "location": "Utah",
+      "name": "Mike Lee",
+      "notifications": false,
+      "profile_background_color": "F1F0EC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88784440/1594150263",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006896016849858560/P3nNjlIe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006896016849858560/P3nNjlIe_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenMikeLee",
+      "statuses_count": 5624,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/WnT9wNOtNT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1328822367888478208,
+  "quoted_status_id_str": "1328822367888478208",
+  "quoted_status_permalink": {
+    "display": "twitter.com/senmikelee/sta\u2026",
+    "expanded": "https://twitter.com/senmikelee/status/1328822367888478208",
+    "url": "https://t.co/dugcH0VjH6"
+  },
+  "retweet_count": 7903,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88934753,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125210,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58583,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 19 16:14:18 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          9,
+          15
+        ],
+        "text": "WATCH"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 355989081,
+        "id_str": "355989081",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "ANI",
+        "screen_name": "ANI"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ANI: #WATCH US President Donald Trump in Washington on his visit to India: I happen to like PM Modi a lot. He told me we will have 7 mi\u2026",
+  "geo": null,
+  "id": 1230163711043653632,
+  "id_str": "1230163711043653632",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8782,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 19 03:08:34 +0000 2020",
+    "display_text_range": [
+      0,
+      260
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            6
+          ],
+          "text": "WATCH"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/FdusHCInJ9",
+          "expanded_url": "https://twitter.com/ANI/status/1229965972452167680/video/1",
+          "id": 1229965761180880898,
+          "id_str": "1229965761180880898",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229965761180880898/pu/img/cYNdcqm1GUKoOl8V.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229965761180880898/pu/img/cYNdcqm1GUKoOl8V.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/FdusHCInJ9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/FdusHCInJ9",
+          "expanded_url": "https://twitter.com/ANI/status/1229965972452167680/video/1",
+          "id": 1229965761180880898,
+          "id_str": "1229965761180880898",
+          "indices": [
+            261,
+            284
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1229965761180880898/pu/img/cYNdcqm1GUKoOl8V.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1229965761180880898/pu/img/cYNdcqm1GUKoOl8V.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/FdusHCInJ9",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 27634,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1229965761180880898/pu/vid/640x360/FSq4tjo1Texyte85.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1229965761180880898/pu/pl/y3BHhLIVfUG3zpJB.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1229965761180880898/pu/vid/480x270/VY7q5dS56xz_FZ78.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40184,
+    "favorited": false,
+    "full_text": "#WATCH US President Donald Trump in Washington on his visit to India: I happen to like PM Modi a lot. He told me we will have 7 million people between the airport and the event. It's going to be the largest stadium in the world. It's going to be very exciting. https://t.co/FdusHCInJ9",
+    "geo": null,
+    "id": 1229965972452167680,
+    "id_str": "1229965972452167680",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8782,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 16 05:23:41 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Asian News International. Multi-media news agency, content for information platforms: TV, Internet, broadband, newspapers, mobiles https://t.co/PjGRhL4qvg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "facebook.com/ANINEWS.IN",
+              "expanded_url": "http://facebook.com/ANINEWS.IN",
+              "indices": [
+                131,
+                154
+              ],
+              "url": "https://t.co/PjGRhL4qvg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "aninews.in",
+              "expanded_url": "http://www.aninews.in",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/sFNGg4bASa"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 3414436,
+      "following": false,
+      "friends_count": 0,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 355989081,
+      "id_str": "355989081",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4350,
+      "location": "India",
+      "name": "ANI",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/355989081/1575463637",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1497864299/ani_mic_logo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1497864299/ani_mic_logo_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ANI",
+      "statuses_count": 379806,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/sFNGg4bASa",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 72730943,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114887,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49145,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

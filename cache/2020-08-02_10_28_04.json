@@ -1,0 +1,445 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 10:28:04 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 90480218,
+        "id_str": "90480218",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Richard Grenell",
+        "screen_name": "RichardGrenell"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichardGrenell: The NYT is totally biased and has lost its way. \n\nTheir agenda is the priority. Everything they do is advocacy. Everyth\u2026",
+  "geo": null,
+  "id": 1289870575687499781,
+  "id_str": "1289870575687499781",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1289629736201838595,
+  "quoted_status_id_str": "1289629736201838595",
+  "quoted_status_permalink": {
+    "display": "twitter.com/nytimes/status\u2026",
+    "expanded": "https://twitter.com/nytimes/status/1289629736201838595",
+    "url": "https://t.co/zU9WzlRrB0"
+  },
+  "retweet_count": 7071,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 02 05:09:16 +0000 2020",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/nytimes/status\u2026",
+          "expanded_url": "https://twitter.com/nytimes/status/1289629736201838595",
+          "indices": [
+            124,
+            147
+          ],
+          "url": "https://t.co/zU9WzlRrB0"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 19634,
+    "favorited": false,
+    "full_text": "The NYT is totally biased and has lost its way. \n\nTheir agenda is the priority. Everything they do is advocacy. Everything. https://t.co/zU9WzlRrB0",
+    "geo": null,
+    "id": 1289790347539709952,
+    "id_str": "1289790347539709952",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 01 18:31:03 +0000 2020",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/h9CuxYCERg",
+            "expanded_url": "https://twitter.com/nytimes/status/1289629736201838595/video/1",
+            "id": 1289618549833715714,
+            "id_str": "1289618549833715714",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1289618549833715714/img/LM8cqUh2c_jYFJHv.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1289618549833715714/img/LM8cqUh2c_jYFJHv.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/h9CuxYCERg"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "nyti.ms/3fokihk",
+            "expanded_url": "https://nyti.ms/3fokihk",
+            "indices": [
+              257,
+              280
+            ],
+            "url": "https://t.co/QFWyHTTMb0"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/h9CuxYCERg",
+            "expanded_url": "https://twitter.com/nytimes/status/1289629736201838595/video/1",
+            "id": 1289618549833715714,
+            "id_str": "1289618549833715714",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1289618549833715714/img/LM8cqUh2c_jYFJHv.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1289618549833715714/img/LM8cqUh2c_jYFJHv.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/h9CuxYCERg",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 38103,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1289618549833715714/vid/480x270/t7ZI0lQ8u9TCjjKc.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1289618549833715714/vid/640x360/I8AyahtG6wR2hZ-i.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1289618549833715714/vid/1280x720/9fpZ_RO_mkrRsarw.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1289618549833715714/pl/Sf4dTCec0Zp-P3Pe.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 4703,
+      "favorited": false,
+      "full_text": "This was the scene in Berlin, where an estimated 17,000 people defied social-distancing and mask requirements to join a protest supported by neo-Nazi groups, conspiracy theorists and others who said they were fed up with the restrictions.\n\nRead the latest. https://t.co/QFWyHTTMb0 https://t.co/h9CuxYCERg",
+      "geo": null,
+      "id": 1289629736201838595,
+      "id_str": "1289629736201838595",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2330,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyti.ms/2FVHq9v",
+                "expanded_url": "http://nyti.ms/2FVHq9v",
+                "indices": [
+                  28,
+                  51
+                ],
+                "url": "https://t.co/ghL9OoYKMM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nytimes.com",
+                "expanded_url": "http://www.nytimes.com/",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/ahvuWqicF9"
+              }
+            ]
+          }
+        },
+        "favourites_count": 18429,
+        "follow_request_sent": false,
+        "followers_count": 47058786,
+        "following": false,
+        "friends_count": 908,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 807095,
+        "id_str": "807095",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 200570,
+        "location": "New York City",
+        "name": "The New York Times",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+        "profile_link_color": "607696",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "nytimes",
+        "statuses_count": 403158,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/ahvuWqicF9",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1289629736201838595,
+    "quoted_status_id_str": "1289629736201838595",
+    "quoted_status_permalink": {
+      "display": "twitter.com/nytimes/status\u2026",
+      "expanded": "https://twitter.com/nytimes/status/1289629736201838595",
+      "url": "https://t.co/zU9WzlRrB0"
+    },
+    "retweet_count": 7071,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSml3j",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/richardgrenell",
+              "expanded_url": "https://www.instagram.com/richardgrenell",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/danITSml3j"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23841,
+      "follow_request_sent": false,
+      "followers_count": 494969,
+      "following": false,
+      "friends_count": 2632,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 90480218,
+      "id_str": "90480218",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2278,
+      "location": "LA, Palm Springs (and Berlin)",
+      "name": "Richard Grenell",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichardGrenell",
+      "statuses_count": 6623,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

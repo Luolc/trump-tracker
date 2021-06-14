@@ -1,0 +1,372 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Jul 27 14:12:57 +0000 2020",
+  "display_text_range": [
+    0,
+    127
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 47739450,
+        "id_str": "47739450",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Byron York",
+        "screen_name": "ByronYork"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ByronYork: Voices on left concerned about rioters in Portland. No longer arguing it's 'peaceful,' worried about backfiring.",
+  "geo": null,
+  "id": 1287752842837712898,
+  "id_str": "1287752842837712898",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1287714169551294464,
+  "quoted_status_id_str": "1287714169551294464",
+  "quoted_status_permalink": {
+    "display": "twitter.com/LannyDavis/sta\u2026",
+    "expanded": "https://twitter.com/LannyDavis/status/1287714169551294464",
+    "url": "https://t.co/oWwcxoe9qb"
+  },
+  "retweet_count": 1214,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jul 27 11:48:42 +0000 2020",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/LannyDavis/sta\u2026",
+          "expanded_url": "https://twitter.com/LannyDavis/status/1287714169551294464",
+          "indices": [
+            113,
+            136
+          ],
+          "url": "https://t.co/oWwcxoe9qb"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 3110,
+    "favorited": false,
+    "full_text": "Voices on left concerned about rioters in Portland. No longer arguing it's 'peaceful,' worried about backfiring. https://t.co/oWwcxoe9qb",
+    "geo": null,
+    "id": 1287716541463777283,
+    "id_str": "1287716541463777283",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Jul 27 11:39:17 +0000 2020",
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              77,
+              93
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          },
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              250,
+              266
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "favorite_count": 529,
+      "favorited": false,
+      "full_text": "Violent protesters lighting fires and using violence in Portland should wear @realDonaldTrump buttons. That is who they are helping.Progressives in Portland need to call them out, including the Mayor.  ReTweet please. Don\u2019t allow violent people help @realDonaldTrump",
+      "geo": null,
+      "id": 1287714169551294464,
+      "id_str": "1287714169551294464",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.297737,
+                39.025618
+              ],
+              [
+                -77.184679,
+                39.025618
+              ],
+              [
+                -77.184679,
+                39.086459
+              ],
+              [
+                -77.297737,
+                39.086459
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Travilah, MD",
+        "id": "e27d3267e2bdac4f",
+        "name": "Travilah",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/e27d3267e2bdac4f.json"
+      },
+      "retweet_count": 280,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Mar 21 18:43:18 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Legal Crisis Manager, Author, Former White House Special Counsel; cofounder law firm of Davis Goldberg & Galper; cofounder public relations firm Trident DMG",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dggpllc.com",
+                "expanded_url": "http://www.dggpllc.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/4EDnYZDS75"
+              }
+            ]
+          }
+        },
+        "favourites_count": 412,
+        "follow_request_sent": false,
+        "followers_count": 66020,
+        "following": false,
+        "friends_count": 969,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 269940592,
+        "id_str": "269940592",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 506,
+        "location": "DC",
+        "name": "Lanny Davis",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/269940592/1541796561",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/440491124692504576/4bN2lofz_normal.jpeg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/440491124692504576/4bN2lofz_normal.jpeg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LannyDavis",
+        "statuses_count": 5986,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/4EDnYZDS75",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1287714169551294464,
+    "quoted_status_id_str": "1287714169551294464",
+    "quoted_status_permalink": {
+      "display": "twitter.com/LannyDavis/sta\u2026",
+      "expanded": "https://twitter.com/LannyDavis/status/1287714169551294464",
+      "url": "https://t.co/oWwcxoe9qb"
+    },
+    "retweet_count": 1214,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 16 20:38:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chief political correspondent, Washington Examiner, Fox News contributor, author of The Vast Left Wing Conspiracy",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washex.am/1pU9zQ5",
+              "expanded_url": "http://washex.am/1pU9zQ5",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/tAAyTAVFIb"
+            }
+          ]
+        }
+      },
+      "favourites_count": 22,
+      "follow_request_sent": false,
+      "followers_count": 435227,
+      "following": false,
+      "friends_count": 1363,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 47739450,
+      "id_str": "47739450",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5003,
+      "location": "Washington, D.C.",
+      "name": "Byron York",
+      "notifications": false,
+      "profile_background_color": "020405",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47739450/1407595550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ByronYork",
+      "statuses_count": 46526,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/tAAyTAVFIb",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84233120,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117061,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54000,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,466 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Oct 15 12:07:40 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1170148940613861376,
+        "id_str": "1170148940613861376",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Hansen for Congress (IA-01)",
+        "screen_name": "Hansen4Congress"
+      },
+      {
+        "id": 23125257,
+        "id_str": "23125257",
+        "indices": [
+          43,
+          55
+        ],
+        "name": "George Soros",
+        "screen_name": "georgesoros"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Hansen4Congress: Come on, Man! When is @georgesoros going to pay people to attend my rallies? Or is he too busy printing extra ballots\u2026",
+  "geo": null,
+  "id": 1316712341623447554,
+  "id_str": "1316712341623447554",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1315761931303624704,
+  "quoted_status_id_str": "1315761931303624704",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1315761931303624704",
+    "url": "https://t.co/ru1SrN6EhO"
+  },
+  "retweet_count": 5288,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 04:39:00 +0000 2020",
+    "display_text_range": [
+      0,
+      284
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            191,
+            209
+          ],
+          "text": "MailInBallotFraud"
+        },
+        {
+          "indices": [
+            210,
+            227
+          ],
+          "text": "BidenCrimeFamily"
+        },
+        {
+          "indices": [
+            228,
+            241
+          ],
+          "text": "WheresHunter"
+        },
+        {
+          "indices": [
+            245,
+            255
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            256,
+            260
+          ],
+          "text": "KAG"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ddmWgznTHk",
+          "expanded_url": "https://twitter.com/Hansen4Congress/status/1315874655538950144/photo/1",
+          "id": 1315874649822109696,
+          "id_str": "1315874649822109696",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EkLtBa-WoAAadFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkLtBa-WoAAadFM.jpg",
+          "sizes": {
+            "large": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ddmWgznTHk"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1315761931303624704",
+          "indices": [
+            261,
+            284
+          ],
+          "url": "https://t.co/ru1SrN6EhO"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 23125257,
+          "id_str": "23125257",
+          "indices": [
+            22,
+            34
+          ],
+          "name": "George Soros",
+          "screen_name": "georgesoros"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ddmWgznTHk",
+          "expanded_url": "https://twitter.com/Hansen4Congress/status/1315874655538950144/photo/1",
+          "id": 1315874649822109696,
+          "id_str": "1315874649822109696",
+          "indices": [
+            285,
+            308
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EkLtBa-WoAAadFM.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkLtBa-WoAAadFM.jpg",
+          "sizes": {
+            "large": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "medium": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 286,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/ddmWgznTHk",
+          "video_info": {
+            "aspect_ratio": [
+              200,
+              143
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EkLtBa-WoAAadFM.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14176,
+    "favorited": false,
+    "full_text": "Come on, Man! When is @georgesoros going to pay people to attend my rallies? Or is he too busy printing extra ballots and ballot harvesting? Let\u2019s hope the right people are paying attention. #MailInBallotFraud #BidenCrimeFamily #WheresHunter \n\ud83c\uddfa\ud83c\uddf8#Trump2020 #KAG https://t.co/ru1SrN6EhO https://t.co/ddmWgznTHk",
+    "geo": null,
+    "id": 1315874655538950144,
+    "id_str": "1315874655538950144",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Oct 12 21:11:04 +0000 2020",
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 210377,
+      "favorited": false,
+      "full_text": "What\u2019s going on, almost nobody is showing up for Sleepy Joe rallies!",
+      "geo": null,
+      "id": 1315761931303624704,
+      "id_str": "1315761931303624704",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 35304,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 5,
+        "follow_request_sent": false,
+        "followers_count": 87269343,
+        "following": true,
+        "friends_count": 50,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 121423,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 57162,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1315761931303624704,
+    "quoted_status_id_str": "1315761931303624704",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1315761931303624704",
+      "url": "https://t.co/ru1SrN6EhO"
+    },
+    "retweet_count": 5288,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Sep 07 01:37:28 +0000 2019",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Husband&Dad, Christ Follower, Business Owner, Rancher, Engineer, EMT, Historian, Founder Constitutional Patriots of Iowa. \ud83c\uddfa\ud83c\uddf8 #IA01 #KAG #KAG2020 #MAGA #1A #2A",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "hansenforcongress.com",
+              "expanded_url": "http://hansenforcongress.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/5l1PsSq6Zw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7236,
+      "follow_request_sent": false,
+      "followers_count": 25695,
+      "following": false,
+      "friends_count": 27522,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1170148940613861376,
+      "id_str": "1170148940613861376",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 41,
+      "location": "Decorah, IA",
+      "name": "Hansen for Congress (IA-01)",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1170148940613861376/1591415087",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269112973894844419/y1daYnQg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269112973894844419/y1daYnQg_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Hansen4Congress",
+      "statuses_count": 4434,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/5l1PsSq6Zw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87269343,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121423,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57162,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

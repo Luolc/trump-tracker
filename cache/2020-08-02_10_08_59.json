@@ -1,0 +1,462 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 10:08:59 +0000 2020",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/2aw2A2LyYm",
+        "expanded_url": "https://twitter.com/TCPigott/status/1289366669190602753/video/1",
+        "id": 1289366587733139462,
+        "id_str": "1289366587733139462",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+        "sizes": {
+          "large": {
+            "h": 716,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 671,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 380,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1289366669190602753,
+        "source_status_id_str": "1289366669190602753",
+        "source_user_id": 902178672626593793,
+        "source_user_id_str": "902178672626593793",
+        "type": "photo",
+        "url": "https://t.co/2aw2A2LyYm"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 902178672626593793,
+        "id_str": "902178672626593793",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Tommy Pigott",
+        "screen_name": "TCPigott"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon Aug 28 14:38:52 +0000 2017",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Rapid Response, @GOP @RNCResearch | Hoya Saxa",
+            "entities": {
+              "description": {
+                "urls": []
+              }
+            },
+            "favourites_count": 628,
+            "follow_request_sent": false,
+            "followers_count": 2465,
+            "following": false,
+            "friends_count": 220,
+            "geo_enabled": false,
+            "has_extended_profile": false,
+            "id": 902178672626593793,
+            "id_str": "902178672626593793",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 18,
+            "location": "",
+            "name": "Tommy Pigott",
+            "notifications": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/902178672626593793/1571420211",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1142907747224182785/lj3o0qdG_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142907747224182785/lj3o0qdG_normal.png",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "TCPigott",
+            "statuses_count": 1897,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": null,
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/2aw2A2LyYm",
+        "expanded_url": "https://twitter.com/TCPigott/status/1289366669190602753/video/1",
+        "id": 1289366587733139462,
+        "id_str": "1289366587733139462",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+        "sizes": {
+          "large": {
+            "h": 716,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 671,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 380,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1289366669190602753,
+        "source_status_id_str": "1289366669190602753",
+        "source_user_id": 902178672626593793,
+        "source_user_id_str": "902178672626593793",
+        "type": "video",
+        "url": "https://t.co/2aw2A2LyYm",
+        "video_info": {
+          "aspect_ratio": [
+            320,
+            179
+          ],
+          "duration_millis": 13280,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/pl/nmvoUHNbdq9ZTYCa.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/642x360/8337WoNkFJSFWgvZ.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/1280x716/c8ase4mE577IQcc8.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/482x270/Gim8Ad2Dc9H-mDyc.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TCPigott: Warren appears to roll her eyes as Joe Biden continually confuses what he's saying https://t.co/2aw2A2LyYm",
+  "geo": null,
+  "id": 1289865773658210304,
+  "id_str": "1289865773658210304",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 8306,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 01 01:05:43 +0000 2020",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/2aw2A2LyYm",
+          "expanded_url": "https://twitter.com/TCPigott/status/1289366669190602753/video/1",
+          "id": 1289366587733139462,
+          "id_str": "1289366587733139462",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 671,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/2aw2A2LyYm"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/2aw2A2LyYm",
+          "expanded_url": "https://twitter.com/TCPigott/status/1289366669190602753/video/1",
+          "id": 1289366587733139462,
+          "id_str": "1289366587733139462",
+          "indices": [
+            83,
+            106
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1289366587733139462/pu/img/a9TotNTMZu9_wqCA.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 671,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/2aw2A2LyYm",
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              179
+            ],
+            "duration_millis": 13280,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/pl/nmvoUHNbdq9ZTYCa.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/642x360/8337WoNkFJSFWgvZ.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/1280x716/c8ase4mE577IQcc8.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1289366587733139462/pu/vid/482x270/Gim8Ad2Dc9H-mDyc.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 20707,
+    "favorited": false,
+    "full_text": "Warren appears to roll her eyes as Joe Biden continually confuses what he's saying https://t.co/2aw2A2LyYm",
+    "geo": null,
+    "id": 1289366669190602753,
+    "id_str": "1289366669190602753",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8306,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 28 14:38:52 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Rapid Response, @GOP @RNCResearch | Hoya Saxa",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 628,
+      "follow_request_sent": false,
+      "followers_count": 2465,
+      "following": false,
+      "friends_count": 220,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 902178672626593793,
+      "id_str": "902178672626593793",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 18,
+      "location": "",
+      "name": "Tommy Pigott",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/902178672626593793/1571420211",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1142907747224182785/lj3o0qdG_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1142907747224182785/lj3o0qdG_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TCPigott",
+      "statuses_count": 1897,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jan 25 19:38:38 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          41,
+          57
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      },
+      {
+        "id": 213796133,
+        "id_str": "213796133",
+        "indices": [
+          106,
+          112
+        ],
+        "name": "Daily",
+        "screen_name": "Daily"
+      },
+      {
+        "id": 18247062,
+        "id_str": "18247062",
+        "indices": [
+          120,
+          134
+        ],
+        "name": "Judicial Watch \ud83d\udd0e",
+        "screen_name": "JudicialWatch"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JudicialWatch: SENATE SHOULD DISMISS @REALDONALDTRUMP IMPEACHMENT -- INVESTIGATE SCHIFF'S MISCONDUCT! @Daily caller @judicialwatch http\u2026",
+  "geo": null,
+  "id": 1221155437355159552,
+  "id_str": "1221155437355159552",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4913,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 25 16:22:10 +0000 2020",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DVBenKWToG",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1221105991590326272/video/1",
+          "features": {},
+          "id": 1220036393507917824,
+          "id_str": "1220036393507917824",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO54dGQX4AEjRcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO54dGQX4AEjRcu.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DVBenKWToG"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            22,
+            38
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 213796133,
+          "id_str": "213796133",
+          "indices": [
+            87,
+            93
+          ],
+          "name": "Daily",
+          "screen_name": "Daily"
+        },
+        {
+          "id": 18247062,
+          "id_str": "18247062",
+          "indices": [
+            101,
+            115
+          ],
+          "name": "Judicial Watch \ud83d\udd0e",
+          "screen_name": "JudicialWatch"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/DVBenKWToG",
+          "expanded_url": "https://twitter.com/JudicialWatch/status/1221105991590326272/video/1",
+          "features": {},
+          "id": 1220036393507917824,
+          "id_str": "1220036393507917824",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/EO54dGQX4AEjRcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EO54dGQX4AEjRcu.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/DVBenKWToG",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 498867,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220036393507917824/vid/1280x720/ZmRPDcK3ZDVetGLa.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220036393507917824/vid/480x270/FscUFccJibxmNhWZ.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1220036393507917824/pl/d2RezzYabBXximEO.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1220036393507917824/vid/640x360/-aSxtz-zgfBBcqgU.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 14016,
+    "favorited": false,
+    "full_text": "SENATE SHOULD DISMISS @REALDONALDTRUMP IMPEACHMENT -- INVESTIGATE SCHIFF'S MISCONDUCT! @Daily caller @judicialwatch https://t.co/DVBenKWToG",
+    "geo": null,
+    "id": 1221105991590326272,
+    "id_str": "1221105991590326272",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4913,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 19 18:04:57 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "A conservative non-partisan educational foundation promoting transparency, accountability, & integrity in government. Follow us on FB & Instagram: judicialwatch",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "judicialwatch.org",
+              "expanded_url": "http://www.judicialwatch.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/JPjqvKy5es"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1524,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 1371686,
+      "following": false,
+      "friends_count": 1945,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 18247062,
+      "id_str": "18247062",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5641,
+      "location": "Washington, DC",
+      "name": "Judicial Watch \ud83d\udd0e",
+      "notifications": false,
+      "profile_background_color": "ABB8C2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18247062/1557862227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1220820181905301504/yKZfcoaz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1220820181905301504/yKZfcoaz_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EEEEEE",
+      "profile_text_color": "30353B",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JudicialWatch",
+      "statuses_count": 69975,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/JPjqvKy5es",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 15 04:44:35 +0000 2020",
+  "display_text_range": [
+    0,
+    32
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 50769180,
+        "id_str": "50769180",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Laura Ingraham",
+        "screen_name": "IngrahamAngle"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IngrahamAngle: This is NEWS.",
+  "geo": null,
+  "id": 1327834862183723009,
+  "id_str": "1327834862183723009",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1327687246233935872,
+  "quoted_status_id_str": "1327687246233935872",
+  "quoted_status_permalink": {
+    "display": "twitter.com/laraleatrump/s\u2026",
+    "expanded": "https://twitter.com/laraleatrump/status/1327687246233935872",
+    "url": "https://t.co/ZFqznLe6IT"
+  },
+  "retweet_count": 23152,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 15 00:10:05 +0000 2020",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/laraleatrump/s\u2026",
+          "expanded_url": "https://twitter.com/laraleatrump/status/1327687246233935872",
+          "indices": [
+            14,
+            37
+          ],
+          "url": "https://t.co/ZFqznLe6IT"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 126076,
+    "favorited": false,
+    "full_text": "This is NEWS. https://t.co/ZFqznLe6IT",
+    "geo": null,
+    "id": 1327765779937452035,
+    "id_str": "1327765779937452035",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Nov 14 18:58:01 +0000 2020",
+      "display_text_range": [
+        0,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gmTWGphsfr",
+            "expanded_url": "https://twitter.com/LaraLeaTrump/status/1327687246233935872/photo/1",
+            "id": 1327687238499639296,
+            "id_str": "1327687238499639296",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/Emzkgk-XIAAGaFG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Emzkgk-XIAAGaFG.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1364
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 799
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 453
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gmTWGphsfr"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/gmTWGphsfr",
+            "expanded_url": "https://twitter.com/LaraLeaTrump/status/1327687246233935872/photo/1",
+            "id": 1327687238499639296,
+            "id_str": "1327687238499639296",
+            "indices": [
+              18,
+              41
+            ],
+            "media_url": "http://pbs.twimg.com/media/Emzkgk-XIAAGaFG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Emzkgk-XIAAGaFG.jpg",
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1364
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 799
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 453
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/gmTWGphsfr"
+          }
+        ]
+      },
+      "favorite_count": 141835,
+      "favorited": false,
+      "full_text": "AMAZING!!! \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/gmTWGphsfr",
+      "geo": null,
+      "id": 1327687246233935872,
+      "id_str": "1327687246233935872",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "id": "01fbe706f872cb32",
+        "name": "Washington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 23990,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Sep 19 12:49:26 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "NC girl in NYC #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "http://www.donaldjtrump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/XjVAWvUQuR"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6693,
+        "follow_request_sent": false,
+        "followers_count": 1180232,
+        "following": false,
+        "friends_count": 511,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 75541946,
+        "id_str": "75541946",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2834,
+        "location": "New York City",
+        "name": "Lara Trump",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/75541946/1535755233",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299885652897673217/7y3TYuC0_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299885652897673217/7y3TYuC0_normal.jpg",
+        "profile_link_color": "B300A7",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "LaraLeaTrump",
+        "statuses_count": 3725,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/XjVAWvUQuR",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1327687246233935872,
+    "quoted_status_id_str": "1327687246233935872",
+    "quoted_status_permalink": {
+      "display": "twitter.com/laraleatrump/s\u2026",
+      "expanded": "https://twitter.com/laraleatrump/status/1327687246233935872",
+      "url": "https://t.co/ZFqznLe6IT"
+    },
+    "retweet_count": 23152,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 25 21:03:25 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mom, author, host, The Ingraham Angle, 10p ET @FoxNews. Retweets do not = Endorsements",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lauraingraham.com",
+              "expanded_url": "http://www.lauraingraham.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lnkE5EsSNQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3839,
+      "follow_request_sent": false,
+      "followers_count": 3967442,
+      "following": false,
+      "friends_count": 355,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 50769180,
+      "id_str": "50769180",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14120,
+      "location": "DC",
+      "name": "Laura Ingraham",
+      "notifications": false,
+      "profile_background_color": "DBE9ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/50769180/1594069836",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1146349820912660480/CjdAuR5i_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146349820912660480/CjdAuR5i_normal.jpg",
+      "profile_link_color": "CC3366",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IngrahamAngle",
+      "statuses_count": 45821,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lnkE5EsSNQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

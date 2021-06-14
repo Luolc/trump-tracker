@@ -1,0 +1,446 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 01 03:52:31 +0000 2020",
+  "display_text_range": [
+    0,
+    45
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/iwashington/st\u2026",
+        "expanded_url": "https://twitter.com/iwashington/status/1322740347122839552",
+        "indices": [
+          46,
+          69
+        ],
+        "url": "https://t.co/66iXZmwSuL"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 59373,
+  "favorited": false,
+  "full_text": "Great people with unlimited potential. WIN!!! https://t.co/66iXZmwSuL",
+  "geo": null,
+  "id": 1322748328308858880,
+  "id_str": "1322748328308858880",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 01 03:20:48 +0000 2020",
+    "display_text_range": [
+      0,
+      223
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            191,
+            206
+          ],
+          "text": "BlacksForTrump"
+        },
+        {
+          "indices": [
+            207,
+            220
+          ],
+          "text": "2020Election"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MHDXUo4dci",
+          "expanded_url": "https://twitter.com/IWashington/status/1322740347122839552/photo/1",
+          "id": 1322740316898668550,
+          "id_str": "1322740316898668550",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/media/EltRT17VMAYRsMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EltRT17VMAYRsMQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 747,
+              "resize": "fit",
+              "w": 950
+            },
+            "medium": {
+              "h": 747,
+              "resize": "fit",
+              "w": 950
+            },
+            "small": {
+              "h": 535,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MHDXUo4dci"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 1124665360823848961,
+          "id_str": "1124665360823848961",
+          "indices": [
+            143,
+            158
+          ],
+          "name": "Joe E. Collins III For Congress CA-43",
+          "screen_name": "joecollins43rd"
+        },
+        {
+          "id": 947178108108423168,
+          "id_str": "947178108108423168",
+          "indices": [
+            159,
+            174
+          ],
+          "name": "Ronda Kennedy",
+          "screen_name": "Ronda4Congress"
+        },
+        {
+          "id": 870453485984129028,
+          "id_str": "870453485984129028",
+          "indices": [
+            175,
+            190
+          ],
+          "name": "Aja Smith for Congress",
+          "screen_name": "AjaforCongress"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/MHDXUo4dci",
+          "expanded_url": "https://twitter.com/IWashington/status/1322740347122839552/photo/1",
+          "id": 1322740316898668550,
+          "id_str": "1322740316898668550",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/media/EltRT17VMAYRsMQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EltRT17VMAYRsMQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 747,
+              "resize": "fit",
+              "w": 950
+            },
+            "medium": {
+              "h": 747,
+              "resize": "fit",
+              "w": 950
+            },
+            "small": {
+              "h": 535,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MHDXUo4dci"
+        },
+        {
+          "display_url": "pic.twitter.com/MHDXUo4dci",
+          "expanded_url": "https://twitter.com/IWashington/status/1322740347122839552/photo/1",
+          "id": 1322740316978311173,
+          "id_str": "1322740316978311173",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/media/EltRT2OUcAUI1y6.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EltRT2OUcAUI1y6.jpg",
+          "sizes": {
+            "large": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "medium": {
+              "h": 676,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MHDXUo4dci"
+        },
+        {
+          "display_url": "pic.twitter.com/MHDXUo4dci",
+          "expanded_url": "https://twitter.com/IWashington/status/1322740347122839552/photo/1",
+          "id": 1322740317066465280,
+          "id_str": "1322740317066465280",
+          "indices": [
+            224,
+            247
+          ],
+          "media_url": "http://pbs.twimg.com/media/EltRT2jVkAA8sSv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EltRT2jVkAA8sSv.jpg",
+          "sizes": {
+            "large": {
+              "h": 350,
+              "resize": "fit",
+              "w": 280
+            },
+            "medium": {
+              "h": 350,
+              "resize": "fit",
+              "w": 280
+            },
+            "small": {
+              "h": 350,
+              "resize": "fit",
+              "w": 280
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/MHDXUo4dci"
+        }
+      ]
+    },
+    "favorite_count": 8401,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump here are the Republican Candidates I told you about that all made California history as Republicans winning their primaries: @joecollins43rd @Ronda4Congress @AjaforCongress #BlacksForTrump #2020Election \ud83c\uddfa\ud83c\uddf8 https://t.co/MHDXUo4dci",
+    "geo": null,
+    "id": 1322740347122839552,
+    "id_str": "1322740347122839552",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Los Angeles, CA",
+      "id": "3b77caf94bfc81fe",
+      "name": "Los Angeles",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 2448,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Feb 06 00:20:51 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Author- A MAN FROM ANOTHER LAND Producer on Blue Caprice; Blackbird; BOUND: AVAA; Behind The Movement, Isaiah Washington: Kitchen Talk & Corsicana",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "open.spotify.com/episode/7yYmXh\u2026",
+              "expanded_url": "https://open.spotify.com/episode/7yYmXhG4qphBMMUjvUHiWs?si=uLBHD4zXRfaRCSU6Rbk5Yg",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/bpiAh27ObI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 67004,
+      "follow_request_sent": false,
+      "followers_count": 218816,
+      "following": false,
+      "friends_count": 16430,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 247977494,
+      "id_str": "247977494",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 898,
+      "location": "Everywhere I tweet...",
+      "name": "The Tweet Sniper\ud83d\udca5",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/247977494/1590043553",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1321864330141265921/BaaXNRw3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321864330141265921/BaaXNRw3_normal.jpg",
+      "profile_link_color": "0009B3",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IWashington",
+      "statuses_count": 43204,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/bpiAh27ObI",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1322740347122839552,
+  "quoted_status_id_str": "1322740347122839552",
+  "quoted_status_permalink": {
+    "display": "twitter.com/iwashington/st\u2026",
+    "expanded": "https://twitter.com/iwashington/status/1322740347122839552",
+    "url": "https://t.co/66iXZmwSuL"
+  },
+  "retweet_count": 12542,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87373210,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121910,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57966,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

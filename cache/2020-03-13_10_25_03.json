@@ -1,0 +1,468 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 13 10:25:03 +0000 2020",
+  "display_text_range": [
+    0,
+    134
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/TrumpWarRoom/s\u2026",
+        "expanded_url": "https://twitter.com/TrumpWarRoom/status/1238132094833954817?s=20",
+        "indices": [
+          111,
+          134
+        ],
+        "url": "https://t.co/ps7dKDuPtg"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2353605901,
+        "id_str": "2353605901",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Ronna McDaniel",
+        "screen_name": "GOPChairwoman"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          93,
+          109
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GOPChairwoman: Joe Biden has no ground to stand on politicizing coronavirus or attacking @realDonaldTrump.\nhttps://t.co/ps7dKDuPtg",
+  "geo": null,
+  "id": 1238410739695697920,
+  "id_str": "1238410739695697920",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status_id": 1238132094833954817,
+  "quoted_status_id_str": "1238132094833954817",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TrumpWarRoom/s\u2026",
+    "expanded": "https://twitter.com/TrumpWarRoom/status/1238132094833954817?s=20",
+    "url": "https://t.co/ps7dKDuPtg"
+  },
+  "retweet_count": 11055,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Mar 12 20:37:33 +0000 2020",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TrumpWarRoom/s\u2026",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1238132094833954817?s=20",
+          "indices": [
+            92,
+            115
+          ],
+          "url": "https://t.co/ps7dKDuPtg"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 28920,
+    "favorited": false,
+    "full_text": "Joe Biden has no ground to stand on politicizing coronavirus or attacking @realDonaldTrump.\nhttps://t.co/ps7dKDuPtg",
+    "geo": null,
+    "id": 1238202492862808065,
+    "id_str": "1238202492862808065",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Mar 12 15:57:49 +0000 2020",
+      "display_text_range": [
+        0,
+        288
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/5TCKZeShkz",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1238132094833954817/video/1",
+            "id": 1238131427037806600,
+            "id_str": "1238131427037806600",
+            "indices": [
+              289,
+              312
+            ],
+            "media_url": "http://pbs.twimg.com/media/ES66M8qWkAEWkvL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ES66M8qWkAEWkvL.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/5TCKZeShkz"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "When the Obama White House was forced to apologize for Joe Biden\u2019s incompetent comments about the 2009 swine flu, reporters laughed at the attempt to clean up the mess Biden created.",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Biden\u2019s Incompetent Swine Flu Remarks Force Obama White House Apology"
+            },
+            "display_url": "pic.twitter.com/5TCKZeShkz",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1238132094833954817/video/1",
+            "id": 1238131427037806600,
+            "id_str": "1238131427037806600",
+            "indices": [
+              289,
+              312
+            ],
+            "media_url": "http://pbs.twimg.com/media/ES66M8qWkAEWkvL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ES66M8qWkAEWkvL.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/5TCKZeShkz",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 73307,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1238131427037806600/pl/4bbwfVdswKiN3HGK.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1238131427037806600/vid/480x270/z15W2KHeUkmifjOm.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1238131427037806600/vid/640x360/XQ8xba3DEsMogTKf.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1238131427037806600/vid/1280x720/Mj497BDA8j8MChU5.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 11945,
+      "favorited": false,
+      "full_text": "Joe Biden will again politicize coronavirus today. But his record on pandemics is one of incompetence.\n\nDuring the 2009 swine flu outbreak, Biden made reckless comments unsupported by science &amp; the experts.\n\nThe Obama Admin had to clean up his mess &amp; apologize for his ineptitude. https://t.co/5TCKZeShkz",
+      "geo": null,
+      "id": 1238132094833954817,
+      "id_str": "1238132094833954817",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 7316,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 13,
+        "follow_request_sent": false,
+        "followers_count": 522313,
+        "following": false,
+        "friends_count": 200,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1792,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text EMPOWER to 88022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1565806661",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 8054,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1238132094833954817,
+    "quoted_status_id_str": "1238132094833954817",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TrumpWarRoom/s\u2026",
+      "expanded": "https://twitter.com/TrumpWarRoom/status/1238132094833954817?s=20",
+      "url": "https://t.co/ps7dKDuPtg"
+    },
+    "retweet_count": 11055,
+    "retweeted": false,
+    "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "goo.gl/CYmMU2",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/PURDnkBdAH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6793,
+      "follow_request_sent": false,
+      "followers_count": 541676,
+      "following": false,
+      "friends_count": 2602,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2502,
+      "location": "",
+      "name": "Ronna McDaniel",
+      "notifications": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "GOPChairwoman",
+      "statuses_count": 13563,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/PURDnkBdAH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73848461,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

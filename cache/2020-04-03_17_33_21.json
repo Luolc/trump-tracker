@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Apr 03 17:33:21 +0000 2020",
+  "display_text_range": [
+    0,
+    97
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "CoronaVirus.gov",
+        "expanded_url": "http://CoronaVirus.gov",
+        "indices": [
+          74,
+          97
+        ],
+        "url": "https://t.co/p9j7kZsD7b"
+      },
+      {
+        "display_url": "twitter.com/deptofdefense/\u2026",
+        "expanded_url": "https://twitter.com/deptofdefense/status/1246105177201008641",
+        "indices": [
+          98,
+          121
+        ],
+        "url": "https://t.co/qmUE7F2E5D"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 66369181,
+        "id_str": "66369181",
+        "indices": [
+          10,
+          24
+        ],
+        "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "DeptofDefense"
+      },
+      {
+        "id": 161329769,
+        "id_str": "161329769",
+        "indices": [
+          26,
+          34
+        ],
+        "name": "USACE HQ",
+        "screen_name": "USACEHQ"
+      },
+      {
+        "id": 31310158,
+        "id_str": "31310158",
+        "indices": [
+          36,
+          52
+        ],
+        "name": "National Guard",
+        "screen_name": "USNationalGuard"
+      },
+      {
+        "id": 16669075,
+        "id_str": "16669075",
+        "indices": [
+          54,
+          59
+        ],
+        "name": "FEMA",
+        "screen_name": "fema"
+      },
+      {
+        "id": 146569971,
+        "id_str": "146569971",
+        "indices": [
+          65,
+          72
+        ],
+        "name": "CDC",
+        "screen_name": "CDCgov"
+      }
+    ]
+  },
+  "favorite_count": 31757,
+  "favorited": false,
+  "full_text": "Thank you @DeptofDefense, @USACEHQ, @USNationalGuard, @FEMA, and @CDCgov! https://t.co/p9j7kZsD7b https://t.co/qmUE7F2E5D",
+  "geo": null,
+  "id": 1246128671372558336,
+  "id_str": "1246128671372558336",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 03 16:00:00 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            218,
+            226
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9jUEcm90MA",
+          "expanded_url": "https://twitter.com/DeptofDefense/status/1246105177201008641/photo/1",
+          "id": 1245805114750832640,
+          "id_str": "1245805114750832640",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUn9JrwWkAALGBV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUn9JrwWkAALGBV.jpg",
+          "sizes": {
+            "large": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/9jUEcm90MA"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "go.usa.gov/xvr6x",
+          "expanded_url": "https://go.usa.gov/xvr6x",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/BiVBwGhJQy"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 161329769,
+          "id_str": "161329769",
+          "indices": [
+            17,
+            25
+          ],
+          "name": "USACE HQ",
+          "screen_name": "USACEHQ"
+        },
+        {
+          "id": 31310158,
+          "id_str": "31310158",
+          "indices": [
+            69,
+            85
+          ],
+          "name": "National Guard",
+          "screen_name": "USNationalGuard"
+        },
+        {
+          "id": 16669075,
+          "id_str": "16669075",
+          "indices": [
+            87,
+            92
+          ],
+          "name": "FEMA",
+          "screen_name": "fema"
+        },
+        {
+          "id": 146569971,
+          "id_str": "146569971",
+          "indices": [
+            100,
+            107
+          ],
+          "name": "CDC",
+          "screen_name": "CDCgov"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/9jUEcm90MA",
+          "expanded_url": "https://twitter.com/DeptofDefense/status/1246105177201008641/photo/1",
+          "id": 1245805114750832640,
+          "id_str": "1245805114750832640",
+          "indices": [
+            281,
+            304
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUn9JrwWkAALGBV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUn9JrwWkAALGBV.jpg",
+          "sizes": {
+            "large": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1000
+            },
+            "medium": {
+              "h": 667,
+              "resize": "fit",
+              "w": 1000
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/9jUEcm90MA"
+        }
+      ]
+    },
+    "favorite_count": 2500,
+    "favorited": false,
+    "full_text": "In New York, the @USACEHQ, together w/several agencies including the @USNationalGuard, @fema, &amp; @CDCgov, has transformed the iconic Jacob K. Javits Convention Center into an emergency hospital as part of the DOD\u2019s #COVID19 response efforts. Learn more: https://t.co/BiVBwGhJQy https://t.co/9jUEcm90MA",
+    "geo": null,
+    "id": 1246105177201008641,
+    "id_str": "1246105177201008641",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1028,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 17 14:43:00 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official account of the U.S. Department of Defense. Following, RTs, links, and likes \u2260 endorsement. #KnowYourMil",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "defense.gov",
+              "expanded_url": "http://www.defense.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nx8Zxh4nEZ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4099,
+      "follow_request_sent": false,
+      "followers_count": 6107350,
+      "following": false,
+      "friends_count": 462,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 66369181,
+      "id_str": "66369181",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 14613,
+      "location": "The Pentagon, Washington, D.C.",
+      "name": "Department of Defense \ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "003875",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/66369181/1584230517",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/992451978054729734/CGtMu6Ji_normal.jpg",
+      "profile_link_color": "355D92",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DEDEDE",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DeptofDefense",
+      "statuses_count": 28731,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/nx8Zxh4nEZ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1246105177201008641,
+  "quoted_status_id_str": "1246105177201008641",
+  "quoted_status_permalink": {
+    "display": "twitter.com/deptofdefense/\u2026",
+    "expanded": "https://twitter.com/deptofdefense/status/1246105177201008641",
+    "url": "https://t.co/qmUE7F2E5D"
+  },
+  "retweet_count": 8826,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75925170,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118513,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50353,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

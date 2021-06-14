@@ -1,0 +1,329 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 10 14:54:23 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 138526255,
+        "id_str": "138526255",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Primal Digest",
+        "screen_name": "Primal_Digest"
+      },
+      {
+        "id": 130684893,
+        "id_str": "130684893",
+        "indices": [
+          19,
+          35
+        ],
+        "name": "Andy McCarthy",
+        "screen_name": "AndrewCMcCarthy"
+      },
+      {
+        "id": 772693746,
+        "id_str": "772693746",
+        "indices": [
+          36,
+          48
+        ],
+        "name": "\ud83c\uddfa\ud83c\uddf8   Richard   \ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "rickjdakota"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Primal_Digest: @AndrewCMcCarthy @rickjdakota Rosenstein \u2018Scope\u2019 Memo Confirms Baselessness of Trump\u2013Russia Probe\nhttps://t.co/brciVKRMI\u2026",
+  "geo": null,
+  "id": 1259497017216249861,
+  "id_str": "1259497017216249861",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4745,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun May 10 11:44:31 +0000 2020",
+    "display_text_range": [
+      30,
+      121
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VGhNF6sGcp",
+          "expanded_url": "https://twitter.com/Primal_Digest/status/1259449232790077440/photo/1",
+          "id": 1259449231749890050,
+          "id_str": "1259449231749890050",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXp2Z0cXQAIMnOH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXp2Z0cXQAIMnOH.jpg",
+          "sizes": {
+            "large": {
+              "h": 597,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 597,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 396,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VGhNF6sGcp"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "news.yahoo.com/rosenstein-sco\u2026",
+          "expanded_url": "https://news.yahoo.com/rosenstein-scope-memo-confirms-baselessness-205807749.html",
+          "indices": [
+            98,
+            121
+          ],
+          "url": "https://t.co/brciVKRMIo"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 130684893,
+          "id_str": "130684893",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Andy McCarthy",
+          "screen_name": "AndrewCMcCarthy"
+        },
+        {
+          "id": 772693746,
+          "id_str": "772693746",
+          "indices": [
+            17,
+            29
+          ],
+          "name": "\ud83c\uddfa\ud83c\uddf8   Richard   \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "rickjdakota"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/VGhNF6sGcp",
+          "expanded_url": "https://twitter.com/Primal_Digest/status/1259449232790077440/photo/1",
+          "id": 1259449231749890050,
+          "id_str": "1259449231749890050",
+          "indices": [
+            122,
+            145
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXp2Z0cXQAIMnOH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXp2Z0cXQAIMnOH.jpg",
+          "sizes": {
+            "large": {
+              "h": 597,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 597,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 396,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/VGhNF6sGcp"
+        }
+      ]
+    },
+    "favorite_count": 13587,
+    "favorited": false,
+    "full_text": "@AndrewCMcCarthy @rickjdakota Rosenstein \u2018Scope\u2019 Memo Confirms Baselessness of Trump\u2013Russia Probe\nhttps://t.co/brciVKRMIo https://t.co/VGhNF6sGcp",
+    "geo": null,
+    "id": 1259449232790077440,
+    "id_str": "1259449232790077440",
+    "in_reply_to_screen_name": "AndrewCMcCarthy",
+    "in_reply_to_status_id": 1259115962181263362,
+    "in_reply_to_status_id_str": "1259115962181263362",
+    "in_reply_to_user_id": 130684893,
+    "in_reply_to_user_id_str": "130684893",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4745,
+    "retweeted": false,
+    "source": "<a href=\"https://www.primal.com\" rel=\"nofollow\">Primal for Twitter</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Apr 29 20:14:05 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Follow Primal Digest to get content just for you. It's simple: Follow us and we'll learn your interests. When we find relevant content, we'll send a reply.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "primal.ai",
+              "expanded_url": "http://www.primal.ai",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/9HxcQdHxiz"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1297,
+      "follow_request_sent": false,
+      "followers_count": 28522,
+      "following": false,
+      "friends_count": 20321,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 138526255,
+      "id_str": "138526255",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3430,
+      "location": "",
+      "name": "Primal Digest",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/138526255/1501183553",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/994383792142942213/vtCldWYV_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/994383792142942213/vtCldWYV_normal.jpg",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCD",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Primal_Digest",
+      "statuses_count": 561267,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/9HxcQdHxiz",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79761118,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114822,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51530,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

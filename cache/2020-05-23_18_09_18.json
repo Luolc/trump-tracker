@@ -1,0 +1,299 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat May 23 18:09:18 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3310061541,
+        "id_str": "3310061541",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "JT Lewis",
+        "screen_name": "thejtlewis"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          16,
+          32
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @thejtlewis: @realDonaldTrump President Trump is beating Biden by 7+ points in the latest CNN poll. And you can add 10% just because it\u2019\u2026",
+  "geo": null,
+  "id": 1264257111674032130,
+  "id_str": "1264257111674032130",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8566,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 22 01:36:08 +0000 2020",
+    "display_text_range": [
+      17,
+      136
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WSww07Rh2I",
+          "expanded_url": "https://twitter.com/thejtlewis/status/1263644785535049728/photo/1",
+          "id": 1263644778736074759,
+          "id_str": "1263644778736074759",
+          "indices": [
+            137,
+            160
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYleOy7XQAcN0Xc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYleOy7XQAcN0Xc.jpg",
+          "sizes": {
+            "large": {
+              "h": 623,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 602,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 341,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WSww07Rh2I"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/WSww07Rh2I",
+          "expanded_url": "https://twitter.com/thejtlewis/status/1263644785535049728/photo/1",
+          "id": 1263644778736074759,
+          "id_str": "1263644778736074759",
+          "indices": [
+            137,
+            160
+          ],
+          "media_url": "http://pbs.twimg.com/media/EYleOy7XQAcN0Xc.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EYleOy7XQAcN0Xc.jpg",
+          "sizes": {
+            "large": {
+              "h": 623,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 602,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 341,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/WSww07Rh2I"
+        }
+      ]
+    },
+    "favorite_count": 29998,
+    "favorited": false,
+    "full_text": "@realDonaldTrump President Trump is beating Biden by 7+ points in the latest CNN poll. And you can add 10% just because it\u2019s a CNN poll! https://t.co/WSww07Rh2I",
+    "geo": null,
+    "id": 1263644785535049728,
+    "id_str": "1263644785535049728",
+    "in_reply_to_screen_name": "realDonaldTrump",
+    "in_reply_to_status_id": 1263644460203806725,
+    "in_reply_to_status_id_str": "1263644460203806725",
+    "in_reply_to_user_id": 25073877,
+    "in_reply_to_user_id_str": "25073877",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8566,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jun 06 02:49:49 +0000 2015",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "School Safety Advocate. Republican candidate for state Senate (CT-28) \ud83c\uddfa\ud83c\uddf8 @jtlewisCT",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "jt4ct.org",
+              "expanded_url": "http://jt4ct.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6gJY6SWZWn"
+            }
+          ]
+        }
+      },
+      "favourites_count": 50,
+      "follow_request_sent": false,
+      "followers_count": 104123,
+      "following": false,
+      "friends_count": 40385,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 3310061541,
+      "id_str": "3310061541",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 313,
+      "location": "Sandy Hook, CT",
+      "name": "JT Lewis",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3310061541/1590195454",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1263997730512388096/RwtqO7zi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1263997730512388096/RwtqO7zi_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "thejtlewis",
+      "statuses_count": 633,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/6gJY6SWZWn",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 80208449,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113515,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51955,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

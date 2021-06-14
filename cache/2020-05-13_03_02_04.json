@@ -1,0 +1,373 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed May 13 03:02:04 +0000 2020",
+  "display_text_range": [
+    0,
+    55
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/yzHASTwsl4",
+        "expanded_url": "https://twitter.com/PNowhiteflag/status/1260157970194878464/photo/1",
+        "id": 1260157964616335360,
+        "id_str": "1260157964616335360",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+        "sizes": {
+          "large": {
+            "h": 439,
+            "resize": "fit",
+            "w": 780
+          },
+          "medium": {
+            "h": 439,
+            "resize": "fit",
+            "w": 780
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1260157970194878464,
+        "source_status_id_str": "1260157970194878464",
+        "source_user_id": 4460030909,
+        "source_user_id_str": "4460030909",
+        "type": "photo",
+        "url": "https://t.co/yzHASTwsl4"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4460030909,
+        "id_str": "4460030909",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "\u274cPeter#nowhiteflag",
+        "screen_name": "PNowhiteflag"
+      },
+      {
+        "id": 21536398,
+        "id_str": "21536398",
+        "indices": [
+          18,
+          31
+        ],
+        "name": "Gregg Jarrett",
+        "screen_name": "GreggJarrett"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/yzHASTwsl4",
+        "expanded_url": "https://twitter.com/PNowhiteflag/status/1260157970194878464/photo/1",
+        "id": 1260157964616335360,
+        "id_str": "1260157964616335360",
+        "indices": [
+          32,
+          55
+        ],
+        "media_url": "http://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+        "sizes": {
+          "large": {
+            "h": 439,
+            "resize": "fit",
+            "w": 780
+          },
+          "medium": {
+            "h": 439,
+            "resize": "fit",
+            "w": 780
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1260157970194878464,
+        "source_status_id_str": "1260157970194878464",
+        "source_user_id": 4460030909,
+        "source_user_id_str": "4460030909",
+        "type": "photo",
+        "url": "https://t.co/yzHASTwsl4"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PNowhiteflag: @GreggJarrett https://t.co/yzHASTwsl4",
+  "geo": null,
+  "id": 1260404920836128775,
+  "id_str": "1260404920836128775",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 7132,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 12 10:40:47 +0000 2020",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yzHASTwsl4",
+          "expanded_url": "https://twitter.com/PNowhiteflag/status/1260157970194878464/photo/1",
+          "id": 1260157964616335360,
+          "id_str": "1260157964616335360",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+          "sizes": {
+            "large": {
+              "h": 439,
+              "resize": "fit",
+              "w": 780
+            },
+            "medium": {
+              "h": 439,
+              "resize": "fit",
+              "w": 780
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yzHASTwsl4"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 21536398,
+          "id_str": "21536398",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Gregg Jarrett",
+          "screen_name": "GreggJarrett"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yzHASTwsl4",
+          "expanded_url": "https://twitter.com/PNowhiteflag/status/1260157970194878464/photo/1",
+          "id": 1260157964616335360,
+          "id_str": "1260157964616335360",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EXz6_gHWAAApzAR.jpg",
+          "sizes": {
+            "large": {
+              "h": 439,
+              "resize": "fit",
+              "w": 780
+            },
+            "medium": {
+              "h": 439,
+              "resize": "fit",
+              "w": 780
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yzHASTwsl4"
+        }
+      ]
+    },
+    "favorite_count": 18667,
+    "favorited": false,
+    "full_text": "@GreggJarrett https://t.co/yzHASTwsl4",
+    "geo": null,
+    "id": 1260157970194878464,
+    "id_str": "1260157970194878464",
+    "in_reply_to_screen_name": "GreggJarrett",
+    "in_reply_to_status_id": 1259942621847437312,
+    "in_reply_to_status_id_str": "1259942621847437312",
+    "in_reply_to_user_id": 21536398,
+    "in_reply_to_user_id_str": "21536398",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7132,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Dec 12 14:12:08 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "\ud83d\udeabPorn\ud83d\udeabDate, USA/CDN, #PPC, #JordanPeterson /Trump/Max supporter #MAGA, \ud83d\udc95USA #MCGA #PATRIOT #CONSERVATIVE #WesternValues \ud83c\udde8\ud83c\udde6 \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 237804,
+      "follow_request_sent": false,
+      "followers_count": 15860,
+      "following": false,
+      "friends_count": 16756,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 4460030909,
+      "id_str": "4460030909",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 24,
+      "location": "Canada, \ud83d\ude82,USA",
+      "name": "\u274cPeter#nowhiteflag",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4460030909/1451522574",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/682361987054055424/r2ifGGH1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/682361987054055424/r2ifGGH1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PNowhiteflag",
+      "statuses_count": 78577,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79800264,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113834,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51556,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

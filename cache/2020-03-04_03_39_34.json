@@ -1,0 +1,295 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 04 03:39:34 +0000 2020",
+  "display_text_range": [
+    0,
+    42
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/bopinion/statu\u2026",
+        "expanded_url": "https://twitter.com/bopinion/status/1234901070180212736",
+        "indices": [
+          43,
+          66
+        ],
+        "url": "https://t.co/WZnOx6ZHmW"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 18984,
+  "favorited": false,
+  "full_text": "But they really knew who was going to win! https://t.co/WZnOx6ZHmW",
+  "geo": null,
+  "id": 1235047203464286208,
+  "id_str": "1235047203464286208",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 03 17:58:53 +0000 2020",
+    "display_text_range": [
+      0,
+      216
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cWSohY8NhR",
+          "expanded_url": "https://twitter.com/bopinion/status/1234901070180212736/photo/1",
+          "id": 1234901047862317056,
+          "id_str": "1234901047862317056",
+          "indices": [
+            217,
+            240
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESM_9dKXUAA1hC8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESM_9dKXUAA1hC8.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cWSohY8NhR"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "trib.al/UGJryye",
+          "expanded_url": "http://trib.al/UGJryye",
+          "indices": [
+            193,
+            216
+          ],
+          "url": "https://t.co/5Qs0FnPRjv"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cWSohY8NhR",
+          "expanded_url": "https://twitter.com/bopinion/status/1234901070180212736/photo/1",
+          "id": 1234901047862317056,
+          "id_str": "1234901047862317056",
+          "indices": [
+            217,
+            240
+          ],
+          "media_url": "http://pbs.twimg.com/media/ESM_9dKXUAA1hC8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ESM_9dKXUAA1hC8.jpg",
+          "sizes": {
+            "large": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 683,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 454,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cWSohY8NhR"
+        }
+      ]
+    },
+    "favorite_count": 825,
+    "favorited": false,
+    "full_text": "Base-raters believe that most of the world, most of the time, doesn\u2019t change very quickly.\n\nYet base-rate thinking failed to predict the 2008 financial crisis, and the election of Donald Trump https://t.co/5Qs0FnPRjv https://t.co/cWSohY8NhR",
+    "geo": null,
+    "id": 1234901070180212736,
+    "id_str": "1234901070180212736",
+    "in_reply_to_screen_name": "bopinion",
+    "in_reply_to_status_id": 1234900920489709573,
+    "in_reply_to_status_id_str": "1234900920489709573",
+    "in_reply_to_user_id": 227682918,
+    "in_reply_to_user_id_str": "227682918",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 252,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 17 14:20:58 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Opinions on business, economics and much more from the editors and columnists at Bloomberg Opinion.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bloomberg.com/opinion",
+              "expanded_url": "http://bloomberg.com/opinion",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eY4AY2rZeQ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8051,
+      "follow_request_sent": false,
+      "followers_count": 226554,
+      "following": false,
+      "friends_count": 453,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 227682918,
+      "id_str": "227682918",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4413,
+      "location": "Worldwide",
+      "name": "Bloomberg Opinion",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/227682918/1525292911",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/991778099397320705/6LWXR6MS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/991778099397320705/6LWXR6MS_normal.jpg",
+      "profile_link_color": "0072FF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "bopinion",
+      "statuses_count": 160032,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eY4AY2rZeQ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1234901070180212736,
+  "quoted_status_id_str": "1234901070180212736",
+  "quoted_status_permalink": {
+    "display": "twitter.com/bopinion/statu\u2026",
+    "expanded": "https://twitter.com/bopinion/status/1234901070180212736",
+    "url": "https://t.co/WZnOx6ZHmW"
+  },
+  "retweet_count": 4566,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73363410,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115517,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49510,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

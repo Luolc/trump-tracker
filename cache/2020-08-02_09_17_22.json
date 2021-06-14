@@ -1,0 +1,361 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 09:17:22 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 10168082,
+        "id_str": "10168082",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Heritage Foundation",
+        "screen_name": "Heritage"
+      },
+      {
+        "id": 366176456,
+        "id_str": "366176456",
+        "indices": [
+          103,
+          117
+        ],
+        "name": "Hans von Spakovsky",
+        "screen_name": "HvonSpakovsky"
+      },
+      {
+        "id": 264361128,
+        "id_str": "264361128",
+        "indices": [
+          125,
+          137
+        ],
+        "name": "Liz Wheeler",
+        "screen_name": "Liz_Wheeler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Heritage: Is Twitter censoring those who speak out about the risks associated with mail-in voting? @HVonSpakovsky joined @Liz_Wheeler t\u2026",
+  "geo": null,
+  "id": 1289852785379295232,
+  "id_str": "1289852785379295232",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3613,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 31 13:14:48 +0000 2020",
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            187,
+            198
+          ],
+          "text": "voterfraud"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/PtrTHA3wJu",
+          "expanded_url": "https://twitter.com/Heritage/status/1289187759861764097/video/1",
+          "id": 1288882108140851204,
+          "id_str": "1288882108140851204",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1288882108140851204/img/z6uKyOIYyDwc-SnC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1288882108140851204/img/z6uKyOIYyDwc-SnC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/PtrTHA3wJu"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 366176456,
+          "id_str": "366176456",
+          "indices": [
+            89,
+            103
+          ],
+          "name": "Hans von Spakovsky",
+          "screen_name": "HvonSpakovsky"
+        },
+        {
+          "id": 264361128,
+          "id_str": "264361128",
+          "indices": [
+            111,
+            123
+          ],
+          "name": "Liz Wheeler",
+          "screen_name": "Liz_Wheeler"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/PtrTHA3wJu",
+          "expanded_url": "https://twitter.com/Heritage/status/1289187759861764097/video/1",
+          "id": 1288882108140851204,
+          "id_str": "1288882108140851204",
+          "indices": [
+            199,
+            222
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1288882108140851204/img/z6uKyOIYyDwc-SnC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1288882108140851204/img/z6uKyOIYyDwc-SnC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/PtrTHA3wJu",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 397731,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1288882108140851204/pl/15HTIc1w4IIi5UwW.m3u8?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1288882108140851204/vid/640x360/W71Ilivgnmhy5naB.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1288882108140851204/vid/1280x720/mQ1nqz5I_NRLFpqX.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1288882108140851204/vid/480x270/FedeLh0ave7n0C4f.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8748,
+    "favorited": false,
+    "full_text": "Is Twitter censoring those who speak out about the risks associated with mail-in voting? @HVonSpakovsky joined @Liz_Wheeler to lay out the facts\u2014and what ALL Americans need to know about #voterfraud https://t.co/PtrTHA3wJu",
+    "geo": null,
+    "id": 1289187759861764097,
+    "id_str": "1289187759861764097",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3613,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 12 01:50:27 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Devoted to the principles of free enterprise, limited government, individual freedom, traditional American values, and a strong national defense.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "coronavirus.gov",
+              "expanded_url": "http://www.coronavirus.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/IpYuMMcHM7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5530,
+      "follow_request_sent": false,
+      "followers_count": 670175,
+      "following": false,
+      "friends_count": 29681,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 10168082,
+      "id_str": "10168082",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10937,
+      "location": "Washington, DC",
+      "name": "Heritage Foundation",
+      "notifications": false,
+      "profile_background_color": "004B8E",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/10168082/1570551734",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1181605724163629056/QNPi-MEG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181605724163629056/QNPi-MEG_normal.jpg",
+      "profile_link_color": "000080",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Heritage",
+      "statuses_count": 95904,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/IpYuMMcHM7",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

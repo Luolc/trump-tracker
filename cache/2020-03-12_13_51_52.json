@@ -1,0 +1,449 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Mar 12 13:51:52 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          106
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 822191111414444034,
+        "id_str": "822191111414444034",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Administrator Seema Verma",
+        "screen_name": "SeemaCMS"
+      },
+      {
+        "id": 917104380,
+        "id_str": "917104380",
+        "indices": [
+          22,
+          38
+        ],
+        "name": "UnitedHealth Group",
+        "screen_name": "UnitedHealthGrp"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SeemaCMS: Thanks, @UnitedHealthGrp, for helping ensure your communities have coverage for the #COVID19 testing and treatment they need.",
+  "geo": null,
+  "id": 1238100399049060353,
+  "id_str": "1238100399049060353",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1237025682846371842,
+  "quoted_status_id_str": "1237025682846371842",
+  "quoted_status_permalink": {
+    "display": "twitter.com/UnitedHealthGr\u2026",
+    "expanded": "https://twitter.com/UnitedHealthGrp/status/1237025682846371842",
+    "url": "https://t.co/SpqAIcZ9rg"
+  },
+  "retweet_count": 2761,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 10 19:22:54 +0000 2020",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            84,
+            92
+          ],
+          "text": "COVID19"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/UnitedHealthGr\u2026",
+          "expanded_url": "https://twitter.com/UnitedHealthGrp/status/1237025682846371842",
+          "indices": [
+            126,
+            149
+          ],
+          "url": "https://t.co/SpqAIcZ9rg"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 917104380,
+          "id_str": "917104380",
+          "indices": [
+            8,
+            24
+          ],
+          "name": "UnitedHealth Group",
+          "screen_name": "UnitedHealthGrp"
+        }
+      ]
+    },
+    "favorite_count": 9556,
+    "favorited": false,
+    "full_text": "Thanks, @UnitedHealthGrp, for helping ensure your communities have coverage for the #COVID19 testing and treatment they need. https://t.co/SpqAIcZ9rg",
+    "geo": null,
+    "id": 1237458929283719169,
+    "id_str": "1237458929283719169",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Mon Mar 09 14:41:20 +0000 2020",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              104,
+              112
+            ],
+            "text": "COVID19"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EPWrImuS9X",
+            "expanded_url": "https://twitter.com/UnitedHealthGrp/status/1237025682846371842/photo/1",
+            "id": 1237019577919430663,
+            "id_str": "1237019577919430663",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESrGwIoXYAc7UM3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESrGwIoXYAc7UM3.jpg",
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 600,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 340,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EPWrImuS9X"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "uhg.co/COVID19",
+            "expanded_url": "http://uhg.co/COVID19",
+            "indices": [
+              114,
+              137
+            ],
+            "url": "https://t.co/pyzOfWKv6d"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/EPWrImuS9X",
+            "expanded_url": "https://twitter.com/UnitedHealthGrp/status/1237025682846371842/photo/1",
+            "id": 1237019577919430663,
+            "id_str": "1237019577919430663",
+            "indices": [
+              138,
+              161
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESrGwIoXYAc7UM3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ESrGwIoXYAc7UM3.jpg",
+            "sizes": {
+              "large": {
+                "h": 1024,
+                "resize": "fit",
+                "w": 2048
+              },
+              "medium": {
+                "h": 600,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 340,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/EPWrImuS9X"
+          }
+        ]
+      },
+      "favorite_count": 381,
+      "favorited": false,
+      "full_text": "Our top priority is the health and wellbeing of our members &amp; patients. How we\u2019re taking action for #COVID19: https://t.co/pyzOfWKv6d https://t.co/EPWrImuS9X",
+      "geo": null,
+      "id": 1237025682846371842,
+      "id_str": "1237025682846371842",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 146,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Oct 31 15:33:18 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Helping people live healthier lives and helping make the health system work better for everyone. Media inquiries: https://t.co/LUd3techX6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "uhg.co/MediaContacts",
+                "expanded_url": "https://uhg.co/MediaContacts",
+                "indices": [
+                  114,
+                  137
+                ],
+                "url": "https://t.co/LUd3techX6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unitedhealthgroup.com",
+                "expanded_url": "http://www.unitedhealthgroup.com",
+                "indices": [
+                  0,
+                  22
+                ],
+                "url": "http://t.co/23CEqz6CHz"
+              }
+            ]
+          }
+        },
+        "favourites_count": 351,
+        "follow_request_sent": false,
+        "followers_count": 18956,
+        "following": false,
+        "friends_count": 411,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 917104380,
+        "id_str": "917104380",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 300,
+        "location": "Minnetonka, MN",
+        "name": "UnitedHealth Group",
+        "notifications": false,
+        "profile_background_color": "003C71",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/917104380/1540904449",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/783757260749025281/h3LW0lYI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/783757260749025281/h3LW0lYI_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "UnitedHealthGrp",
+        "statuses_count": 1946,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "http://t.co/23CEqz6CHz",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1237025682846371842,
+    "quoted_status_id_str": "1237025682846371842",
+    "quoted_status_permalink": {
+      "display": "twitter.com/UnitedHealthGr\u2026",
+      "expanded": "https://twitter.com/UnitedHealthGrp/status/1237025682846371842",
+      "url": "https://t.co/SpqAIcZ9rg"
+    },
+    "retweet_count": 2761,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 19 21:16:51 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Administrator for the Centers for Medicare & Medicaid Services (@CMSGov). Mother and Wife. Proud alum of @UofMaryland and @JohnsHopkins Univ.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 614,
+      "follow_request_sent": false,
+      "followers_count": 31193,
+      "following": false,
+      "friends_count": 332,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 822191111414444034,
+      "id_str": "822191111414444034",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 501,
+      "location": "Baltimore, MD",
+      "name": "Administrator Seema Verma",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822191111414444034/1580944439",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951259828617469952/sfA3q-HW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951259828617469952/sfA3q-HW_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SeemaCMS",
+      "statuses_count": 5359,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73848461,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116259,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

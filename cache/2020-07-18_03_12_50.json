@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 03:12:50 +0000 2020",
+  "display_text_range": [
+    0,
+    39
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/DfZTtMONYc",
+        "expanded_url": "https://twitter.com/theAlecStone/status/1283865426229944320/video/1",
+        "id": 1283865188517715973,
+        "id_str": "1283865188517715973",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1283865426229944320,
+        "source_status_id_str": "1283865426229944320",
+        "source_user_id": 1074005912027848705,
+        "source_user_id_str": "1074005912027848705",
+        "type": "photo",
+        "url": "https://t.co/DfZTtMONYc"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 620571475,
+        "id_str": "620571475",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Dan Scavino",
+        "screen_name": "DanScavino"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sat Dec 15 18:18:58 +0000 2018",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "\u271d\ufe0f God First! \u2022 \ud83c\uddfa\ud83c\uddf8 American Conservative Patriot \u2022 \ud83d\uddfd Chapter Leader \u2022 \ud83d\udcf2 RT'd by @realDonaldTrump \u2022 All views and opinions are my own. \u2022 #AmericaFirst #MAGA",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "vote.DonaldJTrump.com",
+                    "expanded_url": "http://vote.DonaldJTrump.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/izkljBQisN"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 17278,
+            "follow_request_sent": false,
+            "followers_count": 1280,
+            "following": false,
+            "friends_count": 392,
+            "geo_enabled": false,
+            "has_extended_profile": true,
+            "id": 1074005912027848705,
+            "id_str": "1074005912027848705",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 6,
+            "location": "IL | RT/Likes \u2260 Endorsement",
+            "name": "Alec Stone \ud83c\uddfa\ud83c\uddf8",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074005912027848705/1591901884",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1284359819282063360/Z1Q3XMZO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284359819282063360/Z1Q3XMZO_normal.jpg",
+            "profile_link_color": "1B95E0",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "theAlecStone",
+            "statuses_count": 383,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/izkljBQisN",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/DfZTtMONYc",
+        "expanded_url": "https://twitter.com/theAlecStone/status/1283865426229944320/video/1",
+        "id": 1283865188517715973,
+        "id_str": "1283865188517715973",
+        "indices": [
+          16,
+          39
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1283865426229944320,
+        "source_status_id_str": "1283865426229944320",
+        "source_user_id": 1074005912027848705,
+        "source_user_id_str": "1074005912027848705",
+        "type": "video",
+        "url": "https://t.co/DfZTtMONYc",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 82733,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/pl/89rbg7CV39siyjk7.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/640x360/YXx53mrF8B3XJVBC.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/480x270/AoOcIz_nTOx1oqLL.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/1280x720/OjHWIYRGzI8eo9dD.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DanScavino: https://t.co/DfZTtMONYc",
+  "geo": null,
+  "id": 1284325226478788608,
+  "id_str": "1284325226478788608",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 12031,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 17 22:53:53 +0000 2020",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DfZTtMONYc",
+          "expanded_url": "https://twitter.com/theAlecStone/status/1283865426229944320/video/1",
+          "id": 1283865188517715973,
+          "id_str": "1283865188517715973",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1283865426229944320,
+          "source_status_id_str": "1283865426229944320",
+          "source_user_id": 1074005912027848705,
+          "source_user_id_str": "1074005912027848705",
+          "type": "photo",
+          "url": "https://t.co/DfZTtMONYc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Sat Dec 15 18:18:58 +0000 2018",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "\u271d\ufe0f God First! \u2022 \ud83c\uddfa\ud83c\uddf8 American Conservative Patriot \u2022 \ud83d\uddfd Chapter Leader \u2022 \ud83d\udcf2 RT'd by @realDonaldTrump \u2022 All views and opinions are my own. \u2022 #AmericaFirst #MAGA",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "vote.DonaldJTrump.com",
+                      "expanded_url": "http://vote.DonaldJTrump.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/izkljBQisN"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 17278,
+              "follow_request_sent": false,
+              "followers_count": 1280,
+              "following": false,
+              "friends_count": 392,
+              "geo_enabled": false,
+              "has_extended_profile": true,
+              "id": 1074005912027848705,
+              "id_str": "1074005912027848705",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 6,
+              "location": "IL | RT/Likes \u2260 Endorsement",
+              "name": "Alec Stone \ud83c\uddfa\ud83c\uddf8",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/1074005912027848705/1591901884",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1284359819282063360/Z1Q3XMZO_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284359819282063360/Z1Q3XMZO_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "theAlecStone",
+              "statuses_count": 383,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/izkljBQisN",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/DfZTtMONYc",
+          "expanded_url": "https://twitter.com/theAlecStone/status/1283865426229944320/video/1",
+          "id": 1283865188517715973,
+          "id_str": "1283865188517715973",
+          "indices": [
+            0,
+            23
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1283865188517715973/pu/img/3K-zkl1jabY-VMSc.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1283865426229944320,
+          "source_status_id_str": "1283865426229944320",
+          "source_user_id": 1074005912027848705,
+          "source_user_id_str": "1074005912027848705",
+          "type": "video",
+          "url": "https://t.co/DfZTtMONYc",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 82733,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/pl/89rbg7CV39siyjk7.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/640x360/YXx53mrF8B3XJVBC.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/480x270/AoOcIz_nTOx1oqLL.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1283865188517715973/pu/vid/1280x720/OjHWIYRGzI8eo9dD.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 29485,
+    "favorited": false,
+    "full_text": "https://t.co/DfZTtMONYc",
+    "geo": null,
+    "id": 1284260061108412422,
+    "id_str": "1284260061108412422",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 12031,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 28 02:45:39 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Personal Twitter Account",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/DanScavino",
+              "expanded_url": "https://www.Instagram.com/DanScavino",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/d4FhxaX9ii"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2872,
+      "follow_request_sent": false,
+      "followers_count": 884351,
+      "following": false,
+      "friends_count": 667,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 620571475,
+      "id_str": "620571475",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3747,
+      "location": "",
+      "name": "Dan Scavino",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/620571475/1595055704",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1284244858677473280/eWVs2LuX_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DanScavino",
+      "statuses_count": 11050,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/d4FhxaX9ii",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

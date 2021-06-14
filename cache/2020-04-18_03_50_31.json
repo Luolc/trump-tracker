@@ -1,0 +1,385 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 18 03:50:31 +0000 2020",
+  "display_text_range": [
+    0,
+    101
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/charliekirk11/\u2026",
+        "expanded_url": "https://twitter.com/charliekirk11/status/1250895031826657280",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/FZ9mH92j0S"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 83099,
+  "favorited": false,
+  "full_text": "An incompetent political hack! Come back to Washington &amp; take care of our great American workers. https://t.co/FZ9mH92j0S",
+  "geo": null,
+  "id": 1251357415045500928,
+  "id_str": "1251357415045500928",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 21:13:10 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/R0usYOU1E5",
+          "expanded_url": "https://twitter.com/mattdizwhitlock/status/1250515297947332617/video/1",
+          "id": 1250515003507171329,
+          "id_str": "1250515003507171329",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250515003507171329/pu/img/c_5QHJ4HNeLI2gJu.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250515003507171329/pu/img/c_5QHJ4HNeLI2gJu.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1250515297947332617,
+          "source_status_id_str": "1250515297947332617",
+          "source_user_id": 55192727,
+          "source_user_id_str": "55192727",
+          "type": "photo",
+          "url": "https://t.co/R0usYOU1E5"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 09:45:59 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "@NRSC Senior Advisor. Former corporate comms and @SenOrrinHatch Comms/ Deputy COS. Bay Area born and raised. BYU grad. Tweets are my own.",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "nrsc.org",
+                      "expanded_url": "http://nrsc.org",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/5fqeeUJaNw"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 30509,
+              "follow_request_sent": false,
+              "followers_count": 22570,
+              "following": false,
+              "friends_count": 2012,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 55192727,
+              "id_str": "55192727",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 282,
+              "location": "Washington, DC",
+              "name": "Matt Whitlock",
+              "notifications": false,
+              "profile_background_color": "1A1B1F",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55192727/1586925294",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/818229110854057985/8jeedq3Q_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/818229110854057985/8jeedq3Q_normal.jpg",
+              "profile_link_color": "1B95E0",
+              "profile_sidebar_border_color": "181A1E",
+              "profile_sidebar_fill_color": "120547",
+              "profile_text_color": "F0F2F5",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "mattdizwhitlock",
+              "statuses_count": 21420,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/5fqeeUJaNw",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/R0usYOU1E5",
+          "expanded_url": "https://twitter.com/mattdizwhitlock/status/1250515297947332617/video/1",
+          "id": 1250515003507171329,
+          "id_str": "1250515003507171329",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1250515003507171329/pu/img/c_5QHJ4HNeLI2gJu.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1250515003507171329/pu/img/c_5QHJ4HNeLI2gJu.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1250515297947332617,
+          "source_status_id_str": "1250515297947332617",
+          "source_user_id": 55192727,
+          "source_user_id_str": "55192727",
+          "type": "video",
+          "url": "https://t.co/R0usYOU1E5",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 81992,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1250515003507171329/pu/pl/Y41baUZhSwkX7QGX.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1250515003507171329/pu/vid/640x360/hifQC4ZKOJ-sifup.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1250515003507171329/pu/vid/1280x720/oscsHUMzHYzyq18i.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1250515003507171329/pu/vid/480x270/HIMTimpz68LElswz.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31559,
+    "favorited": false,
+    "full_text": "Nancy Pelosi sits in her $7.5 million San Francisco home\n\nIn front of her $24,000 fridges\n\nBragging about her stockpile of $13/pint, gourmet ice cream\n\nAll while 22 million Americans file for unemployment and funding for small businesses runs dry\n\nShameful.https://t.co/R0usYOU1E5",
+    "geo": null,
+    "id": 1250895031826657280,
+    "id_str": "1250895031826657280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 15178,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed May 04 13:37:25 +0000 2011",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Founder & President\u2014@TPUSA\nChair\u2014@TrumpStudents\nHost\u2014The Charlie Kirk Show\nAuthor\u2014'The MAGA Doctrine\u2019\nWe are all sinners saved by Jesus\nOpinions here are my own",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "apple.co/2VCxGsh",
+              "expanded_url": "http://apple.co/2VCxGsh",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/WWs5TJFjJd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 31219,
+      "follow_request_sent": false,
+      "followers_count": 1750136,
+      "following": false,
+      "friends_count": 232067,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 292929271,
+      "id_str": "292929271",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5588,
+      "location": "Phoenix, AZ",
+      "name": "Charlie Kirk",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/292929271/1584116822",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1095532385926631424/ODX2AmEZ_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "charliekirk11",
+      "statuses_count": 47110,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/WWs5TJFjJd",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1250895031826657280,
+  "quoted_status_id_str": "1250895031826657280",
+  "quoted_status_permalink": {
+    "display": "twitter.com/charliekirk11/\u2026",
+    "expanded": "https://twitter.com/charliekirk11/status/1250895031826657280",
+    "url": "https://t.co/FZ9mH92j0S"
+  },
+  "retweet_count": 26586,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77522713,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119658,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50719,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

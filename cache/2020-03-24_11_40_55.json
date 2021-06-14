@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 24 11:40:55 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 756326863186911233,
+        "id_str": "756326863186911233",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Nikki Baeley \u2741",
+        "screen_name": "NikkiBAEley"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @NikkiBAEley: When Nancy Pelosi receives a bill that will expedite relief to American workers but doesn't fund the Kennedy Center: https\u2026",
+  "geo": null,
+  "id": 1242416096956878855,
+  "id_str": "1242416096956878855",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3968,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Mar 24 04:40:53 +0000 2020",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gWV1yyzHTa",
+          "expanded_url": "https://twitter.com/NikkiBAEley/status/1242310392870850564/photo/1",
+          "id": 1242310380988350464,
+          "id_str": "1242310380988350464",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ET2StZ-XQAAA5LK.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET2StZ-XQAAA5LK.jpg",
+          "sizes": {
+            "large": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/gWV1yyzHTa"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/gWV1yyzHTa",
+          "expanded_url": "https://twitter.com/NikkiBAEley/status/1242310392870850564/photo/1",
+          "id": 1242310380988350464,
+          "id_str": "1242310380988350464",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/ET2StZ-XQAAA5LK.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ET2StZ-XQAAA5LK.jpg",
+          "sizes": {
+            "large": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "medium": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "small": {
+              "h": 278,
+              "resize": "fit",
+              "w": 480
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/gWV1yyzHTa",
+          "video_info": {
+            "aspect_ratio": [
+              240,
+              139
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/ET2StZ-XQAAA5LK.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 10295,
+    "favorited": false,
+    "full_text": "When Nancy Pelosi receives a bill that will expedite relief to American workers but doesn't fund the Kennedy Center: https://t.co/gWV1yyzHTa",
+    "geo": null,
+    "id": 1242310392870850564,
+    "id_str": "1242310392870850564",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3968,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Jul 22 03:15:50 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Retweeter of vintage tweets.  Gym rat.  Closet Arianator \u2790.  Support #ADOS.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 220584,
+      "follow_request_sent": false,
+      "followers_count": 2224,
+      "following": false,
+      "friends_count": 4826,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 756326863186911233,
+      "id_str": "756326863186911233",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 34,
+      "location": "North America",
+      "name": "Nikki Baeley \u2741",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/756326863186911233/1578946638",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1223984850111205378/-O6vcQgs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223984850111205378/-O6vcQgs_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "NikkiBAEley",
+      "statuses_count": 76237,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74985162,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117544,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50147,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

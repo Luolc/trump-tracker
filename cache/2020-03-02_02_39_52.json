@@ -1,0 +1,330 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 02 02:39:52 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2557521,
+        "id_str": "2557521",
+        "indices": [
+          3,
+          8
+        ],
+        "name": "ESPN",
+        "screen_name": "espn"
+      },
+      {
+        "id": 1045433000140275713,
+        "id_str": "1045433000140275713",
+        "indices": [
+          11,
+          21
+        ],
+        "name": "Tampa Bay Vipers",
+        "screen_name": "XFLVipers"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @espn: .@XFLVipers RB Jacques Patrick was emotional when he scored his first professional touchdown after his father died last Friday \ud83d\ude4f\u2026",
+  "geo": null,
+  "id": 1234307404495544320,
+  "id_str": "1234307404495544320",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5618,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 02 00:41:16 +0000 2020",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/TjCKBQ9OX2",
+          "expanded_url": "https://twitter.com/espn/status/1234277560424521730/video/1",
+          "id": 1234276320823140353,
+          "id_str": "1234276320823140353",
+          "indices": [
+            129,
+            152
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234276320823140353/pu/img/C9kJjLakw5YBxsJY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234276320823140353/pu/img/C9kJjLakw5YBxsJY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/TjCKBQ9OX2"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1045433000140275713,
+          "id_str": "1045433000140275713",
+          "indices": [
+            1,
+            11
+          ],
+          "name": "Tampa Bay Vipers",
+          "screen_name": "XFLVipers"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/TjCKBQ9OX2",
+          "expanded_url": "https://twitter.com/espn/status/1234277560424521730/video/1",
+          "id": 1234276320823140353,
+          "id_str": "1234276320823140353",
+          "indices": [
+            129,
+            152
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1234276320823140353/pu/img/C9kJjLakw5YBxsJY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1234276320823140353/pu/img/C9kJjLakw5YBxsJY.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 720,
+              "resize": "fit",
+              "w": 720
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/TjCKBQ9OX2",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "duration_millis": 28328,
+            "variants": [
+              {
+                "bitrate": 1280000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1234276320823140353/pu/vid/720x720/BUsJOc-75K4eKrhf.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1234276320823140353/pu/vid/480x480/lKOpMpGysaAdq_DE.mp4?tag=10"
+              },
+              {
+                "bitrate": 432000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1234276320823140353/pu/vid/320x320/u8b4ICDBq1ZfMaK2.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1234276320823140353/pu/pl/l8wlAvMVBhPAc9j7.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 38683,
+    "favorited": false,
+    "full_text": ".@XFLVipers RB Jacques Patrick was emotional when he scored his first professional touchdown after his father died last Friday \ud83d\ude4f https://t.co/TjCKBQ9OX2",
+    "geo": null,
+    "id": 1234277560424521730,
+    "id_str": "1234277560424521730",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5618,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 27 20:46:16 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Download the ESPN App \u2b07\ufe0f",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "es.pn/app",
+              "expanded_url": "http://es.pn/app",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RqqkIx8GI7"
+            }
+          ]
+        }
+      },
+      "favourites_count": 425,
+      "follow_request_sent": false,
+      "followers_count": 35027488,
+      "following": false,
+      "friends_count": 311,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2557521,
+      "id_str": "2557521",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 60645,
+      "location": "",
+      "name": "ESPN",
+      "notifications": false,
+      "profile_background_color": "C8C8C8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2557521/1516042897",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1170690523201527808/FriNRiir_normal.png",
+      "profile_link_color": "CC0000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "espn",
+      "statuses_count": 109866,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/RqqkIx8GI7",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73318272,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115412,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49471,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Mar 14 11:58:18 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 195271137,
+        "id_str": "195271137",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Larry Elder",
+        "screen_name": "larryelder"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @larryelder: \u201cAndrew Gillum apologizes after being found 'inebriated' in hotel room where police say man was treated for 'possible drug\u2026",
+  "geo": null,
+  "id": 1238796596030124032,
+  "id_str": "1238796596030124032",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7238,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 14 01:56:38 +0000 2020",
+    "display_text_range": [
+      0,
+      274
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            261,
+            274
+          ],
+          "text": "AndrewGillum"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZmUfiHZImY",
+          "expanded_url": "https://twitter.com/larryelder/status/1238645179751354368/photo/1",
+          "id": 1238645176186236930,
+          "id_str": "1238645176186236930",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETCNOaFU8AIsRSX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETCNOaFU8AIsRSX.jpg",
+          "sizes": {
+            "large": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "medium": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZmUfiHZImY"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "amp.cnn.com/cnn/2020/03/13\u2026",
+          "expanded_url": "https://amp.cnn.com/cnn/2020/03/13/media/andrew-gillum-hotel-inebriated/index.html",
+          "indices": [
+            236,
+            259
+          ],
+          "url": "https://t.co/P8Xg6E8RLk"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/ZmUfiHZImY",
+          "expanded_url": "https://twitter.com/larryelder/status/1238645179751354368/photo/1",
+          "id": 1238645176186236930,
+          "id_str": "1238645176186236930",
+          "indices": [
+            275,
+            298
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETCNOaFU8AIsRSX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETCNOaFU8AIsRSX.jpg",
+          "sizes": {
+            "large": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "medium": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "small": {
+              "h": 425,
+              "resize": "fit",
+              "w": 540
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/ZmUfiHZImY"
+        }
+      ]
+    },
+    "favorite_count": 20248,
+    "favorited": false,
+    "full_text": "\u201cAndrew Gillum apologizes after being found 'inebriated' in hotel room where police say man was treated for 'possible drug overdose'\u201d\n\nGillum\u2019s dilemma: How to blame Trump, and how to play the race card. But he\u2019s up for the challenge.\n\nhttps://t.co/P8Xg6E8RLk\n\n#AndrewGillum https://t.co/ZmUfiHZImY",
+    "geo": null,
+    "id": 1238645179751354368,
+    "id_str": "1238645179751354368",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Los Angeles, CA",
+      "id": "3b77caf94bfc81fe",
+      "name": "Los Angeles",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 7238,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Sep 26 07:34:31 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Sage from South Central; Larry Elder Show; Salem/CRN; (KRLA L.A. 6-9p PT); 6-9p ET; (888) 971-SAGE; follow me on https://t.co/unavvhKeFl",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/larryeldershow/",
+              "expanded_url": "https://www.instagram.com/larryeldershow/",
+              "indices": [
+                113,
+                136
+              ],
+              "url": "https://t.co/unavvhKeFl"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "larryelder.com",
+              "expanded_url": "http://www.larryelder.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/YUE2m5CuPB"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7086,
+      "follow_request_sent": false,
+      "followers_count": 650708,
+      "following": false,
+      "friends_count": 87,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 195271137,
+      "id_str": "195271137",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3315,
+      "location": "L.A., Calif.",
+      "name": "Larry Elder",
+      "notifications": false,
+      "profile_background_color": "1E1728",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/195271137/1421715440",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/494912342346317824/rbQxobXU_normal.jpeg",
+      "profile_link_color": "7B6DA3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "larryelder",
+      "statuses_count": 58730,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/YUE2m5CuPB",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73950564,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116387,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49790,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

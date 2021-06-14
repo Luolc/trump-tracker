@@ -1,0 +1,326 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Jun 02 03:58:02 +0000 2020",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 812135885328236551,
+        "id_str": "812135885328236551",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Ryan Saavedra",
+        "screen_name": "RealSaavedra"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RealSaavedra: He had 8 years to do it when he was vice president",
+  "geo": null,
+  "id": 1267666762566418437,
+  "id_str": "1267666762566418437",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1267625503365750784,
+  "quoted_status_id_str": "1267625503365750784",
+  "quoted_status_permalink": {
+    "display": "twitter.com/AP/status/1267\u2026",
+    "expanded": "https://twitter.com/AP/status/1267625503365750784",
+    "url": "https://t.co/miRlUYDOF7"
+  },
+  "retweet_count": 6994,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 02 01:18:24 +0000 2020",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/AP/status/1267\u2026",
+          "expanded_url": "https://twitter.com/AP/status/1267625503365750784",
+          "indices": [
+            51,
+            74
+          ],
+          "url": "https://t.co/miRlUYDOF7"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 24751,
+    "favorited": false,
+    "full_text": "He had 8 years to do it when he was vice president https://t.co/miRlUYDOF7",
+    "geo": null,
+    "id": 1267626589287706624,
+    "id_str": "1267626589287706624",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue Jun 02 01:14:06 +0000 2020",
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "apne.ws/T90x8MK",
+            "expanded_url": "http://apne.ws/T90x8MK",
+            "indices": [
+              201,
+              224
+            ],
+            "url": "https://t.co/FOiYbWQrBi"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 3150,
+      "favorited": false,
+      "full_text": "Joe Biden is vowing to address institutional racism in his first 100 days in office if he\u2019s elected, as he seeks to elevate his voice in the exploding national debate over racism and police brutality.\nhttps://t.co/FOiYbWQrBi",
+      "geo": null,
+      "id": 1267625503365750784,
+      "id_str": "1267625503365750784",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 869,
+      "retweeted": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 21:48:52 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "News from The Associated Press, and a taste of the great journalism produced by AP members and customers. Managed 24/7 by these editors: https://t.co/D0hLCc7ShX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apne.ws/APSocial",
+                "expanded_url": "http://apne.ws/APSocial",
+                "indices": [
+                  137,
+                  160
+                ],
+                "url": "https://t.co/D0hLCc7ShX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apnews.com",
+                "expanded_url": "https://apnews.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/48pFaJVRcr"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2938,
+        "follow_request_sent": false,
+        "followers_count": 14203048,
+        "following": false,
+        "friends_count": 7021,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 51241574,
+        "id_str": "51241574",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 93631,
+        "location": "Global",
+        "name": "The Associated Press",
+        "notifications": false,
+        "profile_background_color": "333333",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51241574/1568759398",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/461964160838803457/8z9FImcv_normal.png",
+        "profile_link_color": "CC3300",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "CCCCCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AP",
+        "statuses_count": 266758,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/48pFaJVRcr",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1267625503365750784,
+    "quoted_status_id_str": "1267625503365750784",
+    "quoted_status_permalink": {
+      "display": "twitter.com/AP/status/1267\u2026",
+      "expanded": "https://twitter.com/AP/status/1267625503365750784",
+      "url": "https://t.co/miRlUYDOF7"
+    },
+    "retweet_count": 6994,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Dec 23 03:20:58 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Reporter at @realDailyWire. Retweets \u2260 endorsement.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 12331,
+      "follow_request_sent": false,
+      "followers_count": 323665,
+      "following": false,
+      "friends_count": 396,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 812135885328236551,
+      "id_str": "812135885328236551",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1717,
+      "location": "TX",
+      "name": "Ryan Saavedra",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/812135885328236551/1572666692",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1259353454792699905/kpmTUqn6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1259353454792699905/kpmTUqn6_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "RealSaavedra",
+      "statuses_count": 48878,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81486706,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114611,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52278,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

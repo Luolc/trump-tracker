@@ -1,0 +1,507 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 02 10:10:58 +0000 2020",
+  "display_text_range": [
+    0,
+    71
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 90480218,
+        "id_str": "90480218",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Richard Grenell",
+        "screen_name": "RichardGrenell"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichardGrenell: And he\u2019s too weak and confused to stand up to them.",
+  "geo": null,
+  "id": 1289866271950086145,
+  "id_str": "1289866271950086145",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1289209855757017089,
+  "quoted_status_id_str": "1289209855757017089",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kdorr_usa/stat\u2026",
+    "expanded": "https://twitter.com/kdorr_usa/status/1289209855757017089",
+    "url": "https://t.co/dBJUKn771g"
+  },
+  "retweet_count": 8440,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 31 14:58:07 +0000 2020",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/kdorr_usa/stat\u2026",
+          "expanded_url": "https://twitter.com/kdorr_usa/status/1289209855757017089",
+          "indices": [
+            52,
+            75
+          ],
+          "url": "https://t.co/dBJUKn771g"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 21584,
+    "favorited": false,
+    "full_text": "And he\u2019s too weak and confused to stand up to them. https://t.co/dBJUKn771g",
+    "geo": null,
+    "id": 1289213762126438402,
+    "id_str": "1289213762126438402",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Jul 31 14:42:36 +0000 2020",
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/xRn3q4sN1n",
+            "expanded_url": "https://twitter.com/TeamTrump/status/1289206683160412162/video/1",
+            "id": 1289203629015158784,
+            "id_str": "1289203629015158784",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeQsGCaWAAACBSS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeQsGCaWAAACBSS.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1289206683160412162,
+            "source_status_id_str": "1289206683160412162",
+            "source_user_id": 729676086632656900,
+            "source_user_id_str": "729676086632656900",
+            "type": "photo",
+            "url": "https://t.co/xRn3q4sN1n"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/app/text"
+                }
+              },
+              "description": "Text TRUMP to 88022",
+              "embeddable": false,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Mon May 09 14:15:10 +0000 2016",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "The official Twitter for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "DonaldJTrump.com",
+                        "expanded_url": "http://www.DonaldJTrump.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/mZB2hymxC9"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 3429,
+                "follow_request_sent": false,
+                "followers_count": 2009592,
+                "following": false,
+                "friends_count": 125,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 729676086632656900,
+                "id_str": "729676086632656900",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 3868,
+                "location": "USA",
+                "name": "Team Trump (Text TRUMP to 88022)",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+                "profile_link_color": "CB0606",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TeamTrump",
+                "statuses_count": 23931,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/mZB2hymxC9",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": "Fringe"
+            },
+            "display_url": "pic.twitter.com/xRn3q4sN1n",
+            "expanded_url": "https://twitter.com/TeamTrump/status/1289206683160412162/video/1",
+            "id": 1289203629015158784,
+            "id_str": "1289203629015158784",
+            "indices": [
+              197,
+              220
+            ],
+            "media_url": "http://pbs.twimg.com/media/EeQsGCaWAAACBSS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EeQsGCaWAAACBSS.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1289206683160412162,
+            "source_status_id_str": "1289206683160412162",
+            "source_user_id": 729676086632656900,
+            "source_user_id_str": "729676086632656900",
+            "type": "photo",
+            "url": "https://t.co/xRn3q4sN1n"
+          }
+        ]
+      },
+      "favorite_count": 2158,
+      "favorited": false,
+      "full_text": "The radical left wing of the Democrat party has taken control of Joe Biden.\n\nHe has embraced defunding the police, amnesty, and disastrous economic policies that put our nation\u2019s safety at risk. \n\nhttps://t.co/xRn3q4sN1n",
+      "geo": null,
+      "id": 1289209855757017089,
+      "id_str": "1289209855757017089",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": {
+        "attributes": {},
+        "bounding_box": {
+          "coordinates": [
+            [
+              [
+                -77.172219,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.934311
+              ],
+              [
+                -77.172219,
+                38.934311
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "contained_within": [],
+        "country": "United States",
+        "country_code": "US",
+        "full_name": "Arlington, VA",
+        "id": "319ee7b36c9149da",
+        "name": "Arlington",
+        "place_type": "city",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json"
+      },
+      "possibly_sensitive": false,
+      "retweet_count": 1394,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Nov 15 05:25:16 +0000 2010",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@RealDonaldTrump 2020. King of Queens Fan Account. Dog Dad. Nerd. Personal Account.",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_kaelan",
+                "expanded_url": "http://instagram.com/_kaelan",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/nh9DVSkFHN"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4281,
+        "follow_request_sent": false,
+        "followers_count": 7259,
+        "following": false,
+        "friends_count": 1939,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 215885760,
+        "id_str": "215885760",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 79,
+        "location": "United States",
+        "name": "Kaelan Dorr",
+        "notifications": false,
+        "profile_background_color": "091114",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/215885760/1581988698",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1288649084593745921/B1YvIq1J_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288649084593745921/B1YvIq1J_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "KDORR_USA",
+        "statuses_count": 10824,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/nh9DVSkFHN",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1289209855757017089,
+    "quoted_status_id_str": "1289209855757017089",
+    "quoted_status_permalink": {
+      "display": "twitter.com/kdorr_usa/stat\u2026",
+      "expanded": "https://twitter.com/kdorr_usa/status/1289209855757017089",
+      "url": "https://t.co/dBJUKn771g"
+    },
+    "retweet_count": 8440,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSml3j",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/richardgrenell",
+              "expanded_url": "https://www.instagram.com/richardgrenell",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/danITSml3j"
+            }
+          ]
+        }
+      },
+      "favourites_count": 23841,
+      "follow_request_sent": false,
+      "followers_count": 494969,
+      "following": false,
+      "friends_count": 2632,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 90480218,
+      "id_str": "90480218",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2278,
+      "location": "LA, Palm Springs (and Berlin)",
+      "name": "Richard Grenell",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichardGrenell",
+      "statuses_count": 6623,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84512387,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117459,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54217,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

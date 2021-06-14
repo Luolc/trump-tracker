@@ -1,0 +1,557 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 25 03:43:48 +0000 2020",
+  "display_text_range": [
+    0,
+    82
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/NlD6jDOy5m",
+        "expanded_url": "https://twitter.com/vashon_photo/status/1286487094291030016/video/1",
+        "id": 1286486747476643840,
+        "id_str": "1286486747476643840",
+        "indices": [
+          59,
+          82
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1286487094291030016,
+        "source_status_id_str": "1286487094291030016",
+        "source_user_id": 758057371,
+        "source_user_id_str": "758057371",
+        "type": "photo",
+        "url": "https://t.co/NlD6jDOy5m"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 264361128,
+        "id_str": "264361128",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Liz Wheeler",
+        "screen_name": "Liz_Wheeler"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Aug 14 22:58:37 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "Independent Photographer & College Senior | \ud83d\udccd African-Chicagoan, South Side | \nWant to sponsor my travel/gear/expenses: CashApp/Venmo: @vashon_photo",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "linktr.ee/vashon_photo",
+                    "expanded_url": "https://linktr.ee/vashon_photo",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/QGTsd3Wy6q"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 15636,
+            "follow_request_sent": false,
+            "followers_count": 7095,
+            "following": false,
+            "friends_count": 1074,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 758057371,
+            "id_str": "758057371",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 46,
+            "location": "Chicago, IL",
+            "name": "Vashon Jordan Jr.",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/758057371/1593550916",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281706940616323078/xFXV3yiJ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281706940616323078/xFXV3yiJ_normal.jpg",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "vashon_photo",
+            "statuses_count": 10812,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/QGTsd3Wy6q",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/NlD6jDOy5m",
+        "expanded_url": "https://twitter.com/vashon_photo/status/1286487094291030016/video/1",
+        "id": 1286486747476643840,
+        "id_str": "1286486747476643840",
+        "indices": [
+          59,
+          82
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1286487094291030016,
+        "source_status_id_str": "1286487094291030016",
+        "source_user_id": 758057371,
+        "source_user_id_str": "758057371",
+        "type": "video",
+        "url": "https://t.co/NlD6jDOy5m",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 127125,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/480x270/99PfFiM3b0S7TIZu.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/1280x720/9d-NN45T2tyJulXa.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/pl/zRZWYzb6amDnEONf.m3u8?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/640x360/OlMJMpuSGI1H_Evu.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Liz_Wheeler: Not allowed to go to Mass where I live.\n\n https://t.co/NlD6jDOy5m",
+  "geo": null,
+  "id": 1286869735590813696,
+  "id_str": "1286869735590813696",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 20032,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 24 14:06:15 +0000 2020",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/NlD6jDOy5m",
+          "expanded_url": "https://twitter.com/vashon_photo/status/1286487094291030016/video/1",
+          "id": 1286486747476643840,
+          "id_str": "1286486747476643840",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1286487094291030016,
+          "source_status_id_str": "1286487094291030016",
+          "source_user_id": 758057371,
+          "source_user_id_str": "758057371",
+          "type": "photo",
+          "url": "https://t.co/NlD6jDOy5m"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Tue Aug 14 22:58:37 +0000 2012",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Independent Photographer & College Senior | \ud83d\udccd African-Chicagoan, South Side | \nWant to sponsor my travel/gear/expenses: CashApp/Venmo: @vashon_photo",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "linktr.ee/vashon_photo",
+                      "expanded_url": "https://linktr.ee/vashon_photo",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/QGTsd3Wy6q"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 15636,
+              "follow_request_sent": false,
+              "followers_count": 7095,
+              "following": false,
+              "friends_count": 1074,
+              "geo_enabled": true,
+              "has_extended_profile": true,
+              "id": 758057371,
+              "id_str": "758057371",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 46,
+              "location": "Chicago, IL",
+              "name": "Vashon Jordan Jr.",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/758057371/1593550916",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1281706940616323078/xFXV3yiJ_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281706940616323078/xFXV3yiJ_normal.jpg",
+              "profile_link_color": "DD2E44",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "vashon_photo",
+              "statuses_count": 10812,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/QGTsd3Wy6q",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/NlD6jDOy5m",
+          "expanded_url": "https://twitter.com/vashon_photo/status/1286487094291030016/video/1",
+          "id": 1286486747476643840,
+          "id_str": "1286486747476643840",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286486747476643840/pu/img/Jk-6Y9rWMNUL3X7D.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1286487094291030016,
+          "source_status_id_str": "1286487094291030016",
+          "source_user_id": 758057371,
+          "source_user_id_str": "758057371",
+          "type": "video",
+          "url": "https://t.co/NlD6jDOy5m",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 127125,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/480x270/99PfFiM3b0S7TIZu.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/1280x720/9d-NN45T2tyJulXa.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/pl/zRZWYzb6amDnEONf.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286486747476643840/pu/vid/640x360/OlMJMpuSGI1H_Evu.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 49291,
+    "favorited": false,
+    "full_text": "Not allowed to go to Mass where I live.\n\n https://t.co/NlD6jDOy5m",
+    "geo": null,
+    "id": 1286663994296553475,
+    "id_str": "1286663994296553475",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 20032,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 11 19:43:21 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of Tipping Point on @OANN. Author of \u201cTipping Points: How to Topple the Left\u2019s House of Cards\u201d available now!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "amazon.com/Tipping-Points\u2026",
+              "expanded_url": "https://www.amazon.com/Tipping-Points-Topple-Lefts-House/dp/1621579255/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/ri2TlWLhK2"
+            }
+          ]
+        }
+      },
+      "favourites_count": 7771,
+      "follow_request_sent": false,
+      "followers_count": 460759,
+      "following": false,
+      "friends_count": 829,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 264361128,
+      "id_str": "264361128",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1837,
+      "location": "",
+      "name": "Liz Wheeler",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/264361128/1556120120",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1035192110675243008/rOFScozb_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Liz_Wheeler",
+      "statuses_count": 34459,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/ri2TlWLhK2",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84188118,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117042,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53915,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jun 04 10:57:08 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 215885760,
+        "id_str": "215885760",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Kaelan Dorr",
+        "screen_name": "KDORR_USA"
+      },
+      {
+        "id": 120176950,
+        "id_str": "120176950",
+        "indices": [
+          89,
+          100
+        ],
+        "name": "Treasury Department",
+        "screen_name": "USTreasury"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KDORR_USA: In \u201808, it took over 2 months to make 800k payments to Americans.\n\nToday, @USTreasury announced it made 159 MILLION Economic\u2026",
+  "geo": null,
+  "id": 1268497006500159489,
+  "id_str": "1268497006500159489",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4042,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Jun 03 19:02:04 +0000 2020",
+    "display_text_range": [
+      0,
+      272
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "home.treasury.gov/news/press-rel\u2026",
+          "expanded_url": "https://home.treasury.gov/news/press-releases/sm1025",
+          "indices": [
+            249,
+            272
+          ],
+          "url": "https://t.co/d0esRsauvZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 120176950,
+          "id_str": "120176950",
+          "indices": [
+            74,
+            85
+          ],
+          "name": "Treasury Department",
+          "screen_name": "USTreasury"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            175,
+            191
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 13253,
+    "favorited": false,
+    "full_text": "In \u201808, it took over 2 months to make 800k payments to Americans.\n\nToday, @USTreasury announced it made 159 MILLION Economic Impact Payments worth $267 billion in 2 months. \n\n@realDonaldTrump is providing much needed relief to the American people!\n\nhttps://t.co/d0esRsauvZ",
+    "geo": null,
+    "id": 1268256655873097728,
+    "id_str": "1268256655873097728",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.119901,
+              38.791514
+            ],
+            [
+              -76.909396,
+              38.791514
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119901,
+              38.9953797
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "District of Columbia, USA",
+      "id": "6dd1efe2ee6ed145",
+      "name": "District of Columbia",
+      "place_type": "admin",
+      "url": "https://api.twitter.com/1.1/geo/id/6dd1efe2ee6ed145.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 4042,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 15 05:25:16 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Public Affairs, @USTreasury and King of Queens Fan Account. Dog Dad. Nerd.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/_kaelan",
+              "expanded_url": "http://instagram.com/_kaelan",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nh9DVSkFHN"
+            }
+          ]
+        }
+      },
+      "favourites_count": 4294,
+      "follow_request_sent": false,
+      "followers_count": 6866,
+      "following": false,
+      "friends_count": 1916,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 215885760,
+      "id_str": "215885760",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 80,
+      "location": "United States",
+      "name": "Kaelan Dorr",
+      "notifications": false,
+      "profile_background_color": "091114",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/215885760/1581988698",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1266853558709870598/QFAj8mMT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266853558709870598/QFAj8mMT_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "KDORR_USA",
+      "statuses_count": 10780,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nh9DVSkFHN",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 81759360,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114811,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52425,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

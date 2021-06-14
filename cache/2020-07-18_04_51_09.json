@@ -1,0 +1,436 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 18 04:51:09 +0000 2020",
+  "display_text_range": [
+    0,
+    101
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1084375028,
+        "id_str": "1084375028",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Miller",
+        "screen_name": "JasonMillerinDC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JasonMillerinDC: \u201cYes, absolutely!\u201d says Joe Biden - and the media wants to let him off the hook!",
+  "geo": null,
+  "id": 1284349968313180161,
+  "id_str": "1284349968313180161",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1281008090905808896,
+  "quoted_status_id_str": "1281008090905808896",
+  "quoted_status_permalink": {
+    "display": "twitter.com/TrumpWarRoom/s\u2026",
+    "expanded": "https://twitter.com/TrumpWarRoom/status/1281008090905808896",
+    "url": "https://t.co/e8lw8sC7Kl"
+  },
+  "retweet_count": 4248,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jul 17 23:52:16 +0000 2020",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/TrumpWarRoom/s\u2026",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1281008090905808896",
+          "indices": [
+            81,
+            104
+          ],
+          "url": "https://t.co/e8lw8sC7Kl"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 10067,
+    "favorited": false,
+    "full_text": "\u201cYes, absolutely!\u201d says Joe Biden - and the media wants to let him off the hook! https://t.co/e8lw8sC7Kl",
+    "geo": null,
+    "id": 1284274754954952704,
+    "id_str": "1284274754954952704",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 08 23:31:43 +0000 2020",
+      "display_text_range": [
+        0,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/PKXvz3zobe",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1281008090905808896/video/1",
+            "id": 1281003602090307584,
+            "id_str": "1281003602090307584",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/EccN6CiX0AEoudn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EccN6CiX0AEoudn.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/PKXvz3zobe"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "Joe Biden caves to Ilhan Omar and Alexandria Ocasio-Cortez, saying he supports taking away funding from police offers around the country.\n",
+              "embeddable": true,
+              "monetizable": false,
+              "title": "Biden: \"Yes, absolutely\" cut police funds, they've \"become the enemy\""
+            },
+            "display_url": "pic.twitter.com/PKXvz3zobe",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1281008090905808896/video/1",
+            "id": 1281003602090307584,
+            "id_str": "1281003602090307584",
+            "indices": [
+              103,
+              126
+            ],
+            "media_url": "http://pbs.twimg.com/media/EccN6CiX0AEoudn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EccN6CiX0AEoudn.jpg",
+            "sizes": {
+              "large": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "medium": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "small": {
+                "h": 360,
+                "resize": "fit",
+                "w": 640
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/PKXvz3zobe",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 21489,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1281003602090307584/pl/Jcap47OtL8A7YNbn.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1281003602090307584/vid/480x270/3gRk6qIaNCax3POT.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1281003602090307584/vid/1280x720/V4SUW-FO4DhVvyQq.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1281003602090307584/vid/640x360/mYzTOxKPfYGK8Xd8.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 2280,
+      "favorited": false,
+      "full_text": "Joe Biden says police have \"BECOME THE ENEMY\" and calls for CUTTING police funding: \"Yes, absolutely!\" https://t.co/PKXvz3zobe",
+      "geo": null,
+      "id": 1281008090905808896,
+      "id_str": "1281008090905808896",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1641,
+      "retweeted": false,
+      "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "donaldjtrump.com",
+                "expanded_url": "https://www.donaldjtrump.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/mVHOxzYUNT"
+              }
+            ]
+          }
+        },
+        "favourites_count": 18,
+        "follow_request_sent": false,
+        "followers_count": 711646,
+        "following": false,
+        "friends_count": 259,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2096,
+        "location": "MAGA Country",
+        "name": "Trump War Room - Text TRUMP to 88022",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "TrumpWarRoom",
+        "statuses_count": 15666,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/mVHOxzYUNT",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1281008090905808896,
+    "quoted_status_id_str": "1281008090905808896",
+    "quoted_status_permalink": {
+      "display": "twitter.com/TrumpWarRoom/s\u2026",
+      "expanded": "https://twitter.com/TrumpWarRoom/status/1281008090905808896",
+      "url": "https://t.co/e8lw8sC7Kl"
+    },
+    "retweet_count": 4248,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 12 23:03:43 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Principal, SHW Partners LLC. @realDonaldTrump 2020 Senior Advisor. 2016 Senior Communications Advisor, Transition Team Communications Director. 2 Timothy 1:7.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/jason-mille\u2026",
+              "expanded_url": "http://linkedin.com/in/jason-miller-543895195",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lpBTQ5JCFH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 9555,
+      "follow_request_sent": false,
+      "followers_count": 141409,
+      "following": false,
+      "friends_count": 3442,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1084375028,
+      "id_str": "1084375028",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1120,
+      "location": "Washington, DC",
+      "name": "Jason Miller",
+      "notifications": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084375028/1594510523",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202307702715830277/1fZGqKca_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202307702715830277/1fZGqKca_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JasonMillerinDC",
+      "statuses_count": 37437,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lpBTQ5JCFH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 83705352,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116779,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53770,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Nov 21 17:18:54 +0000 2020",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/pastordscott/s\u2026",
+        "expanded_url": "https://twitter.com/pastordscott/status/1330162758051041280",
+        "indices": [
+          89,
+          112
+        ],
+        "url": "https://t.co/naGlg48evP"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 2471692340,
+        "id_str": "2471692340",
+        "indices": [
+          10,
+          23
+        ],
+        "name": "Dr.Darrell Scott",
+        "screen_name": "PastorDScott"
+      },
+      {
+        "id": 935942321756966912,
+        "id_str": "935942321756966912",
+        "indices": [
+          56,
+          68
+        ],
+        "name": "Real America's Voice",
+        "screen_name": "RealAmVoice"
+      }
+    ]
+  },
+  "favorite_count": 82338,
+  "favorited": false,
+  "full_text": "Check out @PastorDScott\u2019s new show tonight at 7:00pm on @RealAmVoice. Good luck Darrell! https://t.co/naGlg48evP",
+  "geo": null,
+  "id": 1330199019222671368,
+  "id_str": "1330199019222671368",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 21 14:54:49 +0000 2020",
+    "display_text_range": [
+      0,
+      176
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LHBri6e8Kf",
+          "expanded_url": "https://twitter.com/PastorDScott/status/1330162758051041280/video/1",
+          "id": 1330162684902461441,
+          "id_str": "1330162684902461441",
+          "indices": [
+            177,
+            200
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1330162684902461441/pu/img/3cITZ2VTvY8tUSVG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1330162684902461441/pu/img/3cITZ2VTvY8tUSVG.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LHBri6e8Kf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 935942321756966912,
+          "id_str": "935942321756966912",
+          "indices": [
+            29,
+            41
+          ],
+          "name": "Real America's Voice",
+          "screen_name": "RealAmVoice"
+        },
+        {
+          "id": 332590264,
+          "id_str": "332590264",
+          "indices": [
+            64,
+            80
+          ],
+          "name": "Angela Stanton King \ud83c\uddfa\ud83c\uddf8",
+          "screen_name": "theangiestanton"
+        },
+        {
+          "id": 1212806053907185664,
+          "id_str": "1212806053907185664",
+          "indices": [
+            87,
+            101
+          ],
+          "name": "TheLeoTerrell",
+          "screen_name": "TheLeoTerrell"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/LHBri6e8Kf",
+          "expanded_url": "https://twitter.com/PastorDScott/status/1330162758051041280/video/1",
+          "id": 1330162684902461441,
+          "id_str": "1330162684902461441",
+          "indices": [
+            177,
+            200
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1330162684902461441/pu/img/3cITZ2VTvY8tUSVG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1330162684902461441/pu/img/3cITZ2VTvY8tUSVG.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/LHBri6e8Kf",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 37483,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1330162684902461441/pu/vid/1280x720/cS8t9JUgXkLSW9zQ.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1330162684902461441/pu/vid/480x270/Us8SfXYajgNs-6Tl.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1330162684902461441/pu/vid/640x360/6b3Zf8OaT6GJGi_D.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1330162684902461441/pu/pl/5sykoP8D_VQtbe2V.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 6833,
+    "favorited": false,
+    "full_text": "IT\u2019S ON TONIGHT!!!!! 7pm on \u2066@RealAmVoice\u2069 Television Network! \u2066@theangiestanton\u2069 and \u2066@TheLeoTerrell\u2069 will be talking smack with me tonight!!!!! YOU DO NOT WANT TO MISS IT!!!! https://t.co/LHBri6e8Kf",
+    "geo": null,
+    "id": 1330162758051041280,
+    "id_str": "1330162758051041280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2191,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu May 01 00:32:52 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Pastor, New Spirit Revival Center; CEO WCCD Radio; Ceo National Diversity Coalition for Trump; CEO Urban Revitalization Coalition; Presidential Transition Team",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nsrcministries.org",
+              "expanded_url": "http://nsrcministries.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/j7ZGBetHNe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 34342,
+      "follow_request_sent": false,
+      "followers_count": 212281,
+      "following": false,
+      "friends_count": 8397,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2471692340,
+      "id_str": "2471692340",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 666,
+      "location": "Ohio",
+      "name": "Dr.Darrell Scott",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2471692340/1588266587",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1255711408249081857/IC7zWMTm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255711408249081857/IC7zWMTm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PastorDScott",
+      "statuses_count": 19509,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/j7ZGBetHNe",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1330162758051041280,
+  "quoted_status_id_str": "1330162758051041280",
+  "quoted_status_permalink": {
+    "display": "twitter.com/pastordscott/s\u2026",
+    "expanded": "https://twitter.com/pastordscott/status/1330162758051041280",
+    "url": "https://t.co/naGlg48evP"
+  },
+  "retweet_count": 19151,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88921718,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125249,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58620,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

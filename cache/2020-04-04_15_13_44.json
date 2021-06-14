@@ -1,0 +1,366 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 04 15:13:44 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          116,
+          124
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16667912,
+        "id_str": "16667912",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "IWF",
+        "screen_name": "IWF"
+      },
+      {
+        "id": 15764644,
+        "id_str": "15764644",
+        "indices": [
+          14,
+          28
+        ],
+        "name": "Nancy Pelosi",
+        "screen_name": "SpeakerPelosi"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @IWF: \ud83e\udd26\u200d\u2640\ufe0f @SpeakerPelosi is setting up a NEW House committee to investigate President Trump in the midst of the #COVID19 pandemic. \n\nJu\u2026",
+  "geo": null,
+  "id": 1246455923301928961,
+  "id_str": "1246455923301928961",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4590,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 03 17:15:44 +0000 2020",
+    "display_text_range": [
+      0,
+      282
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            107,
+            115
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            245,
+            250
+          ],
+          "text": "Nope"
+        },
+        {
+          "indices": [
+            251,
+            262
+          ],
+          "text": "ShutItDown"
+        },
+        {
+          "indices": [
+            263,
+            269
+          ],
+          "text": "IWpol"
+        },
+        {
+          "indices": [
+            270,
+            282
+          ],
+          "text": "Coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DsxfMY1UJ2",
+          "expanded_url": "https://twitter.com/IWF/status/1246124235136937985/photo/1",
+          "id": 1246124229503987715,
+          "id_str": "1246124229503987715",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUsfYm2XsAMozpH.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUsfYm2XsAMozpH.jpg",
+          "sizes": {
+            "large": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "medium": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "small": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DsxfMY1UJ2"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2UDMl5a",
+          "expanded_url": "https://bit.ly/2UDMl5a",
+          "indices": [
+            220,
+            243
+          ],
+          "url": "https://t.co/DJmtIXv3SL"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 15764644,
+          "id_str": "15764644",
+          "indices": [
+            5,
+            19
+          ],
+          "name": "Nancy Pelosi",
+          "screen_name": "SpeakerPelosi"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DsxfMY1UJ2",
+          "expanded_url": "https://twitter.com/IWF/status/1246124235136937985/photo/1",
+          "id": 1246124229503987715,
+          "id_str": "1246124229503987715",
+          "indices": [
+            283,
+            306
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EUsfYm2XsAMozpH.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUsfYm2XsAMozpH.jpg",
+          "sizes": {
+            "large": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "medium": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "small": {
+              "h": 250,
+              "resize": "fit",
+              "w": 312
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/DsxfMY1UJ2",
+          "video_info": {
+            "aspect_ratio": [
+              156,
+              125
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EUsfYm2XsAMozpH.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 13466,
+    "favorited": false,
+    "full_text": "\ud83e\udd26\u200d\u2640\ufe0f @SpeakerPelosi is setting up a NEW House committee to investigate President Trump in the midst of the #COVID19 pandemic. \n\nJust what a weary nation reeling from an unprecedented crisis needs. Another investigation. https://t.co/DJmtIXv3SL\n\n#Nope #ShutItDown #IWpol #Coronavirus https://t.co/DsxfMY1UJ2",
+    "geo": null,
+    "id": 1246124235136937985,
+    "id_str": "1246124235136937985",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4590,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 09 15:43:07 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Working to develop and advance policies that aren\u2019t just well intended, but actually enhance freedom, choices, and opportunities.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "iwf.org",
+              "expanded_url": "http://www.iwf.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/Hus2oWYKQ3"
+            }
+          ]
+        }
+      },
+      "favourites_count": 6604,
+      "follow_request_sent": false,
+      "followers_count": 345190,
+      "following": false,
+      "friends_count": 191538,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 16667912,
+      "id_str": "16667912",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1815,
+      "location": "Washington, D.C.",
+      "name": "IWF",
+      "notifications": false,
+      "profile_background_color": "750B29",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16667912/1572548618",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/897150375093993473/0eVvY80D_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/897150375093993473/0eVvY80D_normal.jpg",
+      "profile_link_color": "D99628",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "IWF",
+      "statuses_count": 49943,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/Hus2oWYKQ3",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76006789,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118587,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50421,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Aug 24 01:18:20 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2779389582,
+        "id_str": "2779389582",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "steve hilton",
+        "screen_name": "SteveHiltonx"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SteveHiltonx: \u201cManufacturing provides well-paying, stable employment...tends to deliver faster productivity growth...government should\u2026",
+  "geo": null,
+  "id": 1297704765263052800,
+  "id_str": "1297704765263052800",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5536,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 23 21:02:56 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "wsj.com/articles/how-t\u2026",
+          "expanded_url": "https://www.wsj.com/articles/how-trump-has-changed-the-republicans-11598023026",
+          "indices": [
+            257,
+            280
+          ],
+          "url": "https://t.co/h1zWS0oj7W"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 423532685,
+          "id_str": "423532685",
+          "indices": [
+            188,
+            198
+          ],
+          "name": "Oren Cass",
+          "screen_name": "oren_cass"
+        },
+        {
+          "id": 18915795,
+          "id_str": "18915795",
+          "indices": [
+            202,
+            214
+          ],
+          "name": "Gerald F Seib",
+          "screen_name": "GeraldFSeib"
+        }
+      ]
+    },
+    "favorite_count": 16612,
+    "favorited": false,
+    "full_text": "\u201cManufacturing provides well-paying, stable employment...tends to deliver faster productivity growth...government should have policies that actively favor the expansion of manufacturing\"\n\n@oren_cass in @GeraldFSeib terrific review of conservative populism:\nhttps://t.co/h1zWS0oj7W",
+    "geo": null,
+    "id": 1297640491551318016,
+    "id_str": "1297640491551318016",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5536,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Aug 29 23:23:37 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Author Positive Populism (2018), More Human (2016), Good Business (2002); Host @NextRevFNC. Co-founder @Crowdpac, @gbminds  \n#PositivePopulism = #PeoplePower",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "positivepopulism.org",
+              "expanded_url": "http://positivepopulism.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iLB44RSPN4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 0,
+      "follow_request_sent": false,
+      "followers_count": 116244,
+      "following": false,
+      "friends_count": 101,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 2779389582,
+      "id_str": "2779389582",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 683,
+      "location": "California",
+      "name": "steve hilton",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2779389582/1536082663",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/613536867141574656/JZ-xm2kG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/613536867141574656/JZ-xm2kG_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SteveHiltonx",
+      "statuses_count": 10214,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iLB44RSPN4",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85568338,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118630,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54842,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

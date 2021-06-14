@@ -1,0 +1,296 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Nov 15 12:25:14 +0000 2020",
+  "display_text_range": [
+    0,
+    286
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/ericbolling/st\u2026",
+        "expanded_url": "https://twitter.com/ericbolling/status/1327819976707870723",
+        "indices": [
+          287,
+          310
+        ],
+        "url": "https://t.co/ewHE8GBRNy"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          12,
+          20
+        ],
+        "name": "Fox News",
+        "screen_name": "FoxNews"
+      },
+      {
+        "id": 26084340,
+        "id_str": "26084340",
+        "indices": [
+          98,
+          113
+        ],
+        "name": "Alfred E. Newman",
+        "screen_name": "alfredenewman1"
+      },
+      {
+        "id": 1209936918,
+        "id_str": "1209936918",
+        "indices": [
+          251,
+          256
+        ],
+        "name": "One America News",
+        "screen_name": "OANN"
+      },
+      {
+        "id": 20545835,
+        "id_str": "20545835",
+        "indices": [
+          263,
+          271
+        ],
+        "name": "Newsmax",
+        "screen_name": "newsmax"
+      }
+    ]
+  },
+  "favorite_count": 61811,
+  "favorited": false,
+  "full_text": "This is why @FoxNews daytime and weekend daytime have lost their ratings. They are abysmal having @alfredenewman1 (Mayor Pete of Indiana\u2019s most unsuccessful city, by far!) on more than Republicans. Many great alternatives are forming &amp; exist. Try @OANN &amp; @newsmax, among others! https://t.co/ewHE8GBRNy",
+  "geo": null,
+  "id": 1327950785959915520,
+  "id_str": "1327950785959915520",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 15 03:45:26 +0000 2020",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/bennyjohnson/s\u2026",
+          "expanded_url": "https://twitter.com/bennyjohnson/status/1327790952702939138",
+          "indices": [
+            63,
+            86
+          ],
+          "url": "https://t.co/WWSnsstWGZ"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 21010253,
+          "id_str": "21010253",
+          "indices": [
+            33,
+            47
+          ],
+          "name": "Leland Vittert",
+          "screen_name": "LelandVittert"
+        },
+        {
+          "id": 89068115,
+          "id_str": "89068115",
+          "indices": [
+            49,
+            62
+          ],
+          "name": "Erin Perrine",
+          "screen_name": "ErinMPerrine"
+        }
+      ]
+    },
+    "favorite_count": 9205,
+    "favorited": false,
+    "full_text": "True colors. \n\n@realDonaldTrump \n@LelandVittert \n@ErinMPerrine https://t.co/WWSnsstWGZ",
+    "geo": null,
+    "id": 1327819976707870723,
+    "id_str": "1327819976707870723",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "fr",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1327790952702939138,
+    "quoted_status_id_str": "1327790952702939138",
+    "quoted_status_permalink": {
+      "display": "twitter.com/bennyjohnson/s\u2026",
+      "expanded": "https://twitter.com/bennyjohnson/status/1327790952702939138",
+      "url": "https://t.co/WWSnsstWGZ"
+    },
+    "retweet_count": 3010,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 19 23:36:04 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "\u201cAmerica This Week\u201d airs @ABC @NBC @CBS @FOX @Univision; 2 NYT Bestsellers; Followed by @realdonaldtrump 2020 Emmys. contact@ericbolling.com",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "ericbolling.com",
+              "expanded_url": "http://ericbolling.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/l7cB6xeroe"
+            }
+          ]
+        }
+      },
+      "favourites_count": 149,
+      "follow_request_sent": false,
+      "followers_count": 1203337,
+      "following": false,
+      "friends_count": 978,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 14839147,
+      "id_str": "14839147",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4542,
+      "location": "DC ",
+      "name": "\ud83c\uddfa\ud83c\uddf8ERIC BOLLING\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14839147/1603244265",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1321466776719425537/zAwsvNzu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1321466776719425537/zAwsvNzu_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ericbolling",
+      "statuses_count": 34869,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/l7cB6xeroe",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1327819976707870723,
+  "quoted_status_id_str": "1327819976707870723",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ericbolling/st\u2026",
+    "expanded": "https://twitter.com/ericbolling/status/1327819976707870723",
+    "url": "https://t.co/ewHE8GBRNy"
+  },
+  "retweet_count": 13803,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

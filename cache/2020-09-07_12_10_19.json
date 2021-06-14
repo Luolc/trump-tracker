@@ -1,0 +1,589 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 07 12:10:19 +0000 2020",
+  "display_text_range": [
+    0,
+    122
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          97
+        ],
+        "text": "BidenRiots"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/t5VbCfFG2G",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1302258937866010632/video/1",
+        "id": 1302255034432970753,
+        "id_str": "1302255034432970753",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1302258937866010632,
+        "source_status_id_str": "1302258937866010632",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "photo",
+        "url": "https://t.co/t5VbCfFG2G"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "call_to_actions": {
+            "visit_site": {
+              "url": "https://www.donaldjtrump.com/app/text"
+            }
+          },
+          "description": "Text VOTE to 88022",
+          "embeddable": true,
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Mon May 09 14:15:10 +0000 2016",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The official Twitter account for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "DonaldJTrump.com",
+                    "expanded_url": "http://www.DonaldJTrump.com",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/mZB2hymxC9"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 3497,
+            "follow_request_sent": false,
+            "followers_count": 2157647,
+            "following": false,
+            "friends_count": 128,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 729676086632656900,
+            "id_str": "729676086632656900",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4154,
+            "location": "USA",
+            "name": "Team Trump (Text VOTE to 88022)",
+            "notifications": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+            "profile_link_color": "CB0606",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "protected": false,
+            "screen_name": "TeamTrump",
+            "statuses_count": 26447,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/mZB2hymxC9",
+            "utc_offset": null,
+            "verified": true
+          },
+          "title": "Meet Joe Biden's Supporters"
+        },
+        "display_url": "pic.twitter.com/t5VbCfFG2G",
+        "expanded_url": "https://twitter.com/TeamTrump/status/1302258937866010632/video/1",
+        "id": 1302255034432970753,
+        "id_str": "1302255034432970753",
+        "indices": [
+          99,
+          122
+        ],
+        "media_url": "http://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+        "sizes": {
+          "large": {
+            "h": 720,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1302258937866010632,
+        "source_status_id_str": "1302258937866010632",
+        "source_user_id": 729676086632656900,
+        "source_user_id_str": "729676086632656900",
+        "type": "video",
+        "url": "https://t.co/t5VbCfFG2G",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 68292,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/640x360/U_uldyWKA-8GtNnk.mp4?tag=13"
+            },
+            {
+              "bitrate": 288000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/480x270/bo6Y9d1U8S9Mi0oJ.mp4?tag=13"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/1280x720/glXtZpUZ9yAiMgMZ.mp4?tag=13"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/1302255034432970753/pl/XyeHnk0lCq_YQWKP.m3u8?tag=13"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Joe Biden's supporters are destroying communities across America. #BidenRiots\n\nhttps://t.co/t5VbCfFG2G",
+  "geo": null,
+  "id": 1302942270119968777,
+  "id_str": "1302942270119968777",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 13509,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Sep 05 15:08:51 +0000 2020",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            66,
+            77
+          ],
+          "text": "BidenRiots"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/t5VbCfFG2G",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1302258937866010632/video/1",
+          "id": 1302255034432970753,
+          "id_str": "1302255034432970753",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1302258937866010632,
+          "source_status_id_str": "1302258937866010632",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "photo",
+          "url": "https://t.co/t5VbCfFG2G"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.donaldjtrump.com/app/text"
+              }
+            },
+            "description": "Text VOTE to 88022",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon May 09 14:15:10 +0000 2016",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "The official Twitter account for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "DonaldJTrump.com",
+                      "expanded_url": "http://www.DonaldJTrump.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/mZB2hymxC9"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 3497,
+              "follow_request_sent": false,
+              "followers_count": 2157647,
+              "following": false,
+              "friends_count": 128,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 729676086632656900,
+              "id_str": "729676086632656900",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 4154,
+              "location": "USA",
+              "name": "Team Trump (Text VOTE to 88022)",
+              "notifications": false,
+              "profile_background_color": "000000",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+              "profile_link_color": "CB0606",
+              "profile_sidebar_border_color": "000000",
+              "profile_sidebar_fill_color": "000000",
+              "profile_text_color": "000000",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "TeamTrump",
+              "statuses_count": 26447,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/mZB2hymxC9",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": "Meet Joe Biden's Supporters"
+          },
+          "display_url": "pic.twitter.com/t5VbCfFG2G",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1302258937866010632/video/1",
+          "id": 1302255034432970753,
+          "id_str": "1302255034432970753",
+          "indices": [
+            79,
+            102
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1302255034432970753/img/TdQwV-pI_KdhJFmB.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1302258937866010632,
+          "source_status_id_str": "1302258937866010632",
+          "source_user_id": 729676086632656900,
+          "source_user_id_str": "729676086632656900",
+          "type": "video",
+          "url": "https://t.co/t5VbCfFG2G",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68292,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/640x360/U_uldyWKA-8GtNnk.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/480x270/bo6Y9d1U8S9Mi0oJ.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1302255034432970753/vid/1280x720/glXtZpUZ9yAiMgMZ.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1302255034432970753/pl/XyeHnk0lCq_YQWKP.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 27153,
+    "favorited": false,
+    "full_text": "Joe Biden's supporters are destroying communities across America. #BidenRiots\n\nhttps://t.co/t5VbCfFG2G",
+    "geo": null,
+    "id": 1302262425190793218,
+    "id_str": "1302262425190793218",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13509,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonJr.com",
+              "expanded_url": "http://DonJr.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mqxNHnqCbK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 17736,
+      "follow_request_sent": false,
+      "followers_count": 5579272,
+      "following": false,
+      "friends_count": 1480,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 13355,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1598660870",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 37367,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mqxNHnqCbK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85805889,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119176,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55485,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

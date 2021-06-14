@@ -1,0 +1,317 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Apr 29 12:56:06 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1108472017144201216,
+        "id_str": "1108472017144201216",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Trump War Room - Text TRUMP to 88022",
+        "screen_name": "TrumpWarRoom"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @TrumpWarRoom: Joe Biden spent 44 years in Washington standing up FOR China.\n\nYou can't teach an old dog new tricks. https://t.co/vTjhKP\u2026",
+  "geo": null,
+  "id": 1255480983136198663,
+  "id_str": "1255480983136198663",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4624,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Apr 16 21:24:34 +0000 2020",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vTjhKPK2ZA",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1250897898457489408/video/1",
+          "id": 1248591811188318210,
+          "id_str": "1248591811188318210",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVPj5A6XYAE_0OI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVPj5A6XYAE_0OI.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/vTjhKPK2ZA"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "https://www.donaldjtrump.com/"
+              }
+            },
+            "description": "Before and during the coronavirus crisis, Joe Biden has stood up for China, dismissed it as an economic threat, and opposed President Trump\u2019s China travel restrictions.",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "Joe Biden stands up for China"
+          },
+          "display_url": "pic.twitter.com/vTjhKPK2ZA",
+          "expanded_url": "https://twitter.com/TrumpWarRoom/status/1250897898457489408/video/1",
+          "id": 1248591811188318210,
+          "id_str": "1248591811188318210",
+          "indices": [
+            102,
+            125
+          ],
+          "media_url": "http://pbs.twimg.com/media/EVPj5A6XYAE_0OI.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EVPj5A6XYAE_0OI.jpg",
+          "sizes": {
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "small": {
+              "h": 360,
+              "resize": "fit",
+              "w": 640
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/vTjhKPK2ZA",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 61937,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248591811188318210/vid/640x360/T0PFpC1ehIAjQYBo.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248591811188318210/vid/480x270/1G0OK6-h3tggLDnk.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1248591811188318210/pl/SMH_LKOwif_FCMti.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1248591811188318210/vid/1280x720/yynzKMQkbjYk2Zap.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7923,
+    "favorited": false,
+    "full_text": "Joe Biden spent 44 years in Washington standing up FOR China.\n\nYou can't teach an old dog new tricks. https://t.co/vTjhKPK2ZA",
+    "geo": null,
+    "id": 1250897898457489408,
+    "id_str": "1250897898457489408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4624,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "donaldjtrump.com",
+              "expanded_url": "https://www.donaldjtrump.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mVHOxzYUNT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16,
+      "follow_request_sent": false,
+      "followers_count": 613965,
+      "following": false,
+      "friends_count": 214,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1108472017144201216,
+      "id_str": "1108472017144201216",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1924,
+      "location": "MAGA Country",
+      "name": "Trump War Room - Text TRUMP to 88022",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1565806661",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TrumpWarRoom",
+      "statuses_count": 10848,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mVHOxzYUNT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 78926224,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120470,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51039,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

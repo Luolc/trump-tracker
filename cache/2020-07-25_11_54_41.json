@@ -1,0 +1,488 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 25 11:54:41 +0000 2020",
+  "display_text_range": [
+    0,
+    120
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/DQPpoMF8bK",
+        "expanded_url": "https://twitter.com/DeAngelisCorey/status/1286421974626050052/video/1",
+        "id": 1286421951876136961,
+        "id_str": "1286421951876136961",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+        "sizes": {
+          "large": {
+            "h": 716,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 671,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 380,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1286421974626050052,
+        "source_status_id_str": "1286421974626050052",
+        "source_user_id": 1276140426,
+        "source_user_id_str": "1276140426",
+        "type": "photo",
+        "url": "https://t.co/DQPpoMF8bK"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1276140426,
+        "id_str": "1276140426",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Corey A. DeAngelis",
+        "screen_name": "DeAngelisCorey"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false,
+          "source_user": {
+            "contributors_enabled": false,
+            "created_at": "Sun Mar 17 22:22:57 +0000 2013",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "Director of School Choice at @ReasonFdn; Adjunct Scholar at @CatoInstitute; Executive Director at @EF_Institute",
+            "entities": {
+              "description": {
+                "urls": []
+              },
+              "url": {
+                "urls": [
+                  {
+                    "display_url": "reason.org/author/corey-d\u2026",
+                    "expanded_url": "https://reason.org/author/corey-deangelis/",
+                    "indices": [
+                      0,
+                      23
+                    ],
+                    "url": "https://t.co/SCiGh5bZb4"
+                  }
+                ]
+              }
+            },
+            "favourites_count": 127436,
+            "follow_request_sent": false,
+            "followers_count": 32107,
+            "following": false,
+            "friends_count": 3272,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 1276140426,
+            "id_str": "1276140426",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 211,
+            "location": "Washington, DC",
+            "name": "Corey A. DeAngelis",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276140426/1457448485",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1287022930921127938/J4pwsvYh_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287022930921127938/J4pwsvYh_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "DeAngelisCorey",
+            "statuses_count": 40311,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/SCiGh5bZb4",
+            "utc_offset": null,
+            "verified": false
+          }
+        },
+        "display_url": "pic.twitter.com/DQPpoMF8bK",
+        "expanded_url": "https://twitter.com/DeAngelisCorey/status/1286421974626050052/video/1",
+        "id": 1286421951876136961,
+        "id_str": "1286421951876136961",
+        "indices": [
+          97,
+          120
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+        "sizes": {
+          "large": {
+            "h": 716,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 671,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 380,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1286421974626050052,
+        "source_status_id_str": "1286421974626050052",
+        "source_user_id": 1276140426,
+        "source_user_id_str": "1276140426",
+        "type": "video",
+        "url": "https://t.co/DQPpoMF8bK",
+        "video_info": {
+          "aspect_ratio": [
+            320,
+            179
+          ],
+          "duration_millis": 14058,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/642x360/gIvCzYFL3Zj187Mr.mp4?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/482x270/yB4aiywTsrxjNARR.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/pl/6po-sRO4rjf4hC8p.m3u8?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/1280x716/_gZ_I83V82iCmjLO.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DeAngelisCorey: Trump just said \"if schools do not reopen the funding should go to parents.\" https://t.co/DQPpoMF8bK",
+  "geo": null,
+  "id": 1286993270816378881,
+  "id_str": "1286993270816378881",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "retweet_count": 26530,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 22:04:33 +0000 2020",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/DQPpoMF8bK",
+          "expanded_url": "https://twitter.com/DeAngelisCorey/status/1286421974626050052/video/1",
+          "id": 1286421951876136961,
+          "id_str": "1286421951876136961",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 671,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/DQPpoMF8bK"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/DQPpoMF8bK",
+          "expanded_url": "https://twitter.com/DeAngelisCorey/status/1286421974626050052/video/1",
+          "id": 1286421951876136961,
+          "id_str": "1286421951876136961",
+          "indices": [
+            77,
+            100
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1286421951876136961/pu/img/fVmlDaB9W0sGZYzT.jpg",
+          "sizes": {
+            "large": {
+              "h": 716,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 671,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 380,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/DQPpoMF8bK",
+          "video_info": {
+            "aspect_ratio": [
+              320,
+              179
+            ],
+            "duration_millis": 14058,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/642x360/gIvCzYFL3Zj187Mr.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/482x270/yB4aiywTsrxjNARR.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/pl/6po-sRO4rjf4hC8p.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1286421951876136961/pu/vid/1280x716/_gZ_I83V82iCmjLO.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 90556,
+    "favorited": false,
+    "full_text": "Trump just said \"if schools do not reopen the funding should go to parents.\" https://t.co/DQPpoMF8bK",
+    "geo": null,
+    "id": 1286421974626050052,
+    "id_str": "1286421974626050052",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 26530,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Mar 17 22:22:57 +0000 2013",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Director of School Choice at @ReasonFdn; Adjunct Scholar at @CatoInstitute; Executive Director at @EF_Institute",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "reason.org/author/corey-d\u2026",
+              "expanded_url": "https://reason.org/author/corey-deangelis/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SCiGh5bZb4"
+            }
+          ]
+        }
+      },
+      "favourites_count": 127436,
+      "follow_request_sent": false,
+      "followers_count": 32107,
+      "following": false,
+      "friends_count": 3272,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1276140426,
+      "id_str": "1276140426",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 211,
+      "location": "Washington, DC",
+      "name": "Corey A. DeAngelis",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276140426/1457448485",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1287022930921127938/J4pwsvYh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287022930921127938/J4pwsvYh_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DeAngelisCorey",
+      "statuses_count": 40311,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/SCiGh5bZb4",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84188118,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117042,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53915,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

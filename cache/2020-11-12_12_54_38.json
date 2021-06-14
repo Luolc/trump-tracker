@@ -1,0 +1,363 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 12 12:54:38 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 23022687,
+        "id_str": "23022687",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Ted Cruz",
+        "screen_name": "tedcruz"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @tedcruz: If you want to hold the GOP Senate Majority and don't want to go over the edge to the socialist abyss, Georgia is where we hav\u2026",
+  "geo": null,
+  "id": 1326871023447388160,
+  "id_str": "1326871023447388160",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9422,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Nov 09 15:15:35 +0000 2020",
+    "display_text_range": [
+      0,
+      228
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            131,
+            143
+          ],
+          "text": "HoldTheLine"
+        },
+        {
+          "indices": [
+            222,
+            228
+          ],
+          "text": "GASen"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/18nxWUKgYI",
+          "expanded_url": "https://twitter.com/tedcruz/status/1325819329892524032/video/1",
+          "id": 1325818465446486026,
+          "id_str": "1325818465446486026",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1325818465446486026/img/TxrPU-YGX29Tx2qF.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1325818465446486026/img/TxrPU-YGX29Tx2qF.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/18nxWUKgYI"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/HoldTheLineGA",
+          "expanded_url": "http://bit.ly/HoldTheLineGA",
+          "indices": [
+            198,
+            221
+          ],
+          "url": "https://t.co/B1jtEHPJDr"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1397501864,
+          "id_str": "1397501864",
+          "indices": [
+            168,
+            181
+          ],
+          "name": "David Perdue",
+          "screen_name": "Perduesenate"
+        },
+        {
+          "id": 29495695,
+          "id_str": "29495695",
+          "indices": [
+            186,
+            196
+          ],
+          "name": "Kelly Loeffler",
+          "screen_name": "KLoeffler"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "call_to_actions": {
+              "visit_site": {
+                "url": "http://bit.ly/HoldTheLineGA"
+              }
+            },
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": "#HoldTheLine in Georgia"
+          },
+          "display_url": "pic.twitter.com/18nxWUKgYI",
+          "expanded_url": "https://twitter.com/tedcruz/status/1325819329892524032/video/1",
+          "id": 1325818465446486026,
+          "id_str": "1325818465446486026",
+          "indices": [
+            229,
+            252
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1325818465446486026/img/TxrPU-YGX29Tx2qF.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1325818465446486026/img/TxrPU-YGX29Tx2qF.jpg",
+          "sizes": {
+            "large": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 540,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/18nxWUKgYI",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 120887,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1325818465446486026/pl/D41C60R_qwSCyAbq.m3u8?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1325818465446486026/vid/480x270/eDPN16_49BVyWm47.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1325818465446486026/vid/640x360/Lt6qWGUVpVVqycQi.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1325818465446486026/vid/960x540/PpH-AQS3qRVfMCUU.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 33384,
+    "favorited": false,
+    "full_text": "If you want to hold the GOP Senate Majority and don't want to go over the edge to the socialist abyss, Georgia is where we have to #HoldTheLine.\n\nJoin me in supporting @perduesenate and @KLoeffler: https://t.co/B1jtEHPJDr #GASen https://t.co/18nxWUKgYI",
+    "geo": null,
+    "id": 1325819329892524032,
+    "id_str": "1325819329892524032",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9422,
+    "retweeted": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Mar 06 03:20:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Father of two, @heidiscruz's husband, fighter for liberty. Representing the great state of Texas in the U.S. Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "OneVoteAway.com",
+              "expanded_url": "http://www.OneVoteAway.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/nyPZqAKI4B"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1400,
+      "follow_request_sent": false,
+      "followers_count": 4116001,
+      "following": false,
+      "friends_count": 6071,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 23022687,
+      "id_str": "23022687",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 13417,
+      "location": "Houston, Texas",
+      "name": "Ted Cruz",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23022687/1529028227",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1322868917350633473/XVo77UyL_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "tedcruz",
+      "statuses_count": 29621,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/nyPZqAKI4B",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

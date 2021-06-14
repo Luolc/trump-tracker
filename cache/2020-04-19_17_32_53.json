@@ -1,0 +1,523 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Apr 19 17:32:53 +0000 2020",
+  "display_text_range": [
+    0,
+    121
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21149655,
+        "id_str": "21149655",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Arthur Schwartz",
+        "screen_name": "ArthurSchwartz"
+      },
+      {
+        "id": 17358750,
+        "id_str": "17358750",
+        "indices": [
+          58,
+          71
+        ],
+        "name": "Eric Garcetti",
+        "screen_name": "ericgarcetti"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ArthurSchwartz: The People\u2019s Republic of Los Angeles. @ericgarcetti is out of control like the rest of the democrats.",
+  "geo": null,
+  "id": 1251926759177629698,
+  "id_str": "1251926759177629698",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1251574155289464834,
+  "quoted_status_id_str": "1251574155289464834",
+  "quoted_status_permalink": {
+    "display": "twitter.com/breaking911/st\u2026",
+    "expanded": "https://twitter.com/breaking911/status/1251574155289464834",
+    "url": "https://t.co/tUpyZLg3Bt"
+  },
+  "retweet_count": 7816,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 19 16:57:40 +0000 2020",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/breaking911/st\u2026",
+          "expanded_url": "https://twitter.com/breaking911/status/1251574155289464834",
+          "indices": [
+            102,
+            125
+          ],
+          "url": "https://t.co/tUpyZLg3Bt"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 17358750,
+          "id_str": "17358750",
+          "indices": [
+            38,
+            51
+          ],
+          "name": "Eric Garcetti",
+          "screen_name": "ericgarcetti"
+        }
+      ]
+    },
+    "favorite_count": 21789,
+    "favorited": false,
+    "full_text": "The People\u2019s Republic of Los Angeles. @ericgarcetti is out of control like the rest of the democrats. https://t.co/tUpyZLg3Bt",
+    "geo": null,
+    "id": 1251917896151900162,
+    "id_str": "1251917896151900162",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Apr 18 18:11:46 +0000 2020",
+      "display_text_range": [
+        0,
+        98
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              51,
+              71
+            ],
+            "text": "CoronavirusOutbreak"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/DSWyRGpx5k",
+            "expanded_url": "https://twitter.com/Hunter_Weiss/status/1251532252917293056/video/1",
+            "id": 1251532139130007554,
+            "id_str": "1251532139130007554",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+            "sizes": {
+              "large": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1251532252917293056,
+            "source_status_id_str": "1251532252917293056",
+            "source_user_id": 289213600,
+            "source_user_id_str": "289213600",
+            "type": "photo",
+            "url": "https://t.co/DSWyRGpx5k"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Thu Apr 28 07:03:34 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Producer | Instagram @hunter_weiss | Making Things | Video Marketing | Current Freelancer, Former @NFL Creator | 110% | @uarizona grad",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "hunterweiss.com",
+                        "expanded_url": "http://hunterweiss.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/zf9jxJcFIm"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 29889,
+                "follow_request_sent": false,
+                "followers_count": 1497,
+                "following": false,
+                "friends_count": 465,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 289213600,
+                "id_str": "289213600",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 7,
+                "location": "Los Angeles, CA",
+                "name": "HUNTER WE!SS",
+                "notifications": false,
+                "profile_background_color": "FF0022",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/289213600/1587275703",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1251197567284596736/poFec7QU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1251197567284596736/poFec7QU_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "Hunter_Weiss",
+                "statuses_count": 3827,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/zf9jxJcFIm",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/DSWyRGpx5k",
+            "expanded_url": "https://twitter.com/Hunter_Weiss/status/1251532252917293056/video/1",
+            "id": 1251532139130007554,
+            "id_str": "1251532139130007554",
+            "indices": [
+              75,
+              98
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1251532139130007554/pu/img/Rh9v3G-zoCsPgSHK.jpg",
+            "sizes": {
+              "large": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 900,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1251532252917293056,
+            "source_status_id_str": "1251532252917293056",
+            "source_user_id": 289213600,
+            "source_user_id_str": "289213600",
+            "type": "video",
+            "url": "https://t.co/DSWyRGpx5k",
+            "video_info": {
+              "aspect_ratio": [
+                4,
+                5
+              ],
+              "duration_millis": 40007,
+              "variants": [
+                {
+                  "bitrate": 632000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/320x400/asV-pYZ02YkUpBXM.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/720x900/u6tBoHV1MHiRqKwP.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/pl/V7hUOzyjXZcirDPw.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1251532139130007554/pu/vid/360x450/MHR3z3ljtRXm1D6l.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 14601,
+      "favorited": false,
+      "full_text": "Los Angeles fills Venice Skate Park with sand amid #CoronavirusOutbreak \n\n https://t.co/DSWyRGpx5k",
+      "geo": null,
+      "id": 1251574155289464834,
+      "id_str": "1251574155289464834",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 8832,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sun Sep 18 16:36:06 +0000 2011",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Breaking news in real time. Turn on notifications & visit https://t.co/RWBI1f2gDw to stay updated | Follow us on Facebook & Instagram",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  58,
+                  81
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Breaking911.com",
+                "expanded_url": "http://Breaking911.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/RWBI1f2gDw"
+              }
+            ]
+          }
+        },
+        "favourites_count": 1,
+        "follow_request_sent": false,
+        "followers_count": 527122,
+        "following": false,
+        "friends_count": 0,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 375721095,
+        "id_str": "375721095",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5520,
+        "location": "Nashville",
+        "name": "Breaking911",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/375721095/1496844300",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/619546088995979264/KuG27bBK_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Breaking911",
+        "statuses_count": 300,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/RWBI1f2gDw",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1251574155289464834,
+    "quoted_status_id_str": "1251574155289464834",
+    "quoted_status_permalink": {
+      "display": "twitter.com/breaking911/st\u2026",
+      "expanded": "https://twitter.com/breaking911/status/1251574155289464834",
+      "url": "https://t.co/tUpyZLg3Bt"
+    },
+    "retweet_count": 7816,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 18 00:09:13 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 6194,
+      "follow_request_sent": false,
+      "followers_count": 86413,
+      "following": false,
+      "friends_count": 166,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 21149655,
+      "id_str": "21149655",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 659,
+      "location": "Washington, DC",
+      "name": "Arthur Schwartz",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21149655/1556199664",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068507063364567042/td_R9AWw_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "ArthurSchwartz",
+      "statuses_count": 4442,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77929316,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50841,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

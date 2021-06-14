@@ -1,0 +1,316 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Dec 01 13:48:19 +0000 2020",
+  "display_text_range": [
+    0,
+    12
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/therightmeliss\u2026",
+        "expanded_url": "https://twitter.com/therightmelissa/status/1332738460394909696",
+        "indices": [
+          13,
+          36
+        ],
+        "url": "https://t.co/t0epa2ItFm"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 79557,
+  "favorited": false,
+  "full_text": "Disgraceful! https://t.co/t0epa2ItFm",
+  "geo": null,
+  "id": 1333769900427456512,
+  "id_str": "1333769900427456512",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Nov 28 17:29:44 +0000 2020",
+    "display_text_range": [
+      0,
+      241
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/cvGXxzPqPF",
+          "expanded_url": "https://twitter.com/TheRightMelissa/status/1332738460394909696/video/1",
+          "id": 1332738397409071105,
+          "id_str": "1332738397409071105",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332738397409071105/pu/img/mV3_IFJ_gJBfblIN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332738397409071105/pu/img/mV3_IFJ_gJBfblIN.jpg",
+          "sizes": {
+            "large": {
+              "h": 592,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/cvGXxzPqPF"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/cvGXxzPqPF",
+          "expanded_url": "https://twitter.com/TheRightMelissa/status/1332738460394909696/video/1",
+          "id": 1332738397409071105,
+          "id_str": "1332738397409071105",
+          "indices": [
+            242,
+            265
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1332738397409071105/pu/img/mV3_IFJ_gJBfblIN.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1332738397409071105/pu/img/mV3_IFJ_gJBfblIN.jpg",
+          "sizes": {
+            "large": {
+              "h": 592,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 555,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 315,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/cvGXxzPqPF",
+          "video_info": {
+            "aspect_ratio": [
+              80,
+              37
+            ],
+            "duration_millis": 73652,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1332738397409071105/pu/vid/1280x592/pVApDSkQeSFWSj9S.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1332738397409071105/pu/pl/anQppWzV8xH_HgCM.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1332738397409071105/pu/vid/582x270/IhjKq06-dXIl7VFX.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1332738397409071105/pu/vid/778x360/sdnA1c-aAavIbZPP.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 22986,
+    "favorited": false,
+    "full_text": "CNN\u2019s BOMBSHELL report on Dominion Smartmatic software back when they had no vested interest to lie like they do now.\n \n\u201cChavez was losing on election night &amp; used Smartmatic to switch votes &amp; won the next day\u201d - Just like Biden  RT! https://t.co/cvGXxzPqPF",
+    "geo": null,
+    "id": 1332738460394909696,
+    "id_str": "1332738460394909696",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 13960,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Aug 07 20:47:46 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Christian, Conservative, Author, Trumpublican, Wife, mother. Regularly retweeted By President Trump \ud83d\ude4c\ud83c\udffd Follow me on IG, FB & Parler @therightmelissa",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "choiceprivilegebook.com",
+              "expanded_url": "https://choiceprivilegebook.com/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4sFcwlLsVI"
+            }
+          ]
+        }
+      },
+      "favourites_count": 48865,
+      "follow_request_sent": false,
+      "followers_count": 513299,
+      "following": false,
+      "friends_count": 2005,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 762389795037294592,
+      "id_str": "762389795037294592",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1757,
+      "location": "",
+      "name": "Melissa Tate #StopTheSteal",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/762389795037294592/1540678167",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1300888850802397186/UgPmRb3g_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300888850802397186/UgPmRb3g_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TheRightMelissa",
+      "statuses_count": 52867,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4sFcwlLsVI",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1332738460394909696,
+  "quoted_status_id_str": "1332738460394909696",
+  "quoted_status_permalink": {
+    "display": "twitter.com/therightmeliss\u2026",
+    "expanded": "https://twitter.com/therightmelissa/status/1332738460394909696",
+    "url": "https://t.co/t0epa2ItFm"
+  },
+  "retweet_count": 26945,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88808878,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125510,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58824,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

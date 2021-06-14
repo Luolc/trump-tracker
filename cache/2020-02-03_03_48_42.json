@@ -1,0 +1,315 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Feb 03 03:48:42 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1009976545044201472,
+        "id_str": "1009976545044201472",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Alice Marie Johnson",
+        "screen_name": "AliceMarieFree"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AliceMarieFree: Two Super Bowls ago I was sitting in a prison cell.\n\nToday I am a free woman and my story was featured in a Super Bowl\u2026",
+  "geo": null,
+  "id": 1224177867166142466,
+  "id_str": "1224177867166142466",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 35385,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Feb 03 00:07:41 +0000 2020",
+    "display_text_range": [
+      0,
+      225
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CGSyk54O37",
+          "expanded_url": "https://twitter.com/AliceMarieFree/status/1224122246471524352/video/1",
+          "features": {},
+          "id": 1224122068272386051,
+          "id_str": "1224122068272386051",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224122068272386051/pu/img/GfwtViK3tntlma98.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224122068272386051/pu/img/GfwtViK3tntlma98.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CGSyk54O37"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CGSyk54O37",
+          "expanded_url": "https://twitter.com/AliceMarieFree/status/1224122246471524352/video/1",
+          "features": {},
+          "id": 1224122068272386051,
+          "id_str": "1224122068272386051",
+          "indices": [
+            226,
+            249
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224122068272386051/pu/img/GfwtViK3tntlma98.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224122068272386051/pu/img/GfwtViK3tntlma98.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CGSyk54O37",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 30113,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1224122068272386051/pu/pl/b6J4_MoRabZRBomB.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224122068272386051/pu/vid/480x270/Wa-4v7IQZlUrH848.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224122068272386051/pu/vid/1280x720/Jd3hQC3ls56FYVaE.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224122068272386051/pu/vid/640x360/TZGKL4xiVfFj1fk8.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 117921,
+    "favorited": false,
+    "full_text": "Two Super Bowls ago I was sitting in a prison cell.\n\nToday I am a free woman and my story was featured in a Super Bowl Ad.\n\nI will spend the rest of my life fighting for the wrongly and unjustly convicted!\n\nGod Bless America! https://t.co/CGSyk54O37",
+    "geo": null,
+    "id": 1224122246471524352,
+    "id_str": "1224122246471524352",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 35385,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Fri Jun 22 01:49:07 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Grandmother | Author | Criminal Justice Advocate | Granted Clemency by President @realDonaldTrump after 21 Years in Prison",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "harpercollins.com/9780062936103/\u2026",
+              "expanded_url": "https://www.harpercollins.com/9780062936103/after-life/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/zRdaTYbvBC"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2442,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 18473,
+      "following": false,
+      "friends_count": 218,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 1009976545044201472,
+      "id_str": "1009976545044201472",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 35,
+      "location": "Memphis, TN",
+      "name": "Alice Marie Johnson",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1009976545044201472/1550348499",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1207363229883797505/GzNx4xx1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1207363229883797505/GzNx4xx1_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AliceMarieFree",
+      "statuses_count": 796,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/zRdaTYbvBC",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 72030360,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114064,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48603,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,429 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Dec 04 22:49:28 +0000 2020",
+  "display_text_range": [
+    0,
+    257
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gJIozjtyES",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1334993249082236931/photo/1",
+        "id": 1334993244854349833,
+        "id_str": "1334993244854349833",
+        "indices": [
+          258,
+          281
+        ],
+        "media_url": "http://pbs.twimg.com/media/EobZSHkW8AkyUPQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EobZSHkW8AkyUPQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1033,
+            "resize": "fit",
+            "w": 972
+          },
+          "medium": {
+            "h": 1033,
+            "resize": "fit",
+            "w": 972
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gJIozjtyES"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/azsenategop/st\u2026",
+        "expanded_url": "https://twitter.com/azsenategop/status/1334937419162914817",
+        "indices": [
+          234,
+          257
+        ],
+        "url": "https://t.co/NIGpkJHyoY"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/gJIozjtyES",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1334993249082236931/photo/1",
+        "id": 1334993244854349833,
+        "id_str": "1334993244854349833",
+        "indices": [
+          258,
+          281
+        ],
+        "media_url": "http://pbs.twimg.com/media/EobZSHkW8AkyUPQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EobZSHkW8AkyUPQ.jpg",
+        "sizes": {
+          "large": {
+            "h": 1033,
+            "resize": "fit",
+            "w": 972
+          },
+          "medium": {
+            "h": 1033,
+            "resize": "fit",
+            "w": 972
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 640
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/gJIozjtyES"
+      }
+    ]
+  },
+  "favorite_count": 80733,
+  "favorited": false,
+  "full_text": "Thank you to Senate President Karen Fann and House Speaker Russell Bowers \u2013 and all, for what you are doing in Arizona. A fast check of signatures will easily give us the state. Votes against have been reduced to a very small number! https://t.co/NIGpkJHyoY https://t.co/gJIozjtyES",
+  "geo": null,
+  "id": 1334993249082236931,
+  "id_str": "1334993249082236931",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Dec 04 19:07:37 +0000 2020",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            111,
+            120
+          ],
+          "text": "AZSenate"
+        },
+        {
+          "indices": [
+            121,
+            127
+          ],
+          "text": "AZleg"
+        },
+        {
+          "indices": [
+            128,
+            137
+          ],
+          "text": "Election"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wDlr7v0fDT",
+          "expanded_url": "https://twitter.com/AZSenateGOP/status/1334937419162914817/photo/1",
+          "id": 1334937415413219328,
+          "id_str": "1334937415413219328",
+          "indices": [
+            150,
+            173
+          ],
+          "media_url": "http://pbs.twimg.com/media/EoamgasVQAAZK2e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EoamgasVQAAZK2e.jpg",
+          "sizes": {
+            "large": {
+              "h": 1118,
+              "resize": "fit",
+              "w": 1149
+            },
+            "medium": {
+              "h": 1118,
+              "resize": "fit",
+              "w": 1149
+            },
+            "small": {
+              "h": 662,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wDlr7v0fDT"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 22154680,
+          "id_str": "22154680",
+          "indices": [
+            138,
+            149
+          ],
+          "name": "AZ House Republicans",
+          "screen_name": "AZHouseGOP"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wDlr7v0fDT",
+          "expanded_url": "https://twitter.com/AZSenateGOP/status/1334937419162914817/photo/1",
+          "id": 1334937415413219328,
+          "id_str": "1334937415413219328",
+          "indices": [
+            150,
+            173
+          ],
+          "media_url": "http://pbs.twimg.com/media/EoamgasVQAAZK2e.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EoamgasVQAAZK2e.jpg",
+          "sizes": {
+            "large": {
+              "h": 1118,
+              "resize": "fit",
+              "w": 1149
+            },
+            "medium": {
+              "h": 1118,
+              "resize": "fit",
+              "w": 1149
+            },
+            "small": {
+              "h": 662,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wDlr7v0fDT"
+        }
+      ]
+    },
+    "favorite_count": 26646,
+    "favorited": false,
+    "full_text": "FOR IMMEDIATE RELEASE: Legislative Leaders call for audit of Maricopa County election software and equipment \n\n#AZSenate #AZleg #Election @AZHouseGOP https://t.co/wDlr7v0fDT",
+    "geo": null,
+    "id": 1334937419162914817,
+    "id_str": "1334937419162914817",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -112.3239143,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.29026
+            ],
+            [
+              -111.9254391,
+              33.8154652
+            ],
+            [
+              -112.3239143,
+              33.8154652
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Phoenix, AZ",
+      "id": "5c62ffb0f0f3479d",
+      "name": "Phoenix",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 9842,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 12 23:11:21 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account for the Arizona Senate Republican Caucus. \n\nFollow us on Facebook and Instagram @AZSenateRepublicans",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "azsenaterepublicans.com",
+              "expanded_url": "http://www.azsenaterepublicans.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/eevOjq8jDs"
+            }
+          ]
+        }
+      },
+      "favourites_count": 711,
+      "follow_request_sent": false,
+      "followers_count": 18805,
+      "following": false,
+      "friends_count": 519,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 24063730,
+      "id_str": "24063730",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 270,
+      "location": "Arizona",
+      "name": "AZSenateRepublicans",
+      "notifications": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/24063730/1487779806",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/427939154626760704/TbE1N0BZ_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/427939154626760704/TbE1N0BZ_normal.jpeg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AZSenateGOP",
+      "statuses_count": 5834,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/eevOjq8jDs",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1334937419162914817,
+  "quoted_status_id_str": "1334937419162914817",
+  "quoted_status_permalink": {
+    "display": "twitter.com/azsenategop/st\u2026",
+    "expanded": "https://twitter.com/azsenategop/status/1334937419162914817",
+    "url": "https://t.co/NIGpkJHyoY"
+  },
+  "retweet_count": 21950,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88745088,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125656,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58930,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

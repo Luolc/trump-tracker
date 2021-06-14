@@ -1,0 +1,500 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Oct 16 03:58:06 +0000 2020",
+  "display_text_range": [
+    0,
+    40
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 17800215,
+        "id_str": "17800215",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Chaffetz",
+        "screen_name": "jasoninthehouse"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @jasoninthehouse: Truly stunning.....",
+  "geo": null,
+  "id": 1316951528935202817,
+  "id_str": "1316951528935202817",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1316562833740619777,
+  "quoted_status_id_str": "1316562833740619777",
+  "quoted_status_permalink": {
+    "display": "twitter.com/KatiePavlich/s\u2026",
+    "expanded": "https://twitter.com/KatiePavlich/status/1316562833740619777",
+    "url": "https://t.co/MSEpa2nljB"
+  },
+  "retweet_count": 10856,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Oct 15 03:06:01 +0000 2020",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/KatiePavlich/s\u2026",
+          "expanded_url": "https://twitter.com/KatiePavlich/status/1316562833740619777",
+          "indices": [
+            20,
+            43
+          ],
+          "url": "https://t.co/MSEpa2nljB"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 25627,
+    "favorited": false,
+    "full_text": "Truly stunning..... https://t.co/MSEpa2nljB",
+    "geo": null,
+    "id": 1316576034054004736,
+    "id_str": "1316576034054004736",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu Oct 15 02:13:34 +0000 2020",
+      "display_text_range": [
+        0,
+        45
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/LU7HTZ7h2Z",
+            "expanded_url": "https://twitter.com/SteveGuest/status/1316535508319772672/video/1",
+            "id": 1316534397101801474,
+            "id_str": "1316534397101801474",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1316534397101801474/img/umoTbsIoIFDpoEGm.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1316534397101801474/img/umoTbsIoIFDpoEGm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1316535508319772672,
+            "source_status_id_str": "1316535508319772672",
+            "source_user_id": 341194704,
+            "source_user_id_str": "341194704",
+            "type": "photo",
+            "url": "https://t.co/LU7HTZ7h2Z"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "description": "",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Sat Jul 23 23:49:19 +0000 2011",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "@GOP Rapid Response Director",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "gop.com/author/steve-g\u2026",
+                        "expanded_url": "https://gop.com/author/steve-guest",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/hCjYOMylWg"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 7644,
+                "follow_request_sent": false,
+                "followers_count": 88939,
+                "following": false,
+                "friends_count": 1839,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 341194704,
+                "id_str": "341194704",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 621,
+                "location": "Washington, DC",
+                "name": "Steve Guest",
+                "notifications": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/341194704/1516810389",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1227253243958394881/Ec_k_m9q_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227253243958394881/Ec_k_m9q_normal.jpg",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "SteveGuest",
+                "statuses_count": 43318,
+                "time_zone": null,
+                "translator_type": "regular",
+                "url": "https://t.co/hCjYOMylWg",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": ""
+            },
+            "display_url": "pic.twitter.com/LU7HTZ7h2Z",
+            "expanded_url": "https://twitter.com/SteveGuest/status/1316535508319772672/video/1",
+            "id": 1316534397101801474,
+            "id_str": "1316534397101801474",
+            "indices": [
+              22,
+              45
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1316534397101801474/img/umoTbsIoIFDpoEGm.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1316534397101801474/img/umoTbsIoIFDpoEGm.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1316535508319772672,
+            "source_status_id_str": "1316535508319772672",
+            "source_user_id": 341194704,
+            "source_user_id_str": "341194704",
+            "type": "video",
+            "url": "https://t.co/LU7HTZ7h2Z",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 594993,
+              "variants": [
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1316534397101801474/vid/480x270/Ta3mluaKWE959nT8.mp4?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1316534397101801474/vid/640x360/BM4F2R4dr0GBR-eK.mp4?tag=13"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1316534397101801474/vid/1280x720/2QupX9UMrEpkgOLW.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1316534397101801474/pl/OaGXoydAlpPDDy6Q.m3u8?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 25450,
+      "favorited": false,
+      "full_text": "Brutal and accurate.  https://t.co/LU7HTZ7h2Z",
+      "geo": null,
+      "id": 1316562833740619777,
+      "id_str": "1316562833740619777",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "it",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12837,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jun 18 19:29:32 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Townhall Editor. Fox News contributor. FDD NSFP. Columnist for The Hill. NYT best selling author. Gunsite grad. Boot addict. Born free. #2A \ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "katiepavlich.com",
+                "expanded_url": "http://www.katiepavlich.com/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/uQ03ql1yic"
+              }
+            ]
+          }
+        },
+        "favourites_count": 12668,
+        "follow_request_sent": false,
+        "followers_count": 839887,
+        "following": false,
+        "friends_count": 1820,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 48459553,
+        "id_str": "48459553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 4697,
+        "location": "On Instagram/Off Twitter wknds",
+        "name": "Katie Pavlich",
+        "notifications": false,
+        "profile_background_color": "12B5B5",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/48459553/1594763102",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305565737122230272/n8I526po_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305565737122230272/n8I526po_normal.jpg",
+        "profile_link_color": "FF0000",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "FFF7CC",
+        "profile_text_color": "0C3E53",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "KatiePavlich",
+        "statuses_count": 49782,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uQ03ql1yic",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1316562833740619777,
+    "quoted_status_id_str": "1316562833740619777",
+    "quoted_status_permalink": {
+      "display": "twitter.com/KatiePavlich/s\u2026",
+      "expanded": "https://twitter.com/KatiePavlich/status/1316562833740619777",
+      "url": "https://t.co/MSEpa2nljB"
+    },
+    "retweet_count": 10856,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Dec 02 04:59:53 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Fox News Contributor. Author of Power Grab & The Deep State. Fmr. Chairman, Oversight & Gov't Reform U.S. House of Reps. Husband, Father, Grandfather, Brother.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "JasonInTheHouse.com",
+              "expanded_url": "http://www.JasonInTheHouse.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/4MqK5mQm5w"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3541,
+      "follow_request_sent": false,
+      "followers_count": 585289,
+      "following": false,
+      "friends_count": 1508,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17800215,
+      "id_str": "17800215",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3783,
+      "location": "Utah, USA",
+      "name": "Jason Chaffetz",
+      "notifications": false,
+      "profile_background_color": "2513AD",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17800215/1586922996",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250270637572030469/W6jnI5rs_normal.jpg",
+      "profile_link_color": "0D0DA8",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "jasoninthehouse",
+      "statuses_count": 12974,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/4MqK5mQm5w",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87275415,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121438,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57238,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

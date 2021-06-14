@@ -1,0 +1,354 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 26 04:06:41 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1048784496,
+        "id_str": "1048784496",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Sen. Kevin Cramer",
+        "screen_name": "SenKevinCramer"
+      },
+      {
+        "id": 15513604,
+        "id_str": "15513604",
+        "indices": [
+          48,
+          62
+        ],
+        "name": "FOX & friends",
+        "screen_name": "foxandfriends"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenKevinCramer: As I said on this morning\u2018s @foxandfriends, Democrats already admitted this is all about the next election, but the pow\u2026",
+  "geo": null,
+  "id": 1221283290738499585,
+  "id_str": "1221283290738499585",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2420,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 25 19:36:45 +0000 2020",
+    "display_text_range": [
+      0,
+      259
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            225,
+            242
+          ],
+          "text": "ImpeachmentTrial"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/sD0mYy3hJi",
+          "expanded_url": "https://twitter.com/SenKevinCramer/status/1221154961481879553/video/1",
+          "features": {},
+          "id": 1221154854208446465,
+          "id_str": "1221154854208446465",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221154854208446465/pu/img/8eOHjMJs9qqKr2f4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221154854208446465/pu/img/8eOHjMJs9qqKr2f4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/sD0mYy3hJi"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 15513604,
+          "id_str": "15513604",
+          "indices": [
+            28,
+            42
+          ],
+          "name": "FOX & friends",
+          "screen_name": "foxandfriends"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            243,
+            259
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/sD0mYy3hJi",
+          "expanded_url": "https://twitter.com/SenKevinCramer/status/1221154961481879553/video/1",
+          "features": {},
+          "id": 1221154854208446465,
+          "id_str": "1221154854208446465",
+          "indices": [
+            260,
+            283
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221154854208446465/pu/img/8eOHjMJs9qqKr2f4.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221154854208446465/pu/img/8eOHjMJs9qqKr2f4.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/sD0mYy3hJi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 68983,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221154854208446465/pu/vid/480x270/M8l7Cvnx-2WHJefS.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221154854208446465/pu/vid/1280x720/O5_TFDR5xAFnVv0a.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221154854208446465/pu/vid/640x360/tW-loCPofRa4s-_e.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1221154854208446465/pu/pl/IZokKEJDU1slwXlx.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 8236,
+    "favorited": false,
+    "full_text": "As I said on this morning\u2018s @foxandfriends, Democrats already admitted this is all about the next election, but the power belongs to the people.\n\nThey deserve the opportunity to make this decision themselves on Election Day. #ImpeachmentTrial @realDonaldTrump https://t.co/sD0mYy3hJi",
+    "geo": null,
+    "id": 1221154961481879553,
+    "id_str": "1221154961481879553",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2420,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Sun Dec 30 20:54:06 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing the great people of North Dakota in the United States Senate.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "cramer.senate.gov",
+              "expanded_url": "http://cramer.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/M4l7PNHhUi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 152,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 23470,
+      "following": false,
+      "friends_count": 517,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1048784496,
+      "id_str": "1048784496",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 894,
+      "location": "",
+      "name": "Sen. Kevin Cramer",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1048784496/1546464991",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090267977675460610/nQWIQ0ot_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SenKevinCramer",
+      "statuses_count": 4480,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/M4l7PNHhUi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

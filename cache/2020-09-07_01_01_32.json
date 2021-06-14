@@ -1,0 +1,511 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Sep 07 01:01:32 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 21784951,
+        "id_str": "21784951",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Andrew Surabian",
+        "screen_name": "Surabees"
+      },
+      {
+        "id": 47448886,
+        "id_str": "47448886",
+        "indices": [
+          74,
+          90
+        ],
+        "name": "Jeffrey Goldberg",
+        "screen_name": "JeffreyGoldberg"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Surabees: It says everything about how broken the media is that after @JeffreyGoldberg helped lie this nation into the Iraq War, he was\u2026",
+  "geo": null,
+  "id": 1302773967615340544,
+  "id_str": "1302773967615340544",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1301892978299068416,
+  "quoted_status_id_str": "1301892978299068416",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Surabees/statu\u2026",
+    "expanded": "https://twitter.com/Surabees/status/1301892978299068416",
+    "url": "https://t.co/6Dp7smcMlT"
+  },
+  "retweet_count": 7613,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Sep 06 17:39:29 +0000 2020",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Surabees/statu\u2026",
+          "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416",
+          "indices": [
+            281,
+            304
+          ],
+          "url": "https://t.co/6Dp7smcMlT"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 47448886,
+          "id_str": "47448886",
+          "indices": [
+            60,
+            76
+          ],
+          "name": "Jeffrey Goldberg",
+          "screen_name": "JeffreyGoldberg"
+        }
+      ]
+    },
+    "favorite_count": 18253,
+    "favorited": false,
+    "full_text": "It says everything about how broken the media is that after @JeffreyGoldberg helped lie this nation into the Iraq War, he wasn't run out of journalism in embarrassment, but rather given promotions to continue his shoddy \"journalism\" unabated. Our \"elites\" constantly fail upwards. https://t.co/6Dp7smcMlT",
+    "geo": null,
+    "id": 1302662720819470340,
+    "id_str": "1302662720819470340",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Sep 04 14:40:48 +0000 2020",
+      "display_text_range": [
+        0,
+        284
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/X0pcJPLdYP",
+            "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416/photo/1",
+            "id": 1301892971940413442,
+            "id_str": "1301892971940413442",
+            "indices": [
+              285,
+              308
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhFAwqAWAAIa5Gi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhFAwqAWAAIa5Gi.jpg",
+            "sizes": {
+              "large": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "medium": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "small": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/X0pcJPLdYP"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 47448886,
+            "id_str": "47448886",
+            "indices": [
+              14,
+              30
+            ],
+            "name": "Jeffrey Goldberg",
+            "screen_name": "JeffreyGoldberg"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/X0pcJPLdYP",
+            "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416/photo/1",
+            "id": 1301892971940413442,
+            "id_str": "1301892971940413442",
+            "indices": [
+              285,
+              308
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhFAwqAWAAIa5Gi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhFAwqAWAAIa5Gi.jpg",
+            "sizes": {
+              "large": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "medium": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "small": {
+                "h": 379,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/X0pcJPLdYP"
+          },
+          {
+            "display_url": "pic.twitter.com/X0pcJPLdYP",
+            "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416/photo/1",
+            "id": 1301892971961487360,
+            "id_str": "1301892971961487360",
+            "indices": [
+              285,
+              308
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhFAwqFXkAATE7g.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhFAwqFXkAATE7g.jpg",
+            "sizes": {
+              "large": {
+                "h": 426,
+                "resize": "fit",
+                "w": 680
+              },
+              "medium": {
+                "h": 426,
+                "resize": "fit",
+                "w": 680
+              },
+              "small": {
+                "h": 426,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/X0pcJPLdYP"
+          },
+          {
+            "display_url": "pic.twitter.com/X0pcJPLdYP",
+            "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416/photo/1",
+            "id": 1301892971961421824,
+            "id_str": "1301892971961421824",
+            "indices": [
+              285,
+              308
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhFAwqFWkAAIbNf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhFAwqFWkAAIbNf.jpg",
+            "sizes": {
+              "large": {
+                "h": 466,
+                "resize": "fit",
+                "w": 679
+              },
+              "medium": {
+                "h": 466,
+                "resize": "fit",
+                "w": 679
+              },
+              "small": {
+                "h": 466,
+                "resize": "fit",
+                "w": 679
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/X0pcJPLdYP"
+          },
+          {
+            "display_url": "pic.twitter.com/X0pcJPLdYP",
+            "expanded_url": "https://twitter.com/Surabees/status/1301892978299068416/photo/1",
+            "id": 1301892971961487361,
+            "id_str": "1301892971961487361",
+            "indices": [
+              285,
+              308
+            ],
+            "media_url": "http://pbs.twimg.com/media/EhFAwqFXkAEYKp_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EhFAwqFXkAEYKp_.jpg",
+            "sizes": {
+              "large": {
+                "h": 847,
+                "resize": "fit",
+                "w": 436
+              },
+              "medium": {
+                "h": 847,
+                "resize": "fit",
+                "w": 436
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 350
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/X0pcJPLdYP"
+          }
+        ]
+      },
+      "favorite_count": 4528,
+      "favorited": false,
+      "full_text": "Not only does @JeffreyGoldberg have low editorial standards, he's long been a propagandist for the Military Industrial Complex.\n\nHe pushed their lies to get us into the Iraq War &amp; is pushing their easily debunked lies about Trump, b/c unlike Biden, Trump won't support their wars. https://t.co/X0pcJPLdYP",
+      "geo": null,
+      "id": 1301892978299068416,
+      "id_str": "1301892978299068416",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 2625,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Feb 24 19:18:55 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Republican Strategist.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 8950,
+        "follow_request_sent": false,
+        "followers_count": 76258,
+        "following": false,
+        "friends_count": 3091,
+        "geo_enabled": false,
+        "has_extended_profile": true,
+        "id": 21784951,
+        "id_str": "21784951",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 402,
+        "location": "",
+        "name": "Andrew Surabian",
+        "notifications": false,
+        "profile_background_color": "1A1B1F",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21784951/1528805457",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+        "profile_link_color": "2FBFEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "252429",
+        "profile_text_color": "666666",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Surabees",
+        "statuses_count": 5310,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1301892978299068416,
+    "quoted_status_id_str": "1301892978299068416",
+    "quoted_status_permalink": {
+      "display": "twitter.com/Surabees/statu\u2026",
+      "expanded": "https://twitter.com/Surabees/status/1301892978299068416",
+      "url": "https://t.co/6Dp7smcMlT"
+    },
+    "retweet_count": 7613,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Feb 24 19:18:55 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Republican Strategist.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 8950,
+      "follow_request_sent": false,
+      "followers_count": 76258,
+      "following": false,
+      "friends_count": 3091,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 21784951,
+      "id_str": "21784951",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 402,
+      "location": "",
+      "name": "Andrew Surabian",
+      "notifications": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21784951/1528805457",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006626261874167809/3LCoryY__normal.jpg",
+      "profile_link_color": "2FBFEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Surabees",
+      "statuses_count": 5310,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85805889,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119176,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55485,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

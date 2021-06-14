@@ -1,0 +1,370 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 27 18:33:07 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          28
+        ],
+        "text": "USNSMercy"
+      },
+      {
+        "indices": [
+          110,
+          118
+        ],
+        "text": "COVID19"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 117821354,
+        "id_str": "117821354",
+        "indices": [
+          3,
+          10
+        ],
+        "name": "Acting Secretary of the Navy Thomas B. Modly",
+        "screen_name": "SECNAV"
+      },
+      {
+        "id": 68448471,
+        "id_str": "68448471",
+        "indices": [
+          37,
+          46
+        ],
+        "name": "Port of Los Angeles",
+        "screen_name": "PortofLA"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SECNAV: Today #USNSMercy arrived @PortofLA to serve as a referral hospital for patients not infected with #COVID19 - handling overflow\u2026",
+  "geo": null,
+  "id": 1243606997334982656,
+  "id_str": "1243606997334982656",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 10252,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 27 16:45:00 +0000 2020",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            6,
+            16
+          ],
+          "text": "USNSMercy"
+        },
+        {
+          "indices": [
+            98,
+            106
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            257,
+            269
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/14WkftEEZp",
+          "expanded_url": "https://twitter.com/SECNAV/status/1243579786208907265/video/1",
+          "id": 1243577038625218561,
+          "id_str": "1243577038625218561",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1243577038625218561/img/o5BEfvlpp68zLsLC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1243577038625218561/img/o5BEfvlpp68zLsLC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/14WkftEEZp"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 68448471,
+          "id_str": "68448471",
+          "indices": [
+            25,
+            34
+          ],
+          "name": "Port of Los Angeles",
+          "screen_name": "PortofLA"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/14WkftEEZp",
+          "expanded_url": "https://twitter.com/SECNAV/status/1243579786208907265/video/1",
+          "id": 1243577038625218561,
+          "id_str": "1243577038625218561",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1243577038625218561/img/o5BEfvlpp68zLsLC.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1243577038625218561/img/o5BEfvlpp68zLsLC.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/14WkftEEZp",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 16083,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1243577038625218561/pl/-fHsudpXuN5RUNyr.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1243577038625218561/vid/1280x720/qbSHDVqckmQSR1V8.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1243577038625218561/vid/480x270/N8ollvJ9lsBRn407.mp4?tag=13"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1243577038625218561/vid/640x360/YS3nFH5G7UJhL6sn.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31913,
+    "favorited": false,
+    "full_text": "Today #USNSMercy arrived @PortofLA to serve as a referral hospital for patients not infected with #COVID19 - handling overflow of acute trauma cases &amp; other urgent needs allowing shore-based hospitals to focus medical care resources on the treatment of #coronavirus patients. https://t.co/14WkftEEZp",
+    "geo": null,
+    "id": 1243579786208907265,
+    "id_str": "1243579786208907265",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 10252,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 26 18:39:24 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter account of the Office of the Secretary of the Navy. Following, RTs and links \u2260 endorsement.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "navy.mil/secnav/index.a\u2026",
+              "expanded_url": "http://www.navy.mil/secnav/index.asp",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/ZSIn1oz2dT"
+            }
+          ]
+        }
+      },
+      "favourites_count": 124,
+      "follow_request_sent": false,
+      "followers_count": 45766,
+      "following": false,
+      "friends_count": 123,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 117821354,
+      "id_str": "117821354",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 998,
+      "location": "Pentagon, Washington, DC",
+      "name": "Acting Secretary of the Navy Thomas B. Modly",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/117821354/1575565005",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202632911427686405/nZkjq5M3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202632911427686405/nZkjq5M3_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SECNAV",
+      "statuses_count": 2181,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/ZSIn1oz2dT",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75315937,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118022,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50237,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

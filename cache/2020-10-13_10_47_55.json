@@ -1,0 +1,435 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 13 10:47:55 +0000 2020",
+  "display_text_range": [
+    0,
+    54
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 16106584,
+        "id_str": "16106584",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Ian Miles Cheong",
+        "screen_name": "stillgray"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @stillgray: Dems keep claiming this doesn't happen.",
+  "geo": null,
+  "id": 1315967498186092544,
+  "id_str": "1315967498186092544",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1314651559666556930,
+  "quoted_status_id_str": "1314651559666556930",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ABC13News/stat\u2026",
+    "expanded": "https://twitter.com/ABC13News/status/1314651559666556930",
+    "url": "https://t.co/bDafECUoPj"
+  },
+  "retweet_count": 6457,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Oct 13 04:12:35 +0000 2020",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ABC13News/stat\u2026",
+          "expanded_url": "https://twitter.com/ABC13News/status/1314651559666556930",
+          "indices": [
+            40,
+            63
+          ],
+          "url": "https://t.co/bDafECUoPj"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 16180,
+    "favorited": false,
+    "full_text": "Dems keep claiming this doesn't happen. https://t.co/bDafECUoPj",
+    "geo": null,
+    "id": 1315868007118245889,
+    "id_str": "1315868007118245889",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Oct 09 19:38:51 +0000 2020",
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cjpNwO5Xmz",
+            "expanded_url": "https://twitter.com/ABC13News/status/1314651559666556930/photo/1",
+            "id": 1314651554327269378,
+            "id_str": "1314651554327269378",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ej6Un5MXkAIgsZc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ej6Un5MXkAIgsZc.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 986
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 986
+              },
+              "small": {
+                "h": 382,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cjpNwO5Xmz"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "bit.ly/3iFrAyU",
+            "expanded_url": "https://bit.ly/3iFrAyU",
+            "indices": [
+              136,
+              159
+            ],
+            "url": "https://t.co/3PZ9H9NPwi"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cjpNwO5Xmz",
+            "expanded_url": "https://twitter.com/ABC13News/status/1314651559666556930/photo/1",
+            "id": 1314651554327269378,
+            "id_str": "1314651554327269378",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ej6Un5MXkAIgsZc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ej6Un5MXkAIgsZc.jpg",
+            "sizes": {
+              "large": {
+                "h": 554,
+                "resize": "fit",
+                "w": 986
+              },
+              "medium": {
+                "h": 554,
+                "resize": "fit",
+                "w": 986
+              },
+              "small": {
+                "h": 382,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/cjpNwO5Xmz"
+          }
+        ]
+      },
+      "favorite_count": 36123,
+      "favorited": false,
+      "full_text": "New Jersey postal employee accused of dumping 1,800 pieces of mail. The mail included 99 ballots for the upcoming election.\n\nREAD MORE: https://t.co/3PZ9H9NPwi https://t.co/cjpNwO5Xmz",
+      "geo": null,
+      "id": 1314651559666556930,
+      "id_str": "1314651559666556930",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 19860,
+      "retweeted": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Tue Jun 17 12:47:17 +0000 2008",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Edward R. Murrow Award Winner. Your stop for all breaking news, weather & sports coming from the heart of Virginia. Story ideas? Email us: newsdesk@wset.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wset.com",
+                "expanded_url": "http://wset.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/qddQtiMSXa"
+              }
+            ]
+          }
+        },
+        "favourites_count": 8787,
+        "follow_request_sent": false,
+        "followers_count": 48054,
+        "following": false,
+        "friends_count": 522,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 15145138,
+        "id_str": "15145138",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 607,
+        "location": "Lynchburg, VA",
+        "name": "ABC 13 News - WSET",
+        "notifications": false,
+        "profile_background_color": "9AE4E8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/15145138/1577733113",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1310901230844235776/dY6AwJOq_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310901230844235776/dY6AwJOq_normal.jpg",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "DDFFCC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ABC13News",
+        "statuses_count": 156065,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/qddQtiMSXa",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1314651559666556930,
+    "quoted_status_id_str": "1314651559666556930",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ABC13News/stat\u2026",
+      "expanded": "https://twitter.com/ABC13News/status/1314651559666556930",
+      "url": "https://t.co/bDafECUoPj"
+    },
+    "retweet_count": 6457,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Sep 03 01:44:04 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Remember David Dorn \nIG: https://t.co/0Cv3rnfUJm\nFB: https://t.co/V1GfF7j1PS\nYT: https://t.co/iin0Tb6Spj\nParler: stillgray",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/stillgray",
+              "expanded_url": "http://instagram.com/stillgray",
+              "indices": [
+                25,
+                48
+              ],
+              "url": "https://t.co/0Cv3rnfUJm"
+            },
+            {
+              "display_url": "facebook.com/ianmilescheong",
+              "expanded_url": "http://facebook.com/ianmilescheong",
+              "indices": [
+                53,
+                76
+              ],
+              "url": "https://t.co/V1GfF7j1PS"
+            },
+            {
+              "display_url": "youtube.com/hypebreak",
+              "expanded_url": "http://youtube.com/hypebreak",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/iin0Tb6Spj"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "viralstyle.com/store/stillgra\u2026",
+              "expanded_url": "https://viralstyle.com/store/stillgray/StillGray-Merch",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mvVUrkTkJU"
+            }
+          ]
+        }
+      },
+      "favourites_count": 144933,
+      "follow_request_sent": false,
+      "followers_count": 275170,
+      "following": false,
+      "friends_count": 1784,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 16106584,
+      "id_str": "16106584",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2210,
+      "location": "",
+      "name": "Ian Miles Cheong",
+      "notifications": false,
+      "profile_background_color": "1B1926",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/16106584/1591392104",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1310878000779411458/CMWmGkFQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1310878000779411458/CMWmGkFQ_normal.jpg",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "E8DBC1",
+      "profile_text_color": "395E85",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "stillgray",
+      "statuses_count": 310390,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mvVUrkTkJU",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

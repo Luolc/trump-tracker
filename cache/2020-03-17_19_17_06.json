@@ -1,0 +1,357 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 17 19:17:06 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2863210809,
+        "id_str": "2863210809",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "David Perdue",
+        "screen_name": "sendavidperdue"
+      },
+      {
+        "id": 146569971,
+        "id_str": "146569971",
+        "indices": [
+          132,
+          139
+        ],
+        "name": "CDC",
+        "screen_name": "CDCgov"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @sendavidperdue: America has faced big challenges before, and we will get through this together. Please stay vigilant and follow @CDCgov\u2026",
+  "geo": null,
+  "id": 1239994185182261251,
+  "id_str": "1239994185182261251",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3252,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 16 21:53:34 +0000 2020",
+    "display_text_range": [
+      0,
+      244
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            208,
+            220
+          ],
+          "text": "coronavirus"
+        },
+        {
+          "indices": [
+            221,
+            229
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            230,
+            244
+          ],
+          "text": "StopTheSpread"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hpr3wkTfDf",
+          "expanded_url": "https://twitter.com/sendavidperdue/status/1239671173409103885/photo/1",
+          "id": 1239671163615395840,
+          "id_str": "1239671163615395840",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETQyWvGXQAAPXJ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETQyWvGXQAAPXJ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 935,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 903,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 512,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hpr3wkTfDf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 146569971,
+          "id_str": "146569971",
+          "indices": [
+            112,
+            119
+          ],
+          "name": "CDC",
+          "screen_name": "CDCgov"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/hpr3wkTfDf",
+          "expanded_url": "https://twitter.com/sendavidperdue/status/1239671173409103885/photo/1",
+          "id": 1239671163615395840,
+          "id_str": "1239671163615395840",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETQyWvGXQAAPXJ8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETQyWvGXQAAPXJ8.jpg",
+          "sizes": {
+            "large": {
+              "h": 935,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 903,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 512,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hpr3wkTfDf"
+        },
+        {
+          "display_url": "pic.twitter.com/hpr3wkTfDf",
+          "expanded_url": "https://twitter.com/sendavidperdue/status/1239671173409103885/photo/1",
+          "id": 1239671163728605195,
+          "id_str": "1239671163728605195",
+          "indices": [
+            245,
+            268
+          ],
+          "media_url": "http://pbs.twimg.com/media/ETQyWvhWsAs-k4K.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETQyWvhWsAs-k4K.jpg",
+          "sizes": {
+            "large": {
+              "h": 926,
+              "resize": "fit",
+              "w": 1242
+            },
+            "medium": {
+              "h": 895,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 507,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/hpr3wkTfDf"
+        }
+      ]
+    },
+    "favorite_count": 10775,
+    "favorited": false,
+    "full_text": "America has faced big challenges before, and we will get through this together. Please stay vigilant and follow @CDCgov\u2019s advice.\n\nTake extra precautions. \nWash your hands often.\nPractice social distancing.\n\n#coronavirus #COVID19 #StopTheSpread https://t.co/hpr3wkTfDf",
+    "geo": null,
+    "id": 1239671173409103885,
+    "id_str": "1239671173409103885",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 3252,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Nov 05 20:58:02 +0000 2014",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Official Twitter account for U.S. Senator David Perdue of Georgia.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "perdue.senate.gov",
+              "expanded_url": "http://perdue.senate.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/I3Xla8NlsK"
+            }
+          ]
+        }
+      },
+      "favourites_count": 572,
+      "follow_request_sent": false,
+      "followers_count": 82611,
+      "following": false,
+      "friends_count": 1021,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2863210809,
+      "id_str": "2863210809",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1445,
+      "location": "Georgia",
+      "name": "David Perdue",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2863210809/1572020733",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1187762668641361921/NXZ7vtXE_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "sendavidperdue",
+      "statuses_count": 4339,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/I3Xla8NlsK",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74284645,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116761,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49890,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

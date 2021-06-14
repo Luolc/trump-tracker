@@ -1,0 +1,399 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 29 11:59:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14179819,
+        "id_str": "14179819",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "NJ.com",
+        "screen_name": "njdotcom"
+      },
+      {
+        "id": 822215679726100480,
+        "id_str": "822215679726100480",
+        "indices": [
+          14,
+          20
+        ],
+        "name": "President Trump",
+        "screen_name": "POTUS"
+      },
+      {
+        "id": 185826203,
+        "id_str": "185826203",
+        "indices": [
+          21,
+          34
+        ],
+        "name": "Natalie Paterson",
+        "screen_name": "IamNPaterson"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @njdotcom: @POTUS @IamNPaterson After hours in line, some people are streaming inside ahead of President Donald Trump's rally in Wildwoo\u2026",
+  "geo": null,
+  "id": 1222489508203126785,
+  "id_str": "1222489508203126785",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4868,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jan 28 21:30:09 +0000 2020",
+    "display_text_range": [
+      21,
+      214
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            180,
+            194
+          ],
+          "text": "WildwoodRally"
+        },
+        {
+          "indices": [
+            195,
+            214
+          ],
+          "text": "WildwoodTrumpRally"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/yQOCWVyuch",
+          "expanded_url": "https://twitter.com/njdotcom/status/1222270664415109121/video/1",
+          "features": {},
+          "id": 1222270631464534016,
+          "id_str": "1222270631464534016",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222270631464534016/pu/img/-2OLfyuZ8TN1Vzaw.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222270631464534016/pu/img/-2OLfyuZ8TN1Vzaw.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 385,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/yQOCWVyuch"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            0,
+            6
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        },
+        {
+          "id": 185826203,
+          "id_str": "185826203",
+          "indices": [
+            7,
+            20
+          ],
+          "name": "Natalie Paterson",
+          "screen_name": "IamNPaterson"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/yQOCWVyuch",
+          "expanded_url": "https://twitter.com/njdotcom/status/1222270664415109121/video/1",
+          "features": {},
+          "id": 1222270631464534016,
+          "id_str": "1222270631464534016",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1222270631464534016/pu/img/-2OLfyuZ8TN1Vzaw.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1222270631464534016/pu/img/-2OLfyuZ8TN1Vzaw.jpg",
+          "sizes": {
+            "large": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "medium": {
+              "h": 480,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 385,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/yQOCWVyuch",
+          "video_info": {
+            "aspect_ratio": [
+              53,
+              30
+            ],
+            "duration_millis": 29867,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1222270631464534016/pu/vid/476x270/88lY5-fhXGHObz2Z.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1222270631464534016/pu/vid/636x360/CbKHwv0mWOqJPVnc.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1222270631464534016/pu/vid/848x480/n9saz64ChCB78SRI.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1222270631464534016/pu/pl/j0R8qATSjwOGYKXA.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19829,
+    "favorited": false,
+    "full_text": "@POTUS @IamNPaterson After hours in line, some people are streaming inside ahead of President Donald Trump's rally in Wildwood, N.J. (Plenty are still stuck waiting outside, too.) #WildwoodRally #WildwoodTrumpRally https://t.co/yQOCWVyuch",
+    "geo": null,
+    "id": 1222270664415109121,
+    "id_str": "1222270664415109121",
+    "in_reply_to_screen_name": "njdotcom",
+    "in_reply_to_status_id": 1222253782119190535,
+    "in_reply_to_status_id_str": "1222253782119190535",
+    "in_reply_to_user_id": 14179819,
+    "in_reply_to_user_id_str": "14179819",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4868,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 19 21:02:53 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "N.J.'s #1 news website. #TrueJersey\nTips: https://t.co/uw1FGG3u5M\nNJ Cannabis Insider: https://t.co/t6YKDdgge0 \nHS Sports Live: https://t.co/rdwjgfzOHS",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "nj.com/tips",
+              "expanded_url": "http://nj.com/tips",
+              "indices": [
+                42,
+                65
+              ],
+              "url": "https://t.co/uw1FGG3u5M"
+            },
+            {
+              "display_url": "nj-ne.ws/Llu5eG1",
+              "expanded_url": "http://nj-ne.ws/Llu5eG1",
+              "indices": [
+                87,
+                110
+              ],
+              "url": "https://t.co/t6YKDdgge0"
+            },
+            {
+              "display_url": "highschoolsportsvideo.nj.com",
+              "expanded_url": "https://highschoolsportsvideo.nj.com/",
+              "indices": [
+                128,
+                151
+              ],
+              "url": "https://t.co/rdwjgfzOHS"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "nj.com",
+              "expanded_url": "http://www.nj.com",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/EwBeRIRiVv"
+            }
+          ]
+        }
+      },
+      "favourites_count": 2848,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 518566,
+      "following": false,
+      "friends_count": 716,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 14179819,
+      "id_str": "14179819",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2513,
+      "location": "New Jersey",
+      "name": "NJ.com",
+      "notifications": false,
+      "profile_background_color": "293546",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14179819/1517579248",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/694234642002616320/yqse2zqz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/694234642002616320/yqse2zqz_normal.jpg",
+      "profile_link_color": "4E4D4D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "njdotcom",
+      "statuses_count": 131574,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/EwBeRIRiVv",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71941958,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113976,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48521,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

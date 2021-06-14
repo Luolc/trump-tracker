@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 16 00:29:06 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25202268,
+        "id_str": "25202268",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Sara A. Carter",
+        "screen_name": "SaraCarterDC"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          29,
+          45
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SaraCarterDC: Absolutely @realDonaldTrump !  This has been such an injustice to Gen. Flynn, his family and the American people  - the o\u2026",
+  "geo": null,
+  "id": 1239347925421080576,
+  "id_str": "1239347925421080576",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1239242219019735042,
+  "quoted_status_id_str": "1239242219019735042",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realdonaldtrum\u2026",
+    "expanded": "https://twitter.com/realdonaldtrump/status/1239242219019735042",
+    "url": "https://t.co/yzmPePrBZ3"
+  },
+  "retweet_count": 11862,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Mar 15 19:37:23 +0000 2020",
+    "display_text_range": [
+      0,
+      276
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realdonaldtrum\u2026",
+          "expanded_url": "https://twitter.com/realdonaldtrump/status/1239242219019735042",
+          "indices": [
+            277,
+            300
+          ],
+          "url": "https://t.co/yzmPePrBZ3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            11,
+            27
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 35645,
+    "favorited": false,
+    "full_text": "Absolutely @realDonaldTrump !  This has been such an injustice to Gen. Flynn, his family and the American people  - the overall malfeasance in his case is inexcusable and quite the coincidence to cover up the FBI and DOJ misdeeds that they lose the records. Flynn is a patriot https://t.co/yzmPePrBZ3",
+    "geo": null,
+    "id": 1239274513638068224,
+    "id_str": "1239274513638068224",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Mar 15 17:29:03 +0000 2020",
+      "display_text_range": [
+        0,
+        283
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 203523,
+      "favorited": false,
+      "full_text": "So now it is reported that, after destroying his life &amp; the life of his wonderful family (and many others also), the FBI, working in conjunction with the Justice Department, has \u201clost\u201d the records of General Michael Flynn. How convenient. I am strongly considering a Full Pardon!",
+      "geo": null,
+      "id": 1239242219019735042,
+      "id_str": "1239242219019735042",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 55224,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7,
+        "follow_request_sent": false,
+        "followers_count": 74042345,
+        "following": true,
+        "friends_count": 47,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 116486,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 49818,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1239242219019735042,
+    "quoted_status_id_str": "1239242219019735042",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realdonaldtrum\u2026",
+      "expanded": "https://twitter.com/realdonaldtrump/status/1239242219019735042",
+      "url": "https://t.co/yzmPePrBZ3"
+    },
+    "retweet_count": 11862,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 01:02:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@FoxNews Contributor, award winning National Security/War Correspondent. Host, The Sara Carter Show Podcast. Taking back the story. Instagram: ScarterDC",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "saraacarter.com",
+              "expanded_url": "https://saraacarter.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SZ0zbfRggH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 29756,
+      "follow_request_sent": false,
+      "followers_count": 1016855,
+      "following": false,
+      "friends_count": 4899,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25202268,
+      "id_str": "25202268",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3949,
+      "location": "Washington, D.C.",
+      "name": "Sara A. Carter",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25202268/1548362448",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "0E0E0E",
+      "profile_text_color": "4A66C1",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SaraCarterDC",
+      "statuses_count": 28322,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/SZ0zbfRggH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 74042345,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49818,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

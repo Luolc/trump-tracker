@@ -1,0 +1,515 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Jul 23 12:37:37 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 334715818,
+        "id_str": "334715818",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Buck Sexton",
+        "screen_name": "BuckSexton"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BuckSexton: It\u2019s not possible for Democrats to offer up this abject fool as the next president of the United States and expect the rest\u2026",
+  "geo": null,
+  "id": 1286279298417131522,
+  "id_str": "1286279298417131522",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1286081068722991104,
+  "quoted_status_id_str": "1286081068722991104",
+  "quoted_status_permalink": {
+    "display": "twitter.com/vincecoglianes\u2026",
+    "expanded": "https://twitter.com/vincecoglianese/status/1286081068722991104",
+    "url": "https://t.co/Ac9rEsUAyu"
+  },
+  "retweet_count": 5436,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jul 23 03:00:56 +0000 2020",
+    "display_text_range": [
+      0,
+      164
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/vincecoglianes\u2026",
+          "expanded_url": "https://twitter.com/vincecoglianese/status/1286081068722991104",
+          "indices": [
+            165,
+            188
+          ],
+          "url": "https://t.co/Ac9rEsUAyu"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 14072,
+    "favorited": false,
+    "full_text": "It\u2019s not possible for Democrats to offer up this abject fool as the next president of the United States and expect the rest of us to treat their opinions as serious https://t.co/Ac9rEsUAyu",
+    "geo": null,
+    "id": 1286134173690933248,
+    "id_str": "1286134173690933248",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jul 22 23:29:55 +0000 2020",
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/hWUbIRK910",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1286011641369427972/video/1",
+            "id": 1286009204281573378,
+            "id_str": "1286009204281573378",
+            "indices": [
+              250,
+              273
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286009204281573378/img/QiWBokl8OLn7RSMh.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286009204281573378/img/QiWBokl8OLn7RSMh.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286011641369427972,
+            "source_status_id_str": "1286011641369427972",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "photo",
+            "url": "https://t.co/hWUbIRK910"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "call_to_actions": {
+                "visit_site": {
+                  "url": "https://www.donaldjtrump.com/"
+                }
+              },
+              "description": "Biden says we can't criticize the Chinese government because Americans are too stupid to understand the difference between China and Asian Americans.",
+              "embeddable": true,
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Mar 20 20:54:58 +0000 2019",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Highlighting @realDonaldTrump's #PromisesKept, fighting #FakeNews. This account punches back 10x harder. Managed by the #TeamTrump 2020 campaign. #MAGA",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "donaldjtrump.com",
+                        "expanded_url": "https://www.donaldjtrump.com/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/mVHOxzYUNT"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 17,
+                "follow_request_sent": false,
+                "followers_count": 719193,
+                "following": false,
+                "friends_count": 258,
+                "geo_enabled": false,
+                "has_extended_profile": true,
+                "id": 1108472017144201216,
+                "id_str": "1108472017144201216",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 2105,
+                "location": "MAGA Country",
+                "name": "Trump War Room - Text TRUMP to 88022",
+                "notifications": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1108472017144201216/1588976113",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1109170568950095879/Q5nCWHLB_normal.png",
+                "profile_link_color": "ABB8C2",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "TrumpWarRoom",
+                "statuses_count": 15998,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/mVHOxzYUNT",
+                "utc_offset": null,
+                "verified": true
+              },
+              "title": "Joe Biden defends China, parrots Chinese talking points"
+            },
+            "display_url": "pic.twitter.com/hWUbIRK910",
+            "expanded_url": "https://twitter.com/TrumpWarRoom/status/1286011641369427972/video/1",
+            "id": 1286009204281573378,
+            "id_str": "1286009204281573378",
+            "indices": [
+              250,
+              273
+            ],
+            "media_url": "http://pbs.twimg.com/amplify_video_thumb/1286009204281573378/img/QiWBokl8OLn7RSMh.jpg",
+            "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1286009204281573378/img/QiWBokl8OLn7RSMh.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1286011641369427972,
+            "source_status_id_str": "1286011641369427972",
+            "source_user_id": 1108472017144201216,
+            "source_user_id_str": "1108472017144201216",
+            "type": "video",
+            "url": "https://t.co/hWUbIRK910",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 20121,
+              "variants": [
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286009204281573378/vid/1280x720/C6L5GCr0OxZoEaXG.mp4?tag=13"
+                },
+                {
+                  "bitrate": 288000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286009204281573378/vid/480x270/kcgp6bCRi0TexhpP.mp4?tag=13"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/1286009204281573378/pl/Rcy69VYycsULHg9f.m3u8?tag=13"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/1286009204281573378/vid/640x360/baN6sygqijY-5L3J.mp4?tag=13"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 9287,
+      "favorited": false,
+      "full_text": "Biden says Trump is wrong to hold China accountable for coronavirus because Americans can\u2019t distinguish \u201cbetween a South Korean and someone from Beijing.\u201d\n\nThe patronizing view of voters aside, not sure what that has to do with the CCP, or anything. https://t.co/hWUbIRK910",
+      "geo": null,
+      "id": 1286081068722991104,
+      "id_str": "1286081068722991104",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4949,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Aug 26 16:17:14 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Morning host, weekdays 5-9 AM on DC\u2019s #1 radio station, @WMALDC | Editor, @DailyCaller",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vincecoglianese.com",
+                "expanded_url": "http://vincecoglianese.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/t1EXpkRxpm"
+              }
+            ]
+          }
+        },
+        "favourites_count": 2333,
+        "follow_request_sent": false,
+        "followers_count": 20833,
+        "following": false,
+        "friends_count": 1823,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 69022849,
+        "id_str": "69022849",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 323,
+        "location": "Washington, D.C., USA",
+        "name": "Vince Coglianese",
+        "notifications": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69022849/1586976342",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1283051607165480967/_YhttKul_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283051607165480967/_YhttKul_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "VinceCoglianese",
+        "statuses_count": 16356,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/t1EXpkRxpm",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1286081068722991104,
+    "quoted_status_id_str": "1286081068722991104",
+    "quoted_status_permalink": {
+      "display": "twitter.com/vincecoglianes\u2026",
+      "expanded": "https://twitter.com/vincecoglianese/status/1286081068722991104",
+      "url": "https://t.co/Ac9rEsUAyu"
+    },
+    "retweet_count": 5436,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 13 15:14:49 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Host of The Buck Sexton Show; Former CIA Analyst and NYPD Intel Division #ShieldsHigh SUBSCRIBE to my daily podcast here \u27a1\ufe0fhttps://t.co/3beR3JwoYg",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "apple.co/2lRor7y",
+              "expanded_url": "https://apple.co/2lRor7y",
+              "indices": [
+                123,
+                146
+              ],
+              "url": "https://t.co/3beR3JwoYg"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bucksexton.com",
+              "expanded_url": "http://bucksexton.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/MmJ65aUJqi"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24868,
+      "follow_request_sent": false,
+      "followers_count": 426711,
+      "following": false,
+      "friends_count": 1528,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 334715818,
+      "id_str": "334715818",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2537,
+      "location": "Manhattan, NY",
+      "name": "Buck Sexton",
+      "notifications": false,
+      "profile_background_color": "403D61",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334715818/1577135950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1230184669783695362/llV8hFuP_normal.jpg",
+      "profile_link_color": "FF3300",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A0C5C7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BuckSexton",
+      "statuses_count": 2046,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/MmJ65aUJqi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 84080418,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116972,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

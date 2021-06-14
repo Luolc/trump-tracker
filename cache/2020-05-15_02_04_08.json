@@ -1,0 +1,478 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 15 02:04:08 +0000 2020",
+  "display_text_range": [
+    0,
+    87
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 35218566,
+        "id_str": "35218566",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Ari Fleischer",
+        "screen_name": "AriFleischer"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AriFleischer: Clapper gets asked a hard question and what\u2019s he do?  He goes AWOL...",
+  "geo": null,
+  "id": 1261115115413397504,
+  "id_str": "1261115115413397504",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1260982326022070274,
+  "quoted_status_id_str": "1260982326022070274",
+  "quoted_status_permalink": {
+    "display": "twitter.com/thefirstontv/s\u2026",
+    "expanded": "https://twitter.com/thefirstontv/status/1260982326022070274",
+    "url": "https://t.co/HOiN1tvA82"
+  },
+  "retweet_count": 12777,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 21:51:13 +0000 2020",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/thefirstontv/s\u2026",
+          "expanded_url": "https://twitter.com/thefirstontv/status/1260982326022070274",
+          "indices": [
+            70,
+            93
+          ],
+          "url": "https://t.co/HOiN1tvA82"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 37216,
+    "favorited": false,
+    "full_text": "Clapper gets asked a hard question and what\u2019s he do?  He goes AWOL... https://t.co/HOiN1tvA82",
+    "geo": null,
+    "id": 1261051464639827969,
+    "id_str": "1261051464639827969",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Thu May 14 17:16:29 +0000 2020",
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/cdjm5tVkC6",
+            "expanded_url": "https://twitter.com/TVNewsHQ/status/1260905045396271111/video/1",
+            "id": 1260904992992567296,
+            "id_str": "1260904992992567296",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260904992992567296/pu/img/D8bPVAfPW1YYYFyp.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260904992992567296/pu/img/D8bPVAfPW1YYYFyp.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1260905045396271111,
+            "source_status_id_str": "1260905045396271111",
+            "source_user_id": 711356961107918849,
+            "source_user_id_str": "711356961107918849",
+            "type": "photo",
+            "url": "https://t.co/cdjm5tVkC6"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Sun Mar 20 01:01:30 +0000 2016",
+                "default_profile": true,
+                "default_profile_image": false,
+                "description": "TV news, Cable news ratings and sharp opinion covering Fox News, MSNBC, CNN, Fox Business and CNBC. Retweeted by President Trump six times.",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 6552,
+                "follow_request_sent": false,
+                "followers_count": 17236,
+                "following": false,
+                "friends_count": 5635,
+                "geo_enabled": false,
+                "has_extended_profile": false,
+                "id": 711356961107918849,
+                "id_str": "711356961107918849",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 204,
+                "location": "New York, NY",
+                "name": "TV News HQ",
+                "notifications": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/711356961107918849/1512168004",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/777550061874122752/CFf2ffTs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/777550061874122752/CFf2ffTs_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "TVNewsHQ",
+                "statuses_count": 13784,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/cdjm5tVkC6",
+            "expanded_url": "https://twitter.com/TVNewsHQ/status/1260905045396271111/video/1",
+            "id": 1260904992992567296,
+            "id_str": "1260904992992567296",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1260904992992567296/pu/img/D8bPVAfPW1YYYFyp.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1260904992992567296/pu/img/D8bPVAfPW1YYYFyp.jpg",
+            "sizes": {
+              "large": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 400,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 378,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1260905045396271111,
+            "source_status_id_str": "1260905045396271111",
+            "source_user_id": 711356961107918849,
+            "source_user_id_str": "711356961107918849",
+            "type": "video",
+            "url": "https://t.co/cdjm5tVkC6",
+            "video_info": {
+              "aspect_ratio": [
+                9,
+                5
+              ],
+              "duration_millis": 40440,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1260904992992567296/pu/vid/720x400/sJ9-d_JaNgbcc5B9.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1260904992992567296/pu/pl/WfJ6-xvUhAVNtkpn.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1260904992992567296/pu/vid/486x270/IbuQZZRl0E05UIOK.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 27348,
+      "favorited": false,
+      "full_text": "James Clapper is FINALLY asked a tough question by CNN.\n\nWatch what happens right after.\n\nSeriously, wait for it...\n\nhttps://t.co/cdjm5tVkC6",
+      "geo": null,
+      "id": 1260982326022070274,
+      "id_str": "1260982326022070274",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 12080,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Oct 10 16:29:39 +0000 2019",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "A FREE network dedicated to freedom, big ideas, and curiosity. No mainstream media bias, no frills, and no censorship. The First TV app + Pluto and Distro!",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "thefirsttv.com",
+                "expanded_url": "http://www.thefirsttv.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/T9rYLG0rfm"
+              }
+            ]
+          }
+        },
+        "favourites_count": 52,
+        "follow_request_sent": false,
+        "followers_count": 16887,
+        "following": false,
+        "friends_count": 11,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1182332284403376128,
+        "id_str": "1182332284403376128",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 75,
+        "location": "",
+        "name": "The First",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1182332284403376128/1588261519",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182338193326252032/61gonE3M_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "TheFirstonTV",
+        "statuses_count": 2906,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/T9rYLG0rfm",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1260982326022070274,
+    "quoted_status_id_str": "1260982326022070274",
+    "quoted_status_permalink": {
+      "display": "twitter.com/thefirstontv/s\u2026",
+      "expanded": "https://twitter.com/thefirstontv/status/1260982326022070274",
+      "url": "https://t.co/HOiN1tvA82"
+    },
+    "retweet_count": 12777,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Apr 25 14:11:19 +0000 2009",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Wikipedia has my place of birth wrong. Former WH Press Secretary. FOX News contributor. Yankees and Dolphins fan.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fleischercommunications.com",
+              "expanded_url": "http://www.fleischercommunications.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/RANs9eL3zJ"
+            }
+          ]
+        }
+      },
+      "favourites_count": 307,
+      "follow_request_sent": false,
+      "followers_count": 382784,
+      "following": false,
+      "friends_count": 1507,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 35218566,
+      "id_str": "35218566",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3728,
+      "location": "",
+      "name": "Ari Fleischer",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/952602158943391744/du26VX8P_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/952602158943391744/du26VX8P_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AriFleischer",
+      "statuses_count": 17184,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/RANs9eL3zJ",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,397 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Mar 04 05:41:00 +0000 2020",
+  "display_text_range": [
+    0,
+    78
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 7702542,
+        "id_str": "7702542",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "Dana Loesch",
+        "screen_name": "DLoesch"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DLoesch: This will make Sanders so happy to hear his friend won\u2019t leave\n\n\ud83c\udf7f",
+  "geo": null,
+  "id": 1235077763133931520,
+  "id_str": "1235077763133931520",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1235054164788445184,
+  "quoted_status_id_str": "1235054164788445184",
+  "quoted_status_permalink": {
+    "display": "twitter.com/ShaneGoldmache\u2026",
+    "expanded": "https://twitter.com/ShaneGoldmacher/status/1235054164788445184",
+    "url": "https://t.co/x8BxH0kE7k"
+  },
+  "retweet_count": 1430,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Mar 04 05:15:04 +0000 2020",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/ShaneGoldmache\u2026",
+          "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1235054164788445184",
+          "indices": [
+            66,
+            89
+          ],
+          "url": "https://t.co/x8BxH0kE7k"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 5022,
+    "favorited": false,
+    "full_text": "This will make Sanders so happy to hear his friend won\u2019t leave\n\n\ud83c\udf7f https://t.co/x8BxH0kE7k",
+    "geo": null,
+    "id": 1235071240672382976,
+    "id_str": "1235071240672382976",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Mar 04 04:07:13 +0000 2020",
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zr2QlQOVqk",
+            "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1235054164788445184/photo/1",
+            "id": 1235054130391023617,
+            "id_str": "1235054130391023617",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESPLMCBWAAEUz_j.png",
+            "media_url_https": "https://pbs.twimg.com/media/ESPLMCBWAAEUz_j.png",
+            "sizes": {
+              "large": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "medium": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "small": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zr2QlQOVqk"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/zr2QlQOVqk",
+            "expanded_url": "https://twitter.com/ShaneGoldmacher/status/1235054164788445184/photo/1",
+            "id": 1235054130391023617,
+            "id_str": "1235054130391023617",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/ESPLMCBWAAEUz_j.png",
+            "media_url_https": "https://pbs.twimg.com/media/ESPLMCBWAAEUz_j.png",
+            "sizes": {
+              "large": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "medium": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "small": {
+                "h": 413,
+                "resize": "fit",
+                "w": 669
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/zr2QlQOVqk"
+          }
+        ]
+      },
+      "favorite_count": 2318,
+      "favorited": false,
+      "full_text": "Warren message to supporters: \"There are six more primaries just one week away, and we need your help to keep up the momentum.\" https://t.co/zr2QlQOVqk",
+      "geo": null,
+      "id": 1235054164788445184,
+      "id_str": "1235054164788445184",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 530,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Mar 07 20:42:24 +0000 2009",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "New York Times national political reporter, Ex-@NYTMetro @POLITICO, @NationalJournal and @latimes. SF Giants fan. shane.goldmacher@nytimes.com",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nytimes.com",
+                "expanded_url": "http://www.nytimes.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/UmqCI5AhUx"
+              }
+            ]
+          }
+        },
+        "favourites_count": 325,
+        "follow_request_sent": false,
+        "followers_count": 55983,
+        "following": false,
+        "friends_count": 3019,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 23232204,
+        "id_str": "23232204",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2013,
+        "location": "New York, NY",
+        "name": "Shane Goldmacher",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/23232204/1499714939",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/774275724568059904/sJiDDmfK_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "ShaneGoldmacher",
+        "statuses_count": 52636,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/UmqCI5AhUx",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1235054164788445184,
+    "quoted_status_id_str": "1235054164788445184",
+    "quoted_status_permalink": {
+      "display": "twitter.com/ShaneGoldmache\u2026",
+      "expanded": "https://twitter.com/ShaneGoldmacher/status/1235054164788445184",
+      "url": "https://t.co/x8BxH0kE7k"
+    },
+    "retweet_count": 1430,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 25 03:30:38 +0000 2007",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mom, talk radio host; author; TV commentator; longtime #2A advocate not with the NRA -- NEW BOOK #GraceCanceled OUT NOW! Order at link!",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "danaloesch.com",
+              "expanded_url": "https://danaloesch.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/G6keEoGbh0"
+            }
+          ]
+        }
+      },
+      "favourites_count": 82426,
+      "follow_request_sent": false,
+      "followers_count": 1188078,
+      "following": false,
+      "friends_count": 4174,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 7702542,
+      "id_str": "7702542",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 8953,
+      "location": "Texas, USA",
+      "name": "Dana Loesch",
+      "notifications": false,
+      "profile_background_color": "3806CC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7702542/1580400146",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1222192421024468993/GnPOHwHS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1222192421024468993/GnPOHwHS_normal.jpg",
+      "profile_link_color": "BA0734",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6F6F6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DLoesch",
+      "statuses_count": 130765,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/G6keEoGbh0",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73363410,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115517,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49510,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

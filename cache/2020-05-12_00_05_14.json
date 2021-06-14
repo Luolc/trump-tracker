@@ -1,0 +1,339 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue May 12 00:05:14 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 22545491,
+        "id_str": "22545491",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Ken Calvert",
+        "screen_name": "KenCalvert"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @KenCalvert: Through Project Airbridge, California has received more than 1.2 million N95 masks, 7.5 million surgical masks, 4.5 million\u2026",
+  "geo": null,
+  "id": 1259998028070629381,
+  "id_str": "1259998028070629381",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1259295087969947648,
+  "quoted_status_id_str": "1259295087969947648",
+  "quoted_status_permalink": {
+    "display": "twitter.com/WhiteHouse/sta\u2026",
+    "expanded": "https://twitter.com/WhiteHouse/status/1259295087969947648",
+    "url": "https://t.co/HLXrfcL4Nf"
+  },
+  "retweet_count": 4116,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon May 11 18:29:31 +0000 2020",
+    "display_text_range": [
+      0,
+      231
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/WhiteHouse/sta\u2026",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/1259295087969947648",
+          "indices": [
+            232,
+            255
+          ],
+          "url": "https://t.co/HLXrfcL4Nf"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 13272,
+    "favorited": false,
+    "full_text": "Through Project Airbridge, California has received more than 1.2 million N95 masks, 7.5 million surgical masks, 4.5 million surgical gowns, and 207.3 million surgical gloves. This critical program is saving lives across California. https://t.co/HLXrfcL4Nf",
+    "geo": null,
+    "id": 1259913543631073280,
+    "id_str": "1259913543631073280",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun May 10 01:32:00 +0000 2020",
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "foxnews.com/opinion/rear-a\u2026",
+            "expanded_url": "https://www.foxnews.com/opinion/rear-adm-john-polowczyk-femas-coronavirus-response-is-saving-lives",
+            "indices": [
+              225,
+              248
+            ],
+            "url": "https://t.co/M0v0EcZEl6"
+          }
+        ],
+        "user_mentions": []
+      },
+      "favorite_count": 6756,
+      "favorited": false,
+      "full_text": "\"There is no greater example of acceleration than Project Airbridge,\" RADM John Polowczyk writes. \n\n\"What normally takes up to 37 days in routine shipping was reduced to less than two days using airplanes chartered by FEMA.\" https://t.co/M0v0EcZEl6",
+      "geo": null,
+      "id": 1259295087969947648,
+      "id_str": "1259295087969947648",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 1805,
+      "retweeted": false,
+      "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov/privacy",
+                "expanded_url": "http://whitehouse.gov/privacy",
+                "indices": [
+                  126,
+                  149
+                ],
+                "url": "https://t.co/IURuMIrzxb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "WhiteHouse.gov",
+                "expanded_url": "http://www.WhiteHouse.gov",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/wyOVgSLgBV"
+              }
+            ]
+          }
+        },
+        "favourites_count": 17,
+        "follow_request_sent": false,
+        "followers_count": 22275732,
+        "following": false,
+        "friends_count": 13,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 822215673812119553,
+        "id_str": "822215673812119553",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 14145,
+        "location": "Washington, D.C.",
+        "name": "The White House",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1580922287",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "WhiteHouse",
+        "statuses_count": 18170,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/wyOVgSLgBV",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1259295087969947648,
+    "quoted_status_id_str": "1259295087969947648",
+    "quoted_status_permalink": {
+      "display": "twitter.com/WhiteHouse/sta\u2026",
+      "expanded": "https://twitter.com/WhiteHouse/status/1259295087969947648",
+      "url": "https://t.co/HLXrfcL4Nf"
+    },
+    "retweet_count": 4116,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Mar 02 22:30:20 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Official Twitter Account for U.S. Representative Ken Calvert (CA-42)",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "calvert.house.gov",
+              "expanded_url": "http://calvert.house.gov/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/XcjXyjinJw"
+            }
+          ]
+        }
+      },
+      "favourites_count": 90,
+      "follow_request_sent": false,
+      "followers_count": 23130,
+      "following": false,
+      "friends_count": 326,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 22545491,
+      "id_str": "22545491",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 899,
+      "location": "Corona, CA ",
+      "name": "Ken Calvert",
+      "notifications": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22545491/1554155600",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/786694649301700609/TfucmvHE_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "KenCalvert",
+      "statuses_count": 6439,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/XcjXyjinJw",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79761118,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114822,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51530,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

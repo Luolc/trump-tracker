@@ -1,0 +1,497 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Sep 23 14:11:03 +0000 2020",
+  "display_text_range": [
+    0,
+    73
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1084375028,
+        "id_str": "1084375028",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Jason Miller",
+        "screen_name": "JasonMillerinDC"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @JasonMillerinDC: He\u2019s not even pretending to look at the interviewer!",
+  "geo": null,
+  "id": 1308770858794713090,
+  "id_str": "1308770858794713090",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1308706191976038400,
+  "quoted_status_id_str": "1308706191976038400",
+  "quoted_status_permalink": {
+    "display": "twitter.com/erictrump/stat\u2026",
+    "expanded": "https://twitter.com/erictrump/status/1308706191976038400",
+    "url": "https://t.co/rfaUJ7BlfH"
+  },
+  "retweet_count": 19908,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 23 09:55:37 +0000 2020",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/erictrump/stat\u2026",
+          "expanded_url": "https://twitter.com/erictrump/status/1308706191976038400",
+          "indices": [
+            53,
+            76
+          ],
+          "url": "https://t.co/rfaUJ7BlfH"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 54680,
+    "favorited": false,
+    "full_text": "He\u2019s not even pretending to look at the interviewer! https://t.co/rfaUJ7BlfH",
+    "geo": null,
+    "id": 1308706576723779585,
+    "id_str": "1308706576723779585",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Sep 23 09:54:05 +0000 2020",
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/ky3Z0CSIuY",
+            "expanded_url": "https://twitter.com/hollandcourtney/status/1308436314249859072/video/1",
+            "id": 1308436254741000192,
+            "id_str": "1308436254741000192",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1308436254741000192/pu/img/HKY6EYJ0bFdTOlXH.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1308436254741000192/pu/img/HKY6EYJ0bFdTOlXH.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1308436314249859072,
+            "source_status_id_str": "1308436314249859072",
+            "source_user_id": 37575922,
+            "source_user_id_str": "37575922",
+            "type": "photo",
+            "url": "https://t.co/ky3Z0CSIuY"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Mon May 04 02:46:55 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "Published in @humanevents \ud83d\udd8b Text COURTNEY to 88022 for updates from @TeamTrump! \ud83c\uddfa\ud83c\uddf8 All views & opinions are my own. Instagram: @courtneymholland",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "facebook.com/magameetuplv/",
+                        "expanded_url": "https://facebook.com/magameetuplv/",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/KjNIzsfAeT"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 24031,
+                "follow_request_sent": false,
+                "followers_count": 100697,
+                "following": false,
+                "friends_count": 1772,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 37575922,
+                "id_str": "37575922",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 147,
+                "location": "Las Vegas, NV",
+                "name": "Courtney Holland \ud83c\uddfa\ud83c\uddf8 Text COURTNEY to 88022",
+                "notifications": false,
+                "profile_background_color": "78E9C4",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/37575922/1597456150",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1306996379701583875/fLN7YnuL_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306996379701583875/fLN7YnuL_normal.jpg",
+                "profile_link_color": "FD4F69",
+                "profile_sidebar_border_color": "C20D2D",
+                "profile_sidebar_fill_color": "E03150",
+                "profile_text_color": "DDA596",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "hollandcourtney",
+                "statuses_count": 18444,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/KjNIzsfAeT",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/ky3Z0CSIuY",
+            "expanded_url": "https://twitter.com/hollandcourtney/status/1308436314249859072/video/1",
+            "id": 1308436254741000192,
+            "id_str": "1308436254741000192",
+            "indices": [
+              9,
+              32
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1308436254741000192/pu/img/HKY6EYJ0bFdTOlXH.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1308436254741000192/pu/img/HKY6EYJ0bFdTOlXH.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "medium": {
+                "h": 720,
+                "resize": "fit",
+                "w": 720
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1308436314249859072,
+            "source_status_id_str": "1308436314249859072",
+            "source_user_id": 37575922,
+            "source_user_id_str": "37575922",
+            "type": "video",
+            "url": "https://t.co/ky3Z0CSIuY",
+            "video_info": {
+              "aspect_ratio": [
+                1,
+                1
+              ],
+              "duration_millis": 26967,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1308436254741000192/pu/vid/480x480/kTucswOShuGeo3qU.mp4?tag=10"
+                },
+                {
+                  "bitrate": 432000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1308436254741000192/pu/vid/320x320/TsV17CI3y6vr50Sb.mp4?tag=10"
+                },
+                {
+                  "bitrate": 1280000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1308436254741000192/pu/vid/720x720/h7_okoIDYlICGQjY.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1308436254741000192/pu/pl/jyjc8TMkr9Ds7RBX.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 62385,
+      "favorited": false,
+      "full_text": "Unreal!  https://t.co/ky3Z0CSIuY",
+      "geo": null,
+      "id": 1308706191976038400,
+      "id_str": "1308706191976038400",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 25467,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon May 11 21:42:30 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Hospital @TrumpWinery #MakeAmericaGreatAgain",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Trump.com",
+                "expanded_url": "http://www.Trump.com",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/uwwNiWPLLr"
+              }
+            ]
+          }
+        },
+        "favourites_count": 12802,
+        "follow_request_sent": false,
+        "followers_count": 4105934,
+        "following": false,
+        "friends_count": 1008,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 39349894,
+        "id_str": "39349894",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 7768,
+        "location": "",
+        "name": "Eric Trump",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287159519743807490/A_NzWpYr_normal.jpg",
+        "profile_link_color": "116AB8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "616161",
+        "profile_text_color": "000000",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "EricTrump",
+        "statuses_count": 6670,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/uwwNiWPLLr",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1308706191976038400,
+    "quoted_status_id_str": "1308706191976038400",
+    "quoted_status_permalink": {
+      "display": "twitter.com/erictrump/stat\u2026",
+      "expanded": "https://twitter.com/erictrump/status/1308706191976038400",
+      "url": "https://t.co/rfaUJ7BlfH"
+    },
+    "retweet_count": 19908,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 12 23:03:43 +0000 2013",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Principal, SHW Partners LLC. @realDonaldTrump 2020 Senior Advisor. 2016 Senior Communications Advisor, Transition Team Communications Director. 2 Timothy 1:7.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "linkedin.com/in/jason-mille\u2026",
+              "expanded_url": "http://linkedin.com/in/jason-miller-543895195",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/lpBTQ5JCFH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10634,
+      "follow_request_sent": false,
+      "followers_count": 163730,
+      "following": false,
+      "friends_count": 3531,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 1084375028,
+      "id_str": "1084375028",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1300,
+      "location": "Washington, DC",
+      "name": "Jason Miller",
+      "notifications": false,
+      "profile_background_color": "C6E2EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084375028/1594510523",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1202307702715830277/1fZGqKca_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1202307702715830277/1fZGqKca_normal.jpg",
+      "profile_link_color": "1F98C7",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "JasonMillerinDC",
+      "statuses_count": 42925,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/lpBTQ5JCFH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86284580,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119971,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

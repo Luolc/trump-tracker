@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 27 01:25:50 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 3241154353,
+        "id_str": "3241154353",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Nate's Liver - Commentary",
+        "screen_name": "SilERabbit"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SilERabbit: Sloppy Joe is trending. I wonder if it's because of this. You can tell it's a deep fake because Jill Biden isn't covering f\u2026",
+  "geo": null,
+  "id": 1254582495951101954,
+  "id_str": "1254582495951101954",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 9582,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Apr 26 23:23:03 +0000 2020",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LMzx7fpMaP",
+          "expanded_url": "https://twitter.com/SilERabbit/status/1254551597465518082/photo/1",
+          "id": 1254551587134910465,
+          "id_str": "1254551587134910465",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWkQBYeUMAEDGOx.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWkQBYeUMAEDGOx.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "small": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/LMzx7fpMaP"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/LMzx7fpMaP",
+          "expanded_url": "https://twitter.com/SilERabbit/status/1254551597465518082/photo/1",
+          "id": 1254551587134910465,
+          "id_str": "1254551587134910465",
+          "indices": [
+            131,
+            154
+          ],
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/EWkQBYeUMAEDGOx.jpg",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWkQBYeUMAEDGOx.jpg",
+          "sizes": {
+            "large": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "medium": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "small": {
+              "h": 512,
+              "resize": "fit",
+              "w": 512
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "animated_gif",
+          "url": "https://t.co/LMzx7fpMaP",
+          "video_info": {
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "bitrate": 0,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/tweet_video/EWkQBYeUMAEDGOx.mp4"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 25377,
+    "favorited": false,
+    "full_text": "Sloppy Joe is trending. I wonder if it's because of this. You can tell it's a deep fake because Jill Biden isn't covering for him. https://t.co/LMzx7fpMaP",
+    "geo": null,
+    "id": 1254551597465518082,
+    "id_str": "1254551597465518082",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 9582,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jun 10 07:23:25 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Emotional math doesn't care about your facts. Parody. Author of 'An Inconvenient Douche' & the upcoming book 'When Life Gives You Don Lemons.'",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 150353,
+      "follow_request_sent": false,
+      "followers_count": 60292,
+      "following": false,
+      "friends_count": 26335,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 3241154353,
+      "id_str": "3241154353",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 401,
+      "location": "",
+      "name": "Trump & Biden Are Rapey",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3241154353/1541497324",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1163741077611794434/KpRDJWtU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1163741077611794434/KpRDJWtU_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SilERabbit",
+      "statuses_count": 20294,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 78709898,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120317,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50994,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

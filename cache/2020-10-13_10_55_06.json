@@ -1,0 +1,312 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 13 10:55:06 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 2856787757,
+        "id_str": "2856787757",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Joni Ernst",
+        "screen_name": "SenJoniErnst"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SenJoniErnst: Only 100 years ago, women in this country were given the right to vote. And today, we began considering adding another wo\u2026",
+  "geo": null,
+  "id": 1315969306149224448,
+  "id_str": "1315969306149224448",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 5731,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Oct 12 18:59:07 +0000 2020",
+    "display_text_range": [
+      0,
+      182
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Rtv5ZrXRpW",
+          "expanded_url": "https://twitter.com/SenJoniErnst/status/1315728724550184962/video/1",
+          "id": 1315726579859947527,
+          "id_str": "1315726579859947527",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkJoPfDWsAI_1H-.png",
+          "media_url_https": "https://pbs.twimg.com/media/EkJoPfDWsAI_1H-.png",
+          "sizes": {
+            "large": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "medium": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "small": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Rtv5ZrXRpW"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Rtv5ZrXRpW",
+          "expanded_url": "https://twitter.com/SenJoniErnst/status/1315728724550184962/video/1",
+          "id": 1315726579859947527,
+          "id_str": "1315726579859947527",
+          "indices": [
+            183,
+            206
+          ],
+          "media_url": "http://pbs.twimg.com/media/EkJoPfDWsAI_1H-.png",
+          "media_url_https": "https://pbs.twimg.com/media/EkJoPfDWsAI_1H-.png",
+          "sizes": {
+            "large": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "medium": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "small": {
+              "h": 275,
+              "resize": "fit",
+              "w": 488
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/Rtv5ZrXRpW",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 503870,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1315726579859947527/vid/640x360/Ujz85W4rExWz4yMe.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1315726579859947527/pl/PLrNRUG26HThMjhA.m3u8?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1315726579859947527/vid/1280x720/00leBsLQlLXA99Ah.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1315726579859947527/vid/480x270/pe0AMuUkYLxnnaJx.mp4?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23253,
+    "favorited": false,
+    "full_text": "Only 100 years ago, women in this country were given the right to vote. And today, we began considering adding another woman to the highest Court in the land. \n\nMy opening statement: https://t.co/Rtv5ZrXRpW",
+    "geo": null,
+    "id": 1315728724550184962,
+    "id_str": "1315728724550184962",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 5731,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sun Nov 02 13:32:54 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Follow for news and updates from the Office of Iowa Senator Joni K. Ernst. Tweets from Joni are signed JKE.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Ernst.Senate.Gov",
+              "expanded_url": "http://Ernst.Senate.Gov",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/zUYK5PQEOd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 281,
+      "follow_request_sent": false,
+      "followers_count": 105017,
+      "following": false,
+      "friends_count": 158,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 2856787757,
+      "id_str": "2856787757",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1535,
+      "location": "Iowa",
+      "name": "Joni Ernst",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2856787757/1568067950",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1191837105045098501/bXu9BM8A_normal.jpg",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SenJoniErnst",
+      "statuses_count": 5213,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/zUYK5PQEOd",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 87245289,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121409,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57078,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

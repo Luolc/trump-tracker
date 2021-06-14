@@ -1,0 +1,497 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 12 12:22:29 +0000 2020",
+  "display_text_range": [
+    0,
+    54
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 47739450,
+        "id_str": "47739450",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Byron York",
+        "screen_name": "ByronYork"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @ByronYork: A third Christopher Columbus goes down.",
+  "geo": null,
+  "id": 1271417588535394305,
+  "id_str": "1271417588535394305",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1270854304199356417,
+  "quoted_status_id_str": "1270854304199356417",
+  "quoted_status_permalink": {
+    "display": "twitter.com/RitaPanahi/sta\u2026",
+    "expanded": "https://twitter.com/RitaPanahi/status/1270854304199356417",
+    "url": "https://t.co/a6Q5GLNQGW"
+  },
+  "retweet_count": 6602,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 11 01:18:07 +0000 2020",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/RitaPanahi/sta\u2026",
+          "expanded_url": "https://twitter.com/RitaPanahi/status/1270854304199356417",
+          "indices": [
+            40,
+            63
+          ],
+          "url": "https://t.co/a6Q5GLNQGW"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 17263,
+    "favorited": false,
+    "full_text": "A third Christopher Columbus goes down. https://t.co/a6Q5GLNQGW",
+    "geo": null,
+    "id": 1270888005591535617,
+    "id_str": "1270888005591535617",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Wed Jun 10 23:04:12 +0000 2020",
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/nhR3Da9kAV",
+            "expanded_url": "https://twitter.com/nickstreiff/status/1270844593098162178/video/1",
+            "id": 1270844510956912643,
+            "id_str": "1270844510956912643",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270844510956912643/pu/img/SS15FirFGiHJyvWU.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270844510956912643/pu/img/SS15FirFGiHJyvWU.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1270844593098162178,
+            "source_status_id_str": "1270844593098162178",
+            "source_user_id": 92600725,
+            "source_user_id_str": "92600725",
+            "type": "photo",
+            "url": "https://t.co/nhR3Da9kAV"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Wed Nov 25 20:09:00 +0000 2009",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "journalist @wcco | got a story? ndstreiff@wcco.com",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  },
+                  "url": {
+                    "urls": [
+                      {
+                        "display_url": "CBSMinnesota.com",
+                        "expanded_url": "http://CBSMinnesota.com",
+                        "indices": [
+                          0,
+                          23
+                        ],
+                        "url": "https://t.co/jKYIYl57R6"
+                      }
+                    ]
+                  }
+                },
+                "favourites_count": 9449,
+                "follow_request_sent": false,
+                "followers_count": 2005,
+                "following": false,
+                "friends_count": 878,
+                "geo_enabled": true,
+                "has_extended_profile": false,
+                "id": 92600725,
+                "id_str": "92600725",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 58,
+                "location": "Minneapolis",
+                "name": "Nick Streiff",
+                "notifications": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/92600725/1589873889",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1262221567032987650/JUgt4h6l_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1262221567032987650/JUgt4h6l_normal.jpg",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "81C7DF",
+                "profile_text_color": "47467C",
+                "profile_use_background_image": false,
+                "protected": false,
+                "screen_name": "nickstreiff",
+                "statuses_count": 32919,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": "https://t.co/jKYIYl57R6",
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/nhR3Da9kAV",
+            "expanded_url": "https://twitter.com/nickstreiff/status/1270844593098162178/video/1",
+            "id": 1270844510956912643,
+            "id_str": "1270844510956912643",
+            "indices": [
+              81,
+              104
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1270844510956912643/pu/img/SS15FirFGiHJyvWU.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1270844510956912643/pu/img/SS15FirFGiHJyvWU.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1270844593098162178,
+            "source_status_id_str": "1270844593098162178",
+            "source_user_id": 92600725,
+            "source_user_id_str": "92600725",
+            "type": "video",
+            "url": "https://t.co/nhR3Da9kAV",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 8709,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270844510956912643/pu/vid/480x270/o10cWSP57kh80Ufm.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270844510956912643/pu/vid/640x360/WNAabgP0uPQUBOEm.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1270844510956912643/pu/vid/1280x720/AKsQzMn99qRvq_cI.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1270844510956912643/pu/pl/BJwsXtI3iclJHzmN.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 10402,
+      "favorited": false,
+      "full_text": "Statue of Christopher Columbus pulled down by protesters in Minnesota. Lunacy. \n https://t.co/nhR3Da9kAV",
+      "geo": null,
+      "id": 1270854304199356417,
+      "id_str": "1270854304199356417",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4555,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Thu Mar 19 04:09:43 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. Winston Churchill",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "heraldsun.com.au/news/opinion/r\u2026",
+                "expanded_url": "https://www.heraldsun.com.au/news/opinion/rita-panahi",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/s4Q4iE3RIQ"
+              }
+            ]
+          }
+        },
+        "favourites_count": 160020,
+        "follow_request_sent": false,
+        "followers_count": 205512,
+        "following": false,
+        "friends_count": 2141,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 25235151,
+        "id_str": "25235151",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1230,
+        "location": "Melbourne, Victoria",
+        "name": "Rita Panahi",
+        "notifications": false,
+        "profile_background_color": "EBEBEB",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25235151/1351644431",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/901301264406896640/Eis46gPG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/901301264406896640/Eis46gPG_normal.jpg",
+        "profile_link_color": "ED2121",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "F3F3F3",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RitaPanahi",
+        "statuses_count": 143559,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/s4Q4iE3RIQ",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1270854304199356417,
+    "quoted_status_id_str": "1270854304199356417",
+    "quoted_status_permalink": {
+      "display": "twitter.com/RitaPanahi/sta\u2026",
+      "expanded": "https://twitter.com/RitaPanahi/status/1270854304199356417",
+      "url": "https://t.co/a6Q5GLNQGW"
+    },
+    "retweet_count": 6602,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jun 16 20:38:05 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Chief political correspondent, Washington Examiner, Fox News contributor, author of The Vast Left Wing Conspiracy",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "washex.am/1pU9zQ5",
+              "expanded_url": "http://washex.am/1pU9zQ5",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/tAAyTAVFIb"
+            }
+          ]
+        }
+      },
+      "favourites_count": 20,
+      "follow_request_sent": false,
+      "followers_count": 425135,
+      "following": false,
+      "friends_count": 1357,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 47739450,
+      "id_str": "47739450",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 5015,
+      "location": "Washington, D.C.",
+      "name": "Byron York",
+      "notifications": false,
+      "profile_background_color": "020405",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/47739450/1407595550",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151132595201069057/mum7JUUe_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDFFCC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "ByronYork",
+      "statuses_count": 46217,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/tAAyTAVFIb",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82084923,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115251,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 52867,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

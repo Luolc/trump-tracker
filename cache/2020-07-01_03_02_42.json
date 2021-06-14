@@ -1,0 +1,384 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jul 01 03:02:42 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 917501529480765441,
+        "id_str": "917501529480765441",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "AnthemRespect",
+        "screen_name": "AnthemRespect"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          55,
+          71
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @AnthemRespect: Most Important Video of All-Time\nby @realDonaldTrump.\n\nWhy the corrupt establishment HAD TO stop Trump from being electe\u2026",
+  "geo": null,
+  "id": 1278162082890907654,
+  "id_str": "1278162082890907654",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 31555,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Sep 30 14:24:01 +0000 2019",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            233,
+            255
+          ],
+          "text": "TrumpTheEstablishment"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Fgt9CKGUKy",
+          "expanded_url": "https://twitter.com/SoCal4Trump/status/789941844196995072/video/1",
+          "id": 789938955722461184,
+          "id_str": "789938955722461184",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/789938955722461184/img/DgQq1IRacax7oCJa.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/789938955722461184/img/DgQq1IRacax7oCJa.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 789941844196995072,
+          "source_status_id_str": "789941844196995072",
+          "source_user_id": 3558102739,
+          "source_user_id_str": "3558102739",
+          "type": "photo",
+          "url": "https://t.co/Fgt9CKGUKy"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            36,
+            52
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Sep 14 07:53:21 +0000 2015",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Proudly supporting President Trump since day 1 of his campaign. \n#AmericaFirst #BuildTheWall #Pro2A #ProLife \ud83c\uddfa\ud83c\uddf8",
+              "entities": {
+                "description": {
+                  "urls": []
+                }
+              },
+              "favourites_count": 276869,
+              "follow_request_sent": false,
+              "followers_count": 87925,
+              "following": false,
+              "friends_count": 98,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 3558102739,
+              "id_str": "3558102739",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 258,
+              "location": "Irvine, CA",
+              "name": "Trevor \ud83c\uddfa\ud83c\uddf8",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/3558102739/1492906010",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/925576717220974593/_YP5lHvS_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/925576717220974593/_YP5lHvS_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "SoCal4Trump",
+              "statuses_count": 12742,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": null,
+              "utc_offset": null,
+              "verified": false
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/Fgt9CKGUKy",
+          "expanded_url": "https://twitter.com/SoCal4Trump/status/789941844196995072/video/1",
+          "id": 789938955722461184,
+          "id_str": "789938955722461184",
+          "indices": [
+            257,
+            280
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/789938955722461184/img/DgQq1IRacax7oCJa.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/789938955722461184/img/DgQq1IRacax7oCJa.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 789941844196995072,
+          "source_status_id_str": "789941844196995072",
+          "source_user_id": 3558102739,
+          "source_user_id_str": "3558102739",
+          "type": "video",
+          "url": "https://t.co/Fgt9CKGUKy",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 348467,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/789938955722461184/vid/640x360/zSUh4xay0HrOUUmc.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/789938955722461184/vid/1280x720/ChSfY1eGrRFwTKLx.mp4"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/789938955722461184/vid/320x180/2fWHnCRrBwTM0X6q.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/789938955722461184/pl/L5JtrZfKhGrhVu9u.m3u8"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 40268,
+    "favorited": false,
+    "full_text": "Most Important Video of All-Time\nby @realDonaldTrump.\n\nWhy the corrupt establishment HAD TO stop Trump from being elected.\n\nWhy a coup attempt?\n\nWhy this impeachment attempt?\n\nTrump is their Kryptonite.\n\nThis video lays it all out.\n\n#TrumpTheEstablishment\n https://t.co/Fgt9CKGUKy",
+    "geo": null,
+    "id": 1178676879483527168,
+    "id_str": "1178676879483527168",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 31555,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Oct 09 21:26:25 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Supporting our Great USA & our Great President Trump. #Trump2020 #MAGA #WWG1WGA",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 156047,
+      "follow_request_sent": false,
+      "followers_count": 107551,
+      "following": false,
+      "friends_count": 61082,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 917501529480765441,
+      "id_str": "917501529480765441",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 44,
+      "location": "Main Street, USA",
+      "name": "AnthemRespect",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/917501529480765441/1593029863",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1254583688802648064/teT4Pe75_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1254583688802648064/teT4Pe75_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "AnthemRespect",
+      "statuses_count": 278704,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82651278,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116125,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53331,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

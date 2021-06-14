@@ -1,0 +1,444 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 02 12:28:57 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 14499829,
+        "id_str": "14499829",
+        "indices": [
+          3,
+          7
+        ],
+        "name": "World Health Organization (WHO)",
+        "screen_name": "WHO"
+      },
+      {
+        "id": 189868631,
+        "id_str": "189868631",
+        "indices": [
+          9,
+          18
+        ],
+        "name": "Tedros Adhanom Ghebreyesus",
+        "screen_name": "DrTedros"
+      },
+      {
+        "id": 3794682452,
+        "id_str": "3794682452",
+        "indices": [
+          19,
+          27
+        ],
+        "name": "World Health Organization Western Pacific",
+        "screen_name": "WHOWPRO"
+      },
+      {
+        "id": 20629893,
+        "id_str": "20629893",
+        "indices": [
+          28,
+          36
+        ],
+        "name": "PAHO/WHO",
+        "screen_name": "pahowho"
+      },
+      {
+        "id": 125403342,
+        "id_str": "125403342",
+        "indices": [
+          37,
+          48
+        ],
+        "name": "WHO/Europe",
+        "screen_name": "WHO_Europe"
+      },
+      {
+        "id": 544389588,
+        "id_str": "544389588",
+        "indices": [
+          49,
+          57
+        ],
+        "name": "WHO African Region",
+        "screen_name": "WHOAFRO"
+      },
+      {
+        "id": 259372802,
+        "id_str": "259372802",
+        "indices": [
+          58,
+          66
+        ],
+        "name": "WHO EMRO",
+        "screen_name": "WHOEMRO"
+      },
+      {
+        "id": 1545915336,
+        "id_str": "1545915336",
+        "indices": [
+          67,
+          76
+        ],
+        "name": "WHO South-East Asia",
+        "screen_name": "WHOSEARO"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @WHO: @DrTedros @WHOWPRO @pahowho @WHO_Europe @WHOAFRO @WHOEMRO @WHOSEARO \"\ud83d\udd1f it\u2019s normal &amp; understandable to feel anxious, especially if\u2026",
+  "geo": null,
+  "id": 1234455653529325568,
+  "id_str": "1234455653529325568",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4573,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Feb 28 15:46:06 +0000 2020",
+    "display_text_range": [
+      68,
+      343
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            322,
+            330
+          ],
+          "text": "COVID19"
+        },
+        {
+          "indices": [
+            331,
+            343
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/M4BQzpdh2j",
+          "expanded_url": "https://twitter.com/WHO/status/1233418103406628865/photo/1",
+          "id": 1233418044384456704,
+          "id_str": "1233418044384456704",
+          "indices": [
+            344,
+            367
+          ],
+          "media_url": "http://pbs.twimg.com/media/ER37LSsXsAA8cYM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ER37LSsXsAA8cYM.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1448
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 481
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/M4BQzpdh2j"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 189868631,
+          "id_str": "189868631",
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Tedros Adhanom Ghebreyesus",
+          "screen_name": "DrTedros"
+        },
+        {
+          "id": 3794682452,
+          "id_str": "3794682452",
+          "indices": [
+            10,
+            18
+          ],
+          "name": "World Health Organization Western Pacific",
+          "screen_name": "WHOWPRO"
+        },
+        {
+          "id": 20629893,
+          "id_str": "20629893",
+          "indices": [
+            19,
+            27
+          ],
+          "name": "PAHO/WHO",
+          "screen_name": "pahowho"
+        },
+        {
+          "id": 125403342,
+          "id_str": "125403342",
+          "indices": [
+            28,
+            39
+          ],
+          "name": "WHO/Europe",
+          "screen_name": "WHO_Europe"
+        },
+        {
+          "id": 544389588,
+          "id_str": "544389588",
+          "indices": [
+            40,
+            48
+          ],
+          "name": "WHO African Region",
+          "screen_name": "WHOAFRO"
+        },
+        {
+          "id": 259372802,
+          "id_str": "259372802",
+          "indices": [
+            49,
+            57
+          ],
+          "name": "WHO EMRO",
+          "screen_name": "WHOEMRO"
+        },
+        {
+          "id": 1545915336,
+          "id_str": "1545915336",
+          "indices": [
+            58,
+            67
+          ],
+          "name": "WHO South-East Asia",
+          "screen_name": "WHOSEARO"
+        },
+        {
+          "id": 189868631,
+          "id_str": "189868631",
+          "indices": [
+            312,
+            321
+          ],
+          "name": "Tedros Adhanom Ghebreyesus",
+          "screen_name": "DrTedros"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/M4BQzpdh2j",
+          "expanded_url": "https://twitter.com/WHO/status/1233418103406628865/photo/1",
+          "id": 1233418044384456704,
+          "id_str": "1233418044384456704",
+          "indices": [
+            344,
+            367
+          ],
+          "media_url": "http://pbs.twimg.com/media/ER37LSsXsAA8cYM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ER37LSsXsAA8cYM.jpg",
+          "sizes": {
+            "large": {
+              "h": 2048,
+              "resize": "fit",
+              "w": 1448
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 848
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 481
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/M4BQzpdh2j"
+        }
+      ]
+    },
+    "favorite_count": 11619,
+    "favorited": false,
+    "full_text": "@DrTedros @WHOWPRO @pahowho @WHO_Europe @WHOAFRO @WHOEMRO @WHOSEARO \"\ud83d\udd1f it\u2019s normal &amp; understandable to feel anxious, especially if you live in a country or community that has been affected. Find out what you can do in your community. Discuss how to stay safe with your workplace, school or place of worship\"-@DrTedros #COVID19 #coronavirus https://t.co/M4BQzpdh2j",
+    "geo": null,
+    "id": 1233418103406628865,
+    "id_str": "1233418103406628865",
+    "in_reply_to_screen_name": "WHO",
+    "in_reply_to_status_id": 1233417507035402241,
+    "in_reply_to_status_id_str": "1233417507035402241",
+    "in_reply_to_user_id": 14499829,
+    "in_reply_to_user_id_str": "14499829",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 4573,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "We are the #UnitedNations\u2019 health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "who.int",
+              "expanded_url": "http://www.who.int",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wVulKuROWG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 10491,
+      "follow_request_sent": false,
+      "followers_count": 5595497,
+      "following": false,
+      "friends_count": 1716,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 14499829,
+      "id_str": "14499829",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 27188,
+      "location": "Geneva, Switzerland",
+      "name": "World Health Organization (WHO)",
+      "notifications": false,
+      "profile_background_color": "D0ECF8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+      "profile_link_color": "0396DB",
+      "profile_sidebar_border_color": "8C8C8C",
+      "profile_sidebar_fill_color": "D9D9D9",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "WHO",
+      "statuses_count": 48168,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/wVulKuROWG",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73318272,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115412,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49471,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

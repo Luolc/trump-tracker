@@ -1,0 +1,480 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 16 18:14:21 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          13,
+          27
+        ],
+        "text": "TrumpPatriots"
+      },
+      {
+        "indices": [
+          121,
+          132
+        ],
+        "text": "4MoreYears"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 470468291,
+        "id_str": "470468291",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "P  V \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8TRUMP\u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "PVTrump"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          87,
+          103
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PVTrump: #TrumpPatriots we have 78 days to UNITE&amp;SUPPORT our AWESOME PRESIDENT @realDonaldTrump to elect him for #4MoreYears We need #K\u2026",
+  "geo": null,
+  "id": 1295061350637539328,
+  "id_str": "1295061350637539328",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7564,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Aug 16 13:50:41 +0000 2020",
+    "display_text_range": [
+      0,
+      287
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "text": "TrumpPatriots"
+        },
+        {
+          "indices": [
+            108,
+            119
+          ],
+          "text": "4MoreYears"
+        },
+        {
+          "indices": [
+            128,
+            132
+          ],
+          "text": "KAG"
+        },
+        {
+          "indices": [
+            144,
+            156
+          ],
+          "text": "LawAndOrder"
+        },
+        {
+          "indices": [
+            161,
+            174
+          ],
+          "text": "AmericaFirst"
+        },
+        {
+          "indices": [
+            175,
+            192
+          ],
+          "text": "KeepAmericanJobs"
+        },
+        {
+          "indices": [
+            203,
+            229
+          ],
+          "text": "GreatestEconomyInTheWorld"
+        },
+        {
+          "indices": [
+            233,
+            254
+          ],
+          "text": "VoteRedToSaveAmerica"
+        },
+        {
+          "indices": [
+            271,
+            281
+          ],
+          "text": "Trump2020"
+        },
+        {
+          "indices": [
+            282,
+            287
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iG0kjPtStK",
+          "expanded_url": "https://twitter.com/PVTrump/status/1294994995393560582/photo/1",
+          "id": 1294994991484407809,
+          "id_str": "1294994991484407809",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/Efi_FWVWkAEchNy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Efi_FWVWkAEchNy.jpg",
+          "sizes": {
+            "large": {
+              "h": 706,
+              "resize": "fit",
+              "w": 686
+            },
+            "medium": {
+              "h": 706,
+              "resize": "fit",
+              "w": 686
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 661
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iG0kjPtStK"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            74,
+            90
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/iG0kjPtStK",
+          "expanded_url": "https://twitter.com/PVTrump/status/1294994995393560582/photo/1",
+          "id": 1294994991484407809,
+          "id_str": "1294994991484407809",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/Efi_FWVWkAEchNy.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Efi_FWVWkAEchNy.jpg",
+          "sizes": {
+            "large": {
+              "h": 706,
+              "resize": "fit",
+              "w": 686
+            },
+            "medium": {
+              "h": 706,
+              "resize": "fit",
+              "w": 686
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 661
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iG0kjPtStK"
+        },
+        {
+          "display_url": "pic.twitter.com/iG0kjPtStK",
+          "expanded_url": "https://twitter.com/PVTrump/status/1294994995393560582/photo/1",
+          "id": 1294994991488667650,
+          "id_str": "1294994991488667650",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/Efi_FWWXkAIA-tX.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Efi_FWWXkAIA-tX.jpg",
+          "sizes": {
+            "large": {
+              "h": 624,
+              "resize": "fit",
+              "w": 990
+            },
+            "medium": {
+              "h": 624,
+              "resize": "fit",
+              "w": 990
+            },
+            "small": {
+              "h": 429,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iG0kjPtStK"
+        },
+        {
+          "display_url": "pic.twitter.com/iG0kjPtStK",
+          "expanded_url": "https://twitter.com/PVTrump/status/1294994995393560582/photo/1",
+          "id": 1294994991979405312,
+          "id_str": "1294994991979405312",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/Efi_FYLXoAAlxIC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Efi_FYLXoAAlxIC.jpg",
+          "sizes": {
+            "large": {
+              "h": 574,
+              "resize": "fit",
+              "w": 1024
+            },
+            "medium": {
+              "h": 574,
+              "resize": "fit",
+              "w": 1024
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iG0kjPtStK"
+        },
+        {
+          "display_url": "pic.twitter.com/iG0kjPtStK",
+          "expanded_url": "https://twitter.com/PVTrump/status/1294994995393560582/photo/1",
+          "id": 1294994992969199617,
+          "id_str": "1294994992969199617",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/Efi_Fb3WsAEMB3G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Efi_Fb3WsAEMB3G.jpg",
+          "sizes": {
+            "large": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/iG0kjPtStK"
+        }
+      ]
+    },
+    "favorite_count": 23553,
+    "favorited": false,
+    "full_text": "#TrumpPatriots we have 78 days to UNITE&amp;SUPPORT our AWESOME PRESIDENT @realDonaldTrump to elect him for #4MoreYears We need #KAG,bring back #LawAndOrder put #AmericaFirst #KeepAmericanJobs &amp;keep #GreatestEconomyInTheWorld by #VoteRedToSaveAmerica Spread the word #Trump2020 #MAGA https://t.co/iG0kjPtStK",
+    "geo": null,
+    "id": 1294994995393560582,
+    "id_str": "1294994995393560582",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 7564,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Sat Jan 21 20:02:12 +0000 2012",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "\u2764\ufe0f\ud83c\uddfa\ud83c\uddf8TRUMP \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8 #MAGA #AMERICAFIRST. TY Prez Trump!Christian Conservative Independent Single Italian \ud83c\uddee\ud83c\uddf9American Woman #NRA #KAG!!#DarlingUnitySurvivor \u2716\ufe0fDM",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 74599,
+      "follow_request_sent": false,
+      "followers_count": 54267,
+      "following": false,
+      "friends_count": 46188,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 470468291,
+      "id_str": "470468291",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "USA",
+      "name": "P  V \u2764\ufe0f\ud83c\uddfa\ud83c\uddf8TRUMP\u2764\ufe0f\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/470468291/1551616170",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250387722046443520/2XayE2xw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250387722046443520/2XayE2xw_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PVTrump",
+      "statuses_count": 277821,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 85276011,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118174,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 54643,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

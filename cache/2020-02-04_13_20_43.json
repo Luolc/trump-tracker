@@ -1,0 +1,325 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Feb 04 13:20:43 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          118,
+          129
+        ],
+        "text": "IowaCaucus"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 52573702,
+        "id_str": "52573702",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Anthony Zurcher",
+        "screen_name": "awzurcher"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @awzurcher: Here\u2019s your Iowa democracy in action - a coin toss to determine who gets the last delegate out of this #IowaCaucus precinct\u2026",
+  "geo": null,
+  "id": 1224684209089982464,
+  "id_str": "1224684209089982464",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 11816,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Feb 04 03:23:27 +0000 2020",
+    "display_text_range": [
+      0,
+      174
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            103,
+            114
+          ],
+          "text": "IowaCaucus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/1s4zTE0u96",
+          "expanded_url": "https://twitter.com/awzurcher/status/1224533900946485250/video/1",
+          "id": 1224533859246772224,
+          "id_str": "1224533859246772224",
+          "indices": [
+            175,
+            198
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224533859246772224/pu/img/vdz9z60iF44fDWwY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224533859246772224/pu/img/vdz9z60iF44fDWwY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/1s4zTE0u96"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/1s4zTE0u96",
+          "expanded_url": "https://twitter.com/awzurcher/status/1224533900946485250/video/1",
+          "id": 1224533859246772224,
+          "id_str": "1224533859246772224",
+          "indices": [
+            175,
+            198
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1224533859246772224/pu/img/vdz9z60iF44fDWwY.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1224533859246772224/pu/img/vdz9z60iF44fDWwY.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/1s4zTE0u96",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 16800,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1224533859246772224/pu/pl/gZU40SQyyG5rAtL1.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224533859246772224/pu/vid/360x640/QfXIlp20MmnHUiym.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224533859246772224/pu/vid/720x1280/fXheVfgkYUkUoBVe.mp4?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1224533859246772224/pu/vid/320x568/J7bPbOP0qrYNMDQn.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 31072,
+    "favorited": false,
+    "full_text": "Here\u2019s your Iowa democracy in action - a coin toss to determine who gets the last delegate out of this #IowaCaucus precinct after Buttigieg and Klobuchar tied. Buttigieg won. https://t.co/1s4zTE0u96",
+    "geo": null,
+    "id": 1224533900946485250,
+    "id_str": "1224533900946485250",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 11816,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jul 01 00:26:01 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "BBC senior North America reporter. A Texan who explains US politics to Brits, UK politics to Americans & Canadian politics to everyone. Views expressed \u2260 BBC's",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "bbc.com/news/correspon\u2026",
+              "expanded_url": "http://www.bbc.com/news/correspondents/anthonyzurcher/",
+              "indices": [
+                0,
+                22
+              ],
+              "url": "http://t.co/IFyzTpHJKX"
+            }
+          ]
+        }
+      },
+      "favourites_count": 5133,
+      "follow_request_sent": false,
+      "followers_count": 22945,
+      "following": false,
+      "friends_count": 2247,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 52573702,
+      "id_str": "52573702",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 669,
+      "location": "In and around Washington, D.C.",
+      "name": "Anthony Zurcher",
+      "notifications": false,
+      "profile_background_color": "F5D0A9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/52573702/1401329248",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/987051999618326529/okCgJNgH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/987051999618326529/okCgJNgH_normal.jpg",
+      "profile_link_color": "B43104",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "awzurcher",
+      "statuses_count": 28079,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://t.co/IFyzTpHJKX",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72256348,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114315,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48716,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

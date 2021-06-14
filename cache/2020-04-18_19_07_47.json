@@ -1,0 +1,337 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Apr 18 19:07:47 +0000 2020",
+  "display_text_range": [
+    0,
+    88
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 4787411118,
+        "id_str": "4787411118",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "BDW",
+        "screen_name": "BryanDeanWright"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BryanDeanWright: Biden has a problem if he runs on \u201cThings Were Better Under Obama.\u201d",
+  "geo": null,
+  "id": 1251588251267354625,
+  "id_str": "1251588251267354625",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1251208172435619842,
+  "quoted_status_id_str": "1251208172435619842",
+  "quoted_status_permalink": {
+    "display": "twitter.com/politics_polls\u2026",
+    "expanded": "https://twitter.com/politics_polls/status/1251208172435619842",
+    "url": "https://t.co/Le1AOHNBkx"
+  },
+  "retweet_count": 6072,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Apr 17 18:09:54 +0000 2020",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/politics_polls\u2026",
+          "expanded_url": "https://twitter.com/politics_polls/status/1251208172435619842",
+          "indices": [
+            68,
+            91
+          ],
+          "url": "https://t.co/Le1AOHNBkx"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 21085,
+    "favorited": false,
+    "full_text": "Biden has a problem if he runs on \u201cThings Were Better Under Obama.\u201d https://t.co/Le1AOHNBkx",
+    "geo": null,
+    "id": 1251211298928578562,
+    "id_str": "1251211298928578562",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri Apr 17 17:57:29 +0000 2020",
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "civiqs.com/documents/Civi\u2026",
+            "expanded_url": "https://civiqs.com/documents/Civiqs_DailyKos_monthly_banner_book_2020_04_p837y2s.pdf",
+            "indices": [
+              118,
+              141
+            ],
+            "url": "https://t.co/KQ0zMN8pbn"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1452644936,
+            "id_str": "1452644936",
+            "indices": [
+              92,
+              99
+            ],
+            "name": "Civiqs",
+            "screen_name": "Civiqs"
+          },
+          {
+            "id": 20818801,
+            "id_str": "20818801",
+            "indices": [
+              100,
+              109
+            ],
+            "name": "Daily Kos",
+            "screen_name": "dailykos"
+          }
+        ]
+      },
+      "favorite_count": 969,
+      "favorited": false,
+      "full_text": "Thinking back to 2016, are you better off now than you were four years ago?\nYes 49%\nNo 43%\n\n@Civiqs/@dailykos 4/11-14\nhttps://t.co/KQ0zMN8pbn",
+      "geo": null,
+      "id": 1251208172435619842,
+      "id_str": "1251208172435619842",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 331,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Sep 25 06:22:22 +0000 2013",
+        "default_profile": true,
+        "default_profile_image": false,
+        "description": "Job approval, primary, general election & much more.",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 2078,
+        "follow_request_sent": false,
+        "followers_count": 89313,
+        "following": false,
+        "friends_count": 241,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1903105045,
+        "id_str": "1903105045",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 1071,
+        "location": "",
+        "name": "Political Polls",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1903105045/1498455589",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/879203541289717760/qw0an2wG_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/879203541289717760/qw0an2wG_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Politics_Polls",
+        "statuses_count": 23177,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1251208172435619842,
+    "quoted_status_id_str": "1251208172435619842",
+    "quoted_status_permalink": {
+      "display": "twitter.com/politics_polls\u2026",
+      "expanded": "https://twitter.com/politics_polls/status/1251208172435619842",
+      "url": "https://t.co/Le1AOHNBkx"
+    },
+    "retweet_count": 6072,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Jan 20 06:52:09 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Former CIA Ops Officer. Conservative Democrat. Pragmatic thinker. Allergic to DC egos. Farming & ranching in my blood. Love Arizona, miss Oregon.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "BryanDeanWright.com",
+              "expanded_url": "http://BryanDeanWright.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/KljmxTQHrM"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11371,
+      "follow_request_sent": false,
+      "followers_count": 56195,
+      "following": false,
+      "friends_count": 1052,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 4787411118,
+      "id_str": "4787411118",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 317,
+      "location": "Arizona, USA",
+      "name": "BDW",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/4787411118/1453691632",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/691456737166041088/r1c59Mlg_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/691456737166041088/r1c59Mlg_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BryanDeanWright",
+      "statuses_count": 2725,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/KljmxTQHrM",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 77660651,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119746,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50774,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Jan 26 05:08:00 +0000 2020",
+  "display_text_range": [
+    0,
+    148
+  ],
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          79,
+          83
+        ],
+        "text": "DOJ"
+      },
+      {
+        "indices": [
+          90,
+          94
+        ],
+        "text": "FBI"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 246500501,
+        "id_str": "246500501",
+        "indices": [
+          3,
+          17
+        ],
+        "name": "Geraldo Rivera",
+        "screen_name": "GeraldoRivera"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @GeraldoRivera: Imagine being a new president &amp; having elements of your #DOJ &amp; #FBI trying for 2 years to entrap you in perjury after fa\u2026",
+  "geo": null,
+  "id": 1221298721138335750,
+  "id_str": "1221298721138335750",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 3341,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jan 25 17:45:11 +0000 2020",
+    "display_text_range": [
+      0,
+      288
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            60,
+            64
+          ],
+          "text": "DOJ"
+        },
+        {
+          "indices": [
+            71,
+            75
+          ],
+          "text": "FBI"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            208,
+            224
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 10827,
+    "favorited": false,
+    "full_text": "Imagine being a new president &amp; having elements of your #DOJ &amp; #FBI trying for 2 years to entrap you in perjury after failing to prove you a traitor? Dems  pontificating now about alleged misdeeds by @realDonaldTrump re Ukraine are same people who slandered him during Russia hoax",
+    "geo": null,
+    "id": 1221126884668399618,
+    "id_str": "1221126884668399618",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -81.593675,
+              41.4570674
+            ],
+            [
+              -81.50712,
+              41.4570674
+            ],
+            [
+              -81.50712,
+              41.492867
+            ],
+            [
+              -81.593675,
+              41.492867
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Shaker Heights, OH",
+      "id": "33d5fac88acb8fa8",
+      "name": "Shaker Heights",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/33d5fac88acb8fa8.json"
+    },
+    "retweet_count": 3341,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "can_media_tag": true,
+      "contributors_enabled": false,
+      "created_at": "Wed Feb 02 22:17:56 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "loving husband and dad, loyal friend, fierce enemy, patriot, kick ass reporter, proud JewRican",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "geraldo.com",
+              "expanded_url": "http://geraldo.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/S2mJWiBvw9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1150,
+      "follow_request_sent": false,
+      "followed_by": false,
+      "followers_count": 327099,
+      "following": false,
+      "friends_count": 897,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 246500501,
+      "id_str": "246500501",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2348,
+      "location": "New York City",
+      "name": "Geraldo Rivera",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/246500501/1511818449",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/565927841381253120/-iHS2dYA_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/565927841381253120/-iHS2dYA_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "GeraldoRivera",
+      "statuses_count": 11338,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/S2mJWiBvw9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "can_media_tag": false,
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followed_by": false,
+    "followers_count": 71599570,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113759,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1560920145",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48320,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

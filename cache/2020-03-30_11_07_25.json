@@ -1,0 +1,238 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Mar 30 11:07:25 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/stevefda/statu\u2026",
+        "expanded_url": "https://twitter.com/stevefda/status/1244472087831552004",
+        "indices": [
+          141,
+          164
+        ],
+        "url": "https://t.co/jAiIUAXwaL"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 30887511,
+        "id_str": "30887511",
+        "indices": [
+          111,
+          122
+        ],
+        "name": "Mike DeWine",
+        "screen_name": "MikeDeWine"
+      }
+    ]
+  },
+  "favorite_count": 47980,
+  "favorited": false,
+  "full_text": "Thank you Dr. Hahn &amp; the FDA for your fast approval of this respected Ohio company recommended by Governor @MikeDeWine. Great potential! https://t.co/jAiIUAXwaL",
+  "geo": null,
+  "id": 1244581994614398981,
+  "id_str": "1244581994614398981",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 30 03:50:41 +0000 2020",
+    "display_text_range": [
+      0,
+      213
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 74748331,
+          "id_str": "74748331",
+          "indices": [
+            46,
+            55
+          ],
+          "name": "Battelle",
+          "screen_name": "Battelle"
+        },
+        {
+          "id": 208120290,
+          "id_str": "208120290",
+          "indices": [
+            90,
+            97
+          ],
+          "name": "U.S. FDA",
+          "screen_name": "US_FDA"
+        }
+      ]
+    },
+    "favorite_count": 25972,
+    "favorited": false,
+    "full_text": "We issued a new authorization this evening to @Battelle for their decontamination system. @US_FDA staff have been working nonstop across gov and with the private sector to deliver solutions to the American public.",
+    "geo": null,
+    "id": 1244472087831552004,
+    "id_str": "1244472087831552004",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 6660,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Dec 03 19:50:35 +0000 2014",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "24th Commissioner of Food and Drugs - @US_FDA",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "fda.gov",
+              "expanded_url": "https://www.fda.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wCpH1NcuUO"
+            }
+          ]
+        }
+      },
+      "favourites_count": 11,
+      "follow_request_sent": false,
+      "followers_count": 64578,
+      "following": false,
+      "friends_count": 722,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 2904169317,
+      "id_str": "2904169317",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 778,
+      "location": "Silver Spring, MD",
+      "name": "Dr. Stephen M. Hahn",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2904169317/1576772580",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1216791119452889088/Sq1KE8Om_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1216791119452889088/Sq1KE8Om_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "SteveFDA",
+      "statuses_count": 536,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wCpH1NcuUO",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1244472087831552004,
+  "quoted_status_id_str": "1244472087831552004",
+  "quoted_status_permalink": {
+    "display": "twitter.com/stevefda/statu\u2026",
+    "expanded": "https://twitter.com/stevefda/status/1244472087831552004",
+    "url": "https://t.co/jAiIUAXwaL"
+  },
+  "retweet_count": 11294,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75599771,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118116,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50294,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

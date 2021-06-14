@@ -1,0 +1,404 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Mar 06 05:11:48 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 921024421128736774,
+        "id_str": "921024421128736774",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Mike Joyce",
+        "screen_name": "mjoyce317"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          62,
+          78
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @mjoyce317: Pennsylvania (former Democrat) voter stands by @realDonaldTrump: \u201cI like what\u2019s happened in the country in the last 4 years\u201d\u2026",
+  "geo": null,
+  "id": 1235795194001399808,
+  "id_str": "1235795194001399808",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 2151,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Mar 06 00:02:10 +0000 2020",
+    "display_text_range": [
+      0,
+      165
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            125,
+            139
+          ],
+          "text": "TrumpTownHall"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/vOpdT3xkFc",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1235716854347415554/video/1",
+          "id": 1235716460170919936,
+          "id_str": "1235716460170919936",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235716460170919936/pu/img/uf0w4gWIXlrswrGQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235716460170919936/pu/img/uf0w4gWIXlrswrGQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1235716854347415554,
+          "source_status_id_str": "1235716854347415554",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "photo",
+          "url": "https://t.co/vOpdT3xkFc"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            47,
+            63
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Thu Jul 09 19:08:45 +0000 2009",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "#MAGA. Official RNC Research acct. Follow for latest on Democrats, pundits, & Trump's accomplishments. Subscribe to our YouTube page: https://t.co/OLjaWvAwOj",
+              "entities": {
+                "description": {
+                  "urls": [
+                    {
+                      "display_url": "goo.gl/oryp5i",
+                      "expanded_url": "https://goo.gl/oryp5i",
+                      "indices": [
+                        134,
+                        157
+                      ],
+                      "url": "https://t.co/OLjaWvAwOj"
+                    }
+                  ]
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "gop.com/research/",
+                      "expanded_url": "https://gop.com/research/",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/oeE4SVAXcg"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 0,
+              "follow_request_sent": false,
+              "followers_count": 77380,
+              "following": false,
+              "friends_count": 3419,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 55329156,
+              "id_str": "55329156",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 1286,
+              "location": "Washington, DC",
+              "name": "RNC Research",
+              "notifications": false,
+              "profile_background_color": "CC0A0A",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/55329156/1526665097",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/825026398888787970/CColVJ4F_normal.jpg",
+              "profile_link_color": "F50808",
+              "profile_sidebar_border_color": "030303",
+              "profile_sidebar_fill_color": "8A8585",
+              "profile_text_color": "050505",
+              "profile_use_background_image": false,
+              "protected": false,
+              "screen_name": "RNCResearch",
+              "statuses_count": 18560,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/oeE4SVAXcg",
+              "utc_offset": null,
+              "verified": true
+            }
+          },
+          "display_url": "pic.twitter.com/vOpdT3xkFc",
+          "expanded_url": "https://twitter.com/RNCResearch/status/1235716854347415554/video/1",
+          "id": 1235716460170919936,
+          "id_str": "1235716460170919936",
+          "indices": [
+            142,
+            165
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1235716460170919936/pu/img/uf0w4gWIXlrswrGQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1235716460170919936/pu/img/uf0w4gWIXlrswrGQ.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1235716854347415554,
+          "source_status_id_str": "1235716854347415554",
+          "source_user_id": 55329156,
+          "source_user_id_str": "55329156",
+          "type": "video",
+          "url": "https://t.co/vOpdT3xkFc",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 109199,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235716460170919936/pu/vid/1280x720/yNZzClaN05Gir7hf.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235716460170919936/pu/vid/640x360/sntCJPk3Iks8nOgx.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1235716460170919936/pu/vid/480x270/VbNizWwKZEeIKjIb.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1235716460170919936/pu/pl/SM2ZrE1CB3tbI2zL.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 7585,
+    "favorited": false,
+    "full_text": "Pennsylvania (former Democrat) voter stands by @realDonaldTrump: \u201cI like what\u2019s happened in the country in the last 4 years\u201d #TrumpTownHall   https://t.co/vOpdT3xkFc",
+    "geo": null,
+    "id": 1235717270266998784,
+    "id_str": "1235717270266998784",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 2151,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Oct 19 14:45:08 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Opinions are mine, RT\u2019s are yours. Regional Comms, @GOP. Fmr. Deputy Press Sec, IN/MI 2018",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 11174,
+      "follow_request_sent": false,
+      "followers_count": 2477,
+      "following": false,
+      "friends_count": 2143,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 921024421128736774,
+      "id_str": "921024421128736774",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 31,
+      "location": "",
+      "name": "Mike Joyce",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/921024421128736774/1508426351",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1188920899401060352/gnEpjoH0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1188920899401060352/gnEpjoH0_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "mjoyce317",
+      "statuses_count": 8236,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 7,
+    "follow_request_sent": false,
+    "followers_count": 73429573,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 115628,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 49578,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

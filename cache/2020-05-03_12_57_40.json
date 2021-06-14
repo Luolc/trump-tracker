@@ -1,0 +1,242 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun May 03 12:57:40 +0000 2020",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/kellyannepolls\u2026",
+        "expanded_url": "https://twitter.com/kellyannepolls/status/1256271364102782976",
+        "indices": [
+          21,
+          44
+        ],
+        "url": "https://t.co/cqHKwJCJNm"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 6758,
+  "favorited": false,
+  "full_text": "Progress being made! https://t.co/cqHKwJCJNm",
+  "geo": null,
+  "id": 1256930926485024768,
+  "id_str": "1256930926485024768",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 01 17:16:48 +0000 2020",
+    "display_text_range": [
+      0,
+      235
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/GovMurphy/stat\u2026",
+          "expanded_url": "https://twitter.com/GovMurphy/status/1255967046216617984",
+          "indices": [
+            236,
+            259
+          ],
+          "url": "https://t.co/rFWyjuR6eP"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 948946378939609089,
+          "id_str": "948946378939609089",
+          "indices": [
+            10,
+            20
+          ],
+          "name": "Governor Phil Murphy",
+          "screen_name": "GovMurphy"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            84,
+            100
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "id": 2647134644,
+          "id_str": "2647134644",
+          "indices": [
+            127,
+            130
+          ],
+          "name": "NJ",
+          "screen_name": "nj"
+        }
+      ]
+    },
+    "favorite_count": 6540,
+    "favorited": false,
+    "full_text": "Thanks to @GovMurphy &amp; team for putting politics aside &amp; collaborating with @realDonaldTrump to help hard-hit, beloved @NJ.  Our country must be unified to fight this invisible enemy &amp; overcome medical and financial crises. https://t.co/rFWyjuR6eP",
+    "geo": null,
+    "id": 1256271364102782976,
+    "id_str": "1256271364102782976",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status_id": 1255967046216617984,
+    "quoted_status_id_str": "1255967046216617984",
+    "quoted_status_permalink": {
+      "display": "twitter.com/GovMurphy/stat\u2026",
+      "expanded": "https://twitter.com/GovMurphy/status/1255967046216617984",
+      "url": "https://t.co/rFWyjuR6eP"
+    },
+    "retweet_count": 1570,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 04:14:28 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Mom. Patriot. Catholic. Happy Warrior. Counselor. Survivor.",
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "favourites_count": 5543,
+      "follow_request_sent": false,
+      "followers_count": 3231815,
+      "following": false,
+      "friends_count": 823,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 471672239,
+      "id_str": "471672239",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9263,
+      "location": "USA\ud83c\uddfa\ud83c\uddf8",
+      "name": "Kellyanne Conway",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/471672239/1577840301",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1212176191844757507/ypMvAPHv_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1212176191844757507/ypMvAPHv_normal.jpg",
+      "profile_link_color": "F58EA8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "KellyannePolls",
+      "statuses_count": 8555,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1256271364102782976,
+  "quoted_status_id_str": "1256271364102782976",
+  "quoted_status_permalink": {
+    "display": "twitter.com/kellyannepolls\u2026",
+    "expanded": "https://twitter.com/kellyannepolls/status/1256271364102782976",
+    "url": "https://t.co/cqHKwJCJNm"
+  },
+  "retweet_count": 1762,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79287230,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120735,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51201,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

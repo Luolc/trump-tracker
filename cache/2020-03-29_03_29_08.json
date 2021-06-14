@@ -1,0 +1,289 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Mar 29 03:29:08 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 823367015830323201,
+        "id_str": "823367015830323201",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+        "screen_name": "Scavino45"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Scavino45: \u201cThe ship behind me is a 70,000 ton msg of hope &amp; solidarity to the incredible people of NY: we are here for you, we are fig\u2026",
+  "geo": null,
+  "id": 1244104275795382272,
+  "id_str": "1244104275795382272",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 8648,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Mar 28 22:59:03 +0000 2020",
+    "display_text_range": [
+      0,
+      287
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wbLcTdlGL9",
+          "expanded_url": "https://twitter.com/Scavino45/status/1244036308424671237/photo/1",
+          "id": 1244036303320231945,
+          "id_str": "1244036303320231945",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUO0bTsXsAkgyZn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUO0bTsXsAkgyZn.jpg",
+          "sizes": {
+            "large": {
+              "h": 621,
+              "resize": "fit",
+              "w": 1199
+            },
+            "medium": {
+              "h": 621,
+              "resize": "fit",
+              "w": 1199
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wbLcTdlGL9"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 822215679726100480,
+          "id_str": "822215679726100480",
+          "indices": [
+            281,
+            287
+          ],
+          "name": "President Trump",
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/wbLcTdlGL9",
+          "expanded_url": "https://twitter.com/Scavino45/status/1244036308424671237/photo/1",
+          "id": 1244036303320231945,
+          "id_str": "1244036303320231945",
+          "indices": [
+            288,
+            311
+          ],
+          "media_url": "http://pbs.twimg.com/media/EUO0bTsXsAkgyZn.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EUO0bTsXsAkgyZn.jpg",
+          "sizes": {
+            "large": {
+              "h": 621,
+              "resize": "fit",
+              "w": 1199
+            },
+            "medium": {
+              "h": 621,
+              "resize": "fit",
+              "w": 1199
+            },
+            "small": {
+              "h": 352,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/wbLcTdlGL9"
+        }
+      ]
+    },
+    "favorite_count": 36297,
+    "favorited": false,
+    "full_text": "\u201cThe ship behind me is a 70,000 ton msg of hope &amp; solidarity to the incredible people of NY: we are here for you, we are fighting for you, and we are with you all the way. You have the unwavering support of the entire nation, the entire gov, &amp; the entire American People.\u201d @POTUS https://t.co/wbLcTdlGL9",
+    "geo": null,
+    "id": 1244036308424671237,
+    "id_str": "1244036308424671237",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 8648,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Jan 23 03:09:28 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Assistant to President @realDonaldTrump, Director of Social Media @WhiteHouse\ud83c\uddfa\ud83c\uddf8Personal account @DanScavino",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "coronavirus.gov",
+              "expanded_url": "http://coronavirus.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/iSrMWKVV0a"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1018,
+      "follow_request_sent": false,
+      "followers_count": 573323,
+      "following": false,
+      "friends_count": 985,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 823367015830323201,
+      "id_str": "823367015830323201",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2665,
+      "location": "1600 Pennsylvania Avenue ",
+      "name": "Dan Scavino Jr.\ud83c\uddfa\ud83c\uddf8",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/823367015830323201/1583518138",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180025841499148289/nXj4vRBe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Scavino45",
+      "statuses_count": 5916,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/iSrMWKVV0a",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75420914,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 117963,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50249,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

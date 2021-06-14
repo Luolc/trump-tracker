@@ -1,0 +1,463 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sun Aug 30 10:29:14 +0000 2020",
+  "display_text_range": [
+    0,
+    108
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 90480218,
+        "id_str": "90480218",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Richard Grenell",
+        "screen_name": "RichardGrenell"
+      },
+      {
+        "id": 18708561,
+        "id_str": "18708561",
+        "indices": [
+          32,
+          43
+        ],
+        "name": "Mayor Ted Wheeler",
+        "screen_name": "tedwheeler"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RichardGrenell: Hours after @tedwheeler sent a \u201cI Don\u2019t Want Trump\u2019s Help\u201d letter, his city is in chaos.",
+  "geo": null,
+  "id": 1300017727638298624,
+  "id_str": "1300017727638298624",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1299516351963308038,
+  "quoted_status_id_str": "1299516351963308038",
+  "quoted_status_permalink": {
+    "display": "twitter.com/risingtidena/s\u2026",
+    "expanded": "https://twitter.com/risingtidena/status/1299516351963308038",
+    "url": "https://t.co/R8RkOpalkd"
+  },
+  "retweet_count": 11294,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Aug 29 14:48:02 +0000 2020",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/risingtidena/s\u2026",
+          "expanded_url": "https://twitter.com/risingtidena/status/1299516351963308038",
+          "indices": [
+            89,
+            112
+          ],
+          "url": "https://t.co/R8RkOpalkd"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 18708561,
+          "id_str": "18708561",
+          "indices": [
+            12,
+            23
+          ],
+          "name": "Mayor Ted Wheeler",
+          "screen_name": "tedwheeler"
+        }
+      ]
+    },
+    "favorite_count": 27158,
+    "favorited": false,
+    "full_text": "Hours after @tedwheeler sent a \u201cI Don\u2019t Want Trump\u2019s Help\u201d letter, his city is in chaos. https://t.co/R8RkOpalkd",
+    "geo": null,
+    "id": 1299720472632811520,
+    "id_str": "1299720472632811520",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sat Aug 29 01:16:56 +0000 2020",
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              237,
+              248
+            ],
+            "text": "TearGasTed"
+          },
+          {
+            "indices": [
+              249,
+              260
+            ],
+            "text": "AbolishPPB"
+          },
+          {
+            "indices": [
+              261,
+              275
+            ],
+            "text": "WheelerResign"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/V5NsRG9tH3",
+            "expanded_url": "https://twitter.com/RisingTideNA/status/1299516351963308038/video/1",
+            "id": 1299516177752809472,
+            "id_str": "1299516177752809472",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299516177752809472/pu/img/iHQSA6FSBASuOlul.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299516177752809472/pu/img/iHQSA6FSBASuOlul.jpg",
+            "sizes": {
+              "large": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "medium": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "small": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/V5NsRG9tH3"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/V5NsRG9tH3",
+            "expanded_url": "https://twitter.com/RisingTideNA/status/1299516351963308038/video/1",
+            "id": 1299516177752809472,
+            "id_str": "1299516177752809472",
+            "indices": [
+              276,
+              299
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1299516177752809472/pu/img/iHQSA6FSBASuOlul.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1299516177752809472/pu/img/iHQSA6FSBASuOlul.jpg",
+            "sizes": {
+              "large": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "medium": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "small": {
+                "h": 320,
+                "resize": "fit",
+                "w": 568
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/V5NsRG9tH3",
+            "video_info": {
+              "aspect_ratio": [
+                71,
+                40
+              ],
+              "duration_millis": 62555,
+              "variants": [
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1299516177752809472/pu/vid/478x270/ITiVGtyTo9w5F2Bf.mp4?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1299516177752809472/pu/vid/568x320/tZZ9KVDfe0w6SiYe.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1299516177752809472/pu/pl/o6lUUyzQNje1rDXE.m3u8?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 7704,
+      "favorited": false,
+      "full_text": "BREAKING: Activists occupy Portland mayor Ted Wheeler\u2019s apartment and aren\u2019t leaving until he: resigns, abolishes the police by 2022 with no tech or private replacement, and allots saved resources to BIPOC communities and city services. #TearGasTed #AbolishPPB #WheelerResign https://t.co/V5NsRG9tH3",
+      "geo": null,
+      "id": 1299516351963308038,
+      "id_str": "1299516351963308038",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 4807,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 15:59:59 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Confronting the Root Causes of Climate Change",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "risingtidenorthamerica.org",
+                "expanded_url": "http://www.risingtidenorthamerica.org",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/3Mb8N4GQGv"
+              }
+            ]
+          }
+        },
+        "favourites_count": 7502,
+        "follow_request_sent": false,
+        "followers_count": 15263,
+        "following": false,
+        "friends_count": 5229,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 51111741,
+        "id_str": "51111741",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 550,
+        "location": "North America",
+        "name": "Rising Tide NA",
+        "notifications": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51111741/1582178623",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/283919605/RTNA_rising_tide_north_america_logo_SMALL_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/283919605/RTNA_rising_tide_north_america_logo_SMALL_normal.jpg",
+        "profile_link_color": "8C5908",
+        "profile_sidebar_border_color": "829D5E",
+        "profile_sidebar_fill_color": "48B362",
+        "profile_text_color": "4F4444",
+        "profile_use_background_image": false,
+        "protected": false,
+        "screen_name": "RisingTideNA",
+        "statuses_count": 52324,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/3Mb8N4GQGv",
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1299516351963308038,
+    "quoted_status_id_str": "1299516351963308038",
+    "quoted_status_permalink": {
+      "display": "twitter.com/risingtidena/s\u2026",
+      "expanded": "https://twitter.com/risingtidena/status/1299516351963308038",
+      "url": "https://t.co/R8RkOpalkd"
+    },
+    "retweet_count": 11294,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Nov 16 20:46:59 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "I\u2019m stronger after cancer. my dog runs my life. imperfect follower of Christ. https://t.co/danITSml3j",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "instagram.com/richardgrenell",
+              "expanded_url": "https://www.instagram.com/richardgrenell",
+              "indices": [
+                78,
+                101
+              ],
+              "url": "https://t.co/danITSml3j"
+            }
+          ]
+        }
+      },
+      "favourites_count": 24047,
+      "follow_request_sent": false,
+      "followers_count": 560753,
+      "following": false,
+      "friends_count": 2653,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 90480218,
+      "id_str": "90480218",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 2527,
+      "location": "LA, Palm Springs (and Berlin)",
+      "name": "Richard Grenell",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90480218/1548589945",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1044555074599571458/wAO827Jc_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RichardGrenell",
+      "statuses_count": 7381,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85639826,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118782,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55180,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

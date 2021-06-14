@@ -1,0 +1,383 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 17:20:00 +0000 2020",
+  "display_text_range": [
+    0,
+    171
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/Lybio/status/1\u2026",
+        "expanded_url": "https://twitter.com/Lybio/status/1277872995139121152",
+        "indices": [
+          172,
+          195
+        ],
+        "url": "https://t.co/SuwZAIem2u"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 807095,
+        "id_str": "807095",
+        "indices": [
+          4,
+          12
+        ],
+        "name": "The New York Times",
+        "screen_name": "nytimes"
+      }
+    ]
+  },
+  "favorite_count": 38874,
+  "favorited": false,
+  "full_text": "The @nytimes is a very corrupt and dishonest media outlet that suffers TDS at a level rarely seen. They will lose any remaining credibility on the evening of November 3rd. https://t.co/SuwZAIem2u",
+  "geo": null,
+  "id": 1279464993457668098,
+  "id_str": "1279464993457668098",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue Jun 30 07:53:58 +0000 2020",
+    "display_text_range": [
+      0,
+      277
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            34,
+            47
+          ],
+          "text": "NewYorkTimes"
+        },
+        {
+          "indices": [
+            272,
+            277
+          ],
+          "text": "MAGA"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/CH2PUYJoSm",
+          "expanded_url": "https://twitter.com/Lybio/status/1277872995139121152/video/1",
+          "id": 1277871752496857088,
+          "id_str": "1277871752496857088",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277871752496857088/pu/img/SuyUPfKudUmEx_Dt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277871752496857088/pu/img/SuyUPfKudUmEx_Dt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/CH2PUYJoSm"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 818927131883356161,
+          "id_str": "818927131883356161",
+          "indices": [
+            5,
+            14
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "PressSec"
+        },
+        {
+          "id": 259001548,
+          "id_str": "259001548",
+          "indices": [
+            15,
+            31
+          ],
+          "name": "Kayleigh McEnany",
+          "screen_name": "kayleighmcenany"
+        },
+        {
+          "id": 807095,
+          "id_str": "807095",
+          "indices": [
+            153,
+            161
+          ],
+          "name": "The New York Times",
+          "screen_name": "nytimes"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            207,
+            223
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/CH2PUYJoSm",
+          "expanded_url": "https://twitter.com/Lybio/status/1277872995139121152/video/1",
+          "id": 1277871752496857088,
+          "id_str": "1277871752496857088",
+          "indices": [
+            278,
+            301
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1277871752496857088/pu/img/SuyUPfKudUmEx_Dt.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1277871752496857088/pu/img/SuyUPfKudUmEx_Dt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/CH2PUYJoSm",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 60060,
+            "variants": [
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1277871752496857088/pu/vid/480x270/_2Y1At0bnRJEvd89.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1277871752496857088/pu/vid/640x360/5yWxKyGeyJgvVQlz.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1277871752496857088/pu/vid/1280x720/2BPjx-tHe-8nNIV3.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1277871752496857088/pu/pl/5q9HvgtaAQB072s7.m3u8?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 3678,
+    "favorited": false,
+    "full_text": "\ud83d\udca5POW\ud83d\udca5@PressSec @kayleighmcenany:  #NewYorkTimes Falsely Stated Something About The President \n\nSo before buying into, full-fledged, a narrative from the @nytimes that falsely stated something about the Pres @realDonaldTrump.\n\nThere\u2019s no consensus in the intel community.\n\n#MAGA https://t.co/CH2PUYJoSm",
+    "geo": null,
+    "id": 1277872995139121152,
+    "id_str": "1277872995139121152",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 1351,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Oct 28 15:07:33 +0000 2008",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Discovery of the truth\u270f\ufe0f\u2b50\ufe0f\ud83d\udc4a#TRUMP2020\ud83d\udcaf#Patriot #KAG #MAGA\ud83c\uddfa\ud83c\uddf8#TrudeauMustGo\ud83e\udd8c\ud83d\udc4d#TrumpTrain\ud83d\ude82#WWG1WGA\ud83d\udc4a\ud83d\ude4c#IFB\ud83d\udc48#VoteRed\ud83d\udc4aRetweeted By Pres Trump\ud83d\ude4cRT MY MEDIA\ud83d\udc47",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lybio.net",
+              "expanded_url": "https://lybio.net/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dXbzZYrIyP"
+            }
+          ]
+        }
+      },
+      "favourites_count": 12512,
+      "follow_request_sent": false,
+      "followers_count": 39489,
+      "following": false,
+      "friends_count": 33912,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 17022502,
+      "id_str": "17022502",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 39,
+      "location": "",
+      "name": "Lybio\u270f\ufe0f\u2b50\ufe0f\ud83c\uddfa\ud83c\uddf8MAGA\ud83d\udcaa\ud83d\udcd2\ud83c\udf0e\ud83c\udf10\ud83d\udcdd\ud83c\udde8\ud83c\udde6\ud83d\udcbb",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17022502/1587826722",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1193214937276960768/ry25LF_8_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1193214937276960768/ry25LF_8_normal.jpg",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "Lybio",
+      "statuses_count": 140117,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dXbzZYrIyP",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1277872995139121152,
+  "quoted_status_id_str": "1277872995139121152",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Lybio/status/1\u2026",
+    "expanded": "https://twitter.com/Lybio/status/1277872995139121152",
+    "url": "https://t.co/SuwZAIem2u"
+  },
+  "retweet_count": 11487,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

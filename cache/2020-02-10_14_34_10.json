@@ -1,0 +1,482 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Feb 10 14:34:10 +0000 2020",
+  "display_text_range": [
+    0,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @realDonaldTrump: It\u2019s all turning, and fast! MVP Heckler.",
+  "geo": null,
+  "id": 1226877019419488257,
+  "id_str": "1226877019419488257",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1223879952379994112,
+  "quoted_status_id_str": "1223879952379994112",
+  "quoted_status_permalink": {
+    "display": "twitter.com/redpillreport/\u2026",
+    "expanded": "https://twitter.com/redpillreport/status/1223879952379994112",
+    "url": "https://t.co/PiA0ANmjYP"
+  },
+  "retweet_count": 31877,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Feb 09 17:52:27 +0000 2020",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/redpillreport/\u2026",
+          "expanded_url": "https://twitter.com/redpillreport/status/1223879952379994112",
+          "indices": [
+            41,
+            64
+          ],
+          "url": "https://t.co/PiA0ANmjYP"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 105532,
+    "favorited": false,
+    "full_text": "It\u2019s all turning, and fast! MVP Heckler. https://t.co/PiA0ANmjYP",
+    "geo": null,
+    "id": 1226564532031705093,
+    "id_str": "1226564532031705093",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Feb 02 08:04:53 +0000 2020",
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/qrFqxKsd7V",
+            "expanded_url": "https://twitter.com/PR_51st_STATE/status/1155212567154962432/video/1",
+            "id": 1155212484011286528,
+            "id_str": "1155212484011286528",
+            "indices": [
+              246,
+              269
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155212484011286528/pu/img/a_GBr1C8Pe2khk53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155212484011286528/pu/img/a_GBr1C8Pe2khk53.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1155212567154962432,
+            "source_status_id_str": "1155212567154962432",
+            "source_user_id": 1128916842,
+            "source_user_id_str": "1128916842",
+            "type": "photo",
+            "url": "https://t.co/qrFqxKsd7V"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 25073877,
+            "id_str": "25073877",
+            "indices": [
+              129,
+              145
+            ],
+            "name": "Donald J. Trump",
+            "screen_name": "realDonaldTrump"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "contributors_enabled": false,
+                "created_at": "Mon Jan 28 18:59:26 +0000 2013",
+                "default_profile": false,
+                "default_profile_image": false,
+                "description": "America First, Stand with Israel, Pro-Life, GOD bless our Constitutional Republic. #KAG",
+                "entities": {
+                  "description": {
+                    "urls": []
+                  }
+                },
+                "favourites_count": 25676,
+                "follow_request_sent": false,
+                "followers_count": 1690,
+                "following": false,
+                "friends_count": 718,
+                "geo_enabled": true,
+                "has_extended_profile": true,
+                "id": 1128916842,
+                "id_str": "1128916842",
+                "is_translation_enabled": false,
+                "is_translator": false,
+                "lang": null,
+                "listed_count": 21,
+                "location": "Marietta, GA",
+                "name": "Gus in Atlanta\ud83c\uddfa\ud83c\uddf8",
+                "notifications": false,
+                "profile_background_color": "709397",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                "profile_background_tile": false,
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128916842/1580379582",
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105404135673872384/-H6lkfbu_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105404135673872384/-H6lkfbu_normal.jpg",
+                "profile_link_color": "FF3300",
+                "profile_sidebar_border_color": "86A4A6",
+                "profile_sidebar_fill_color": "A0C5C7",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "protected": false,
+                "screen_name": "PR_51st_STATE",
+                "statuses_count": 36461,
+                "time_zone": null,
+                "translator_type": "none",
+                "url": null,
+                "utc_offset": null,
+                "verified": false
+              }
+            },
+            "display_url": "pic.twitter.com/qrFqxKsd7V",
+            "expanded_url": "https://twitter.com/PR_51st_STATE/status/1155212567154962432/video/1",
+            "id": 1155212484011286528,
+            "id_str": "1155212484011286528",
+            "indices": [
+              246,
+              269
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1155212484011286528/pu/img/a_GBr1C8Pe2khk53.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1155212484011286528/pu/img/a_GBr1C8Pe2khk53.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "source_status_id": 1155212567154962432,
+            "source_status_id_str": "1155212567154962432",
+            "source_user_id": 1128916842,
+            "source_user_id_str": "1128916842",
+            "type": "video",
+            "url": "https://t.co/qrFqxKsd7V",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 24399,
+              "variants": [
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1155212484011286528/pu/pl/893-gLp-i6elj3Zm.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155212484011286528/pu/vid/640x360/LEE7We7Gax1q46jm.mp4?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155212484011286528/pu/vid/1280x720/3-crRTPX_jlg9sYK.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1155212484011286528/pu/vid/480x270/B3onsB2yyKr1Qw4o.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 68270,
+      "favorited": false,
+      "full_text": "I don\u2019t know who the heckler is...but he is my hero!  Nadler was rattled! \ud83d\ude02\n\nOne of the best things to come from the election of @realDonaldTrump...was that he woke up the silent majority and showed America how to take the fight to the enemy!  \n https://t.co/qrFqxKsd7V",
+      "geo": null,
+      "id": 1223879952379994112,
+      "id_str": "1223879952379994112",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 23384,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Mon Apr 23 20:24:36 +0000 2012",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "Wake up, America! We are at war for the soul of this nation. A silent majority will lose that majority. It\u2019s time to speak up! #2A #KAG #ProLife",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 44021,
+        "follow_request_sent": false,
+        "followers_count": 41735,
+        "following": false,
+        "friends_count": 36671,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 561441494,
+        "id_str": "561441494",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 154,
+        "location": "",
+        "name": "RedPillReport \ud83c\uddfa\ud83c\uddf8",
+        "notifications": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/561441494/1522071827",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/961409233920057344/XI7q5waQ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/961409233920057344/XI7q5waQ_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "RedPillReport",
+        "statuses_count": 26863,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1223879952379994112,
+    "quoted_status_id_str": "1223879952379994112",
+    "quoted_status_permalink": {
+      "display": "twitter.com/redpillreport/\u2026",
+      "expanded": "https://twitter.com/redpillreport/status/1223879952379994112",
+      "url": "https://t.co/PiA0ANmjYP"
+    },
+    "retweet_count": 31877,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "Instagram.com/realDonaldTrump",
+              "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/OMxB0x7xC5"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8,
+      "follow_request_sent": false,
+      "followers_count": 72407534,
+      "following": true,
+      "friends_count": 47,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25073877,
+      "id_str": "25073877",
+      "is_translation_enabled": true,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 114488,
+      "location": "Washington, DC",
+      "name": "Donald J. Trump",
+      "notifications": false,
+      "profile_background_color": "6D5C18",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "BDDCAD",
+      "profile_sidebar_fill_color": "C5CEC0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realDonaldTrump",
+      "statuses_count": 48932,
+      "time_zone": null,
+      "translator_type": "regular",
+      "url": "https://t.co/OMxB0x7xC5",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 8,
+    "follow_request_sent": false,
+    "followers_count": 72407534,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 114488,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1580873630",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 48932,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

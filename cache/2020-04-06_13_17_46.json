@@ -1,0 +1,400 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 06 13:17:46 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 39344374,
+        "id_str": "39344374",
+        "indices": [
+          3,
+          18
+        ],
+        "name": "Donald Trump Jr.",
+        "screen_name": "DonaldJTrumpJr"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @DonaldJTrumpJr: Take a look back and RT what the liberal media and Joe Biden said about President Trump's aggressive, early response to\u2026",
+  "geo": null,
+  "id": 1247151514914885634,
+  "id_str": "1247151514914885634",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 22853,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Apr 06 00:11:19 +0000 2020",
+    "display_text_range": [
+      0,
+      232
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            124,
+            136
+          ],
+          "text": "coronavirus"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/d6OtmWrGmb",
+          "expanded_url": "https://twitter.com/bennyjohnson/status/1246593516354052098/video/1",
+          "id": 1246592518810226688,
+          "id_str": "1246592518810226688",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1246592518810226688/img/cb0SwBwR2vrYavvt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1246592518810226688/img/cb0SwBwR2vrYavvt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1246593516354052098,
+          "source_status_id_str": "1246593516354052098",
+          "source_user_id": 15212187,
+          "source_user_id_str": "15212187",
+          "type": "photo",
+          "url": "https://t.co/d6OtmWrGmb"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            150,
+            166
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "description": "",
+            "embeddable": true,
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Mon Jun 23 21:33:20 +0000 2008",
+              "default_profile": false,
+              "default_profile_image": false,
+              "description": "Love my Family, God and Pipe Tobacco; not necessarily in that order. @tpusa Chief Creative Officer Benny@tpusa.com",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "tpusa.com",
+                      "expanded_url": "http://www.tpusa.com",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/8gi1LppSDA"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 12570,
+              "follow_request_sent": false,
+              "followers_count": 253626,
+              "following": false,
+              "friends_count": 1661,
+              "geo_enabled": false,
+              "has_extended_profile": false,
+              "id": 15212187,
+              "id_str": "15212187",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 2128,
+              "location": "WashingtonDC/ New York City",
+              "name": "Benny",
+              "notifications": false,
+              "profile_background_color": "C0DEED",
+              "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+              "profile_background_tile": true,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/15212187/1542303332",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1028825307258617856/hwu5zhmx_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028825307258617856/hwu5zhmx_normal.jpg",
+              "profile_link_color": "0084B4",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "bennyjohnson",
+              "statuses_count": 41996,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/8gi1LppSDA",
+              "utc_offset": null,
+              "verified": true
+            },
+            "title": ""
+          },
+          "display_url": "pic.twitter.com/d6OtmWrGmb",
+          "expanded_url": "https://twitter.com/bennyjohnson/status/1246593516354052098/video/1",
+          "id": 1246592518810226688,
+          "id_str": "1246592518810226688",
+          "indices": [
+            209,
+            232
+          ],
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/1246592518810226688/img/cb0SwBwR2vrYavvt.jpg",
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1246592518810226688/img/cb0SwBwR2vrYavvt.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1246593516354052098,
+          "source_status_id_str": "1246593516354052098",
+          "source_user_id": 15212187,
+          "source_user_id_str": "15212187",
+          "type": "video",
+          "url": "https://t.co/d6OtmWrGmb",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 581114,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1246592518810226688/vid/640x360/KejzF7J_O-ORR1v-.mp4?tag=13"
+              },
+              {
+                "bitrate": 288000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1246592518810226688/vid/480x270/RZ1JhiYRWTJwnvIg.mp4?tag=13"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/1246592518810226688/vid/1280x720/82Z9cK0A7CqxAQV_.mp4?tag=13"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/1246592518810226688/pl/JIP0_-4IaqiMjBRL.m3u8?tag=13"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 55318,
+    "favorited": false,
+    "full_text": "Take a look back and RT what the liberal media and Joe Biden said about President Trump's aggressive, early response to the #coronavirus. \n\nThank God @realDonaldTrump is the one in charge during this scourge! https://t.co/d6OtmWrGmb",
+    "geo": null,
+    "id": 1246953599244144642,
+    "id_str": "1246953599244144642",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 22853,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 11 21:18:33 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "EVP of Development & Acquisitions The @Trump Organization, Father, Outdoorsman, In a past life Boardroom Advisor on The Apprentice",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "centerstreet.com/titles/donald-\u2026",
+              "expanded_url": "https://www.centerstreet.com/titles/donald-trump-jr/triggered/9781546086031/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/p0wYduKA0W"
+            }
+          ]
+        }
+      },
+      "favourites_count": 16155,
+      "follow_request_sent": false,
+      "followers_count": 4770576,
+      "following": false,
+      "friends_count": 1449,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 39344374,
+      "id_str": "39344374",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 12471,
+      "location": "",
+      "name": "Donald Trump Jr.",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39344374/1571423068",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/766652495858896897/LjrJJB9a_normal.jpg",
+      "profile_link_color": "15317E",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "DonaldJTrumpJr",
+      "statuses_count": 34297,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/p0wYduKA0W",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 76185490,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118778,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50470,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

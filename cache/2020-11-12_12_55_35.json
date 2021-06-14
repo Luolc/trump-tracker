@@ -1,0 +1,427 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Nov 12 12:55:35 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 63150856,
+        "id_str": "63150856",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "Marsha Blackburn",
+        "screen_name": "VoteMarsha"
+      },
+      {
+        "id": 11134252,
+        "id_str": "11134252",
+        "indices": [
+          43,
+          47
+        ],
+        "name": "GOP",
+        "screen_name": "GOP"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @VoteMarsha: If Chuck Schumer takes the\u00a0@GOP Senate Majority, he will change the America you and I know and love. \nWe cannot allow that\u2026",
+  "geo": null,
+  "id": 1326871261654503424,
+  "id_str": "1326871261654503424",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6922,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Nov 08 02:39:12 +0000 2020",
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            206,
+            212
+          ],
+          "text": "GASen"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/fSnd4K03km",
+          "expanded_url": "https://twitter.com/StatusCoup/status/1325153416063152128/video/1",
+          "id": 1325153162450202633,
+          "id_str": "1325153162450202633",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+          "sizes": {
+            "large": {
+              "h": 617,
+              "resize": "fit",
+              "w": 1100
+            },
+            "medium": {
+              "h": 617,
+              "resize": "fit",
+              "w": 1100
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1325153416063152128,
+          "source_status_id_str": "1325153416063152128",
+          "source_user_id": 968889962354696192,
+          "source_user_id_str": "968889962354696192",
+          "type": "photo",
+          "url": "https://t.co/fSnd4K03km"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 11134252,
+          "id_str": "11134252",
+          "indices": [
+            27,
+            31
+          ],
+          "name": "GOP",
+          "screen_name": "GOP"
+        },
+        {
+          "id": 1397501864,
+          "id_str": "1397501864",
+          "indices": [
+            171,
+            184
+          ],
+          "name": "David Perdue",
+          "screen_name": "Perduesenate"
+        },
+        {
+          "id": 29495695,
+          "id_str": "29495695",
+          "indices": [
+            191,
+            201
+          ],
+          "name": "Kelly Loeffler",
+          "screen_name": "KLoeffler"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false,
+            "source_user": {
+              "contributors_enabled": false,
+              "created_at": "Wed Feb 28 16:45:42 +0000 2018",
+              "default_profile": true,
+              "default_profile_image": false,
+              "description": "Progressive media company. Giving the microphone back to the people. Investigative & in-field reporting, co-founded by @JordanChariton and @JennElizabethJ",
+              "entities": {
+                "description": {
+                  "urls": []
+                },
+                "url": {
+                  "urls": [
+                    {
+                      "display_url": "YouTube.com/StatusCoup",
+                      "expanded_url": "http://YouTube.com/StatusCoup",
+                      "indices": [
+                        0,
+                        23
+                      ],
+                      "url": "https://t.co/O2Mhl7ISic"
+                    }
+                  ]
+                }
+              },
+              "favourites_count": 665,
+              "follow_request_sent": false,
+              "followers_count": 53781,
+              "following": false,
+              "friends_count": 2691,
+              "geo_enabled": true,
+              "has_extended_profile": false,
+              "id": 968889962354696192,
+              "id_str": "968889962354696192",
+              "is_translation_enabled": false,
+              "is_translator": false,
+              "lang": null,
+              "listed_count": 232,
+              "location": "New York, USA",
+              "name": "Status Coup",
+              "notifications": false,
+              "profile_background_color": "F5F8FA",
+              "profile_background_image_url": null,
+              "profile_background_image_url_https": null,
+              "profile_background_tile": false,
+              "profile_banner_url": "https://pbs.twimg.com/profile_banners/968889962354696192/1551899729",
+              "profile_image_url": "http://pbs.twimg.com/profile_images/1025463568047718400/IAzbfhEA_normal.jpg",
+              "profile_image_url_https": "https://pbs.twimg.com/profile_images/1025463568047718400/IAzbfhEA_normal.jpg",
+              "profile_link_color": "1DA1F2",
+              "profile_sidebar_border_color": "C0DEED",
+              "profile_sidebar_fill_color": "DDEEF6",
+              "profile_text_color": "333333",
+              "profile_use_background_image": true,
+              "protected": false,
+              "screen_name": "StatusCoup",
+              "statuses_count": 5780,
+              "time_zone": null,
+              "translator_type": "none",
+              "url": "https://t.co/O2Mhl7ISic",
+              "utc_offset": null,
+              "verified": false
+            }
+          },
+          "display_url": "pic.twitter.com/fSnd4K03km",
+          "expanded_url": "https://twitter.com/StatusCoup/status/1325153416063152128/video/1",
+          "id": 1325153162450202633,
+          "id_str": "1325153162450202633",
+          "indices": [
+            215,
+            238
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1325153162450202633/pu/img/CCSxCXoGVfNx4Eyl.jpg",
+          "sizes": {
+            "large": {
+              "h": 617,
+              "resize": "fit",
+              "w": 1100
+            },
+            "medium": {
+              "h": 617,
+              "resize": "fit",
+              "w": 1100
+            },
+            "small": {
+              "h": 381,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "source_status_id": 1325153416063152128,
+          "source_status_id_str": "1325153416063152128",
+          "source_user_id": 968889962354696192,
+          "source_user_id_str": "968889962354696192",
+          "type": "video",
+          "url": "https://t.co/fSnd4K03km",
+          "video_info": {
+            "aspect_ratio": [
+              1100,
+              617
+            ],
+            "duration_millis": 13267,
+            "variants": [
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/1098x616/uwkMdntmN8Kbucsf.mp4?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/640x360/dOi1_v5VsV0xTGvo.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/pl/vMtvt-w6bmbVmNOT.m3u8?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1325153162450202633/pu/vid/480x270/-AyrSCOJLPa-MMcb.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 23643,
+    "favorited": false,
+    "full_text": "If Chuck Schumer takes the\u00a0@GOP Senate Majority, he will change the America you and I know and love. \nWe cannot allow that to happen. \nI hope you'll join me in supporting\u00a0@PerdueSenate &amp;\u00a0@KLoeffler for #GASen. \nhttps://t.co/fSnd4K03km",
+    "geo": null,
+    "id": 1325266590577909760,
+    "id_str": "1325266590577909760",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6922,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Wed Aug 05 14:44:11 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Wife, mother of two, Marshie to my grand kids. First female Senator from the great state of Tennessee. Snap: teammarsha \u2022 Insta: team.marsha",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "marshablackburn.com",
+              "expanded_url": "http://www.marshablackburn.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/1y6JSRDk0T"
+            }
+          ]
+        }
+      },
+      "favourites_count": 530,
+      "follow_request_sent": false,
+      "followers_count": 52467,
+      "following": false,
+      "friends_count": 2802,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 63150856,
+      "id_str": "63150856",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 890,
+      "location": "Tennessee, USA",
+      "name": "Marsha Blackburn",
+      "notifications": false,
+      "profile_background_color": "EBEBEB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/63150856/1541622618",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1060303815998664706/nNojD2QE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1060303815998664706/nNojD2QE_normal.jpg",
+      "profile_link_color": "990000",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F3F3F3",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "VoteMarsha",
+      "statuses_count": 7554,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/1y6JSRDk0T",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88945608,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 124880,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 58428,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

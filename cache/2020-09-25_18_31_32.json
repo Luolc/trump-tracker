@@ -1,0 +1,423 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Sep 25 18:31:32 +0000 2020",
+  "display_text_range": [
+    0,
+    93
+  ],
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/tNe3hiwCHV",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1309561189265965058/video/1",
+        "id": 1309561073448685580,
+        "id_str": "1309561073448685580",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309561073448685580/pu/img/my85xs9_wWL_8mzC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309561073448685580/pu/img/my85xs9_wWL_8mzC.jpg",
+        "sizes": {
+          "large": {
+            "h": 612,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 574,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 325,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/tNe3hiwCHV"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/teamtrump/stat\u2026",
+        "expanded_url": "https://twitter.com/teamtrump/status/1309548218754232320",
+        "indices": [
+          70,
+          93
+        ],
+        "url": "https://t.co/RmFoqFkKE1"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/tNe3hiwCHV",
+        "expanded_url": "https://twitter.com/realDonaldTrump/status/1309561189265965058/video/1",
+        "id": 1309561073448685580,
+        "id_str": "1309561073448685580",
+        "indices": [
+          94,
+          117
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1309561073448685580/pu/img/my85xs9_wWL_8mzC.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1309561073448685580/pu/img/my85xs9_wWL_8mzC.jpg",
+        "sizes": {
+          "large": {
+            "h": 612,
+            "resize": "fit",
+            "w": 1280
+          },
+          "medium": {
+            "h": 574,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 325,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/tNe3hiwCHV",
+        "video_info": {
+          "aspect_ratio": [
+            320,
+            153
+          ],
+          "duration_millis": 8367,
+          "variants": [
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1309561073448685580/pu/vid/1280x612/DYutZJeNhsPBerm0.mp4?tag=10"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1309561073448685580/pu/vid/752x360/M6R0wXaLjph7QJ1b.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1309561073448685580/pu/pl/Ra05e14CQKXirm2N.m3u8?tag=10"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1309561073448685580/pu/vid/564x270/o4F1NPrLRZgiYkNf.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 44189,
+  "favorited": false,
+  "full_text": "Just landed in Atlanta, Georgia. On my way now, see everyone shortly! https://t.co/RmFoqFkKE1 https://t.co/tNe3hiwCHV",
+  "geo": null,
+  "id": 1309561189265965058,
+  "id_str": "1309561189265965058",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Sep 25 17:40:00 +0000 2020",
+    "display_text_range": [
+      0,
+      186
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            166,
+            186
+          ],
+          "text": "BlackVoicesForTrump"
+        }
+      ],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T0Tu6Saa50",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1309548218754232320/photo/1",
+          "id": 1309501067609112576,
+          "id_str": "1309501067609112576",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/media/EixISG_WAAA_aat.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EixISG_WAAA_aat.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T0Tu6Saa50"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "bit.ly/2FWxWMU",
+          "expanded_url": "http://bit.ly/2FWxWMU",
+          "indices": [
+            141,
+            164
+          ],
+          "url": "https://t.co/8XIeXp3xyy"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            23,
+            39
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/T0Tu6Saa50",
+          "expanded_url": "https://twitter.com/TeamTrump/status/1309548218754232320/photo/1",
+          "id": 1309501067609112576,
+          "id_str": "1309501067609112576",
+          "indices": [
+            187,
+            210
+          ],
+          "media_url": "http://pbs.twimg.com/media/EixISG_WAAA_aat.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EixISG_WAAA_aat.jpg",
+          "sizes": {
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1920
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/T0Tu6Saa50"
+        }
+      ]
+    },
+    "favorite_count": 1740,
+    "favorited": false,
+    "full_text": "TODAY: Watch President @realDonaldTrump's Remarks on Black Economic Empowerment: The Platinum Plan in Atlanta, Georgia at 2:40 pm ET!\n\nRSVP: https://t.co/8XIeXp3xyy\n\n#BlackVoicesForTrump https://t.co/T0Tu6Saa50",
+    "geo": null,
+    "id": 1309548218754232320,
+    "id_str": "1309548218754232320",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 654,
+    "retweeted": false,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon May 09 14:15:10 +0000 2016",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "The official Twitter account for the Trump Campaign. Together, we will KEEP AMERICA GREAT! \ud83c\uddfa\ud83c\uddf8",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "DonaldJTrump.com",
+              "expanded_url": "http://www.DonaldJTrump.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/mZB2hymxC9"
+            }
+          ]
+        }
+      },
+      "favourites_count": 3513,
+      "follow_request_sent": false,
+      "followers_count": 2199125,
+      "following": false,
+      "friends_count": 130,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 729676086632656900,
+      "id_str": "729676086632656900",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 4268,
+      "location": "USA",
+      "name": "Team Trump (Text VOTE to 88022)",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/729676086632656900/1588979102",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/745768799849308160/KrZhjkpH_normal.jpg",
+      "profile_link_color": "CB0606",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "TeamTrump",
+      "statuses_count": 27312,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/mZB2hymxC9",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1309548218754232320,
+  "quoted_status_id_str": "1309548218754232320",
+  "quoted_status_permalink": {
+    "display": "twitter.com/teamtrump/stat\u2026",
+    "expanded": "https://twitter.com/teamtrump/status/1309548218754232320",
+    "url": "https://t.co/RmFoqFkKE1"
+  },
+  "retweet_count": 9922,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 86284580,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119971,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 56355,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Sep 03 21:44:48 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 44536683,
+        "id_str": "44536683",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Bryan Llenas",
+        "screen_name": "BryanLlenas"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @BryanLlenas: Outside of the hangar at airport in Latrobe, Pennsylvania hours before President Trump\u2019s 7pm really. https://t.co/F49hr3nT\u2026",
+  "geo": null,
+  "id": 1301637292323491844,
+  "id_str": "1301637292323491844",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 6890,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 03 20:06:32 +0000 2020",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/F49hr3nTOv",
+          "expanded_url": "https://twitter.com/BryanLlenas/status/1301612563470450688/photo/1",
+          "id": 1301612557594243072,
+          "id_str": "1301612557594243072",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhBBuZKXsAAXyrA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhBBuZKXsAAXyrA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/F49hr3nTOv"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/F49hr3nTOv",
+          "expanded_url": "https://twitter.com/BryanLlenas/status/1301612563470450688/photo/1",
+          "id": 1301612557594243072,
+          "id_str": "1301612557594243072",
+          "indices": [
+            101,
+            124
+          ],
+          "media_url": "http://pbs.twimg.com/media/EhBBuZKXsAAXyrA.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EhBBuZKXsAAXyrA.jpg",
+          "sizes": {
+            "large": {
+              "h": 1536,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 900,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 510,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/F49hr3nTOv"
+        }
+      ]
+    },
+    "favorite_count": 26628,
+    "favorited": false,
+    "full_text": "Outside of the hangar at airport in Latrobe, Pennsylvania hours before President Trump\u2019s 7pm really. https://t.co/F49hr3nTOv",
+    "geo": null,
+    "id": 1301612563470450688,
+    "id_str": "1301612563470450688",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 6890,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jun 04 03:36:15 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "National Correspondent, Fox News Channel. It's Llenas (yen-ace) like menace. MIAMI Hurricane. \ud83d\ude4c\ud83c\udffd",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "instagram.com/bllenas",
+              "expanded_url": "http://instagram.com/bllenas",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/hY9VGtb1Uq"
+            }
+          ]
+        }
+      },
+      "favourites_count": 18968,
+      "follow_request_sent": false,
+      "followers_count": 11800,
+      "following": false,
+      "friends_count": 4604,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 44536683,
+      "id_str": "44536683",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 245,
+      "location": "New York City",
+      "name": "Bryan Llenas",
+      "notifications": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44536683/1596061521",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1288593452360499208/125egWUC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1288593452360499208/125egWUC_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "BryanLlenas",
+      "statuses_count": 12104,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/hY9VGtb1Uq",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 5,
+    "follow_request_sent": false,
+    "followers_count": 85746410,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 119058,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1595058372",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 55332,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

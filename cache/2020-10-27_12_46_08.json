@@ -1,0 +1,425 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Oct 27 12:46:08 +0000 2020",
+  "display_text_range": [
+    0,
+    144
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 270403166,
+        "id_str": "270403166",
+        "indices": [
+          3,
+          11
+        ],
+        "name": "SBA",
+        "screen_name": "SBANYPD"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SBANYPD: Law &amp; Disorder in DeBlasios NYC. He will describe this as PEACEFUL PROTESTORS throwing objects at Trump supporters on Prospect\u2026",
+  "geo": null,
+  "id": 1321070679492562945,
+  "id_str": "1321070679492562945",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1320430626194022401,
+  "quoted_status_id_str": "1320430626194022401",
+  "quoted_status_permalink": {
+    "display": "twitter.com/boroparkhocker\u2026",
+    "expanded": "https://twitter.com/boroparkhocker/status/1320430626194022401",
+    "url": "https://t.co/48mSO3oaoL"
+  },
+  "retweet_count": 4476,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sun Oct 25 18:57:35 +0000 2020",
+    "display_text_range": [
+      0,
+      183
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/boroparkhocker\u2026",
+          "expanded_url": "https://twitter.com/boroparkhocker/status/1320430626194022401",
+          "indices": [
+            184,
+            207
+          ],
+          "url": "https://t.co/48mSO3oaoL"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 12945,
+    "favorited": false,
+    "full_text": "Law &amp; Disorder in DeBlasios NYC. He will describe this as PEACEFUL PROTESTORS throwing objects at Trump supporters on Prospect Expressway in Brooklyn and have the NYPD Stand Down! https://t.co/48mSO3oaoL",
+    "geo": null,
+    "id": 1320439382231441408,
+    "id_str": "1320439382231441408",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Sun Oct 25 18:22:48 +0000 2020",
+      "display_text_range": [
+        9,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/iInX6ZKJbR",
+            "expanded_url": "https://twitter.com/boroparkhocker/status/1320430626194022401/video/1",
+            "id": 1320430565892464640,
+            "id_str": "1320430565892464640",
+            "indices": [
+              260,
+              283
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320430565892464640/pu/img/VMZLjcoi6TPWwdvc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320430565892464640/pu/img/VMZLjcoi6TPWwdvc.jpg",
+            "sizes": {
+              "large": {
+                "h": 480,
+                "resize": "fit",
+                "w": 848
+              },
+              "medium": {
+                "h": 480,
+                "resize": "fit",
+                "w": 848
+              },
+              "small": {
+                "h": 385,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/iInX6ZKJbR"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 270403166,
+            "id_str": "270403166",
+            "indices": [
+              0,
+              8
+            ],
+            "name": "SBA",
+            "screen_name": "SBANYPD"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "additional_media_info": {
+              "monetizable": false
+            },
+            "display_url": "pic.twitter.com/iInX6ZKJbR",
+            "expanded_url": "https://twitter.com/boroparkhocker/status/1320430626194022401/video/1",
+            "id": 1320430565892464640,
+            "id_str": "1320430565892464640",
+            "indices": [
+              260,
+              283
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1320430565892464640/pu/img/VMZLjcoi6TPWwdvc.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1320430565892464640/pu/img/VMZLjcoi6TPWwdvc.jpg",
+            "sizes": {
+              "large": {
+                "h": 480,
+                "resize": "fit",
+                "w": 848
+              },
+              "medium": {
+                "h": 480,
+                "resize": "fit",
+                "w": 848
+              },
+              "small": {
+                "h": 385,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "video",
+            "url": "https://t.co/iInX6ZKJbR",
+            "video_info": {
+              "aspect_ratio": [
+                53,
+                30
+              ],
+              "duration_millis": 29993,
+              "variants": [
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1320430565892464640/pu/vid/636x360/tDuog25E6CxLZZO-.mp4?tag=10"
+                },
+                {
+                  "bitrate": 256000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1320430565892464640/pu/vid/476x270/aXaoPPTpxmHLQiiC.mp4?tag=10"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/1320430565892464640/pu/pl/dJf8fFNMPjanKfLJ.m3u8?tag=10"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/1320430565892464640/pu/vid/848x480/4mQ9dfJusX4rIzkn.mp4?tag=10"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "favorite_count": 496,
+      "favorited": false,
+      "full_text": "@SBANYPD and I wonder what he's going to do with the people throwing stones down the prospect expressway and BQE at a trump rally endangering the many drivers on the road and potentially causing death didn't see anyone tweeting about that l. low-life bum Bozo https://t.co/iInX6ZKJbR",
+      "geo": null,
+      "id": 1320430626194022401,
+      "id_str": "1320430626194022401",
+      "in_reply_to_screen_name": "SBANYPD",
+      "in_reply_to_status_id": 1320423183976173568,
+      "in_reply_to_status_id_str": "1320423183976173568",
+      "in_reply_to_user_id": 270403166,
+      "in_reply_to_user_id_str": "270403166",
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "possibly_sensitive": false,
+      "retweet_count": 240,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Nov 23 17:20:14 +0000 2018",
+        "default_profile": true,
+        "default_profile_image": true,
+        "description": "open minded chusid  overall view Republican I do not vote party line. and remember one day life will flash before your eyes make sure it will be worth watching",
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "favourites_count": 1400,
+        "follow_request_sent": false,
+        "followers_count": 82,
+        "following": false,
+        "friends_count": 218,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 1066018598777511936,
+        "id_str": "1066018598777511936",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 2,
+        "location": "",
+        "name": "boroparkhocker",
+        "notifications": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "boroparkhocker",
+        "statuses_count": 2330,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": null,
+        "utc_offset": null,
+        "verified": false
+      }
+    },
+    "quoted_status_id": 1320430626194022401,
+    "quoted_status_id_str": "1320430626194022401",
+    "quoted_status_permalink": {
+      "display": "twitter.com/boroparkhocker\u2026",
+      "expanded": "https://twitter.com/boroparkhocker/status/1320430626194022401",
+      "url": "https://t.co/48mSO3oaoL"
+    },
+    "retweet_count": 4476,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Mar 22 15:13:50 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "President: Ed Mullins | The Official Twitter page for the Sergeants Benevolent Association, comprised of approx 13,000 active and retired sergeants of the NYPD.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "sbanyc.org",
+              "expanded_url": "http://www.sbanyc.org",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/dQ0agDU7Cd"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1765,
+      "follow_request_sent": false,
+      "followers_count": 58123,
+      "following": false,
+      "friends_count": 1026,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 270403166,
+      "id_str": "270403166",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 292,
+      "location": "New York City",
+      "name": "SBA",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/270403166/1601061045",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1090277177499807745/j7ooHzvm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1090277177499807745/j7ooHzvm_normal.jpg",
+      "profile_link_color": "16356B",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SBANYPD",
+      "statuses_count": 7445,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/dQ0agDU7Cd",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 87364731,
+    "following": true,
+    "friends_count": 50,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 121730,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1600830803",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 57751,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

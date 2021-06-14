@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue May 05 15:38:57 +0000 2020",
+  "display_text_range": [
+    0,
+    89
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 240760644,
+        "id_str": "240760644",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Rep. Paul Gosar, DDS",
+        "screen_name": "RepGosar"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          40,
+          56
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @RepGosar: Honored to join President @realDonaldTrump on board Air Force One today! \ud83c\uddfa\ud83c\uddf8",
+  "geo": null,
+  "id": 1257696293054382084,
+  "id_str": "1257696293054382084",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1257651144739950593,
+  "quoted_status_id_str": "1257651144739950593",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realDonaldTrum\u2026",
+    "expanded": "https://twitter.com/realDonaldTrump/status/1257651144739950593",
+    "url": "https://t.co/q3bhncO4QC"
+  },
+  "retweet_count": 5680,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Tue May 05 13:34:31 +0000 2020",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/realDonaldTrum\u2026",
+          "expanded_url": "https://twitter.com/realDonaldTrump/status/1257651144739950593",
+          "indices": [
+            76,
+            99
+          ],
+          "url": "https://t.co/q3bhncO4QC"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            26,
+            42
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 26144,
+    "favorited": false,
+    "full_text": "Honored to join President @realDonaldTrump on board Air Force One today! \ud83c\uddfa\ud83c\uddf8 https://t.co/q3bhncO4QC",
+    "geo": null,
+    "id": 1257664979190321160,
+    "id_str": "1257664979190321160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Tue May 05 12:39:33 +0000 2020",
+      "display_text_range": [
+        0,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorite_count": 137233,
+      "favorited": false,
+      "full_text": "Heading to Arizona!",
+      "geo": null,
+      "id": 1257651144739950593,
+      "id_str": "1257651144739950593",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 16501,
+      "retweeted": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Instagram.com/realDonaldTrump",
+                "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/OMxB0x7xC5"
+              }
+            ]
+          }
+        },
+        "favourites_count": 6,
+        "follow_request_sent": false,
+        "followers_count": 79454630,
+        "following": true,
+        "friends_count": 46,
+        "geo_enabled": true,
+        "has_extended_profile": false,
+        "id": 25073877,
+        "id_str": "25073877",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 120917,
+        "location": "Washington, DC",
+        "name": "Donald J. Trump",
+        "notifications": false,
+        "profile_background_color": "6D5C18",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "BDDCAD",
+        "profile_sidebar_fill_color": "C5CEC0",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "realDonaldTrump",
+        "statuses_count": 51267,
+        "time_zone": null,
+        "translator_type": "regular",
+        "url": "https://t.co/OMxB0x7xC5",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1257651144739950593,
+    "quoted_status_id_str": "1257651144739950593",
+    "quoted_status_permalink": {
+      "display": "twitter.com/realDonaldTrum\u2026",
+      "expanded": "https://twitter.com/realDonaldTrump/status/1257651144739950593",
+      "url": "https://t.co/q3bhncO4QC"
+    },
+    "retweet_count": 5680,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Jan 20 17:44:27 +0000 2011",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Representing AZ\u2019s 4th District, Chairman of @WesternCaucus, Republican Leader of Energy & Minerals @NatResources.\n#Coronavirus resources: https://t.co/8llIOwTV88",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "azhealth.gov/covid19",
+              "expanded_url": "http://azhealth.gov/covid19",
+              "indices": [
+                138,
+                161
+              ],
+              "url": "https://t.co/8llIOwTV88"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "gosar.house.gov",
+              "expanded_url": "http://gosar.house.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/fETcpzL0kG"
+            }
+          ]
+        }
+      },
+      "favourites_count": 8239,
+      "follow_request_sent": false,
+      "followers_count": 112857,
+      "following": false,
+      "friends_count": 4437,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 240760644,
+      "id_str": "240760644",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1695,
+      "location": "",
+      "name": "Rep. Paul Gosar, DDS",
+      "notifications": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/240760644/1501001354",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1214210951794159617/et4Wlcq9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1214210951794159617/et4Wlcq9_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "RepGosar",
+      "statuses_count": 12339,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/fETcpzL0kG",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 79454630,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 120917,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51267,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

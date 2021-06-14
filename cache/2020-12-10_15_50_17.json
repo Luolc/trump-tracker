@@ -1,0 +1,430 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Dec 10 15:50:17 +0000 2020",
+  "display_text_range": [
+    0,
+    139
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1029094268542099457,
+        "id_str": "1029094268542099457",
+        "indices": [
+          3,
+          15
+        ],
+        "name": "Lance Gooden",
+        "screen_name": "Lancegooden"
+      },
+      {
+        "id": 240760644,
+        "id_str": "240760644",
+        "indices": [
+          30,
+          39
+        ],
+        "name": "Rep. Paul Gosar, DDS",
+        "screen_name": "RepGosar"
+      },
+      {
+        "id": 816652616625168388,
+        "id_str": "816652616625168388",
+        "indices": [
+          41,
+          56
+        ],
+        "name": "Rep Andy Biggs",
+        "screen_name": "RepAndyBiggsAZ"
+      },
+      {
+        "id": 22055226,
+        "id_str": "22055226",
+        "indices": [
+          58,
+          74
+        ],
+        "name": "Louie Gohmert",
+        "screen_name": "replouiegohmert"
+      },
+      {
+        "id": 817138492614524928,
+        "id_str": "817138492614524928",
+        "indices": [
+          76,
+          87
+        ],
+        "name": "Rep. Ted Budd",
+        "screen_name": "RepTedBudd"
+      },
+      {
+        "id": 2975091705,
+        "id_str": "2975091705",
+        "indices": [
+          89,
+          105
+        ],
+        "name": "Rep. Jody Hice",
+        "screen_name": "CongressmanHice"
+      },
+      {
+        "id": 1083125649609506816,
+        "id_str": "1083125649609506816",
+        "indices": [
+          107,
+          121
+        ],
+        "name": "Congressman Greg Steube",
+        "screen_name": "RepGregSteube"
+      },
+      {
+        "id": 2964526557,
+        "id_str": "2964526557",
+        "indices": [
+          123,
+          137
+        ],
+        "name": "Rep. Alex Mooney",
+        "screen_name": "RepAlexMooney"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @Lancegooden: Thank you to @RepGosar, @RepAndyBiggsAZ, @replouiegohmert, @RepTedBudd, @CongressmanHice, @RepGregSteube, @RepAlexMooney,\u2026",
+  "geo": null,
+  "id": 1337062086724247555,
+  "id_str": "1337062086724247555",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 4960,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Dec 09 15:20:26 +0000 2020",
+    "display_text_range": [
+      0,
+      268
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 240760644,
+          "id_str": "240760644",
+          "indices": [
+            13,
+            22
+          ],
+          "name": "Rep. Paul Gosar, DDS",
+          "screen_name": "RepGosar"
+        },
+        {
+          "id": 816652616625168388,
+          "id_str": "816652616625168388",
+          "indices": [
+            24,
+            39
+          ],
+          "name": "Rep Andy Biggs",
+          "screen_name": "RepAndyBiggsAZ"
+        },
+        {
+          "id": 22055226,
+          "id_str": "22055226",
+          "indices": [
+            41,
+            57
+          ],
+          "name": "Louie Gohmert",
+          "screen_name": "replouiegohmert"
+        },
+        {
+          "id": 817138492614524928,
+          "id_str": "817138492614524928",
+          "indices": [
+            59,
+            70
+          ],
+          "name": "Rep. Ted Budd",
+          "screen_name": "RepTedBudd"
+        },
+        {
+          "id": 2975091705,
+          "id_str": "2975091705",
+          "indices": [
+            72,
+            88
+          ],
+          "name": "Rep. Jody Hice",
+          "screen_name": "CongressmanHice"
+        },
+        {
+          "id": 1083125649609506816,
+          "id_str": "1083125649609506816",
+          "indices": [
+            90,
+            104
+          ],
+          "name": "Congressman Greg Steube",
+          "screen_name": "RepGregSteube"
+        },
+        {
+          "id": 2964526557,
+          "id_str": "2964526557",
+          "indices": [
+            106,
+            120
+          ],
+          "name": "Rep. Alex Mooney",
+          "screen_name": "RepAlexMooney"
+        },
+        {
+          "id": 240393970,
+          "id_str": "240393970",
+          "indices": [
+            122,
+            136
+          ],
+          "name": "Rep. Jeff Duncan",
+          "screen_name": "RepJeffDuncan"
+        },
+        {
+          "id": 1058051748,
+          "id_str": "1058051748",
+          "indices": [
+            138,
+            148
+          ],
+          "name": "Randy Weber",
+          "screen_name": "TXRandy14"
+        },
+        {
+          "id": 2964287128,
+          "id_str": "2964287128",
+          "indices": [
+            150,
+            163
+          ],
+          "name": "Rick W. Allen",
+          "screen_name": "RepRickAllen"
+        },
+        {
+          "id": 234822928,
+          "id_str": "234822928",
+          "indices": [
+            165,
+            177
+          ],
+          "name": "Rep. Bob Gibbs",
+          "screen_name": "RepBobGibbs"
+        },
+        {
+          "id": 975200486,
+          "id_str": "975200486",
+          "indices": [
+            179,
+            195
+          ],
+          "name": "Thomas Massie",
+          "screen_name": "RepThomasMassie"
+        },
+        {
+          "id": 2976606250,
+          "id_str": "2976606250",
+          "indices": [
+            197,
+            209
+          ],
+          "name": "Rep. Glenn Grothman",
+          "screen_name": "RepGrothman"
+        },
+        {
+          "id": 960962340,
+          "id_str": "960962340",
+          "indices": [
+            211,
+            227
+          ],
+          "name": "Rep. Andy Harris, MD",
+          "screen_name": "RepAndyHarrisMD"
+        },
+        {
+          "id": 48117116,
+          "id_str": "48117116",
+          "indices": [
+            229,
+            241
+          ],
+          "name": "Steve King",
+          "screen_name": "SteveKingIA"
+        },
+        {
+          "id": 828977216595849216,
+          "id_str": "828977216595849216",
+          "indices": [
+            243,
+            259
+          ],
+          "name": "Rep. John Rutherford",
+          "screen_name": "RepRutherfordFL"
+        }
+      ]
+    },
+    "favorite_count": 23726,
+    "favorited": false,
+    "full_text": "Thank you to @RepGosar, @RepAndyBiggsAZ, @replouiegohmert, @RepTedBudd, @CongressmanHice, @RepGregSteube, @RepAlexMooney, @RepJeffDuncan, @TXRandy14, @RepRickAllen, @RepBobGibbs, @RepThomasMassie, @RepGrothman, @RepAndyHarrisMD, @SteveKingIA, @RepRutherfordFL, \n\n(2/3)",
+    "geo": null,
+    "id": 1336692185836777474,
+    "id_str": "1336692185836777474",
+    "in_reply_to_screen_name": "Lancegooden",
+    "in_reply_to_status_id": 1336691820806496259,
+    "in_reply_to_status_id_str": "1336691820806496259",
+    "in_reply_to_user_id": 1029094268542099457,
+    "in_reply_to_user_id_str": "1029094268542099457",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 4960,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 13 19:56:08 +0000 2018",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Husband, Father, and U.S. Congressman for TX's 5th Congressional District.",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "lancegooden.com",
+              "expanded_url": "http://www.lancegooden.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/se9SXZNb3A"
+            }
+          ]
+        }
+      },
+      "favourites_count": 573,
+      "follow_request_sent": false,
+      "followers_count": 40992,
+      "following": false,
+      "friends_count": 1655,
+      "geo_enabled": false,
+      "has_extended_profile": true,
+      "id": 1029094268542099457,
+      "id_str": "1029094268542099457",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 238,
+      "location": "Terrell, TX",
+      "name": "Lance Gooden",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1029094268542099457/1607108266",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1190009977500508160/lmD2PbMm_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Lancegooden",
+      "statuses_count": 937,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/se9SXZNb3A",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Vote.DonaldJTrump.com",
+            "expanded_url": "http://Vote.DonaldJTrump.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/8f9VFxztEJ"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 88640746,
+    "following": true,
+    "friends_count": 51,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 125869,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 59165,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/8f9VFxztEJ",
+    "utc_offset": null,
+    "verified": true
+  }
+}

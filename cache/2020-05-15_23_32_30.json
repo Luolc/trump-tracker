@@ -1,0 +1,469 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri May 15 23:32:30 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 818927131883356161,
+        "id_str": "818927131883356161",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Kayleigh McEnany",
+        "screen_name": "PressSec"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          36,
+          52
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @PressSec: FACT CHECK: President @realDonaldTrump DID NOT dismantle the pandemic response office.\n\nThe NSC\u2019s Counter-proliferation and B\u2026",
+  "geo": null,
+  "id": 1261439344331624448,
+  "id_str": "1261439344331624448",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "quoted_status_id": 1261371392362233857,
+  "quoted_status_id_str": "1261371392362233857",
+  "quoted_status_permalink": {
+    "display": "twitter.com/Yamiche/status\u2026",
+    "expanded": "https://twitter.com/Yamiche/status/1261371392362233857",
+    "url": "https://t.co/0ZJ6mxRpWr"
+  },
+  "retweet_count": 12280,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri May 15 20:11:04 +0000 2020",
+    "display_text_range": [
+      0,
+      194
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/xg6bbK8vSt",
+          "expanded_url": "https://twitter.com/PressSec/status/1261388652824809472/video/1",
+          "id": 1261388407902818304,
+          "id_str": "1261388407902818304",
+          "indices": [
+            195,
+            218
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261388407902818304/pu/img/VdId52ZAO5jSiS9U.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261388407902818304/pu/img/VdId52ZAO5jSiS9U.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/xg6bbK8vSt"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/Yamiche/status\u2026",
+          "expanded_url": "https://twitter.com/Yamiche/status/1261371392362233857",
+          "indices": [
+            171,
+            194
+          ],
+          "url": "https://t.co/0ZJ6mxRpWr"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            22,
+            38
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/xg6bbK8vSt",
+          "expanded_url": "https://twitter.com/PressSec/status/1261388652824809472/video/1",
+          "id": 1261388407902818304,
+          "id_str": "1261388407902818304",
+          "indices": [
+            195,
+            218
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261388407902818304/pu/img/VdId52ZAO5jSiS9U.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261388407902818304/pu/img/VdId52ZAO5jSiS9U.jpg",
+          "sizes": {
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/xg6bbK8vSt",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 42943,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261388407902818304/pu/vid/640x360/5yqm9ehyaGdB-hRf.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1261388407902818304/pu/pl/hn1IIi6blxoEHVef.m3u8?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261388407902818304/pu/vid/1280x720/1VgvWFfAlciJQfmj.mp4?tag=10"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261388407902818304/pu/vid/480x270/_6sgN2ULGD6E2IU8.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 32305,
+    "favorited": false,
+    "full_text": "FACT CHECK: President @realDonaldTrump DID NOT dismantle the pandemic response office.\n\nThe NSC\u2019s Counter-proliferation and Biodefense Directorate exists today!\n\nWATCH \u2b07\ufe0f https://t.co/0ZJ6mxRpWr https://t.co/xg6bbK8vSt",
+    "geo": null,
+    "id": 1261388652824809472,
+    "id_str": "1261388652824809472",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+      "contributors": null,
+      "coordinates": null,
+      "created_at": "Fri May 15 19:02:29 +0000 2020",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "id": 818927131883356161,
+            "id_str": "818927131883356161",
+            "indices": [
+              1,
+              10
+            ],
+            "name": "Kayleigh McEnany",
+            "screen_name": "PressSec"
+          }
+        ]
+      },
+      "favorite_count": 21299,
+      "favorited": false,
+      "full_text": ".@PressSec Kayleigh McEnany has spent much of this WH briefing lashing out at former Pres Obama accusing the Obama administration of not having a sufficient national stockpile and of leaving \"empty shelves\" for Trump.\n\n(WH pandemics office was dismantled by Trump administration.)",
+      "geo": null,
+      "id": 1261371392362233857,
+      "id_str": "1261371392362233857",
+      "in_reply_to_screen_name": null,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "is_quote_status": false,
+      "lang": "en",
+      "place": null,
+      "retweet_count": 6216,
+      "retweeted": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "truncated": false,
+      "user": {
+        "contributors_enabled": false,
+        "created_at": "Sat Nov 14 06:37:11 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "@PBS @NewsHour White House correspondent. @NBCNews & @MSNBC contributor. Formerly of @NYTimes & @USATODAY. Email: yamiche@newshour.org",
+        "entities": {
+          "description": {
+            "urls": []
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pbs.org/newshour/",
+                "expanded_url": "https://www.pbs.org/newshour/",
+                "indices": [
+                  0,
+                  23
+                ],
+                "url": "https://t.co/MUiamBtq28"
+              }
+            ]
+          }
+        },
+        "favourites_count": 4291,
+        "follow_request_sent": false,
+        "followers_count": 857546,
+        "following": false,
+        "friends_count": 6766,
+        "geo_enabled": false,
+        "has_extended_profile": false,
+        "id": 89887215,
+        "id_str": "89887215",
+        "is_translation_enabled": false,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 5875,
+        "location": "Washington, DC",
+        "name": "Yamiche Alcindor",
+        "notifications": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89887215/1417998203",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/877338240180785152/u54wLMme_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/877338240180785152/u54wLMme_normal.jpg",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "Yamiche",
+        "statuses_count": 33322,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/MUiamBtq28",
+        "utc_offset": null,
+        "verified": true
+      }
+    },
+    "quoted_status_id": 1261371392362233857,
+    "quoted_status_id_str": "1261371392362233857",
+    "quoted_status_permalink": {
+      "display": "twitter.com/Yamiche/status\u2026",
+      "expanded": "https://twitter.com/Yamiche/status/1261371392362233857",
+      "url": "https://t.co/0ZJ6mxRpWr"
+    },
+    "retweet_count": 12280,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Jan 10 21:06:57 +0000 2017",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "@WhiteHouse Press Secretary. Connecting the American People to President @realDonaldTrump\u2019s agenda. Tweets may be archived: https://t.co/eVVzoBb3Zr.",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "wh.gov/privacy",
+              "expanded_url": "http://wh.gov/privacy",
+              "indices": [
+                124,
+                147
+              ],
+              "url": "https://t.co/eVVzoBb3Zr"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "WhiteHouse.gov",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/wyOVgSLgBV"
+            }
+          ]
+        }
+      },
+      "favourites_count": 747,
+      "follow_request_sent": false,
+      "followers_count": 4567158,
+      "following": false,
+      "friends_count": 292,
+      "geo_enabled": false,
+      "has_extended_profile": false,
+      "id": 818927131883356161,
+      "id_str": "818927131883356161",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 9297,
+      "location": "Washington, D.C.",
+      "name": "Kayleigh McEnany",
+      "notifications": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818927131883356161/1586957356",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1250415895383506944/EttGxOru_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250415895383506944/EttGxOru_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "PressSec",
+      "statuses_count": 3735,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/wyOVgSLgBV",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 79902082,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 113486,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 51664,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

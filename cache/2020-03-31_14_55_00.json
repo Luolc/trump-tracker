@@ -1,0 +1,271 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 31 14:55:00 +0000 2020",
+  "display_text_range": [
+    0,
+    15
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/realmikelindel\u2026",
+        "expanded_url": "https://twitter.com/realmikelindell/status/1244774964953309184",
+        "indices": [
+          16,
+          39
+        ],
+        "url": "https://t.co/RqiQ6YdQkf"
+      }
+    ],
+    "user_mentions": []
+  },
+  "favorite_count": 57076,
+  "favorited": false,
+  "full_text": "Thank you Mike! https://t.co/RqiQ6YdQkf",
+  "geo": null,
+  "id": 1245001656712007681,
+  "id_str": "1245001656712007681",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Mar 30 23:54:13 +0000 2020",
+    "display_text_range": [
+      0,
+      147
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "google.com/amp/s/www.foxn\u2026",
+          "expanded_url": "https://www.google.com/amp/s/www.foxnews.com/politics/mypillow-founder-mike-lindell-at-white-house-coronavirus-briefing-tells-people-to-pray-during-crisis.amp",
+          "indices": [
+            124,
+            147
+          ],
+          "url": "https://t.co/2RdDEhOkZf"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 822215673812119553,
+          "id_str": "822215673812119553",
+          "indices": [
+            68,
+            79
+          ],
+          "name": "The White House",
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            105,
+            121
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 87973,
+    "favorited": false,
+    "full_text": "It was an honor to be part of the coronavirus briefing today at the @WhiteHouse with our great president @realDonaldTrump! \nhttps://t.co/2RdDEhOkZf",
+    "geo": null,
+    "id": 1244774964953309184,
+    "id_str": "1244774964953309184",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -93.6475402,
+              44.7761699
+            ],
+            [
+              -93.560361,
+              44.7761699
+            ],
+            [
+              -93.560361,
+              44.85613
+            ],
+            [
+              -93.6475402,
+              44.85613
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Chaska, MN",
+      "id": "0b0917a852d091a7",
+      "name": "Chaska",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/0b0917a852d091a7.json"
+    },
+    "possibly_sensitive": false,
+    "retweet_count": 19187,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Fri Feb 27 20:57:25 +0000 2015",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "Inventor and CEO of MyPillow \ud83c\uddfa\ud83c\uddf8 Evangelist \ud83d\ude4f\ud83c\udffc Author \ud83d\udcd6 Former Crack-Addict #WhatAretheOdds",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "mystore.com",
+              "expanded_url": "http://www.mystore.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/gzkyBR8GHm"
+            }
+          ]
+        }
+      },
+      "favourites_count": 1616,
+      "follow_request_sent": false,
+      "followers_count": 155433,
+      "following": false,
+      "friends_count": 10196,
+      "geo_enabled": true,
+      "has_extended_profile": true,
+      "id": 3047722897,
+      "id_str": "3047722897",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 285,
+      "location": "Chaska, MN",
+      "name": "Mike Lindell",
+      "notifications": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3047722897/1568083304",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/855439170063536129/24_RnYSe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/855439170063536129/24_RnYSe_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "realMikeLindell",
+      "statuses_count": 1413,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/gzkyBR8GHm",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1244774964953309184,
+  "quoted_status_id_str": "1244774964953309184",
+  "quoted_status_permalink": {
+    "display": "twitter.com/realmikelindel\u2026",
+    "expanded": "https://twitter.com/realmikelindell/status/1244774964953309184",
+    "url": "https://t.co/RqiQ6YdQkf"
+  },
+  "retweet_count": 11497,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 6,
+    "follow_request_sent": false,
+    "followers_count": 75672713,
+    "following": true,
+    "friends_count": 47,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 118234,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1583212785",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 50319,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}

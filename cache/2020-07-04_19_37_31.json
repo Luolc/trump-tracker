@@ -1,0 +1,261 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Jul 04 19:37:31 +0000 2020",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 25202268,
+        "id_str": "25202268",
+        "indices": [
+          3,
+          16
+        ],
+        "name": "Sara A. Carter",
+        "screen_name": "SaraCarterDC"
+      },
+      {
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          19,
+          35
+        ],
+        "name": "Donald J. Trump",
+        "screen_name": "realDonaldTrump"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "full_text": "RT @SaraCarterDC: .@realDonaldTrump \u201cThis monument will never be desecrated. These heroes will never be defaced! Their legacy will never, e\u2026",
+  "geo": null,
+  "id": 1279499601016426496,
+  "id_str": "1279499601016426496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "retweet_count": 7174,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Jul 04 02:57:30 +0000 2020",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            140,
+            150
+          ],
+          "text": "4thofJuly"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 25073877,
+          "id_str": "25073877",
+          "indices": [
+            1,
+            17
+          ],
+          "name": "Donald J. Trump",
+          "screen_name": "realDonaldTrump"
+        }
+      ]
+    },
+    "favorite_count": 30245,
+    "favorited": false,
+    "full_text": ".@realDonaldTrump \u201cThis monument will never be desecrated. These heroes will never be defaced! Their legacy will never, ever be destroyed!\u201d #4thofJuly",
+    "geo": null,
+    "id": 1279247937474826242,
+    "id_str": "1279247937474826242",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": {
+      "attributes": {},
+      "bounding_box": {
+        "coordinates": [
+          [
+            [
+              -77.144435,
+              38.789907
+            ],
+            [
+              -77.037304,
+              38.789907
+            ],
+            [
+              -77.037304,
+              38.8448531
+            ],
+            [
+              -77.144435,
+              38.8448531
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "contained_within": [],
+      "country": "United States",
+      "country_code": "US",
+      "full_name": "Alexandria, VA",
+      "id": "d6819fe60643ebc1",
+      "name": "Alexandria",
+      "place_type": "city",
+      "url": "https://api.twitter.com/1.1/geo/id/d6819fe60643ebc1.json"
+    },
+    "retweet_count": 7174,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Mar 19 01:02:12 +0000 2009",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "@FoxNews Contributor, award winning correspondent. Host, The Sara Carter Show Podcast. Taking back the story. Instagram: ScarterDC, Facebook Sara A. Carter",
+      "entities": {
+        "description": {
+          "urls": []
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "saraacarter.com",
+              "expanded_url": "https://saraacarter.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/SZ0zbfRggH"
+            }
+          ]
+        }
+      },
+      "favourites_count": 34230,
+      "follow_request_sent": false,
+      "followers_count": 1248777,
+      "following": false,
+      "friends_count": 5086,
+      "geo_enabled": true,
+      "has_extended_profile": false,
+      "id": 25202268,
+      "id_str": "25202268",
+      "is_translation_enabled": false,
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 3936,
+      "location": "Washington, D.C.",
+      "name": "Sara A. Carter",
+      "notifications": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25202268/1548362448",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1107325511028613127/7SvT3rHh_normal.jpg",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "0E0E0E",
+      "profile_text_color": "4A66C1",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "SaraCarterDC",
+      "statuses_count": 30390,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://t.co/SZ0zbfRggH",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 13:46:38 +0000 2009",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "45th President of the United States of America\ud83c\uddfa\ud83c\uddf8",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Instagram.com/realDonaldTrump",
+            "expanded_url": "http://www.Instagram.com/realDonaldTrump",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OMxB0x7xC5"
+          }
+        ]
+      }
+    },
+    "favourites_count": 4,
+    "follow_request_sent": false,
+    "followers_count": 82776661,
+    "following": true,
+    "friends_count": 46,
+    "geo_enabled": true,
+    "has_extended_profile": false,
+    "id": 25073877,
+    "id_str": "25073877",
+    "is_translation_enabled": true,
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 116244,
+    "location": "Washington, DC",
+    "name": "Donald J. Trump",
+    "notifications": false,
+    "profile_background_color": "6D5C18",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1592726901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "C5CEC0",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "realDonaldTrump",
+    "statuses_count": 53469,
+    "time_zone": null,
+    "translator_type": "regular",
+    "url": "https://t.co/OMxB0x7xC5",
+    "utc_offset": null,
+    "verified": true
+  }
+}
